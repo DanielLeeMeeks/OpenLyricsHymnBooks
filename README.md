@@ -1,6 +1,7 @@
 # OpenLyricsHymnBooks
-Web scraps from https://hymnary.org to turn online lyrics into OpenLyrics files to import into OpenLP
+Web scrape from https://hymnary.org to turn online lyrics into OpenLyrics files to import into OpenLP
 
-# Hymnal Codes:
+# Don't want to scrap yourself? Download these pre-scraped hymnals
 
-**FHOP**: Favorite Hymns of Praise (1967)
+## Hymnal Codes:
+[FHOP](https://github.com/DanielLeeMeeks/OpenLyricsHymnBooks/tree/master/FHOP): Favorite Hymns of Praise (1967)
