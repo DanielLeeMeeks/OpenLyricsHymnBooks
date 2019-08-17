@@ -1,3 +1,50 @@
+1. When Morning Gilds the Skies (Edward Caswall)
+2. Holy, Holy, Holy (Reginald Heber)
+3. Breathe on Me, Breath of God (Edwin Hatch)
+4. Come, Thou Almighty King (Unknown)
+5. Fairest Lord Jesus (Joseph A. Seiss)
+	Could not find CCLI number.
+6. O, for a Faith that Will Not Shrink (William H. Bathurst)
+	Could not find CCLI number.
+7. Rejoice, Ye Pure in Heart (Edward H. Plumptre)
+	Could not find CCLI number.
+8. All Hail the Power of Jesus' Name (Edward Perronet, John Rippon)
+9. All Hail the Power of Jesus' Name (Edward Perronet)
+10. All Hail the Power of Jesus' Name (John Rippon, Edward Perronet)
+11. Still, Still with Thee (Harriet Beecher Stowe)
+	Could not find CCLI number.
+12. All People That on Earth Do Dwell (William Kethe)
+	Psalm 100
+13. O Worship the King (Robert Grant)
+	Psalm 104
+14. Praise Ye the Lord, the Almighty (Joachim Neander, Catherine Winkworth)
+15. O Thou God of My Salvation (Thomas Olivers)
+	Could not find CCLI number.
+16. Blessed Be the Name (W. H. Clark, Ralph E. Hudson)
+17. Come, Thou Fount (Robert Robinson)
+18. O to Be Like Thee! (Thomas O. Chisholm)
+19. Praise Him! Praise Him! (Fanny J. Crosby)
+20. O Could I Speak (Samuel Medley)
+21. I Am Coming to the Cross (William McDonald)
+22. Bring Them In (Alexcenah Thomas)
+23. Joyful, Joyful, We Adore Thee (Henry van Dyke)
+24. All Creatures of Our God and King (St. Francis of Assisi, William H. Draper)
+25. The Spacious Firmament on High (Joseph Addison)
+26. In My Heart There Rings a Melody (Elton M. Roth)
+27. Heavenly Sunlight (H. J. Zelley)
+	Could not find CCLI number.
+28. Ring the Bells of Heaven (William O. Cushing)
+	Could not find CCLI number.
+29. Since Jesus Came into My Heart (Rufus H. McDaniel)
+	Could not scrap this song.
+30. Sunlight (Judson W. van DeVenter)
+	Could not find CCLI number.
+31. Sunshine in the Soul (Eliza E. Hewitt)
+	Could not find CCLI number.
+32. I Will Praise Him (Mrs. M. J. Harris)
+	Could not find CCLI number.
+33. Nailed to the Cross (Carrie E. Breck)
+	Could not find CCLI number.
 35. He Is Able to Deliver Thee (William A. Ogden)
 	Could not find CCLI number.
 36. Jesus Is the Sweetest Name I Know (Lela Long)
@@ -795,51 +842,4 @@
 516. Count Your Blessings (Johnson Oatman, Jr.)
 517. What a Friends We Have in Jesus (Joseph Scriven)
 518. All Hail, Immanuel! (D. R. Van Sickle)
-	Could not find CCLI number.
-1. When Morning Gilds the Skies (Edward Caswall)
-2. Holy, Holy, Holy (Reginald Heber)
-3. Breathe on Me, Breath of God (Edwin Hatch)
-4. Come, Thou Almighty King (Unknown)
-5. Fairest Lord Jesus (Joseph A. Seiss)
-	Could not find CCLI number.
-6. O, for a Faith that Will Not Shrink (William H. Bathurst)
-	Could not find CCLI number.
-7. Rejoice, Ye Pure in Heart (Edward H. Plumptre)
-	Could not find CCLI number.
-8. All Hail the Power of Jesus' Name (Edward Perronet, John Rippon)
-9. All Hail the Power of Jesus' Name (Edward Perronet)
-10. All Hail the Power of Jesus' Name (John Rippon, Edward Perronet)
-11. Still, Still with Thee (Harriet Beecher Stowe)
-	Could not find CCLI number.
-12. All People That on Earth Do Dwell (William Kethe)
-	Psalm 100
-13. O Worship the King (Robert Grant)
-	Psalm 104
-14. Praise Ye the Lord, the Almighty (Joachim Neander, Catherine Winkworth)
-15. O Thou God of My Salvation (Thomas Olivers)
-	Could not find CCLI number.
-16. Blessed Be the Name (W. H. Clark, Ralph E. Hudson)
-17. Come, Thou Fount (Robert Robinson)
-18. O to Be Like Thee! (Thomas O. Chisholm)
-19. Praise Him! Praise Him! (Fanny J. Crosby)
-20. O Could I Speak (Samuel Medley)
-21. I Am Coming to the Cross (William McDonald)
-22. Bring Them In (Alexcenah Thomas)
-23. Joyful, Joyful, We Adore Thee (Henry van Dyke)
-24. All Creatures of Our God and King (St. Francis of Assisi, William H. Draper)
-25. The Spacious Firmament on High (Joseph Addison)
-26. In My Heart There Rings a Melody (Elton M. Roth)
-27. Heavenly Sunlight (H. J. Zelley)
-	Could not find CCLI number.
-28. Ring the Bells of Heaven (William O. Cushing)
-	Could not find CCLI number.
-29. Since Jesus Came into My Heart (Rufus H. McDaniel)
-	Could not scrap this song.
-30. Sunlight (Judson W. van DeVenter)
-	Could not find CCLI number.
-31. Sunshine in the Soul (Eliza E. Hewitt)
-	Could not find CCLI number.
-32. I Will Praise Him (Mrs. M. J. Harris)
-	Could not find CCLI number.
-33. Nailed to the Cross (Carrie E. Breck)
 	Could not find CCLI number.
