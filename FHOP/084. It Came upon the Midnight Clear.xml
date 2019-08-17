@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>It Came upon the Midnight Clear</title>
+		</titles>
+		<authors>
+			<author>Edmund H. Sears</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7064072</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="84"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>It came upon the midnight clear,
+That glorious song of old,
+From angels bending near the earth
+To touch their harps of gold:
+"Peace on the earth, good-will to men,
+From heav'n's all-gracious King:"
+The world in solemn stillness lay
+To hear the angels sing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Still through the cloven skies they come,
+With peaceful wings unfurled,
+And still their heav'nly music floats
+O'er all the weary world:
+Above its sad and lonely plains
+They bend on hov'ring wing:
+And ever o'er its Babel sounds
+The blessed angels sing.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And ye, beneath life's crushing load,
+Whose forms are bending low,
+Who toil along the climbing way
+With painful steps and slow,
+Look now! for glad and golden hours
+Come swiftly on the wing;
+O rest beside the weary road,
+And hear the angels sing.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For lo, the days are hastening on,
+By prophet bards foretold,
+When with the ever-circling years
+Comes round the age of gold;
+When peace shall over all the earth
+Its ancient splendors fling.
+And the whole world give back the song
+Which now the angels sing.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

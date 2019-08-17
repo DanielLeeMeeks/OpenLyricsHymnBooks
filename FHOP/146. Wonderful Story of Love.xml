@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>Wonderful Story of Love</title>
+		</titles>
+		<authors>
+			<author>J. M. Driver</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="146"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Wonderful story of love;
+Tell it to me again;
+Wonderful story of love;
+Wake the immortal strain!
+Angels with rapture announce it,
+Shepherds with wonder receive it;
+Sinner, O won’t you believe it?
+Wonderful story of love.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Wonderful! Wonderful! Wonderful!
+Wonderful story of love!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Wonderful story of love;
+Tho' you are far away;
+Wonderful story of love;
+Still He doth call today;
+Calling from Calvary’s mountain,
+Down from the crystal bright fountain,
+E’en from the dawn of creation,
+Wonderful story of love. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Wonderful story of love;
+Jesus provides a rest;
+Wonderful story of love;
+For all the pure and blest,
+Rest in those mansions above us,
+With those who’ve gone on before us,
+Singing the rapturous chorus,
+Wonderful story of love. </lines>
+		</verse>
+	</lyrics>
+</song>

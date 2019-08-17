@@ -1,0 +1,66 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:51+04:00">
+	<properties>
+		<titles>
+			<title>Tell Me the Old, Old Story</title>
+		</titles>
+		<authors>
+			<author>A. Catherine Hankey</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3763968</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Love</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="79"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tell me the Old, Old Story,
+Of unseen things above,
+Of Jesus and His glory,
+Of Jesus and His love;
+Tell me the story simply,
+As to a little child,
+For I am weak and weary,
+And helpless and defiled.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Tell me the Old, Old Story,
+Tell me the Old, Old Story,
+Tell me the Old, Old Story,
+Of Jesus and His love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tell me the story slowly,
+That I may take it in--
+That wonderful redemption,
+God's remedy for sin;
+Tell me the story often,
+For I forget so soon,
+The "early dew" of morning
+Has passed away at noon. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tell me the story softly,
+With earnest tones and grave;
+Remember, I'm the sinner
+Whom Jesus came to save;
+Tell me the story always,
+If you would really be,
+In any time of trouble,
+A comforter to me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Tell me the same old story,
+When you have cause to fear
+That this world's empty glory
+Is costing me too dear;
+Yes, and when that world's glory
+Is dawning on my soul,
+Tell me the Old, Old Story:
+"Christ Jesus makes thee whole." </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:42+04:00">
+	<properties>
+		<titles>
+			<title>Grace Greater Than Our Sin</title>
+		</titles>
+		<authors>
+			<author>Julia H. Johnston</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="469"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Marvelous grace of our loving Lord,
+Grace that exceeds our sin and our guilt,
+Yonder on Calvary's mount out-poured,
+There where the blood of the Lamb was spilt.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Grace, grace, God's grace,
+Grace that will pardon and cleanse within;
+Grace, grace, God's grace,
+Grace that is greater than all our sin.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sin and despair like the sea waves cold,
+Threaten the soul with infinite loss;
+Grace that is greater, yes, grace untold,
+Points to the Refuge, the Mighty Cross. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Dark is the stain that we cannot hide,
+What can avail to wash it away?
+Look! there is flowing a crimson tide;
+Whiter than snow you may be today. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Marvelous, infinite, matchless grace,
+Freely bestowed on all who believe;
+All who are longing to see His face,
+Will you this moment His grace receive? </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:19+04:00">
+	<properties>
+		<titles>
+			<title>God Will Take Care of You</title>
+		</titles>
+		<authors>
+			<author>Civilla D. Martin</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4425188</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="293"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Be not dismayed whate’er betide,
+God will take care of you;
+Beneath His wings of love abide,
+God will take care of you.</lines>
+		</verse>
+		<verse name="c">
+		<lines>God will take care of you,
+Thro' every day, o’er all the way;
+He will take care of you,
+God will take care of you.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Through days of toil when heart doth fail,
+God will take care of you;
+When dangers fierce your path assail,
+God will take care of you. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>All you may need He will provide,
+God will take care of you;
+Nothing you ask will be denied,
+God will take care of you. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>No matter what may be the test,
+God will take care of you;
+Lean, weary one, upon His breast,
+God will take care of you. </lines>
+		</verse>
+	</lyrics>
+</song>

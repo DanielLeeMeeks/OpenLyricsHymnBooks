@@ -1,0 +1,71 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:41+04:00">
+	<properties>
+		<titles>
+			<title>I Am His, and He Is Mine</title>
+		</titles>
+		<authors>
+			<author>George W. Robinson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="465"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Loved with everlasting love,
+Led by grace that love to know;
+Spirit, breathing from above,
+Thou hast taught me it is so!
+Oh, this full and perfect peace!
+Oh, this transport all divine!
+In a love which cannot cease,
+I am His, and He is mine.
+In a love which cannot cease,
+I am His, and He is mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Heav'n above is softer blue,
+Earth around is sweeter green!
+Something lives in ev'ry hue
+Christ-less eyes have never seen:
+Birds with gladder songs o'erflow,
+Flow'rs with deeper beauties shine,
+Since I know, as now I know,
+I am His, and He is mine.
+Since I know, as now I know,
+I am His, and He is mine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Things that once were wild alarms
+Cannot now disturb my rest;
+Closed in everlasting arms,
+Pillowed on the loving breast.
+Oh, to lie forever here,
+Doubt and care and self resign,
+While He whispers in my ear--
+I am His, and He is mine.
+While He whispers in my ear--
+I am His, and He is mine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>His forever, only His;
+Who the Lord and me shall part?
+Ah, with what a rest of bliss
+Christ can fill the loving heart!
+Heav'n and earth may fade and flee,
+Firstborn light in gloom decline,
+But while God and I shall be,
+I am His, and He is mine.
+But while God and I shall be,
+I am His, and He is mine.</lines>
+		</verse>
+	</lyrics>
+</song>

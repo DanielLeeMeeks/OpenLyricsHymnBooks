@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:26+04:00">
+	<properties>
+		<titles>
+			<title>Give of Your Best to the Master</title>
+		</titles>
+		<authors>
+			<author>Howard B. Grose</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>57485</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Invitation: for Consecration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="348"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Give of your best to the Master,
+Give of the strength of your youth;
+Throw your soul’s fresh, glowing ardor
+Into the battle for truth.
+Jesus has set the example;
+Dauntless was He, young and brave;
+Give Him your loyal devotion,
+Give Him the best that you have.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Give of your best to the Master;
+Give of the strength of your youth;
+Clad in salvation’s full armor,
+Join in the battle for truth.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Give of your best to the Master,
+Give Him first place in your heart;
+Give Him first place in your service,
+Consecrate ev'ry part.
+Give, and to you will be given;
+God His beloved Son gave;
+Gratefully seeking to serve Him,
+Give Him the best that you have. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Give of your best to the Master,
+Naught else is worthy His love;
+He gave Himself for your ransom,
+Gave up His glory above:
+Laid down His life without murmur,
+You from sin’s ruin to save;
+Give Him your heart’s adoration,
+Give Him the best that you have. </lines>
+		</verse>
+	</lyrics>
+</song>

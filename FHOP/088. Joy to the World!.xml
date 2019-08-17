@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>Joy to the World!</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5607039</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="88"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 98</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Joy to the world! the Lord is come;
+Let earth receive her King;
+Let every heart prepare Him room,
+And heav'n and nature sing,
+And heav'n and nature sing,
+And heav'n, and heav'n and nature sing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Joy to the earth! the Savior reigns;
+Let men their songs employ;
+While fields and floods, rocks, hills, and plains
+Repeat the sounding joy,
+Repeat the sounding joy,
+Repeat, repeat, the sounding joy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>No more let sins and sorrows grow,
+Nor thorns infest the ground;
+He comes to make His blessings flow
+Far as the curse is found,
+Far as the curse is found,
+Far as, far as, the curse is found.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He rules the world with truth and grace,
+And makes the nations prove
+The glories of His righteousness,
+And wonders of His love,
+And wonders of His love,
+And wonders, and wonders of His love.</lines>
+		</verse>
+	</lyrics>
+</song>

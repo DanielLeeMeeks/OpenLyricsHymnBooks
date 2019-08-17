@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>Savior, Breathe an Evening Blessing</title>
+		</titles>
+		<authors>
+			<author>James Edmeston</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7027710</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Evening hymns</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="190"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior, breath an evening blessing,
+Ere repose our spirits seal;
+Sin and want we come confessing,
+Thou canst save and Thou canst heal.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though destruction walk around us,
+Though the arrow past us fly;
+Angel-guards from Thee surround us,
+We are safe if Thou art nigh.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Though the night be dark and dreary,
+Darkness cannot hide from Thee;
+Thou art He who, never weary,
+Watchest where Thy people be.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Should swift death this night o'ertake us,
+And our couch become our tomb,
+May the morn in heav'n awake us,
+Clad in light and deathless bloom.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

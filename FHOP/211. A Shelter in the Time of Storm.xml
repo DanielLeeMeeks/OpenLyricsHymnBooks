@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:09+04:00">
+	<properties>
+		<titles>
+			<title>A Shelter in the Time of Storm</title>
+		</titles>
+		<authors>
+			<author>Vernon J. Charlesworth</author>
+			<author>Ira D. Sankey</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3323717</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme><theme> Christ: Rock</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="211"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Lord's our Rock, in Him we hide,
+A shelter in the time of storm;
+Secure whatever ill betide,
+A shelter in the time of storm.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, Jesus is a Rock in a weary land,
+A weary land, a weary land;
+Oh, Jesus is a Rock in a weary land,
+A shelter in the time of storm.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>A shade by day, defense by night,
+A shelter in the time of storm;
+No fears alarm, no foes affright,
+A shelter in the time of storm. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The raging storms may round us beat,
+A shelter in the time of storm;
+We'll never leave our safe retreat,
+A shelter in the time of storm. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>O Rock divine, O Refuge dear,
+A shelter in the time of storm;
+Be Thou our helper ever near,
+A shelter in the time of storm. </lines>
+		</verse>
+	</lyrics>
+</song>

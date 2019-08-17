@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>Christ Returneth</title>
+		</titles>
+		<authors>
+			<author>H. L. Turner</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4865054</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="170"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>It may be at morn, when the day is awaking,
+When sunlight thro' darkness and shadow is breaking,
+That Jesus will come in the fullness of glory,
+To receive from the world "His ow"</lines>
+		</verse>
+		<verse name="c">
+		<lines>O Lord Jesus, how long, how long
+Ere we shout the glad song,
+Christ returneth!
+Hallelujah! hallelujah!
+Amen. Hallelujah! Amen.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It may be at midday, it may be at twilight,
+It may be, perchance, that the blackness of midnight
+Will burst into light in the blaze of His glory,
+When Jesus receives "His own." </lines>
+		</verse>
+		<verse name="v3">
+			<lines>While its hosts cry Hosanna, from heaven descending,
+With glorified saints and the angels attending,
+With grace on His brow, like a halo of glory,
+Will Jesus receive "His own." </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Ohm joy! oh, delight! should we go without dying,
+No sickness, no sadness, no dread and no crying.
+Caught up thro' the clouds with our Lord into glory,
+When Jesus receives "His own." </lines>
+		</verse>
+	</lyrics>
+</song>

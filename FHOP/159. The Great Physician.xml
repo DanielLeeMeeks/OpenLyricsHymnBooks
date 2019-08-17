@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>The Great Physician</title>
+		</titles>
+		<authors>
+			<author>William Hunter</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>100136</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Life and Ministry</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="159"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The great Physician now is near,
+The sympathizing Jesus;
+He speaks the drooping heart to cheer,
+Oh, hear the voice of Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sweetest note in seraph song,
+Sweetest name on mortal tongue;
+Sweetest carol ever sung,
+Jesus, blessed Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Your many sins are all forgiv'n,
+Oh, hear the voice of Jesus;
+Go on your way in peace to heav'n
+And wear a crown with Jesus. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>All glory to the dying Lamb!
+I now believe in Jesus;
+I love the blessed Savior's name,
+I love the name of Jesus. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>And when to that bright world above
+We rise to be with Jesus,
+We'll sing around the throne of love
+His name, the name of Jesus. </lines>
+		</verse>
+	</lyrics>
+</song>

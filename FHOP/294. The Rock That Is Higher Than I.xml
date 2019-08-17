@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:19+04:00">
+	<properties>
+		<titles>
+			<title>The Rock That Is Higher Than I</title>
+		</titles>
+		<authors>
+			<author>Erastus Johnson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>122530</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme><theme> Christ: Rock</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="294"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O sometimes the shadows are deep,
+And rough seems the path to the goal,
+And sorrows, sometimes how they sweep
+Like tempests down over the soul!</lines>
+		</verse>
+		<verse name="c">
+		<lines>O then to the Rock let me fly,
+To the Rock that is higher than I;
+O then to the Rock let me fly
+To the Rock that is higher than I!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O sometimes how long seems the day,
+And sometimes how weary my feet;
+But toiling in life's dusty way,
+The Rock's blessed shadow, how sweet! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O near to the Rock let me keep,
+If blessings or sorrow prevail;
+Or climbing the mountain way steep,
+Or walking the shadowy vale. </lines>
+		</verse>
+	</lyrics>
+</song>

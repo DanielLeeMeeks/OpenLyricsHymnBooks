@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:02+04:00">
+	<properties>
+		<titles>
+			<title>Bring Them In</title>
+		</titles>
+		<authors>
+			<author>Alexcenah Thomas</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>22180</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Shepherd</theme><theme> Missionary</theme><theme> Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="22"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hark! ’tis the Shepherd’s voice I hear,
+Out in the desert dark and drear,
+Calling the sheep who’ve gone astray
+Far from the Shepherd’s fold away.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Bring them in, bring them in,
+Bring them in from the fields of sin;
+Bring them in, bring them in,
+Bring the wand’ring ones to Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Who’ll go and help this Shepherd kind,
+Help Him the wand’ring ones to find?
+Who’ll bring the lost ones to the fold,
+Where they’ll be sheltered from the cold? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Out in the desert hear their cry,
+Out on the mountains wild and high;
+Hark! ’tis the Master, speaks to thee,
+“Go find my sheep where’er they be.” </lines>
+		</verse>
+	</lyrics>
+</song>

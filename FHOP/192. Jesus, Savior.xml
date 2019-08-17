@@ -1,0 +1,38 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Savior</title>
+		</titles>
+		<authors>
+			<author>Herman Voss</author>
+		</authors>
+		<copyright>© 1940, Ren. 1968 Hope Publishing Co.</copyright>
+		<ccliNo>468696</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="192"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Saviour, all I have is Thine,
+Body, soul and will I now resign.
+Make me, keep me faithful unto Thee,
+Jesus, Saviour, through eternity.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus, Saviour, I would die to sin,
+Come, oh come and live in me again.
+Mold me, fill me till the world shall see
+Jesus, Saviour, living now in me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus, Saviour, in this quiet hour,
+May I feel Thy Spirit's strength and power;
+Take me, use me as Thou wilt each day,
+Jesus, Saviour, this I humbly pray.</lines>
+		</verse>
+	</lyrics>
+</song>

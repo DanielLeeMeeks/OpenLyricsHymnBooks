@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+	<properties>
+		<titles>
+			<title>If Jesus Goes with Me</title>
+		</titles>
+		<authors>
+			<author>C. Austin Miles</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="397"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>It may be in the valley, where countless dangers hide;
+It may be in the sunshine that I, in peace, abide;
+But this one thing I know—-if it be dark or fair,
+If Jesus is with me,
+I’ll go anywhere!</lines>
+		</verse>
+		<verse name="c">
+		<lines>If Jesus goes with me, I’ll go
+Anywhere!
+’Tis heaven to me,
+Where’er I may be,
+If He is there!
+I count it a privilege here
+His cross to bear,
+If Jesus goes with me,
+I’ll go
+Anywhere!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It may be I must carry the blessed Word of life
+Across the burning deserts to those in sinful strife;
+And tho' it be my lot to bear my colors there,
+If Jesus goes with me,
+I’ll go anywhere! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>But if it be my portion to bear my cross at home,
+While others bear their burdens beyond the billow’s foam,
+I’ll prove my faith in Him—-confess His judgments fair,
+And, if He stays with me,
+I’ll stay anywhere! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>It is not mine to question the judgments of my Lord,
+It is but mine to follow the leadings of His Word;
+But if to go or stay, or whether here or there,
+I’ll be, with my Savior,
+Content anywhere! </lines>
+		</verse>
+	</lyrics>
+</song>

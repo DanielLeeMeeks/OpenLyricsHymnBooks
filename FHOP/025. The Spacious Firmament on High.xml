@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:03+04:00">
+	<properties>
+		<titles>
+			<title>The Spacious Firmament on High</title>
+		</titles>
+		<authors>
+			<author>Joseph Addison</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3354786</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="25"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The spacious firmament on high,
+With all the blue, ethereal sky,
+And spangled heavens, a shining frame,
+Their great Original proclaim:
+Th'unwearied sun, from day to day,
+Does his Creator's power display;
+And publishes to every land
+The work of an almighty hand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Soon as the evening shades prevail,
+The moon takes up the wondrous tale,;
+And nightly,to the listening earth,
+Repeats the story of her birth;
+Whilst all the stars that round her burn,
+And all the planets in their turn,
+Confirm the tidings as they roll,
+And spread the truth from pole to pole.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>What though, in solemn silence, all
+Move round this dark terrestrial ball?
+What though no real voice nor sound
+Amidst their radiant orbs be found?
+In reason's ear they all rejoice,
+And utter forth a glorious voice,
+Forever singing, as they shine,
+"The hand that made us is divine."
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

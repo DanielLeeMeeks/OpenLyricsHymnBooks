@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:20+04:00">
+	<properties>
+		<titles>
+			<title>Give Me Thy Heart</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Invitation: for Consecration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="300"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>“Give me thy heart,” says the Father above,
+No gift so precious to Him as our love,
+Softly He whispers, wherever thou art,
+“Gratefully trust me, and give me thy heart.”</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Give me thy heart, give me thy heart,”
+Hear the soft whisper, wherever thou art:
+From this dark world He would draw thee apart;
+Speaking so tenderly, “Give me thy heart.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>“Give me thy heart,” says the Savior of men,
+Calling in mercy again and again;
+“Turn now from sin, and from evil depart,
+Have I not died for thee? Give me thy heart.” </lines>
+		</verse>
+		<verse name="v3">
+			<lines>“Give me thy heart,” says the Spirit divine,
+“All that thou hast, to my keeping resign;
+Grace more abounding is mine to impart,
+Make full surrender and give me thy heart.” </lines>
+		</verse>
+	</lyrics>
+</song>

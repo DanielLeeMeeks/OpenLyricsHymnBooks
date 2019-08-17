@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:16+04:00">
+	<properties>
+		<titles>
+			<title>Revive Us Again</title>
+		</titles>
+		<authors>
+			<author>William P. Mackay</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="268"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We praise thee, O God! for the Son of Thy love,
+For Jesus who died and is now gone above.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hallelujah! Thine the glory,;
+Hallelujah! Amen!
+Hallelujah! Thine the glory;
+Revive us again.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We praise thee, O God! for Thy Spirit of light,
+Who has shown us our Savior and scattered our night. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>All glory and praise to the Lamb that was slain,
+Who has borne all our sins, and has cleansed ev'ry stain! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Revive us again; fill each heart with Thy love;
+May each soul be rekindled with fire from above. </lines>
+		</verse>
+	</lyrics>
+</song>

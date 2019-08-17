@@ -1,0 +1,40 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:07+04:00">
+	<properties>
+		<titles>
+			<title>Come, Ye Disconsolate</title>
+		</titles>
+		<authors>
+			<author>Thomas Moore</author>
+			<author>Thomas Hastings</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>213047</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="201"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, ye disconsolate, where'er ye languish;
+Come to the mercy seat, fervently kneel;
+Here bring your wounded hearts, here tell your anguish;
+Earth has no sorrow that Heav'n cannot heal.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Joy of the desolate, light of the straying,
+Hope of the penitent, fadeless and pure,
+Here speaks the Comforter, tenderly saying,
+"Earth has no sorrow that Heav'n cannot cure."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Here see the bread of life; see waters flowing
+Forth from the throne of God, pure from above;
+Come to the feast of love; come, ever knowing
+Earth has no sorrow but Heav'n can remove.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

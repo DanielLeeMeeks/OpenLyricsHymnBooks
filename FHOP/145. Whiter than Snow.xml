@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>Whiter than Snow</title>
+		</titles>
+		<authors>
+			<author>James Nicholson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>37144</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="145"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord Jesus, I long to be perfectly whole;
+I want Thee forever to live in my soul,
+Break down ev'ry idol, cast out ev'ry foe;
+Now wash me and I shall be whiter than snow.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Whiter than snow, yes, whiter than snow;
+Now wash me, and I shall be whiter than snow.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord Jesus, look down from Thy throne in the skies,
+And help me to make a complete sacrifice;
+I give up myself, and whatever I know,
+Now wash me and I shall be whiter than snow. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord Jesus, for this I most humbly entreat,
+I wait, blessed Lord, at Thy crucified feet;
+By faith, for my cleansing I see Thy blood flow,
+Now wash me and I shall be whiter than snow. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord Jesus, Thou seest I patiently wait,
+Come now, and within me a new heart create;
+To those who have sought Thee, Thou never saidst "No,"
+Now wash me and I shall be whiter than snow. </lines>
+		</verse>
+	</lyrics>
+</song>

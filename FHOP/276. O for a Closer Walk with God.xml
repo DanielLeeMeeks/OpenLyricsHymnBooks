@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:17+04:00">
+	<properties>
+		<titles>
+			<title>O for a Closer Walk with God</title>
+		</titles>
+		<authors>
+			<author>William Cowper</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3627437</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="276"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O for a closer walk with God,
+A calm and heav'nly frame,
+A light to shine upon the road
+That leads me to the Lamb!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where is the blessedness I knew
+When first I saw the Lord?
+Where is the soul-refreshing view
+Of Jesus and His word?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The dearest idol I have known,
+Whate'er that idol be,
+Help me to tear it from Thy throne,
+And worship only Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>So shall my walk be close with God,
+Calm and serene my frame;
+So purer light shall mark the road
+That leads me to the Lamb.</lines>
+		</verse>
+	</lyrics>
+</song>

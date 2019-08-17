@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:17+04:00">
+	<properties>
+		<titles>
+			<title>More About Jesus</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6573382</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Teacher</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="275"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>More about Jesus would I know,
+More of His grace to others show;
+More of His saving fullness see,
+More of His love who died for me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>More, more about Jesus,
+More, more about Jesus;
+More of His saving fullness see,
+More of His love who died for me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>More about Jesus, let me learn,
+More of His holy will discern;
+Spirit of God, my teacher be,
+Showing the things of Christ to me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>More about Jesus; in His Word,
+Holding communion with my Lord;
+Hearing His voice in every line,
+Making each faithful saying mine. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>More about Jesus on His throne,
+Riches in glory all His own;
+More of His kingdom’s sure increase;
+More of His coming, Prince of Peace. </lines>
+		</verse>
+	</lyrics>
+</song>

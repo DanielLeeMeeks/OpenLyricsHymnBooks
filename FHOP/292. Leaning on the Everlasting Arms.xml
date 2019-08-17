@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:19+04:00">
+	<properties>
+		<titles>
+			<title>Leaning on the Everlasting Arms</title>
+		</titles>
+		<authors>
+			<author>Elisha A. Hoffman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31779</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme><theme> Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="292"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What a fellowship, what a joy divine,
+Leaning on the everlasting arms;
+What a blessedness, what a peace is mine,
+Leaning on the everlasting arms.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Leaning, leaning,
+Safe and secure from all alarms;
+Leaning, leaning,
+Leaning on the everlasting arms.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh, how sweet to walk in this pilgrim way,
+Leaning on the everlasting arms;
+Oh, how bright the path grows from day to day,
+Leaning on the everlasting arms. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>What have I to dread, what have I to fear,
+Leaning on the everlasting arms?
+I have blessed peace with my Lord so near,
+Leaning on the everlasting arms. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>I Heard the Bells on Christmas Day</title>
+		</titles>
+		<authors>
+			<author>Henry W. Longfellow</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="91"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I heard the bells on Christmas day
+Their old familiar carols play,
+And wild and sweet the words repeat
+Of peace of earth, goodwill to men.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I thought how, as the day had come,
+The belfries of all Christendom
+Had rolled along th'unbroken song
+Of peace on earth, goodwill to men.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And in despair I bowed my head:
+"There is no peace on earth," I said,
+"For hate is strong, and mocks the song
+Of peace on earth, goodwill to men."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then pealed the bells more loud and deep:
+"God is not dead: nor doth He sleep;
+The wrong shall fail, the right prevail,
+With peace on earth, goodwill to men."</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Till, ringing, singing on its way,
+The world revolved from night to day,
+A voice, a chime, a chant sublime,
+Of peace on earth, goodwill to men!</lines>
+		</verse>
+	</lyrics>
+</song>

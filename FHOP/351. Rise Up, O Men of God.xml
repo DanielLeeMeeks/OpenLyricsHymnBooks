@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:27+04:00">
+	<properties>
+		<titles>
+			<title>Rise Up, O Men of God</title>
+		</titles>
+		<authors>
+			<author>William P. Merrill</author>
+		</authors>
+		<copyright>© The Presbyterian Outlook, Richmond, VA</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="351"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rise up, O men of God!
+Have done with lesser things;
+Give heart and mind and soul and strength
+To serve the King of kings.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Rise up, O men of God!
+His Kingdom tarries long;
+Bring in the day of brotherhood
+And end the night of wrong.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Rise up, O men of God!
+The Church for you doth wait,
+Her strength unequal to her task;
+Rise up, and make her great!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lift high the cross of Christ!
+Tread where His feet have trod;
+As brothers of the Son of man,
+Rise up, O men of God!</lines>
+		</verse>
+	</lyrics>
+</song>

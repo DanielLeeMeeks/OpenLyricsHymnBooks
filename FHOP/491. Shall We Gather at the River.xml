@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+	<properties>
+		<titles>
+			<title>Shall We Gather at the River?</title>
+		</titles>
+		<authors>
+			<author>Robert Lowry</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>93731</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="491"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Shall we gather at the river,
+Where bright angel feet have trod;
+With its crystal tide forever
+Flowing by the throne of God?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Yes, we’ll gather at the river,
+The beautiful, the beautiful river,
+Gather with the saints at the river
+That flows by the throne of God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>On the bosom of the river,
+Where the Savior-King we own,
+We shall meet, and sorrow never,
+'Neath the glory of the throne. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ere we reach the shining river,
+Lay we every burden down;
+Grace our spirits will deliver,
+And provide a robe and crown. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Soon we’ll reach the shining river,
+Soon our pilgrimage will cease;
+Soon our happy hearts will quiver
+With the melody of peace. </lines>
+		</verse>
+	</lyrics>
+</song>

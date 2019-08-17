@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>O Thou in Whose Presence</title>
+		</titles>
+		<authors>
+			<author>Joseph Swain</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6325183</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Shepherd</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="105"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Thou in whose presence my soul takes delight,
+On whom in affliction I call,
+My comfort by day and my song in the night,
+My hope, my salvation, my all!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where dost Thou, dear Shepherd, resort with Thy sheep,
+To feed them in pastures of love?
+Say, why in the valley of death should I weep,
+Or alone in this wilderness rove?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O why should I wander an alien from Thee,
+Or cry in the desert for bread?
+Thy foes will rejoice when my sorrows they see,
+And smile at the tears I have shed.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Ye daughters of Zion, declare, have you seen
+The star that on Israel shone?
+Say, if in your tents my Beloved has been,
+And where with His flocks He is gone.</lines>
+		</verse>
+	</lyrics>
+</song>

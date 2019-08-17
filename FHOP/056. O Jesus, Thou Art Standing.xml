@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>O Jesus, Thou Art Standing</title>
+		</titles>
+		<authors>
+			<author>William W. How</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="56"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Jesus, Thou art standing
+Outside the fast-closed door,
+In lowly patience waiting
+To pass the threshold o'er:
+Shame on us, Christian brothers,
+His Name and sign who bear,
+O shame, thrice shame upon us,
+To keep Him standing there!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O Jesus, Thou art knocking;
+And lo! that hand is scarred,
+And thorns Thy brow encircle,
+And tears Thy face have marred;
+O love that passeth knowledge,
+So patiently to wait!
+O sin that hath no equal,
+So fast to bar the gate!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O Jesus, Thou art pleading
+In accents meek and low,
+"I died for you, My children,
+And will ye treat Me so?"
+O Lord, with shame and sorrow
+We open now the door:
+Dear Savior, enter, enter,
+And leave us nevermore!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

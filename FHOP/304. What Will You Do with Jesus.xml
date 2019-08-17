@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>What Will You Do with Jesus?</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>567140</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="304"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus is standing in Pilate’s hall--
+Friendless, forsaken, betrayed by all:
+Hearken! what meaneth the sudden call!
+What will you do with Jesus?</lines>
+		</verse>
+		<verse name="c">
+		<lines>What will you do with Jesus?
+Neutral you cannot be;
+Someday your heart will be asking,
+“What will He do with me?”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus is standing on trial still,
+You can be false to Him if you will,
+You can be faithful thro' good or ill:
+What will you do with Jesus? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Will you evade Him as Pilate tried?
+Or will you choose Him, whate’er betide?
+Vainly you struggle from Him to hide:
+What will you do with Jesus? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Will you, like Peter, your Lord deny?
+Or will you scorn from His foes to fly,
+Daring for Jesus to live or die?
+What will you do with Jesus? </lines>
+		</verse>
+		<verse name="v5">
+			<lines>“Jesus, I give Thee my heart today!
+Jesus, I’ll follow Thee all the way,
+Gladly obeying Thee!” will you say:
+“This I will do with Jesus!” </lines>
+		</verse>
+	</lyrics>
+</song>

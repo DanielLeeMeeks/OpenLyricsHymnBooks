@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:47+04:00">
+	<properties>
+		<titles>
+			<title>Dare to Be a Daniel</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="512"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Standing by a purpose true,
+Heeding God's command,
+Honor them, the faithful few!
+All hail to Daniel's Band!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Dare to be a Daniel,
+Dare to stand alone!
+Dare to have a purpose firm!
+Dare to make it known!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Many mighty men are lost,
+Daring not to stand,
+Who for God had been a host
+By joining Daniel's Band. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Many giants, great and tall,
+Stalking thro' the land,
+Headlong to the earth would fall,
+If met by Daniel's Band. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hold the gospel banner high!
+On to vict'ry grand!
+Satan and His host defy,
+And shout for Daniel's Band. </lines>
+		</verse>
+	</lyrics>
+</song>

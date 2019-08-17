@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>Must Jesus Bear the Cross Alone?</title>
+		</titles>
+		<authors>
+			<author>Thomas Shepherd</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>121627</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="189"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Must Jesus bear the cross alone,
+And all the world go free?
+No; there's a cross for ev'ry one,
+And there's a cross for me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The consecrated cross I'll bear,
+Till death shall set me free,
+And then go home my crown to wear,
+For there's a crown for me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Upon the crystal pavement, down
+At Jesus' piercèd feet,
+Joyful, I'll cast my golden crown,
+And His dear name repeat.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O precious cross! O glorious crown!
+O resurrection day!
+Ye angels, from the stars come down,
+And bear my soul away.</lines>
+		</verse>
+	</lyrics>
+</song>

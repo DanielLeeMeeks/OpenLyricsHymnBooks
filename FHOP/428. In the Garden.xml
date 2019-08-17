@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>In the Garden</title>
+		</titles>
+		<authors>
+			<author>C. Austin Miles</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="428"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I come to the garden alone,
+While the dew is still on the roses,
+And the voice I hear,
+Falling on my ear,
+The Son of God discloses.</lines>
+		</verse>
+		<verse name="c">
+		<lines>And He walks with me, and He talks with me,
+And He tells me I am His own;
+And the joy we share as we tarry there,
+None other has ever known.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He speaks, and the sound of His voice
+Is so sweet the birds hush their singing,
+And the melody
+That He gave to me,
+Within my heart is ringing. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I’d stay in the garden with Him
+Tho' the night around me be falling,
+But He bids me go;
+Through the voice of woe
+His voice to me is calling. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>Hallelujah, What a Savior!</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Sacrifice</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="158"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Man of Sorrows," what a name
+For the Son of God who came
+Ruined sinners to reclaim!
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bearing shame and scoffing rude,
+In my place condemned He stood;
+Sealed my pardon with His blood;
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Guilty, vile and helpless, we;
+Spotless Lamb of God was He;
+"Full atonement!" can it be?
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lifted up was He to die,
+"It is finished," was His cry;
+Now in heav'n exalted high;
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>When He comes, our glorious King,
+All His ransomed home to bring,
+Then anew this song we'll sing:
+Hallelujah! what a Savior!</lines>
+		</verse>
+	</lyrics>
+</song>

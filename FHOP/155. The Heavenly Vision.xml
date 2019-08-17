@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>The Heavenly Vision</title>
+		</titles>
+		<authors>
+			<author>Helen H. Lemmel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>15960</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Christ: Character</theme><theme> Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="155"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O soul, are you weary and troubled?
+No light in the darkness you see?
+There’s light for a look at the Savior,
+And life more abundant and free!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Turn your eyes upon Jesus,
+Look full in His wonderful face;
+And the things of earth will grow strangely dim
+In the light of His glory and grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Through death into life everlasting
+He passed, and we follow Him there;
+Over us sin no more hath dominion—-
+For more than conqu'rors we are! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>His word shall not fail you—-He promised;
+Believe Him, and all will be well:
+Then go to a world that is dying,
+His perfect salvation to tell! </lines>
+		</verse>
+	</lyrics>
+</song>

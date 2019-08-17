@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>There's a Song in the Air</title>
+		</titles>
+		<authors>
+			<author>Josiah G. Holland</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5581708</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="85"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s a song in the air!
+There’s a star in the sky!
+There’s a mother’s deep prayer,
+And a baby’s low cry!
+And the star rains its fire while the beautiful sing,
+For the manger of Bethlehem cradles a King!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There’s a tumult of joy
+O’er the wonderful birth,
+For the Virgin’s sweet Boy
+Is the Lord of the earth.
+Ay! the star rains its fire while the beautiful sing,
+For the manger of Bethlehem cradles a King!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In the light of that star
+Lie the ages impearled;
+And that song from afar
+Has swept over the world.
+Ev'ry hearth is aflame, and the beautiful sing
+In the homes of the nations that Jesus is King!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>We rejoice in the light,
+And we echo the song
+That comes down thru the night
+From the heavenly throng.
+Ay! we shout to the lovely evangel they bring,
+And we greet in His cradle our Savior and King!</lines>
+		</verse>
+	</lyrics>
+</song>

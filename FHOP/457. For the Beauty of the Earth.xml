@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>For the Beauty of the Earth</title>
+		</titles>
+		<authors>
+			<author>Folliott S. Pierpoint</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Home</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="457"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>For the beauty of the earth,
+For the glory of the skies,
+For the love which from our birth
+Over and around us lies:
+Christ our God, to Thee we raise
+This our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>For the beauty of each hour
+Of the day and of the night,
+Hill and vale and tree and flower,
+Sun and moon and stars of light:
+Christ our God, to Thee we raise
+This our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For the joy of human love,
+Brother, sister, parent, child,
+Friends on earth, and friends above,
+For all gentle thoughts and mild:
+Christ our God, to Thee we raise
+This our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For Thy Church that evermore
+Lifteth holy hands above,
+Offering up on every shore
+Her pure sacrifice of love:
+Christ our God, to Thee we raise
+This our hymn of grateful praise.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:45+04:00">
+	<properties>
+		<titles>
+			<title>He Is Able to Deliver Thee</title>
+		</titles>
+		<authors>
+			<author>William A. Ogden</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Love and Mercy</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="35"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>’Tis the grandest theme thro' the ages rung;
+’Tis the grandest theme for a mortal tongue;
+’Tis the grandest theme that the world e’er sung,
+“Our God is able to deliver thee.”</lines>
+		</verse>
+		<verse name="c">
+		<lines>He is able to deliver thee,
+He is able to deliver thee;
+Tho' by sin oppressed, go to Him for rest;
+“Our God is able to deliver thee.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>’Tis the grandest theme in the earth or main;
+’Tis the grandest theme for a mortal strain;
+’Tis the grandest theme, tell the world again,
+“Our God is able to deliver thee.” [</lines>
+		</verse>
+		<verse name="v3">
+			<lines>’Tis the grandest theme, let the tidings roll,
+To the guilty heart, to the sinful soul;
+Look to God in faith, He will make thee whole,
+“Our God is able to deliver thee.” </lines>
+		</verse>
+	</lyrics>
+</song>

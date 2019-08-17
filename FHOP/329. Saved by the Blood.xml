@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+	<properties>
+		<titles>
+			<title>Saved by the Blood</title>
+		</titles>
+		<authors>
+			<author>S. J. Henderson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>56455</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="329"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Saved by the blood of the Crucified One!
+Now ransomed from sin and a new work begun,
+Sing praise to the Father and praise to the Son,
+Saved by the blood of the Crucified One!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Saved! saved!
+My sins are all pardoned, my guilt is all gone!
+Saved! saved!
+I’m saved by the blood of the Crucified One!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Saved by the blood of the Crucified One!
+The angels rejoicing because it is done;
+A child of the Father, joint heir with the Son,
+Saved by the blood of the Crucified One! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Saved by the blood of the Crucified One!
+The Father He spake, and His will it was done;
+Great price of my pardon, His own precious Son;
+Saved by the blood of the Crucified One! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Saved by the blood of the Crucified One!
+All hail to the Father, all hail to the Son,
+All hail to the Spirit, the great Three in One!
+Saved by the blood of the Crucified One! </lines>
+		</verse>
+	</lyrics>
+</song>

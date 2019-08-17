@@ -1,0 +1,66 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:27+04:00">
+	<properties>
+		<titles>
+			<title>Onward, Christian Soldiers</title>
+		</titles>
+		<authors>
+			<author>Sabine Baring-Gould</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>47017</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="353"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Onward, Christian soldiers,
+Marching as to war,
+With the cross of Jesus
+Going on before!
+Christ, the royal Master,
+Leads against the foe;
+Forward into battle,
+See His banners go!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Onward, Christian soldiers,
+Marching as to war,
+With the cross of Jesus
+Going on before!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>At the sign of triumph
+Satan's host doth flee;
+On, then, Christian soldiers
+On to victory!
+Hell's foundation quiver
+At the shout of praise;
+Brothers, lift your voices,
+Loud your anthems raise! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Like a mighty army
+Moves the Church of God;
+Brothers, we are treading
+Where the saints have trod;
+We are not divided;
+All one body we,
+One in hope, and doctrine,
+One in charity. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Onward, then, ye people,
+Join our happy throng,
+Blend with ours your voices
+In the triumph song;
+Glory, laud, and honor,
+Unto Christ the King:
+This thro' countless ages
+Men and angels sing. </lines>
+		</verse>
+	</lyrics>
+</song>

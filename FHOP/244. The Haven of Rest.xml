@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:13+04:00">
+	<properties>
+		<titles>
+			<title>The Haven of Rest</title>
+		</titles>
+		<authors>
+			<author>Henry L. Gilmour</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="244"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My soul in sad exile was out on life’s sea,
+So burdened with sin and distrest,
+Till I heard a sweet voice saying, “Make me your choice;”
+And I entered the “Haven of Rest!”</lines>
+		</verse>
+		<verse name="c">
+		<lines>I’ve anchored my soul in the “Haven of Rest,”
+I’ll sail the wide seas no more;
+The tempest may sweep over wild, stormy deep,
+In Jesus I’m safe evermore.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I yielded myself to His tender embrace,
+And faith taking hold of the Word,
+My fetters fell off, and I anchored my soul;
+The “Haven of Rest” is my Lord. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The song of my soul, since the Lord made me whole,
+Has been the old story so blest,
+Of Jesus, who’ll save whosoever will have
+A home in the “Haven of Rest!” </lines>
+		</verse>
+		<verse name="v4">
+			<lines>How precious the thought that we all may recline,
+Like John the beloved so blest,
+On Jesus’ strong arm, where no tempest can harm--
+Secure in the “Haven of Rest!” </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Oh, come to the Savior, He patiently waits
+To save by His power divine;
+Come, anchor your soul in the “Haven of Rest,”
+And say, “My Beloved is mine.” </lines>
+		</verse>
+	</lyrics>
+</song>

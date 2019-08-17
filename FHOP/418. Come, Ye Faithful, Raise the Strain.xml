@@ -1,0 +1,62 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:35+04:00">
+	<properties>
+		<titles>
+			<title>Come, Ye Faithful, Raise the Strain</title>
+		</titles>
+		<authors>
+			<author>John of Damascus</author>
+			<author>John M. Neale</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2612553</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="418"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, ye faithful, raise the strain
+Of triumphant gladness;
+God hath brought his Israel
+Into joy from sadness.
+Loosed from Pharaoh's bitter yoke
+Jacob's sons and daughters,
+Led them with unmoistened foot
+Through the Red Sea waters.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>'Tis the Spring of souls today;
+Christ hath burst His prison,
+And from three days' sleep in death
+As a sun hath risen.
+All the Winter of our sins,
+Long and dark, is flying
+From His light, to whom we give
+Laud and praise undying.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now the queen of seasons, bright
+With the day of splendor,
+With the royal feast of feasts,
+Comes its joy to render;
+Comes to glad Jerusalem,
+Who with true affection
+Welcomes in unwearied strains
+Jesus' resurrection.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Alleluia now to Thee,
+Christ, our King Immortal,
+Who hast passed the gates of death
+And the tomb's sealed portal;
+Who, though never door unclose,
+In th'assembly standing,
+Breathest on Thy friends the peace
+Past all understanding.
+Amen.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>Battle Hymn of the Republic</title>
+		</titles>
+		<authors>
+			<author>Julia Ward Howe</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>24133</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Majesty and Power</theme><theme> National</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="453"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Mine eyes have seen the glory of the coming of the Lord;
+He is trampling out the vintage where the grapes of wrath are stored;
+He hath loosed the fateful lightning of His terrible swift sword;
+His truth is marching on.
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+His truth is marching on.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I have seen Him in the watchfires of a hundred circling camps;
+They have builded Him an altar in the evening dews and damps;
+I can read His righteous sentence by the dim and flaring lamps;
+His day is marching on.
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+His day is marching on.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He has sounded forth the trumpet that shall never sound retreat;
+He is sifting out the hearts of men before His judgment seat;
+O be swift, my soul, to answer Him! be jubilant, my feet!
+Our God is marching on.
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Our God is marching on.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>In the beauty of the lilies Christ was born across the sea,
+With a glory in His bosom that transfigures you and me;
+As He died to make men holy, let us live to make men free,
+While God is marching on.
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+Glory! glory, hallelujah!
+While God is marching on.</lines>
+		</verse>
+	</lyrics>
+</song>

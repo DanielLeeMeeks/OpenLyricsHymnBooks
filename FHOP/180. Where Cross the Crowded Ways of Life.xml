@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+	<properties>
+		<titles>
+			<title>Where Cross the Crowded Ways of Life</title>
+		</titles>
+		<authors>
+			<author>Frank M. North</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Missionary</theme><theme> National</theme><theme> Social Righteousness</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="180"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Where cross the crowded ways of life,
+Where sound the cries of race and clan,
+Above the noise of selfish strife,
+We hear Thy voice, O Son of man!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In haunts of wretchedness and need,
+On shadowed thresholds dark with fears,
+From paths where hide the lures of greed,
+We catch the vision of Thy tears.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The cup of water giv'n for thee
+Stills holds the freshness of Thy grace;
+Yet long these multitudes to see
+The sweet compassion of Thy face.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O Master, from the mountain side,
+Make haste to heal these hearts of pain,
+Among these restless throngs abide,
+O tread the city's streets again.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Till sons of men shall learn Thy love,
+And follow where Thy feet have trod;
+Till glorious from Thy Heav'n above
+Shall come the city of our God.</lines>
+		</verse>
+	</lyrics>
+</song>

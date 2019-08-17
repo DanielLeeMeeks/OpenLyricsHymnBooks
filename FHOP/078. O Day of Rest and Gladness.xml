@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:51+04:00">
+	<properties>
+		<titles>
+			<title>O Day of Rest and Gladness</title>
+		</titles>
+		<authors>
+			<author>Christopher Wordsworth</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3137037</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Service Music: Processionals</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="78"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O day of rest and gladness,
+O day of joy and light,
+O balm of care and sadness,
+Most beautiful, most bright;
+On thee, the high and lowly,
+Bending before the throne,
+Sing, Holy, Holy, Holy,
+To the great Three in One.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>On thee, at the creation,
+The light first had its birth;
+On thee, for our salvation,
+Christ rose from depths of earth;
+On thee our Lord, victorious
+The Spirit sent from Heav'n;
+And thus on thee most glorious,
+A triple light was given.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Today on weary nations
+The heav'nly manna falls;
+To holy convocations
+The silver trumpet calls,
+Where gospel light is glowing
+With pure and radiant beams,
+And living water flowing
+With soul-refreshing streams.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>New graces ever gaining
+From this our day of rest,
+We reach the rest remaining
+To spirits of the blest.
+To Holy Ghost be praises,
+To Father and to Son;
+The Church her voice upraises
+To thee, blest Three in One.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

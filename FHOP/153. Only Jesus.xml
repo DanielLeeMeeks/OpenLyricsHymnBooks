@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>Only Jesus</title>
+		</titles>
+		<authors>
+			<author>Avis B. Christiansen</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>263224</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="153"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I’ve found a refuge from life’s care in Jesus,
+I am hiding in His love divine;
+He fully understands my soul’s deep longing,
+And He whispers softly, “Thou art mine.”</lines>
+		</verse>
+		<verse name="c">
+		<lines>Only Jesus! Only Jesus!
+Only He can satisfy;
+Ev'ry burden becomes a blessing,
+When I know my Lord is nigh.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I’ve found a precious joy in knowing Jesus,
+Never dreamed of in this world of woe;
+No clouds, however dark, can dim the radiance
+Of the heav’nly light He doth bestow. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I’ve found a blessèd hope divine in Jesus,
+’Tis a Day Star ever shining bright;
+It fills my earthly way with heav’nly glory,
+And it turns life’s darkness into light. </lines>
+		</verse>
+	</lyrics>
+</song>

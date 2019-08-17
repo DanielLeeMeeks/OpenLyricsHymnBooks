@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>Don't Turn the Savior Away</title>
+		</titles>
+		<authors>
+			<author>Harry D. Clarke</author>
+		</authors>
+		<copyright>© 1925, Ren. 1953 Hope Publishing Co.</copyright>
+		<ccliNo>778678</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="309"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Saviour is calling, is calling for you,
+In accents so tender, so loving and true,
+How can you refuse Him? O heed His sweet call!
+O, don't turn the Saviour away.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Don't turn the Saviour away from your heart,
+Don't turn the Saviour away from your heart;
+O hear Him pleading, O list' to His call,
+O, don't turn the Saviour away.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The Saviour is calling, why turn Him away?
+Sin's burden is heavy, why longer delay!
+O heart full of sorrow, there's comfort today;
+O, don't turn the Saviour away. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The Saviour is calling, O, can it be true
+That life everlasting is waiting for you?
+Come now and receive Him, to Satan say nay;
+O, don't turn the Saviour away. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>The Saviour is calling from Calvary's cross,
+Where He died to save you at infinite cost;
+His heart there was broken for you and for me;
+O, don't turn the Saviour away. </lines>
+		</verse>
+	</lyrics>
+</song>

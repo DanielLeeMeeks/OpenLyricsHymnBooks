@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>Communion Hymn</title>
+		</titles>
+		<authors>
+			<author>Charles McMillan</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="434"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>On this Holy Lord's day morning,
+Master of the earth and sea;
+Stand we in Thy sacred presence,
+Hearts and souls athirst for Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>As we come around this table,
+Emblematic of Thy death;
+Fill, O fill us with thy Spirit,
+Till in Thee our souls shall rest.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>May this loaf and cup remind us
+Of the sacrifice Thou made,
+Bleeding, dying for transgression
+That our sins on Thee be laid.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>As we look to Thee, the Author
+Of all hope and joy and peace,
+May our loyal consecration
+To Thee, never, never cease.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Grant us in this sacred service,
+To behold God's love anew;
+May the vision fill and thrill us,
+Till Thy holy will we do.</lines>
+		</verse>
+	</lyrics>
+</song>

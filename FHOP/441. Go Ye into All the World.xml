@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:38+04:00">
+	<properties>
+		<titles>
+			<title>Go Ye into All the World</title>
+		</titles>
+		<authors>
+			<author>James McGranahan</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="441"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Far, far away, in death and darkness dwelling,
+Millions of souls forever may be lost;
+Who, who will go, salvation’s story telling,
+Looking to Jesus, heeding not the cost?</lines>
+		</verse>
+		<verse name="c">
+		<lines>“All pow’r is given unto Me,
+All pow’r is given unto Me,
+Go ye into all the world and preach the gospel,
+And lo, I am with you alway.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>See o’er the world wide open doors inviting,
+Soldiers of Christ, arise and enter in!
+Christians, awake! your forces all uniting,
+Send forth the gospel, break the chains of sin. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>“Why will ye die?” the voice of God is calling;
+“Why will you die?” re-echo in His name;
+Jesus has died to save from death appalling,
+Life and salvation, therefore, go proclaim. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>God speed the day, when those of ev'ry nation
+"Glory to God!" triumphantly shall sing;
+Ransomed, redeemed, rejoicing in salvation,
+Shout Hallelujah, for the Lord is King. </lines>
+		</verse>
+	</lyrics>
+</song>

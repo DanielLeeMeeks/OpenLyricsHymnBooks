@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>We Give Thee But Thine Own</title>
+		</titles>
+		<authors>
+			<author>William W. How</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Service Music: Offertory Responses</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="452"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We give Thee but Thine own,
+Whate’er the gift may be:
+All that we have is Thine alone,
+A trust, O Lord, from Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>May we Thy bounties thus
+As stewards true receive,
+And gladly, as Thou blessest us,
+To Thee our first fruits give.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To comfort and to bless,
+To find a balm for woe,
+To tend the lone and fatherless,
+Is angels’ work below.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The captive to release,
+To God the lost to bring,
+To teach the way of life and peace—-
+It is a Christ-like thing.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>And we believe Thy word,
+Though dim our faith may be:
+Whate’er for Thine we do, O Lord,
+We do it unto Thee.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

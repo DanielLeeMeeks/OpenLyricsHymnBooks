@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:47+04:00">
+	<properties>
+		<titles>
+			<title>The Children's Friend Is Jesus</title>
+		</titles>
+		<authors>
+			<author>Robert Harkness</author>
+		</authors>
+		<copyright>© 1953, Ren. 1981 Hope Publishing Co.</copyright>
+		<ccliNo>529494</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Friend</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="510"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The children's Friend is Jesus,
+He calls them to His side;
+He gave His life a ransom,
+Heav'n's gate to open wide.</lines>
+		</verse>
+		<verse name="c">
+		<lines>The children's Friend is Jesus,
+Jesus, Jesus;
+His life He gave their souls to save,
+The children's Friend is Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The children's Friend is Jesus,
+He loves their joys to share,
+He knows their little sorrows,
+He longs each one to bear. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The children's Friend is Jesus,
+There's no one else so true;
+He keeps all those who trust Him,
+As no one else can do. </lines>
+		</verse>
+	</lyrics>
+</song>

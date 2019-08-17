@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>We'll Work till Jesus Comes</title>
+		</titles>
+		<authors>
+			<author>Elizabeth Mills</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Faithfulness: of Believer</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="228"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O land of rest, for thee I sigh!
+When will the moment come
+When I shall lay my armor by,
+And dwell in peace at home?</lines>
+		</verse>
+		<verse name="c">
+		<lines>We'll work till Jesus comes,
+We'll work till Jesus comes;
+We'll work till Jesus comes,
+And we'll be gathered home.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To Jesus Christ I fled for rest;
+He bade me cease to roam,
+And lean for comfort on His breast
+Till He conduct me home. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I sought at once my Savior's side,
+No more my steps to roam;
+With Him I'll brave death's chilling tide,
+And reach my heav'nly home. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>Ye Must Be Born Again</title>
+		</titles>
+		<authors>
+			<author>William T. Sleeper</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="147"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A ruler once came to Jesus by night
+To ask Him the way of salvation and light;
+The Master made answer in words true and plain,
+"Ye must be born again."</lines>
+		</verse>
+		<verse name="c">
+		<lines>"Ye must be born again,
+Ye must be born again;
+I verily, verily say unto thee,
+Ye must be born again."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ye children of men, attend to the word
+So solemnly uttered by Jesus the Lord;
+And let not this message to you be in vain,
+"Ye must be born again." </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O, ye who would enter that glorious rest,
+And sing with the ransomed the song of the blest;
+The life everlasting if ye would obtain,
+"Ye must be born again." </lines>
+		</verse>
+		<verse name="v4">
+			<lines>A dear one in heaven thy heart yearns to see,
+At the beautiful gate may be watching for thee;
+Then list to th note of this solemn refrain,
+"Yes must be born again." </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:49+04:00">
+	<properties>
+		<titles>
+			<title>'Twas a Glad Day When Jesus Found Me</title>
+		</titles>
+		<authors>
+			<author>Albert S. Reitz</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="66"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I was lost in sin when Jesus found me,
+But He rescued me, all glory to His name!
+And the cords of worldly pleasure bound me,
+Till He saved me from sin and shame.</lines>
+		</verse>
+		<verse name="c">
+		<lines>’Twas a glad day when Jesus found me,
+When His strong arms were thrown around me;
+When my sins He buried in the deepest sea,
+And my soul He filled with joy and victory,
+’Twas a glad day, O hallelujah!
+’Twas a glad day He claimed His own;
+I will shout a glad hosanna in glory
+When I see Him upon His throne.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O the bells of heaven now are ringing,
+For I hear their tones within my ransomed soul;
+And my heart is filled with joyful singing
+Since the Savior has made me whole. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O the joy when we shall meet in glory,
+In the mansions of my Father’s home above;
+And thro' endless ages tell the story
+Of the Savior’s redeeming love. </lines>
+		</verse>
+	</lyrics>
+</song>

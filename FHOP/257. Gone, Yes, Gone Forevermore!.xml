@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:15+04:00">
+	<properties>
+		<titles>
+			<title>Gone, Yes, Gone Forevermore!</title>
+		</titles>
+		<authors>
+			<author>Joseph C. Macaulay</author>
+		</authors>
+		<copyright>© 1967 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="257"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Now let songs of triumph swell loud and clear, loud and clear,
+Christ has conquered sin and hell, sing it loud and clear.
+Once for us in mortal fray,
+Climbed He Calv'ry's rugged way.
+Praise Him now in gladsome lay;
+Sing it loud and clear!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Gone, yes, gone forevermore!
+Fully settled is the score!
+Since He purged my guilty stains,
+Not a spot remains;
+Gone, yes, gone! Gone, yes, gone!
+Gone, yes, gone forevermore!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sins as black as death's dark shroud blotted out, blotted out!
+As the thickest thundercloud, all are blotted out.
+From God's memory erased--
+At such mercy stand amazed
+Be His name forever praised;
+All are blotted out! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Far as east is from the west they are gone, they are gone.
+O, how richly we are blest, for our sins are gone.
+In the deep, unfathomed sea
+They are cast, and we are free.
+Join our glorious jubilee--
+All our sins are gone! </lines>
+		</verse>
+	</lyrics>
+</song>

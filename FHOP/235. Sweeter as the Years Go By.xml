@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:12+04:00">
+	<properties>
+		<titles>
+			<title>Sweeter as the Years Go By</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Life and Ministry</theme><theme> Christ: Love</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="235"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Of Jesus’ love that sought me
+When I was lost in sin;
+Of wondrous grace that brought me
+Back to His fold again;
+Of heights and depths of mercy
+Far deeper than the sea,
+And higher than the heavens,
+My theme shall ever be.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sweeter as the years go by,
+Sweeter as the years go by;
+Richer, fuller, deeper,
+Jesus’ love is sweeter,
+Sweeter as the years go by.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He trod in old Judea
+Life’s pathway long ago;
+The people thronged about Him,
+His saving grace to know;
+He healed the broken-hearted
+And caused the blind to see;
+And still His great heart yearneth
+In love for even me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>’Twas wondrous love which led Him
+For us to suffer loss--
+To bear without a murmur
+The anguish of the cross;
+With saints redeemed in glory,
+Let us our voices raise,
+Till heav’n and earth re-echo
+With our Redeemer’s praise. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>No Other Plea</title>
+		</titles>
+		<authors>
+			<author>Likie H. Edmunds</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="193"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My faith has found a resting place,
+Not in device nor creed;
+I trust the Everliving One,
+His wounds for me shall plead.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I need no other argument,
+I need no other plea,
+It is enough that Jesus died,
+And that He died for me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Enough for me that Jesus saves,
+This ends my fear and doubt;
+A sinful soul I come to Him,
+He’ll never cast me out. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>My heart is leaning on the Word,
+The written Word of God,
+Salvation by my Saviour’s name,
+Salvation thro' His blood. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>My great Physician heals the sick,
+The lost He came to save;
+For me His precious blood He shed,
+For me His life He gave. </lines>
+		</verse>
+	</lyrics>
+</song>

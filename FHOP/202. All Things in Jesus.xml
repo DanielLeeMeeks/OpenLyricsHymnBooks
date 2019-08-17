@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:07+04:00">
+	<properties>
+		<titles>
+			<title>All Things in Jesus</title>
+		</titles>
+		<authors>
+			<author>Harry D. Loes</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="202"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Friends all around us are trying to find
+What the heart yearns for, by sin undermined;
+I have the secret, I know where 'tis found:
+Only in Jesus true pleasures abound.</lines>
+		</verse>
+		<verse name="c">
+		<lines>All that I want is in Jesus;
+He satisfies, joy He supplies;
+Life would be worthless without Him,
+All things in Jesus I find.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Some carry burdens whose weight has for years
+Crushed them with sorrow and blinded with tears,
+Yet One stands ready to help them just now,
+If they with faith and in penitence bow. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>No other name thrills the joy chords within,
+And thro' none else is remission of sin;
+He knows the pain of the heart sorely tried,
+All of its needs will in Him be supplied. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus is all this poor world needs today,
+Blindly they strive, for sin darkens their way;
+O to draw back the grim curtains of night,
+One glimpse of Jesus, and all will be bright! </lines>
+		</verse>
+	</lyrics>
+</song>

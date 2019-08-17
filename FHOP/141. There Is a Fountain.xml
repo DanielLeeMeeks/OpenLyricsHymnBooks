@@ -1,0 +1,70 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>There Is a Fountain</title>
+		</titles>
+		<authors>
+			<author>William Cowper</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27707</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme><theme> Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="141"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There is a fountain filled with blood
+Drawn from Immanuel's veins;
+And sinners, plunged beneath that flood,
+Lose all their guilty stains:
+Lose all their guilty stains,
+Lose all their guilty stains;
+And sinners, plunged beneath that flood,
+Lose all their guilty stains.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The dying thief rejoiced to see
+That fountain in his day;
+And there may I, though vile as he,
+Wash all my sins away:
+Wash all my sins away,
+Wash all my sins away;
+And there may I, though vile as he,
+Wash all my sins away.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Dear dying Lamb, Thy precious blood
+Shall never lose its pow'r,
+Till all the ransomed Church of God
+Be saved, to sin no more:
+Be saved, to sin no more,
+Be saved, to sin no more;
+Till all the ransomed Church of God
+Be saved to sin no more.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>E'er since, by faith I saw the stream
+Thy flowing wounds supply,
+Redeeming love has been my theme,
+And shall be till I die:
+And shall be till I die,
+And shall be till I die;
+Redeeming love has been my theme,
+And shall be till I die.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then in a nobler, sweeter song,
+I'll sing Thy pow'r to save,
+When this poor lisping, stamm'ring tongue
+Lies silent in the grave:
+Lies silent in the grave,
+Lies silent in the grave;
+When this poor lisping, stamm'ring tonue
+Lies silent in the grave.</lines>
+		</verse>
+	</lyrics>
+</song>

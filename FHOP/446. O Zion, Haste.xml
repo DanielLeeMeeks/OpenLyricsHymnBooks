@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>O Zion, Haste</title>
+		</titles>
+		<authors>
+			<author>Mary A. Thomson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="446"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Zion, haste, your mission high fulfilling,
+To tell to all the world that God is Light;
+That He Who made all nations is not willing
+One soul should perish, lost in shades of night.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Publish glad tidings, tidings of peace;
+Tidings of Jesus, redemption, and release.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Behold how many thousands still are lying,
+Bound in the darksome prison-house of sin,
+With none to tell them of the Saviour's dying,
+Or of the life He died for them to win. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Proclaim to ev'ry people, tongue and nation
+That God in Whom they live and move is love:
+Tell how He stooped to save His lost creation,
+And died on earth that man might live above. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Give of your sons to bear the message glorious;
+Give of your wealth to speed them on their way;
+Pour out your soul for them in prayer victorious;
+And all thou spendest Jesus will repay. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>O Word of God Incarnate</title>
+		</titles>
+		<authors>
+			<author>William W. How</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Light</theme><theme> Christ: Teacher</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="319"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Word of God Incarnate,
+O Wisdom from on high,
+O Truth unchanged, unchanging,
+O light of our dark sky;
+We praise Thee for the radiance
+That from the hallowed page,
+A lantern to our footsteps
+Shines on from age to age.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The church from her dear Master
+Received the gift divine,
+And still that light she lifteth
+O'er all the earth to shine.
+It is the golden casket,
+Where gems of truth are stored;
+It is the heav'n-drawn picture
+Of Christ, the living Word.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>It floateth like a banner
+Before God's host unfurled;
+It shineth like a beacon
+Above the darkling world.
+It is the chart and compass
+That o'er life's surging sea,
+'Mid mists and rocks and quicksands,
+Still guides, O Christ, to Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O make Thy church, dear Savior,
+A lamp of purest gold,
+To bear before the nations
+Thy true light as of old.
+O teach Thy wand'ring pilgrims
+By this their path to trace,
+Till, clouds and darkness ended,
+They see Thee face to face.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

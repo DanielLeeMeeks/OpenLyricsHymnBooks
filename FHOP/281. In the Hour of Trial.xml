@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>In the Hour of Trial</title>
+		</titles>
+		<authors>
+			<author>James Montgomery</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>120752</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Intercessor</theme><theme> Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="281"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In the hour of trial,
+Jesus, plead for me,
+Lest, by base denial,
+I depart from Thee;
+When Thou see'st me waver,
+With a look recall;
+Nor for fear or favor
+Suffer me to fall.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>With forbidden pleasures
+Would this vain world charm;
+Or its sordid treasures
+Spread to work me harm;
+Bring to my remembrance
+Sad Gethsemane,
+Or, in darker semblance,
+Cross-crowned Calvary.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Should Thy mercy send me
+Sorrow, toil, and woe;
+Or should pain attend me
+On my path below;
+Grant that I may never
+Fail Thy hand to see;
+Grant that I may ever
+Cast my care on Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When my last hour cometh,
+Fraught with strife and pain,
+When my dust returneth
+To the dust again;
+On Thy truth relying
+Thro' that mortal strife;
+Lord, receive me, dying,
+To eternal life.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

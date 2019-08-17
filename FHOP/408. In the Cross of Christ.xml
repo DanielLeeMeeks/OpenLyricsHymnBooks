@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:34+04:00">
+	<properties>
+		<titles>
+			<title>In the Cross of Christ</title>
+		</titles>
+		<authors>
+			<author>John Bowring</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5703191</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="408"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In the cross of Christ I glory,
+Tow'ring o’er the wrecks of time;
+All the light of sacred story
+Gathers round its head sublime.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When the woes of life o’ertake me,
+Hopes deceive, and fears annoy,
+Never shall the cross forsake me:
+Lo! it glows with peace and joy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When the sun of bliss is beaming
+Light and love upon my way,
+From the cross the radiance streaming
+Adds more luster to the day.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Bane and blessing, pain and pleasure,
+By the cross are sanctified;
+Peace is there that knows no measure,
+Joys that thro' all time abide.</lines>
+		</verse>
+	</lyrics>
+</song>

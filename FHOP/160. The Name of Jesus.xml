@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:02+04:00">
+	<properties>
+		<titles>
+			<title>The Name of Jesus</title>
+		</titles>
+		<authors>
+			<author>W. C. Martin</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3448070</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Name</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="160"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The name of Jesus is so sweet,
+I love its music to repeat;
+It makes my joys full and complete,
+The precious name of Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Jesus,” oh, how sweet the name!
+“Jesus,” ev'ry day the same;
+“Jesus,” let all saints proclaim
+Its worthy praise forever.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I love the name of Him whose heart
+Knows all my griefs and bears a part;
+Who bids all anxious fears depart--
+I love the name of Jesus. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>That name I fondly love to hear,
+It never fails my heart to cheer;
+Its music dries the falling tear;
+Exalt the name of Jesus. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>No word of man can ever tell
+How sweet the name I love so well;
+Oh, let its praises ever swell,
+Oh, praise the name of Jesus. </lines>
+		</verse>
+	</lyrics>
+</song>

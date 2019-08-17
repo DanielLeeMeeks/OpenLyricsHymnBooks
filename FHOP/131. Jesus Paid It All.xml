@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:58+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Paid It All</title>
+		</titles>
+		<authors>
+			<author>Elvina M. Hall</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4689508</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="131"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I hear the Savior say,
+“Thy strength indeed is small,
+Child of weakness, watch and pray,
+Find in Me thine all in all.”</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus paid it all,
+All to Him I owe;
+Sin had left a crimson stain,
+He washed it white as snow.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, now indeed I find
+Thy pow’r, and Thine alone,
+Can change the leper’s spots,
+And melt the heart of stone. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>For nothing good have I
+Whereby Thy grace to claim--
+I’ll wash my garments white
+In the blood of Calv’ry’s Lamb. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>And when, before the throne,
+I stand in Him complete,
+"Jesus died my soul to save,"
+My lips shall still repeat. </lines>
+		</verse>
+	</lyrics>
+</song>

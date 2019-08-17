@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:54+04:00">
+	<properties>
+		<titles>
+			<title>Thy Holy Spirit, Lord, Alone</title>
+		</titles>
+		<authors>
+			<author>Henrietta E. Blair</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="97"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thy Holy Spirit, Lord, alone
+Can turn our hearts from sin;
+His pow'r alone can sanctify
+And keep us pure within.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy Holy Spirit, Lord, alone
+Can deeper love inspire;
+His pow'r alone within our souls
+Can light the sacred fire.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy Holy Spirit, Lord, can bring
+The gifts we seek in pray'r;
+His voice can words of comfort speak,
+And still each wave of care.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thy Holy Spirit, Lord, can give
+The grace we need this hour;
+And while we wait, O Spirit, come
+In sanctifying pow'r.</lines>
+		</verse>
+	</lyrics>
+</song>

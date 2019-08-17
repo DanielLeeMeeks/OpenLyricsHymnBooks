@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>The Beautiful Garden of Prayer</title>
+		</titles>
+		<authors>
+			<author>Eleanor A. Schroll</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>60252</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="117"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s a garden where Jesus is waiting,
+There’s a place that is wondrously fair;
+For it glows with the light of His presence,
+’Tis the beautiful garden of prayer.</lines>
+		</verse>
+		<verse name="c">
+		<lines>O the beautiful garden, the garden of prayer,
+O the beautiful garden of prayer;
+There my Savior awaits, and He opens the gates
+To the beautiful garden of prayer.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There’s a garden where Jesus is waiting,
+And I go with my burden and care,
+Just to learn from His lips words of comfort
+In the beautiful garden of prayer. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There’s a garden where Jesus is waiting,
+And He bids you to come meet Him there;
+Just to bow, and receive a new blessing,
+In the beautiful garden of prayer. </lines>
+		</verse>
+	</lyrics>
+</song>

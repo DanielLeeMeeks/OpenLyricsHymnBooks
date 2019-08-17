@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:57+04:00">
+	<properties>
+		<titles>
+			<title>Sweet Will of God</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="125"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My stubborn will at last hath yielded;
+I would be Thine, and Thine alone;
+And this the prayer my lips are bringing,
+"Lord, let in me Thy will be done."</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sweet will of God, still fold me closer,
+Till I am wholly lost in Thee.
+Sweet will of God, still fold me closer,
+Till I am wholly lost in Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I’m tired of sin, footsore and weary,
+The darksome path hath dreary grown;
+But now a light has ris’n to cheer me;
+I find in Thee my Star, my Sun. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy precious will, O conqu’ring Savior,
+Doth now embrace and compass me;
+All discords hushed, my peace a river,
+My soul, a prisoned bird set free. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Shut in with Thee, O Lord, forever,
+My wayward feet no more to roam;
+What pow’r from Thee my soul can sever?
+The center of God’s will my home. </lines>
+		</verse>
+	</lyrics>
+</song>

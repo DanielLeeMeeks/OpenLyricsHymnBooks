@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:32+04:00">
+	<properties>
+		<titles>
+			<title>I Will Follow Thee</title>
+		</titles>
+		<authors>
+			<author>Johnson Oatman, Jr.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>533813</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme><theme> Faithfulness: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="395"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Saviour, I will follow Thee;
+Thou art all the world to me;
+Tho’ the way I cannot see,
+Savior, I will follow Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Follow Thee, I will follow Thee,
+Follow Thee, I will follow Thee,
+Follow till the day is done,
+Follow till the crown is won,
+Saviour, I will follow Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Saviour, I will follow Thee,
+Tho’ it lead me to the cross;
+Counting all things here but dross,
+Savior, I will follow Thee. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Saviour, I will follow Thee,
+Tho’ it lead through toil and tears;
+Through the long and weary years,
+Savior, I will follow Thee. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Saviour, I will follow Thee
+Till the toils of life are o’er;
+Till I reach the Golden Shore,
+Saviour, I will follow Thee. </lines>
+		</verse>
+	</lyrics>
+</song>

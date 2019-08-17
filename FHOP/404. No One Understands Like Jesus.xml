@@ -1,0 +1,29 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:34+04:00">
+	<properties>
+		<titles>
+			<title>No One Understands Like Jesus</title>
+		</titles>
+		<authors>
+			<author>John W. Peterson</author>
+		</authors>
+		<copyright>© 1952 Norman Clayton Publishing</copyright>
+		<ccliNo>2791</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Friend</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="404"/>
+		</songbooks>
+		<comments>
+			<comment>Could not scrap this song.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

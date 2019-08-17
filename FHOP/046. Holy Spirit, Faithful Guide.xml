@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:47+04:00">
+	<properties>
+		<titles>
+			<title>Holy Spirit, Faithful Guide</title>
+		</titles>
+		<authors>
+			<author>Marcus M. Wells</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="46"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy Spirit, faithful Guide,
+Ever near the Christian’s side;
+Gently lead us by the hand,
+Pilgrims in a desert land;
+Weary souls fore’er rejoice,
+While they hear that sweetest voice,
+Whisp'ring softly, “Wand'rer, come!
+Follow Me, I’ll guide thee home.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ever present, truest Friend,
+Ever near Thine aid to lend,
+Leave us not to doubt and fear,
+Groping on in darkness drear;
+When the storms are raging sore,
+Hearts grow faint, and hopes give o’er.
+Whisp'ring softly, “Wand'rer, come!
+Follow Me, I’ll guide thee home.”</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When our days of toil shall cease,
+Waiting still for sweet release,
+Nothing left but heav'n and prayer,
+Wond'ring if our names were there;
+Wading deep the dismal flood,
+Pleading naught but Jesus’ blood,
+Whisp'ring softly, “Wand'rer, come!
+Follow Me, I’ll guide thee home.”
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

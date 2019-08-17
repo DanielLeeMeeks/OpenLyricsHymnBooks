@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>His Mighty Hand</title>
+		</titles>
+		<authors>
+			<author>George W. Whitcomb</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="314"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am saved from sin, I have peace within,
+And I walk with Jesus day by day;
+O His hand so strong, holds me all day long,
+And with Him I will not go astray.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He will hold me with His mighty hand!
+He will hold me with His mighty hand!
+In temptation He will help me stand!
+For He will hold me with His mighty hand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Many passed me by, heeding not my cry,
+But the Savior heard and rescued me;
+I was lost and blind, Jesus was so kind,
+Lo, He touched my eyes and now I see. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There’s a promise sure and it shall endure,
+“Lo, I will be with thee all the way;"
+And tho' foes assail, I shall still prevail,
+For I know He helps me watch and pray. (Refrai)</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There is sweeter peace, there is perfect peace,
+And my Father’s word is wondrous dear;
+There is mighty pow’r for each trying hour,
+There is love that “casteth out all fear!” </lines>
+		</verse>
+	</lyrics>
+</song>

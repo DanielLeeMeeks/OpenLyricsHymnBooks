@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>Rescue the Perishing</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4243504</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="194"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rescue the perishing,
+Care for the dying,
+Snatch them in pity from sin and the grave;
+Weep o’er the erring one,
+Lift up the fallen,
+Tell them of Jesus the mighty to save.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Rescue the perishing,
+Care for the dying;
+Jesus is merciful,
+Jesus will save.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though they are slighting Him,
+Still He is waiting,
+Waiting the penitent child to receive;
+Plead with them earnestly,
+Plead with them gently,
+He will forgive if they only believe. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Down in the human heart,
+Crushed by the tempter,
+Feelings lie buried that grace can restore;
+Touched by a loving heart,
+Wakened by kindness,
+Chords that are broken will vibrate once more. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Rescue the perishing,
+Duty demands it;
+Strength for thy labor the Lord will provide;
+Back to the narrow way
+Patiently win them;
+Tell the poor wand’rer a Savior has died. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>Angels, from the Realms of Glory</title>
+		</titles>
+		<authors>
+			<author>James Montgomery</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31669</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="92"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Angels, from the realms of glory,
+Wing your flight o'er all the earth;
+Ye, who sang creation's story,
+Now proclaim Messiah's birth:
+Come and worship, come and worship,
+Worship Christ, the newborn King.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Shepherds in the fields abiding,
+Watching o'er your flocks by night,
+God with man is now residing,
+Yonder shines the Infant-Light;
+Come and worship, come and worship,
+Worship Christ, the newborn King.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sages, leave your contemplations,
+Brighter visions beam afar;
+Seek the great Desire of nations,
+Ye have seen His natal star;
+Come and worship, come and worship,
+Worship Christ, the newborn King.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Saints, before the altar bending,
+Watching long in hope and fear,
+Suddenly the Lord, descending,
+In His temple shall appear;
+Come and worship, come and worship,
+Worship Christ, the newborn King.</lines>
+		</verse>
+	</lyrics>
+</song>

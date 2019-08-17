@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, and Shall It Ever Be?</title>
+		</titles>
+		<authors>
+			<author>Joseph Grigg</author>
+			<author>Benjamin Francis</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2958396</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="111"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, and shall it ever be,
+A mortal man ashamed of Thee?
+Ashamed of Thee, Whom angels praise
+Whose glories shine thro' endless days?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ashamed of Jesus! that dear Friend
+On whom my hopes of heav'n depend!
+No; when I blush, be this my shame,
+That I no more revere His name.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ashamed of Jesus! yes, I may,
+When I've no guilt to wash away;
+No tears to wipe, no good to crave,
+No fears to quell, no soul to save.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Till then--nor is my boasting vain--
+Till then I boast a Savior slain;
+And O, may this my glory be,
+That Christ is not ashamed of me.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

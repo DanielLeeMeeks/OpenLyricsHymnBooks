@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:31+04:00">
+	<properties>
+		<titles>
+			<title>Have Thine Own Way, Lord</title>
+		</titles>
+		<authors>
+			<author>Adelaide A. Pollard</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4342106</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Lord</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="387"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Have Thine own way, Lord!
+Have Thine own way!
+Thou art the Potter,
+I am the clay.
+Mould me and make me
+After Thy will,
+While I am waiting,
+Yielded and still.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Have Thine own way, Lord!
+Have Thine own way!
+Search me and try me,
+Master, today!
+Whiter than snow, Lord,
+Wash me just now,
+As in Thy presence
+Humbly I bow.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Have Thine own way, Lord!
+Have Thine own way!
+Wounded and weary,
+Help me, I pray.
+Power--all power--
+Surely is Thine!
+Touch me and heal me,
+Savior divine!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Have Thine own way, Lord!
+Have Thine own way!
+Hold o'er my being
+Absolute sway!
+Fill with Thy Spirit
+Till all shall see
+Christ only, always,
+Living in me!</lines>
+		</verse>
+	</lyrics>
+</song>

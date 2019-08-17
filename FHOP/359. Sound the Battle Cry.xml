@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:28+04:00">
+	<properties>
+		<titles>
+			<title>Sound the Battle Cry</title>
+		</titles>
+		<authors>
+			<author>William F. Sherwin</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="359"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sound the battle cry!
+See, the foe is nigh;
+Raise the standard high
+For the Lord;
+Gird your armor on,
+Stand firm, ev'ry one;
+Rest your cause upon His holy Word.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Rouse, then, soldiers, rally round the banner,
+Ready, steady, pass the word along;
+Onward, forward, shout aloud Hosanna!
+Christ is Captain of the mighty throng.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Strong to meet the foe,
+Marching on we go,
+While our cause we know,
+Must prevail;
+Shield and banner bright,
+Gleaming in the light;
+Battling for the right
+We ne’er can fail. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O! Thou God of all,
+Hear us when we call,
+Help us one and all
+By Thy grace;
+When the battle’s done,
+And the vict’ry’s won,
+May we wear the crown
+Before Thy face. </lines>
+		</verse>
+	</lyrics>
+</song>

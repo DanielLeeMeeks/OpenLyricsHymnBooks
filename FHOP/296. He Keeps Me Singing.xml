@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:20+04:00">
+	<properties>
+		<titles>
+			<title>He Keeps Me Singing</title>
+		</titles>
+		<authors>
+			<author>Luther B. Bridgers</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Name</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="296"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s within my heart a melody
+Jesus whispers sweet and low,
+Fear not, I am with thee, peace, be still,
+In all of life’s ebb and flow.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus, Jesus, Jesus--
+Sweetest name I know,
+Fills my ev'ry longing,
+Keeps me singing as I go.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All my life was wrecked by sin and strife,
+Discord filled my heart with pain,
+Jesus swept across the broken strings,
+Stirred the slumb’ring chords again. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Feasting on the riches of His grace,
+Resting ’neath His sheltering wing,
+Always looking on His smiling face,
+That is why I shout and sing. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Tho' sometimes He leads thro' waters deep,
+Trials fall across the way,
+Tho' sometimes the path seems rough and steep,
+See His footprints all the way. </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Soon He’s coming back to welcome me
+Far beyond the starry sky;
+I shall wing my flight to worlds unknown,
+I shall reign with Him on high. 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:43+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Savior, Pilot Me</title>
+		</titles>
+		<authors>
+			<author>Edward Hopper</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme><theme> Christ: Refuge</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="477"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Savior, pilot me,
+Over life's tempestuous sea;
+Unknown waves before me roll,
+Hiding rock and treacherous shoal;
+Chart and compass came from Thee:
+Jesus, Savior, pilot me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>As a mother stills her child,
+Thou canst hush the ocean wild;
+Boisterous waves obey Thy will
+When thou say'st to them, "Be still!"
+Wondrous Sov'reign of the sea,
+Jesus, Savior, pilot me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When at last I near the shore,
+And the fearful breakers roar
+'Twixt me and the peaceful rest,
+Then, while leaning on Thy breast,
+May I hear Thee say to me,
+"Fear not, I will pilot thee."</lines>
+		</verse>
+	</lyrics>
+</song>

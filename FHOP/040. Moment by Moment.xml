@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:46+04:00">
+	<properties>
+		<titles>
+			<title>Moment by Moment</title>
+		</titles>
+		<authors>
+			<author>Daniel W. Whittle</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="40"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Dying with Jesus, by death reckoned mine;
+Living with Jesus a new life divine;
+Looking to Jesus till glory doth shine,
+Moment by moment, O Lord, I am Thine.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Moment by moment I’m kept in His love;
+Moment by moment I’ve life from above;
+Looking to Jesus till glory doth shine;
+Moment by moment, O Lord, I am Thine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Never a trial that He is not there,
+Never a burden that He doth not bear,
+Never a sorrow that He doth not share,
+Moment by moment, I’m under His care. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Never a heartache, and never a groan,
+Never a teardrop and never a moan;
+Never a danger but there on the throne,
+Moment by moment He thinks of His own. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Never a weakness that He doth not feel,
+Never a sickness that He cannot heal;
+Moment by moment, in woe or in weal,
+Jesus, my Savior, abides with me still. </lines>
+		</verse>
+	</lyrics>
+</song>

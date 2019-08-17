@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>Saved!</title>
+		</titles>
+		<authors>
+			<author>Oswald J. Smith</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="229"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Saved! saved! saved! my sins are all forgiv'n;
+Christ is mine! I'm on my way to heav'n;
+Once a guilty sinner, lost, undone,
+Now a child of God, saved thro' His son.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Saved! I'm saved thro' Christ, my all in all;
+Saved! I'm saved, whatever may befall;
+He died upon the cross for me,
+He bore the awful penalty;
+And now I'm saved eternally--
+I'm saved, saved! saved!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Saved! saved! saved! by grace and grace alone;
+Oh, what wondrous love to me was shown,
+In my stead Christ Jesus bled and died,
+Bore my sins, for me was crucified. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Saved! saved! saved! oh, joy beyond compare!
+Christ my life, and I His constant care;
+Yielding all and trusting Him alone,
+Living now each moment as His own. </lines>
+		</verse>
+	</lyrics>
+</song>

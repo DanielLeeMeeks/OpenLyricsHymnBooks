@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>The Solid Rock</title>
+		</titles>
+		<authors>
+			<author>Edward Mote</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4255633</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Rock</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="310"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My hope is built on nothing less
+Than Jesus' blood and righteousness;
+I dare not trust the sweetest frame,
+But wholly lean on Jesus' name.</lines>
+		</verse>
+		<verse name="c">
+		<lines>On Christ, the solid Rock, I stand;
+All other ground is sinking sand,
+All other ground is sinking sand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When darkness veils His lovely face,
+I rest on His unchanging grace;
+In ev'ry high and stormy gale,
+My anchor holds within the veil. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>His oath, His covenant, His blood
+Support me in the whelming flood;
+When all around my soul gives way,
+He then is all my hope and stay. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When He shall come with trumpet sound,
+Oh, may I then in Him be found;
+Dressed in His righteousness alone,
+Faultless to stand before the throne. </lines>
+		</verse>
+	</lyrics>
+</song>

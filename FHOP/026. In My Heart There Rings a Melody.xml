@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:03+04:00">
+	<properties>
+		<titles>
+			<title>In My Heart There Rings a Melody</title>
+		</titles>
+		<authors>
+			<author>Elton M. Roth</author>
+		</authors>
+		<copyright>© 1924, Ren. 1951 Hope Publishing Co.</copyright>
+		<ccliNo>12080</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="26"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I have a song that Jesus gave me,
+It was sent from heav'n above;
+There never was a sweeter melody,
+'Tis a melody of love.</lines>
+		</verse>
+		<verse name="c">
+		<lines>In my heart there rings a melody,
+There rings a melody with heaven's harmony;
+In my heart there rings a melody;
+There rings a melody of love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I love the Christ who died on Calv'ry,
+For He washed my sins away;
+He put within my heart a melody,
+And I know it's there to stay. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Twill be my endless theme in glory,
+With the angels I will sing;
+'Twill be a song with glorious harmony,
+When the courts of heaven ring. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Beautiful Words of Jesus</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="325"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Beautiful words of Jesus,
+Spoken so long ago,
+Yet, as we sing them over,
+Dearer to us they grow,
+Calling the heavy laden,
+Calling to hearts oppressed,
+“Come unto Me, ye weary;
+Come, I will give you rest.”</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hear the call of His voice, so sweet;
+Bring your load to the Savior’s feet;
+Lean your heart on His loving breast,
+Come, O come,and He will give you rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Beautiful words of Jesus,
+Cheering us, day by day;
+Throwing a gleam of sunshine
+Over a cloudy way;
+Casting on Him the burden
+We are too weak to bear,
+He will give grace sufficient,
+He will regard our prayer. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Beautiful words of Jesus,
+Tokens of endless rest,
+When, by and by, we enter
+Into His presence blest;
+There shall we see His beauty,
+Meet with Him face to face;
+There shall we sing His glory,
+Praising His matchless grace. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>Look to the Lamb of God</title>
+		</titles>
+		<authors>
+			<author>H. G. Jackson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="53"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>If you from sin are longing to be free,
+Look to the Lamb of God;
+He, to redeem you, died on Calvary,
+Look to the Lamb of God.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Look to the Lamb of God,
+Look to the Lamb of God,
+For He alone is able to save you,
+Look to the Lamb of God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When Satan tempts, and doubts and fears assail,
+Look to the Lamb of God;
+You in His strength shall over all prevail,
+Look to the Lamb of God. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Are you aweary, does the way seem long?
+Look to the Lamb of God;
+His love will cheer and fill your heart with song,
+Look to the Lamb of God. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fear not when shadows on your pathway fall,
+Look to the Lamb of God;
+In joy or sorrow Christ is all in all,
+Look to the Lamb of God. </lines>
+		</verse>
+	</lyrics>
+</song>

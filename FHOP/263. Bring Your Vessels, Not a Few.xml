@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:15+04:00">
+	<properties>
+		<titles>
+			<title>Bring Your Vessels, Not a Few</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Invitation: for Consecration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="263"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Are you looking for the fullness of the blessing of the Lord
+In your heart and life today?
+Claim the promise of your Father, come according to His word,
+In the blessed old-time way.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He will fill your heart today to overflowing,
+As the Lord commandeth you,
+"Bring your vessels, not a few;"
+He will fill your heart today to overflowing
+With the Holy Ghost and pow'r.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bring your empty earthen vessels, clean thro' Jesus' precious blood,
+Come, ye needy, one and all;
+And in human consecration wait before the throne of God,
+'Till the Holy Ghost shall fall. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Like the cruse of oil unfailing is His grace forevermore,
+And His love unchanging still;
+And according to His promise with the Holy Ghost and pow'r,
+He will ev'ry vessel fill. </lines>
+		</verse>
+	</lyrics>
+</song>

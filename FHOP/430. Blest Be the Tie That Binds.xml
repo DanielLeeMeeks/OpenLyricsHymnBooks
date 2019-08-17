@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>Blest Be the Tie That Binds</title>
+		</titles>
+		<authors>
+			<author>John Fawcett</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>25369</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Fellowship: of Believers</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="430"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Blest be the tie that binds
+Our hearts in Christian love;
+The fellowship of kindred minds
+Is like to that above.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Before our Father's throne
+We pour our ardent prayers;
+Our fears, our hopes, our aims are one,
+Our comforts and our cares.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We share our mutual woes,
+Our mutual burdens bear;
+And often for each other flows
+The sympathizing tear.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When we asunder part,
+It gives us inward pain;
+But we shall still be joined in heart,
+And hope to meet again.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

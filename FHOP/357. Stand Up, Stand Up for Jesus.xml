@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:27+04:00">
+	<properties>
+		<titles>
+			<title>Stand Up, Stand Up for Jesus</title>
+		</titles>
+		<authors>
+			<author>George Duffield</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7056334</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="357"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Stand up, stand up for Jesus,
+Ye soldiers of the cross;
+Lift high His royal banner,
+It must not suffer loss:
+From vict'ry unto vict'ry,
+His army shall He lead,
+Till ev'ry foe is vanquished
+And Christ is Lord indeed.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Stand up, stand up for Jesus,
+The trumpet call obey;
+Forth to the mighty conflict
+In this His glorious day.
+"Ye that are men now serve Him"
+Against unnumbered foes;
+Let courage rise with danger,
+And strength to strength oppose.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Stand up, stand up for Jesus,
+Stand in His strength alone;
+The arm of flesh will fail you--
+Ye dare not trust your own:
+Put on the gospel armor,
+Each piece put on with prayer;
+Where duty calls, or danger,
+Be never wanting there.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Stand up, stand up for Jesus,
+The strife will not be long;
+This day the noise of battle,
+The next, the victor's song:
+To him that overcometh
+A crown of life shall be:
+He with the King of glory
+Shall reign eternally.</lines>
+		</verse>
+	</lyrics>
+</song>

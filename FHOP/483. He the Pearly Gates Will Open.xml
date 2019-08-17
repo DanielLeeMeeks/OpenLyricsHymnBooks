@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:44+04:00">
+	<properties>
+		<titles>
+			<title>He the Pearly Gates Will Open</title>
+		</titles>
+		<authors>
+			<author>Fred Blom</author>
+			<author>Nathaniel Carlson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Love</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="483"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Love Divine, so great and wondrous,
+Deep and mighty, pure, sublime!
+Coming from the heart of Jesus,
+Just the same thro' tests of time.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He the pearly gates will open,
+So that I may enter in;
+For He purchased my redemption,
+And forgave me all my sin.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Like a dove when hunted, frightened,
+As a wounded fawn was I;
+Brokenhearted, yet He healed me,
+He will heed the sinner’s cry. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Love Divine, so great and wondrous,
+All my sins He then forgave!
+I will sing His praise forever,
+For His blood, His pow'r to save. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>In life’s eventide, at twilight,
+At His door I’ll knock and wait;
+By the precious love of Jesus
+I shall enter heaven’s gate. </lines>
+		</verse>
+	</lyrics>
+</song>

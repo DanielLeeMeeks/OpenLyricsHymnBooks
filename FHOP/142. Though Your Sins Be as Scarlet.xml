@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>Though Your Sins Be as Scarlet</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Choir</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="142"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Tho' your sins be as scarlet,
+They shall be as white as snow;
+Tho' your sins be as scarlet,
+They shall be as white as snow;
+Tho' they be red like crimson,
+They shall be as wool!"
+"Tho' your sins be as scarlet,
+Tho' your sins be as scarlet,
+They shall be as white as snow,
+They shall be as white as snow."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hear the voice that entreats you,
+O return ye unto God!
+Hear the voice that entreats you,
+O return ye unto God!
+He is great compassion,
+And of wondrous love;
+Hear the voice that entreats you,
+Hear the voice that entreats you,
+O return ye unto God!
+O return ye unto God!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He'll forgive your transgressions,
+And remember them no more;
+He'll forgive your transgressions,
+And remember them no more;
+"Look unto Me, ye people,"
+Saith the Lord your God!
+He'll forgive your transgressions
+He'll forgive your transgressions,
+And remember them no more,
+And remember them no more.</lines>
+		</verse>
+	</lyrics>
+</song>

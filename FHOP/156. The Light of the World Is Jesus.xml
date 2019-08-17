@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>The Light of the World Is Jesus</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Light</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="156"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The whole world was lost in the darkness of sin;
+The Light of the world is Jesus;
+Like sunshine at noonday his glory shone in,
+The Light of the world is Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Come to the Light, 'tis shining for thee;
+Sweetly the Light has dawned upon me;
+Once I was blind, but now I can see;
+The Light of the world is Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No darkness have we who in Jesus abide,
+The Light of the world is Jesus;
+We walk in the Light when we follow our Guide,
+The Light of the world is Jesus. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ye dwellers in darkness with sin-blinded eyes,
+The Light of the world is Jesus;
+Go, wash at His bidding, and light will arise,
+The Light of the world is Jesus. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>No need of the sunlight in heaven, we're told,
+The Light of the world is Jesus;
+The Lamb is the Light in the City of Gold,
+The Light of the world is Jesus. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:17+04:00">
+	<properties>
+		<titles>
+			<title>Lead, Kindly Light</title>
+		</titles>
+		<authors>
+			<author>John H. Newman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme><theme> Christ: Light</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="277"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lead, kindly Light, amid th'encircling gloom,
+Lead Thou me on!
+The night is dark, and I am far from home;
+Lead Thou me on!
+Keep Thou my feet; I do not ask to see
+The distant scene; one step enough for me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I was not ever thus, nor prayed that Thou
+Shouldst lead me on;
+I loved to choose and see my path; but now
+Lead Thou me on!
+I loved the garish day, and, spite of fears,
+Pride ruled my will. Remember not past years!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>So long Thy pow'r hath blest me, sure it still
+Will lead me on,
+O'er moor and fen, o'er crag and torrent, till
+The night is gone,
+And with the morn those angel faces smile,
+Which I have loved long since, and lost awhile!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

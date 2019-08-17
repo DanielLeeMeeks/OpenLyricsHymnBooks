@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:49+04:00">
+	<properties>
+		<titles>
+			<title>Lord, I'm Coming Home</title>
+		</titles>
+		<authors>
+			<author>William J. Kirkpatrick</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="63"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I’ve wandered far away from God,
+Now I’m coming home;
+The paths of sin too long I’ve trod,
+Lord, I’m coming home.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Coming home, coming home,
+Never more to roam,
+Open wide Thine arms of love,
+Lord, I’m coming home.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I’ve wasted many precious years,
+Now I’m coming home;
+I now repent with bitter tears,
+Lord, I’m coming home. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I’m tired of sin and straying, Lord,
+Now I’m coming home;
+I’ll trust Thy love, believe Thy word,
+Lord, I’m coming home. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>My soul is sick, my heart is sore,
+Now I’m coming home;
+My strength renew, my home restore,
+Lord, I’m coming home. </lines>
+		</verse>
+	</lyrics>
+</song>

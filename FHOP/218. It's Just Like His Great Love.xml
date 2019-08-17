@@ -1,0 +1,69 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:10+04:00">
+	<properties>
+		<titles>
+			<title>It's Just Like His Great Love</title>
+		</titles>
+		<authors>
+			<author>Edna H. Worrell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Love</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="218"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A Friend I have called Jesus,
+Whose love is strong and true,
+And never fails howe’er ’tis tried,
+No matter what I do;
+I sinned against this love of His,
+But when I knelt to pray,
+Confessing all my guilt to Him,
+The sin-clouds rolled away.</lines>
+		</verse>
+		<verse name="c">
+		<lines>It’s just like Jesus to roll the clouds away,
+It’s just like Jesus to keep me day by day.
+It’s just like Jesus all along the way,
+It’s just like His great love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sometimes the clouds of trouble
+Bedim the sky above,
+I cannot see my Savior’s face,
+I doubt His wondrous love;
+But He, from Heaven’s mercy seat,
+Beholding my despair,
+In pity bursts the clouds between,
+And shows me He is there. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When sorrow’s clouds o’ertake me,
+And break upon my head,
+When life seems worse than useless,
+And I were better dead;
+I take my grief to Jesus then,
+Nor do I go in vain,
+For heav’nly hope He gives that cheers
+Like sunshine after rain. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, I could sing forever
+Of Jesus’ love divine,
+Of all His care and tenderness
+For this poor life of mine;
+His love is in and over all,
+And wind and waves obey
+When Jesus whispers, “Peace, be still!”
+And rolls the clouds away. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:28+04:00">
+	<properties>
+		<titles>
+			<title>To the Work!</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="363"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>To the work! to the work! we are servants of God,
+Let us follow the path that our Master has trod;
+With the balm of His counsel our strength to renew,
+Let us do with our might what our hands find to do.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Toiling on, toiling on,
+Toiling on, toiling on;
+Let us hope, let us watch,
+And labor till the Master comes.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To the work! to the work! let the hungry be fed;
+To the fountain of life let the weary be led;
+In the cross and its banner our glory shall be,
+While we herald the tidings, "Salvation is free!" </lines>
+		</verse>
+		<verse name="v3">
+			<lines>To the work! to the work! there is labor for all;
+For the kingdom of darkness and error shall fall;
+And the name of Jehovah exalted shall be,
+In the loud-swelling chorus, "Salvation is free!" </lines>
+		</verse>
+		<verse name="v4">
+			<lines>To the work! to the work! in the strength of the Lord,
+And a robe and a crown shall our labor reward,
+When the home of the faithful our dwelling shall be,
+And we shout with the ransomed, "Salvation is free!" </lines>
+		</verse>
+	</lyrics>
+</song>

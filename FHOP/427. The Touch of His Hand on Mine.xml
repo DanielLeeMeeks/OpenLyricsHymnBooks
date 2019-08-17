@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>The Touch of His Hand on Mine</title>
+		</titles>
+		<authors>
+			<author>Jessie B. Pounds</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="427"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There are days so dark that I seek in vain
+For the face of my Friend Divine;
+But tho' darkness hide, He is there to guide
+By the touch of His hand on mine.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, the touch of His hand on mine,
+Oh, the touch of His hand on mine!
+There is grace and pow’r, in the trying hour,
+In the touch of His hand on mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There are times, when tired of the toilsome road,
+That for ways of the world I pine;
+But He draws me back to the upward track
+By the touch of His hand on mine. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When the way is dim, and I cannot see
+Thro' the mist of His wise design,
+How my glad heart yearns and my faith returns
+By the touch of His hand on mine. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>In the last sad hour, as I stand alone
+Where the powers of death combine,
+While the dark waves roll He will guide my soul
+By the touch of His hand on mine. </lines>
+		</verse>
+	</lyrics>
+</song>

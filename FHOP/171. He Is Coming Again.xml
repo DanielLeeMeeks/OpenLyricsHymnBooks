@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>He Is Coming Again</title>
+		</titles>
+		<authors>
+			<author>Mable Johnston Camp</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="171"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lift up your heads,
+Pilgrims a-weary,
+See day’s approach
+Now crimson the sky;
+Night shadows flee,
+And your Belovèd,
+Awaited with longing,
+At last draweth nigh.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He is coming again,
+He is coming again,
+The very same Jesus,
+Rejected of men;
+He is coming again,
+He is coming again,
+With pow'r and great glory,
+He is coming again!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Dark was the night,
+Sin warred against us;
+Heavy the load
+Of sorrow we bore;
+But now we see
+Signs of His coming;
+Our hearts glow within us,
+Joy’s cup runneth o’er! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O blessèd hope!
+O blissful promise!
+Filling our hearts w
+Wth rapture divine;
+O day of days!
+Hail Thy appearing!
+Thy transcendent glory
+Forever shall shine. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Even so come,
+Precious Lord Jesus;
+Creation waits
+Redemption to see;
+Caught up in clouds,
+Soon we shall meet Thee;
+O blessèd assurance,
+Forever with Thee! </lines>
+		</verse>
+	</lyrics>
+</song>

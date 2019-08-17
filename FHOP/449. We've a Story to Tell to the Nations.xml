@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>We've a Story to Tell to the Nations</title>
+		</titles>
+		<authors>
+			<author>H. Ernest Nichol</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Missionary</theme><theme> Social Righteousness</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="449"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We've a story to tell to the nations
+That shall turn their hearts to the right,
+A story of truth and mercy,
+A story of peace and light,
+A story of peace and light.</lines>
+		</verse>
+		<verse name="c">
+		<lines>For the darkness shall turn to dawning,
+And the dawning to noon-day bright,
+And Christ's great kingdom shall come on earth,
+The kingdom of love and light.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We've a song to be sung to the nations
+That shall lift their hearts to the Lord,
+A song that shall conquer evil
+And shatter the spear and sword,
+And shatter the spear and sword. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>We've a message to give to the nations
+That the Lord who reigneth above
+Hath sent us His Son to save us,
+And show us that God is love,
+And show us that God is love. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>We've a Savior to show to the nations
+Who the path of sorrow hath trod,
+That all of the world's great peoples
+Might come to the truth of God,
+Might come to the truth of God. </lines>
+		</verse>
+	</lyrics>
+</song>

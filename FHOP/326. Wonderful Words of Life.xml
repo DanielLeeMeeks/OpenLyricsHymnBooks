@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Wonderful Words of Life</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="326"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sing them over again to me,
+Wonderful words of Life;
+Let me more of their beauty see,
+Wonderful words of Life.
+Words of life and beauty,
+Teach me faith and duty:</lines>
+		</verse>
+		<verse name="c">
+		<lines>Beautiful words, wonderful words,
+Wonderful words of Life.
+Beautiful words, wonderful words,
+Wonderful words of Life.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Christ, the blessed One, gives to all,
+Wonderful words of Life;
+Sinner, list to the loving call,
+Wonderful words of Life.
+All so freely given,
+Wooing us to Heaven: </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sweetly echo the gospel call,
+Wonderful words of Life,
+Offer pardon and peace to all,
+Wonderful words of Life.
+Jesus, only Savior,
+Sanctify for ever: </lines>
+		</verse>
+	</lyrics>
+</song>

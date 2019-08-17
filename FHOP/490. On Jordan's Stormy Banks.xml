@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+	<properties>
+		<titles>
+			<title>On Jordan's Stormy Banks</title>
+		</titles>
+		<authors>
+			<author>Samuel Stennett</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1200846</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="490"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>On Jordan's stormy banks I stand,
+And cast a wishful eye
+To Canaan's fair and happy land,
+Where my possessions lie.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I am bound for the promised land,
+I am bound for the promised land;
+O who will come and go with me?
+I am bound for the promised land.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All o'er those wide-extended plains
+Shines one eternal day;
+There God, the Son, forever reigns
+And scatters night away. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>No chilling winds, nor pois'nous breath
+Can reach that healthful shore;
+Sickness and sorrow, pain and death
+Are felt and feared no more. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When shall I reach that happy place,
+And be forever blest?
+When shall I see my Father's face
+and in His bosom rest? </lines>
+		</verse>
+	</lyrics>
+</song>

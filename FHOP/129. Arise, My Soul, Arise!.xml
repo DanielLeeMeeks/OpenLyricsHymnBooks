@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:58+04:00">
+	<properties>
+		<titles>
+			<title>Arise, My Soul, Arise!</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2570138</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Intercessor</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="129"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Arise, my soul, arise,
+Shake off thy guilty fears;
+The bleeding Sacrifice
+In my behalf appears;
+Before the Throne my Surety stands,
+Before the Throne my Surety stands,:
+My name is written on his hands.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He ever lives above,
+For me to intercede,
+His all-redeeming love,
+His precious blood to plead;
+His blood atoned for all our race,
+His blood atoned for all our race,
+And sprinkles now the throne of grace.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Five bleeding wounds he bears,
+Received on Calvary;
+They pour effectual prayers,
+They strongly plead for me:
+"Forgive him, O forgive," they cry,
+"Forgive him, O forgive," they cry,
+"Nor let that ransomed sinner die!"</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My God is reconciled;
+His pard'ning voice I hear;
+He owns me for His child,
+I can no longer fear;
+With confidence I now draw nigh,
+With confidence I now draw nigh,
+And "Father, Abba, Father!" cry.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

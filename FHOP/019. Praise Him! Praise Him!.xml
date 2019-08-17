@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:02+04:00">
+	<properties>
+		<titles>
+			<title>Praise Him! Praise Him!</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4869407</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Christ: Sacrifice</theme><theme> Christ: Shepherd</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="19"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise Him! praise Him!
+Jesus, our blessèd Redeemer!
+Sing, O Earth, His wonderful love proclaim!
+Hail Him! hail Him! highest archangels in glory;
+Strength and honor give to His holy name!
+Like a shepherd, Jesus will guard His children,
+In His arms He carries them all day long:</lines>
+		</verse>
+		<verse name="c">
+		<lines>Praise Him! praise Him!
+tell of His excellent greatness;
+Praise Him! praise Him!
+ever in joyful song!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Praise Him! praise Him!
+Jesus, our blessèd Redeemer!
+For our sins He suffered, and bled, and died;
+He our Rock, our hope of eternal salvation,
+Hail Him! hail Him! Jesus the Crucified.
+Sound His Praises! Jesus who bore our sorrows,
+Love unbounded, wonderful, deep and strong: </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Praise Him! praise Him!
+Jesus, our blessèd Redeemer!
+Heav'nly portals loud with hosannas ring!
+Jesus, Savior, reigneth forever and ever;
+Crown Him! crown Him! Prophet, and Priest, and King!
+Christ is coming! over the world victorious,
+Pow'r and glory unto the Lord belong: </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:12+04:00">
+	<properties>
+		<titles>
+			<title>Must I Go, and Empty-Handed?</title>
+		</titles>
+		<authors>
+			<author>Charles C. Luther</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>487983</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="236"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>“Must I go, and empty-handed,”
+Thus my dear Redeemer meet?
+Not one day of service give Him,
+Lay no trophy at His feet?</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Must I go, and empty-handed?”
+Must I meet my Savior so?
+Not one soul with which to greet Him:
+Must I empty-handed go?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not at death I shrink nor falter,
+For my Savior saves me now;
+But to meet Him empty-handed,
+Tho't of that now clouds my brow. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O the years in sinning wasted,
+Could I but recall them now,
+I would give them to my Savior,
+To His will I’d gladly bow. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>O ye saints, arouse, be earnest,
+Up and work while yet ’tis day;
+Ere the night of death o’ertake thee,
+Strive for souls while still you may. </lines>
+		</verse>
+	</lyrics>
+</song>

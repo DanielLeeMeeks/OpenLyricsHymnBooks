@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>God of Our Fathers, Whose Almighty Hand</title>
+		</titles>
+		<authors>
+			<author>Daniel O. Roberts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3912850</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> National</theme><theme> Social Righteousness</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="454"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God of our fathers, whose almighty hand
+Leads forth in beauty all the starry band
+Of shining worlds in splendor thro' the skies,
+Our grateful songs before Thy throne arise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy love divine hath led us in the past,
+In this free land by Thee our lot is cast;
+Be Thou our ruler, guardian, guide and stay,
+Thy word our law, Thy paths our chosen way.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>From war's alarms, from deadly pestilence,
+Be Thy strong arm our ever sure defense;
+Thy true religion in our hearts increase,
+Thy bounteous goodness nourish us in peace.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Refresh Thy people on their toilsome way;,
+Lead us from night to never-ending day;
+Fill all our lives with love and grace divine;
+And glory, laud, and praise be ever Thine.</lines>
+		</verse>
+	</lyrics>
+</song>

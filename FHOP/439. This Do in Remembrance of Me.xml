@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:38+04:00">
+	<properties>
+		<titles>
+			<title>This Do in Remembrance of Me</title>
+		</titles>
+		<authors>
+			<author>Helen E. Fromm</author>
+		</authors>
+		<copyright>© 1953, Ren. 1981 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="439"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The trial of the cross was approaching
+With its bitterness, sorrow and pain,
+When there in the upper room, Jesus
+Spoke with His disciples again.</lines>
+		</verse>
+		<verse name="c">
+		<lines>This do in remembrance of Me,
+This do in remembrance of Me;
+The wine and the bread speak of blood that was shed;
+This do in remembrance of Me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Then take of the bread to remember
+That His body was broken for you;
+And drink of the cup to remember
+His blood that was shed for you too. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The Saviour now liveth in glory,
+Triumphant o'er death and o'er sin;
+Until He shall come for His dear ones,
+Do this in remembrance of Him.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Do this in remembrance of Him,
+Do this in remembrance of Him;
+The wine and the bread speak of blood that was shed;
+Do this in remembrance of Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The Son of God gave to His children
+This token in mem'ry of Him;
+Come, take of the bread of life freely,
+And let His blood cleanse you from sin. </lines>
+		</verse>
+	</lyrics>
+</song>

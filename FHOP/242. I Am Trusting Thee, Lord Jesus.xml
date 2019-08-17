@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:12+04:00">
+	<properties>
+		<titles>
+			<title>I Am Trusting Thee, Lord Jesus</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="242"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am trusting Thee, Lord Jesus!
+Trusting only Thee!
+Trusting Thee for full salvation,
+Great and free.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I am trusting Thee, Lord Jesus!
+At Thy feet I bow,
+For Thy grace and tender mercy,
+Trusting now!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I am trusting Thee to guide me:
+Thou alone shalt lead,
+Ev'ry day and hour supplying
+All my need.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I am trusting Thee, Lord Jesus!
+Never let me fall!
+I am trusting Thee forever,
+And for all.</lines>
+		</verse>
+	</lyrics>
+</song>

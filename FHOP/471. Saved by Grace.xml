@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:42+04:00">
+	<properties>
+		<titles>
+			<title>Saved by Grace</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4243504</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="471"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Some day the silver cord will break,
+And I no more as now shall sing;
+But oh, the joy when I shall wake
+Within the palace of the King!</lines>
+		</verse>
+		<verse name="c">
+		<lines>And I shall see Him face to face,
+And tell the story—-Saved by grace;
+And I shall see Him face to face,
+And tell the story—-Saved by grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Some day my earthly house will fall,
+I cannot tell how soon ’twill be;
+But this I know-—my All in All
+Has now a place in heav’n for me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Some day, when fades the golden sun
+Beneath the rosy-tinted west,
+My blessed Lord will say, “Well done!”
+And I shall enter into rest. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Some day: till then I’ll watch and wait,
+My lamp all trimmed and burning bright,
+That when my Savior opes the gate,
+My soul to Him may take its flight. </lines>
+		</verse>
+	</lyrics>
+</song>

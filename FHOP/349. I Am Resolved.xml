@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:26+04:00">
+	<properties>
+		<titles>
+			<title>I Am Resolved</title>
+		</titles>
+		<authors>
+			<author>Palmer Hartsough</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>92969</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="349"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am resolved no longer to linger,
+Charmed by the world's delight;
+Things that are higher, things that are nobler,
+These have allured my sight.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I will hasten to Him,
+Hasten so glad and free,
+Jesus, Greatest, Highest,
+I will come to Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I am resolved to go to the Savior,
+Leaving my sin and strife;
+He is the true One, He is the just One,
+He hath the words of life. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I am resolved to follow the Savior,
+Faithful and true each day;
+Heed what He sayeth, do what He willeth,
+He is the living way. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I am resolved to enter the Kingdom,
+Leaving the paths of sin;
+Friends may oppose me, foes may beset me,
+Still will I enter in. </lines>
+		</verse>
+	</lyrics>
+</song>

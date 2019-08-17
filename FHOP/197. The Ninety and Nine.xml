@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:07+04:00">
+	<properties>
+		<titles>
+			<title>The Ninety and Nine</title>
+		</titles>
+		<authors>
+			<author>Elizabeth C. Clephane</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme><theme> Christ: Shepherd</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="197"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There were ninety and nine that safely lay
+In the shelter of the fold,
+But one was out on the hills away,
+Far off from the gates of gold--
+Away on the mountains wild and bare,
+Away from the tender Shepherd’s care,
+Away from the tender Shepherd’s care.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>“Lord, Thou hast here Thy ninety and nine;
+Are they not enough for Thee?”
+But the Shepherd made answer: “This of Mine
+Has wandered away from me.
+And although the road be rough and steep,
+I go to the desert to find my sheep,
+I go to the desert to find my sheep.”</lines>
+		</verse>
+		<verse name="v3">
+			<lines>But none of the ransomed ever knew
+How deep were the waters crossed;
+Nor how dark was the night the Lord passed thro'
+Ere He found His sheep that was lost.
+Out in the desert He heard its cry--
+Sick and helpless and ready to die;
+Sick and helpless and ready to die.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>“Lord, whence are those blood-drops all the way,
+That mark out the mountain’s track?”
+“They were shed for one who had gone astray
+Ere the Shepherd could bring him back.”
+“Lord, whence are Thy hands so rent and torn?”
+"They’re pierced tonight by many a thorn;
+They’re pierced tonight by many a thorn.”</lines>
+		</verse>
+		<verse name="v5">
+			<lines>But all thro' the mountains, thunder-riv’n,
+And up from the rocky steep,
+There arose a glad cry to the gate of heav’n,
+“Rejoice! I have found my sheep!”
+And the angels echoed around the throne,
+“Rejoice, for the Lord brings back His own!
+Rejoice, for the Lord brings back His own!”</lines>
+		</verse>
+	</lyrics>
+</song>

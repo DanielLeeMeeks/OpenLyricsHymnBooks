@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>The Regions Beyond</title>
+		</titles>
+		<authors>
+			<author>Albert B. Simpson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>198959</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="448"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>To the regions beyond I must go, I must go,
+Where the story has never been told;
+To the millions that never have heard of His love,
+I must tell the sweet story of old.</lines>
+		</verse>
+		<verse name="c">
+		<lines>To the regions beyond I must go, I must go,
+Till the world, all the world,
+His salvation shall know.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To the hardest of places He calls me to go,
+Never thinking of comfort or ease;
+The world may pronounce me a dreamer, a fool,
+Enough if the Master I please. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, ye that are spending your leisure and pow'rs
+In those pleasures so foolish and fond;
+Awake from your selfishness, folly and sin,
+And go to the regions beyond. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There are other “lost sheep” that the Master must bring,
+And to them must the message be told;
+He sends me to gather them out of all lands,
+And welcome them back to His fold. </lines>
+		</verse>
+	</lyrics>
+</song>

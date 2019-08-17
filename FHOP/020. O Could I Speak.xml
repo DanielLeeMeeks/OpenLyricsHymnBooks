@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:02+04:00">
+	<properties>
+		<titles>
+			<title>O Could I Speak</title>
+		</titles>
+		<authors>
+			<author>Samuel Medley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7107990</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="20"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O could I speak the matchless worth,
+O could I sound the glories forth
+Which in my Savior shine,
+I'd soar and touch the heav'nly strings,
+And vie with Gabriel while he sings
+In notes almost divine,
+In notes almost divine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I'd sing the precious blood He spilt,
+My ransom from the dreadful guilt
+Of sin, and wrath divine;
+I'd sing His glorious righteousness,
+In which all-perfect, heav'nly dress
+My soul shall ever shine,
+My soul shall ever shine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I'd sing the characters He bears,
+And all the forms of love He wears,
+Exalted on His throne;
+In loftiest songs of sweetest praise,
+I would to everlasting days
+Make all His glories known,
+Make all His glories known.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Well, the delightful day will come
+When my dear Lord will bring me home,
+And I shall see His face;
+Then with my Saviour, Brother, Friend,
+A blest eternity I'll spend,
+Triumphant in His grace,
+Triumphant in His grace.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:17+04:00">
+	<properties>
+		<titles>
+			<title>Lord, Speak to Me</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4868154</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Teacher</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="273"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, speak to me that I may speak
+In living echoes of Thy tone;
+As Thou hast sought, so let me seek
+Thy erring children lost and lone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O teach me, Lord, that I may teach
+The precious things Thou dost impart;
+And wing my words, that they may reach
+The hidden depths of many a heart.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O fill me with Thy fullness, Lord,
+Until my very heart o'erflow
+In kindling thought and glowing word
+Thy love to tell, Thy praise to show.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O use me, Lord, use even me,
+Just as Thou wilt and when and where;
+Until Thy blessed face I see,
+Thy rest, Thy joy, Thy glory share.</lines>
+		</verse>
+	</lyrics>
+</song>

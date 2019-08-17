@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:46+04:00">
+	<properties>
+		<titles>
+			<title>Precious Hiding Place</title>
+		</titles>
+		<authors>
+			<author>Avis B. Christiansen</author>
+		</authors>
+		<copyright>© 1928, Ren. 1956 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Love</theme><theme> Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="41"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I was straying when Christ found me
+In the night so dark and cold;
+Tenderly His arm went around me,
+And He bore me to His fold.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Precious hiding place,
+Precious hiding place,
+In the shelter of His love;
+Not a doubt or fear,
+Since my Lord is near,
+And I'm sheltered in His love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>With His nail-scarred hand He bro't me
+To the shelter of His love;
+Of His grace and will He taught me,
+And of heav'nly rest above. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tho' the night be dark around me
+I am safe, for He is near;
+Never shall my foes confound me,
+While the Savior's voice I hear. </lines>
+		</verse>
+	</lyrics>
+</song>

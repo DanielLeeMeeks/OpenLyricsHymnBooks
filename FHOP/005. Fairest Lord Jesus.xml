@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>Fairest Lord Jesus</title>
+		</titles>
+		<authors>
+			<author>Joseph A. Seiss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="5"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Fairest Lord Jesus!
+Ruler of all nature!
+O Thou of God and man the Son!
+Thee will I cherish,
+Thee will I honor,
+Thou, my soul's glory, joy, and crown!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Fair are the meadows,
+Fairer still the woodlands,
+Robed in the blooming garb of spring;
+Jesus is fairer,
+Jesus is purer,
+Who makes the woeful heart to sing!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Fair is the sunshine,
+Fairer still the moonlight,
+And all the twinkling starry host;
+Jesus shines brighter,
+Jesus shines purer
+Than all the angels heav'n can boast!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Beautiful Savior!
+Lord of all nations!
+Son of God and Son of man!
+Glory and honor,
+Praise, adoration,
+Now and forevermore be Thine!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

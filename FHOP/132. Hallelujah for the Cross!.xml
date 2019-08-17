@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:58+04:00">
+	<properties>
+		<titles>
+			<title>Hallelujah for the Cross!</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (arr.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Cross: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="132"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The cross, it standeth fast,
+Hallelujah, hallelujah!
+Defying every blast,
+Hallelujah, hallelujah!
+The winds of hell have blown,
+The world its hate hath shown,
+Yet it is not overthrown,
+Hallelujah for the cross!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hallelujah, hallelujah,
+Hallelujah for the cross!
+Hallelujah, hallelujah,
+It shall never suffer loss!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It is the old cross still,
+Hallelujah, hallelujah!
+Its triumph let us tell,
+Hallelujah, hallelujah!
+The grace of God here shone,
+Thro' Christ the blessed Son,
+Who did for sin atone,
+Hallelujah for the cross! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Twas here the debt was paid,
+Hallelujah, hallelujah!
+Our sins on Jesus laid,
+Hallelujah, hallelujah!
+So round the cross we sing
+Of Christ our offering,
+Of Christ our living King,
+Hallelujah for the cross! </lines>
+		</verse>
+	</lyrics>
+</song>

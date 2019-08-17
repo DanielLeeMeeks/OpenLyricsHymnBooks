@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+	<properties>
+		<titles>
+			<title>When the Roll Is Called Up Yonder</title>
+		</titles>
+		<authors>
+			<author>James M. Black</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="500"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When the trumpet of the Lord shall sound, and time shall be no more,
+And the morning breaks, eternal, bright and fair;
+When the saved of earth shall gather over on the other shore,
+And the roll is called up yonder, I’ll be there.</lines>
+		</verse>
+		<verse name="c">
+		<lines>When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+When the roll is called up yonder,
+I’ll be there.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>On that bright and cloudless morning when the dead in Christ shall rise,
+And the glory of His resurrection share;
+When His chosen ones shall gather to their home beyond the skies,
+And the roll is called up yonder, I’ll be there. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let us labor for the Master from the dawn till setting sun,
+Let us talk of all His wondrous love and care;
+Then when all of life is over, and our work on earth is done,
+And the roll is called up yonder, I’ll be there. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+	<properties>
+		<titles>
+			<title>Wounded for Me</title>
+		</titles>
+		<authors>
+			<author>W. G. Ovens</author>
+			<author>Gladys W. Roberts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Sacrifice</theme><theme> Praise: of Christ</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="369"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Wounded for me, wounded for me,
+There on the cross He was wounded for me;
+Gone my transgressions, and now I am free,
+All because Jesus was wounded for me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Dying for me, dying for me,
+There on the cross He was dying for me;
+Now in His death my redemption I see,
+All because Jesus was dying for me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Risen for me, risen for me,
+Up from the grave He has risen for me;
+Now evermore from death’s sting I am free,
+All because Jesus has risen for me.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Living for me, living for me,
+Up in the skies He is living for me;
+Daily He’s pleading and praying for me,
+All because Jesus is living for me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Coming for me, coming for me,
+One day to earth He is coming for me;
+Then with what joy His dear face I shall see,
+O how I praise Him! He’s coming for me.</lines>
+		</verse>
+	</lyrics>
+</song>

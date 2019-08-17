@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:20+04:00">
+	<properties>
+		<titles>
+			<title>Softly and Tenderly Jesus Is Calling</title>
+		</titles>
+		<authors>
+			<author>Will L. Thompson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7066044</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="303"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Softly and tenderly Jesus is calling,
+Calling for you and for me;
+See, on the portals He’s waiting and watching,
+Watching for you and for me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Come home, come home,
+Ye who are weary, come home;
+Earnestly, tenderly, Jesus is calling,
+Calling, O sinner, come home!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Why should we tarry when Jesus is pleading,
+Pleading for you and for me?
+Why should we linger and heed not His mercies,
+Mercies for you and for me? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Time is now fleeting, the moments are passing,
+Passing from you and from me;
+Shadows are gathering, death-beds are coming,
+Coming for you and for me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh! for the wonderful love He has promised,
+Promised for you and for me;
+Tho' we have sinned, He has mercy and pardon,
+Pardon for you and for me. </lines>
+		</verse>
+	</lyrics>
+</song>

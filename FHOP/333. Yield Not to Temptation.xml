@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+	<properties>
+		<titles>
+			<title>Yield Not to Temptation</title>
+		</titles>
+		<authors>
+			<author>Horatio R. Palmer</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="333"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Yield not to temptation,
+For yielding is sin,
+Each vict’ry will help you
+Some other to win;
+Fight manfully onward,
+Dark passions subdue,
+Look ever to Jesus,
+He will carry you through.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Ask the Savior to help you,
+Comfort, strengthen, and keep you,
+He is willing to aid you,
+He will carry you through.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Shun evil companions,
+Bad language disdain,
+God’s name hold in rev’rence,
+Nor take it in vain;
+Be thoughtful and earnest,
+Kindhearted and true,
+Look ever to Jesus,
+He will carry you through. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>To him that o’ercometh
+God giveth a crown,
+Thro' faith we will conquer,
+Though often cast down;
+He, who is our Savior,
+Our strength will renew,
+Look ever to Jesus,
+He will carry you through. </lines>
+		</verse>
+	</lyrics>
+</song>

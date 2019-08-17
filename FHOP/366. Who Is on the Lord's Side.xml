@@ -1,0 +1,79 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:28+04:00">
+	<properties>
+		<titles>
+			<title>Who Is on the Lord's Side?</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="366"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Who is on the Lord’s side?
+Who will serve the King?
+Who will be His helpers,
+Other lives to bring?
+Who will leave the world’s side?
+Who will face the foe?
+Who is on the Lord’s side?
+Who for Him will go?
+By Thy call of mercy,
+By Thy grace divine,
+We are on the Lord’s side,
+Savior, we are Thine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not for weight of glory,
+not for crown and palm,
+Enter we the army,
+Raise the warrior psalm;
+But for love that claimeth
+Lives for whom He died:
+He whom Jesus nameth
+Must be on His side.
+By Thy love constraining,
+By Thy grace divine,
+We are on the Lord’s side,
+Savior, we are Thine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus, Thou hast bought us,
+Not with gold or gem,
+But with Thine own life-blood,
+For Thy diadem.
+With Thy blessing filling
+Each who comes to Thee,
+Thou hast made us willing,
+Thou hast made us free.
+By Thy grand redemption,
+By Thy grace divine,
+We are on the Lord’s side,
+Savior, we are Thine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fierce may be the conflict,
+Strong may be the foe,
+But the King’s own army
+None can overthrow.
+Round His standard ranging,
+Vict'ry to secure;
+For His truth unchanging
+Makes the triumph sure.
+Joyfully enlisting
+By Thy grace divine,
+We are on the Lord’s side,
+Savior, we are Thine.</lines>
+		</verse>
+	</lyrics>
+</song>

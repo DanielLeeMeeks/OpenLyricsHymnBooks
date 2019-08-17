@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>Day Is Dying in the West</title>
+		</titles>
+		<authors>
+			<author>Mary A. Lathbury</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Devotional</theme><theme> Evening hymns</theme><theme> God: Holiness</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="420"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Day is dying in the west;
+Heav'n is touching earth with rest;
+Wait and worship while the night
+Sets her evening lamps alight
+Thro' all the sky.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Holy, holy, holy, Lord God of Hosts!
+Heav'n and earth are full of Thee!
+Heav'n and earth are praising Thee,
+O Lord most high!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord of life, beneath the dome
+Of the universe, Thy home,
+Gather us, who seek Thy face,
+To the fold of Thy embrace,
+For Thou art nigh. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>While the deep'ning shadows fall,
+Heart of Love, enfolding all,
+Thro' the glory and the grace
+Of the stars that veil Thy face,
+Our hearts ascend. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When forever from our sight
+Pass the stars, the day, the night,
+Lord of angels, on our eyes
+Let eternal morning rise,
+And shadows end! 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

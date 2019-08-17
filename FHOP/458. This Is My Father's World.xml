@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>This Is My Father's World</title>
+		</titles>
+		<authors>
+			<author>Maltbie D. Babcock</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: Of God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="458"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>This is my Father's world,
+And to my list'ning ears
+All nature sings, and round me rings
+The music of the spheres.
+This is my Father's world,
+I rest me in the thought
+Of rocks and trees, of skies and seas--
+His hand the wonders wrought.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>This is my Father's world,
+The birds their carols raise,
+The morning light, the lily white,
+Declare their Maker's praise.
+This is my Father's world,
+He shines in all that's fair;
+In the rustling grass I hear Him pass,
+He speaks to me ev'rywhere.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>This is my Father's world,
+O let me ne'er forget
+That though the wrong seems oft so strong,
+God is the Ruler yet.
+This is my Father's world,
+The battle is not done,
+Jesus who died shall be satisfied,
+And earth and heav'n be one.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

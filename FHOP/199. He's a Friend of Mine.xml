@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:07+04:00">
+	<properties>
+		<titles>
+			<title>He's a Friend of Mine</title>
+		</titles>
+		<authors>
+			<author>John H. Sammis</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Friend</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="199"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Why should I charge my soul with care?
+The wealth of ev'ry mine
+Belongs to Christ, God’s Son and Heir,
+And He’s a Friend of mine.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Yes, He’s a Friend of mine,
+And He with me doth all things share;
+Since all is Christ’s, and Christ is mine,
+Why should I have a care?
+For Jesus is a Friend of mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The silver moon, the golden sun,
+The countless stars that shine,
+Are His alone, yes, ev'ry one,
+And He’s a Friend of mine. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>He daily spreads a glorious feast,
+And at His table dine
+The whole creation, man and beast,
+And He’s a Friend of mine. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>And when He comes in bright array,
+And leads the conquering line,
+It will be glory then to say,
+And He’s a Friend of mine. </lines>
+		</verse>
+	</lyrics>
+</song>

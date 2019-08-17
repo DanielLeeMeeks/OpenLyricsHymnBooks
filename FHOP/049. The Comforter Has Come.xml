@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:47+04:00">
+	<properties>
+		<titles>
+			<title>The Comforter Has Come</title>
+		</titles>
+		<authors>
+			<author>Frank Bottome</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="49"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O spread the tidings ’round wherever man is found,
+Wherever human hearts and human woes abound;
+Let every Christian tongue proclaim the joyful sound:
+The Comforter has come!</lines>
+		</verse>
+		<verse name="c">
+		<lines>The Comforter has come, the Comforter has come!
+The Holy Ghost from Heav’n, the Father’s promise giv’n;
+O spread the tidings ’round, wherever man is found—-
+The Comforter has come!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The long, long night is past, the morning breaks at last,
+And hushed the dreadful wail and fury of the blast,
+As o’er the golden hills the day advances fast!
+The Comforter has come! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lo, the great King of kings with healing in His wings,
+To every captive soul a full deliv'rance brings;
+And thro' the vacant cells the song of triumph rings;
+The Comforter has come! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>O boundless love divine! How shall this tongue of mine
+To wond’ring mortals tell the matchless grace divine—-
+That I, a child of hell, should in His image shine!
+The Comforter has come! </lines>
+		</verse>
+	</lyrics>
+</song>

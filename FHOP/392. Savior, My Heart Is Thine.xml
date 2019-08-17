@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:32+04:00">
+	<properties>
+		<titles>
+			<title>Savior, My Heart Is Thine</title>
+		</titles>
+		<authors>
+			<author>Unknown</author>
+			<author>George C. Stebbins</author>
+		</authors>
+		<copyright>© 1953, Ren. 1981 Hope Publishing Co.</copyright>
+		<ccliNo>295625</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="392"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior, my heart is Thine,
+Keep it for me;
+May ev'ry thought of mine
+Glorify Thee.
+Glorify Thee,
+Glorify Thee;
+May ev'ry thought of mine
+Glorify Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Savior, my will is Thine,
+Keep it for me;
+May ev'ry act of mine
+Be done for Thee.
+Be done for Thee,
+Be done for Thee;
+May ev'ry act of mine
+Be done for Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Savior, my life is Thine,
+Keep it for me;
+May ev'ry hour of mine
+Be lived for Thee.
+Be lived for Thee,
+Be lived for Thee;
+May every hour of mine
+Be lived for Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Savior, my all is Thine,
+Keep it for me;
+May all I have, O Lord,
+Be used for Thee.
+Be used for Thee,
+Be used for Thee;
+May all I have, O Lord,
+Be used for Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:47+04:00">
+	<properties>
+		<titles>
+			<title>Holy Ghost, with Light Divine</title>
+		</titles>
+		<authors>
+			<author>Andrew Reed</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>58460</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="47"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy Spirit, with light divine,
+Shine upon this heart of mine;
+Chase the shades of night away,
+Turn my darkness into day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Holy Spirit, with pow'r divine
+Cleanse this guilty heart of mine;
+Long hath sin, without control
+Held dominion o'er my soul.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Holy Spirit, with joy divine,
+Cheer this saddened heart of mine;
+Bid my many woes depart,
+Heal my wounded, bleeding heart.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Holy Spirit, all divine,
+Dwell within this heart of mine;
+Cast down ev'ry idol throne,
+Reign supreme, and reign alone.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

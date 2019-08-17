@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:49+04:00">
+	<properties>
+		<titles>
+			<title>Ye Servants of God, Your Master Proclaim</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>748392</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Kingship and Reign</theme><theme> Christ: Name</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="67"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ye servants of God, your Master proclaim,
+And publish abroad His wonderful name;
+The name all victorious of Jesus extol;
+His kingdom is glorious, He rules over all.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God ruleth on high, almighty to save;
+And still He is nigh--His presence we have;
+The great congregation His triumph shall sing,
+Ascribing salvation to Jesus our King.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Salvation to God, who sits on the throne,"
+Let all cry aloud, and honor the Son;
+The praises of Jesus the angels proclaim,
+Fall down on their faces, and worship the Lamb.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then let us adore, and give Him His right--
+All glory and pow'r, all wisdom and might;
+All honor and blessing, with angels above,
+And thanks never ceasing, and infinite love.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

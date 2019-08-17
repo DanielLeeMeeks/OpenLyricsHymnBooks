@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>Come, Thou Almighty King</title>
+		</titles>
+		<authors>
+			<author>Unknown</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>29073</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Majesty and Power</theme><theme> God: Trinity</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="4"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Thou Almighty King,
+Help us Thy name to sing,
+Help us to praise:
+Father, all glorious,
+O’er all victorious,
+Come, and reign over us,
+Ancient of Days.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come, Thou incarnate Word,
+Gird on Thy mighty sword,
+Our prayer attend:
+Come, and Thy people bless,
+And give Thy word success;
+Spirit of holiness,
+On us descend.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come, Holy Comforter,
+Thy sacred witness bear
+In this glad hour:
+Thou who almighty art,
+Now rule in every heart,
+And ne’er from us depart,
+Spirit of pow'r.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To Thee, great One in Three,
+Eternal praises be,
+Hence evermore.
+Thy sov'reign majesty,
+May we in glory see,
+And to eternity
+Love and adore.</lines>
+		</verse>
+	</lyrics>
+</song>

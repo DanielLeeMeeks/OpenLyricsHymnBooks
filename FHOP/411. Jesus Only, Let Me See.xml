@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:34+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Only, Let Me See</title>
+		</titles>
+		<authors>
+			<author>Oswald J. Smith</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Example</theme><theme> Christ: Guide</theme><theme> Christ: Kingship and Reign</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="411"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>For salvation full and free,
+Purchased once on Calvary,
+Christ alone shall be my plea—-
+Jesus! Jesus only.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus only, let me see,
+Jesus only, none save He,
+Then my song shall ever be—-
+Jesus! Jesus only!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He my Guide from day to day,
+As I journey on life’s way;
+Close beside Him let me stay—-
+Jesus! Jesus only. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>May my model ever be
+Christ the Lord, and none save He,
+That the world may see in me
+Jesus! Jesus only. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>He shall reign from shore to shore,
+His the glory evermore—-
+Heav’n and earth shall bow before
+Jesus! Jesus only. </lines>
+		</verse>
+	</lyrics>
+</song>

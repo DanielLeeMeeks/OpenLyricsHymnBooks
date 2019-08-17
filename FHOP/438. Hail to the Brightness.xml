@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:38+04:00">
+	<properties>
+		<titles>
+			<title>Hail to the Brightness</title>
+		</titles>
+		<authors>
+			<author>Thomas Hastings</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>317699</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme><theme> Missionary</theme><theme> Social Righteousness</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="438"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hail to the brightness of Zion's glad morning!
+Joy to the lands that in darkness have lain!
+Hushed be the accents of sorrow and mourning;
+Zion in triumph begins her mild reign.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hail to the brightness of Zion's glad morning!
+Long by the prophets of Israel foretold!
+Hail to the millions from bondage returning!
+Gentiles and Jews the blest vision behold.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lo, in the desert rich flowers are springing,
+Streams ever copious are gliding along;
+Loud from the mountain tops echoes are ringing,
+Wastes rise in verdure and mingle in song.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>See, from all lands, from the isles of the ocean,
+Praise to Jehovah ascending on high;
+Fallen are the engines of war and commotion,
+Shouts of salvation are rending the sky.</lines>
+		</verse>
+	</lyrics>
+</song>

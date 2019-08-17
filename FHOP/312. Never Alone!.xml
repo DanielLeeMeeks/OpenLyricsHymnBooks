@@ -1,0 +1,70 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>Never Alone!</title>
+		</titles>
+		<authors>
+			<author>Unknown</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5997055</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: Of God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="312"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I’ve seen the lightning flashing,
+And heard the thunder roll,
+I’ve felt sin’s breakers dashing,
+Trying to conquer my soul;
+I’ve heard the voice of my Savior
+Biding me still to fight on;
+He promised never to leave me,
+Never to leave me alone!</lines>
+		</verse>
+		<verse name="c">
+		<lines>No, never alone,
+No, never alone,
+He promised never to leave me,
+He'll claim me for His own.
+No, never alone,
+No, never alone,
+He promised never to leave me,
+Never to leave me alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The world’s fierce winds are blowing;
+Temptation’s sharp and keen;
+I have a peace in knowing
+My Savior stands between—-
+He stands to shield me from danger
+When earthly friends are gone;
+He promised never to leave me,
+Never to leave me alone! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When in affliction’s valley
+I tread the road of care,
+My Savior helps me to carry
+My cross so heavy to bear;
+Tho' all around me is darkness,
+Earthly joys all flown;
+My Savior whispers His promise,
+Never to leave me alone! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>He died on Calv'ry's mountain,
+For me they pierced His side,
+For me He opened that fountain,
+The crimson, cleansing tide;
+For me He’s waiteth in glory,
+Seated upon His throne;
+He promised never to leave me,
+Never to leave me alone! </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Thy Word Have I Hid in My Heart</title>
+		</titles>
+		<authors>
+			<author>Ernest O. Sellers</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>53489</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="324"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thy Word is a lamp to my feet,
+A light to my path alway,
+To guide and to save me from sin,
+And show me the heav'nly way.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Thy Word have I hid in my heart,
+That I might not sin against thee;
+That I might not sin, that I might not sin,
+Thy Word have I hid in my heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Forever, O Lord, is Thy Word
+Established and fixed on high;
+Thy faithfulness unto all men
+Abideth for ever nigh. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>At morning, at noon, and at night
+I ever will give Thee praise;
+For Thou art my portion, O Lord,
+And shall be thro' all my days! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thro' Him whom Thy Word hath foretold,
+The Savior and Morning Star,
+Salvation and peace have been bro't
+To those who have strayed afar. </lines>
+		</verse>
+	</lyrics>
+</song>

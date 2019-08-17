@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>And Can It Be that I Should Gain?</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>25280</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Suffering</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="107"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>And can it be that I should gain
+An interest in the Saviour's blood?
+Died He for me, who caused His pain?
+For me, who Him to death pursued?
+Amazing love! how can it be
+That Thou, my God, should die for me?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Amazing love! how can it be
+That Thou, my God, should die for me!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He left His Father's throne above,
+So free, so infinite His grace;
+Emptied Himself of all but love,
+And bled for Adam's helpless race;
+'Tis mercy all, immense and free;
+For, O my God, it found out me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Long my imprisoned spirit lay
+Fast bound in sin and nature's night;
+Thine eye diffused a quick'ning ray,
+I woke, the dungeon flamed with light;
+My chains fell off, my heart was free;
+I rose, went forth and followed Thee. </lines>
+		</verse>
+	</lyrics>
+</song>

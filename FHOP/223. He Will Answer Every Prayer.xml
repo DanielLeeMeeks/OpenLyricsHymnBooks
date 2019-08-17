@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:10+04:00">
+	<properties>
+		<titles>
+			<title>He Will Answer Every Prayer</title>
+		</titles>
+		<authors>
+			<author>Mary Bernstecher</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="223"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God has given you His promise
+That He hears and answers prayer;
+He will heed your supplication
+If you cast on Him your care.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He will answer ev'ry prayer,
+He will answer ev'ry prayer,
+Go to Him in faith believing,
+He will answer ev'ry prayer.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He will not withhold one blessing,
+He will give you what is best;
+God will answer by His Spirit,
+Ev'ry one who makes request. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>He can hear the great petition,
+And the smallest, over there;
+Unto God pray without ceasing,
+He will answer ev'ry prayer. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Take to God your plans and failures,
+Any time and anywhere;
+No one e'er has gone unanswered,
+For He answers ev'ry prayer. </lines>
+		</verse>
+	</lyrics>
+</song>

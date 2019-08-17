@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:03+04:00">
+	<properties>
+		<titles>
+			<title>Heavenly Sunlight</title>
+		</titles>
+		<authors>
+			<author>H. J. Zelley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Light</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="27"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Walking in sunlight, all of my journey;
+Over the mountains, thro' the deep vale;
+Jesus has said, "I’ll never forsake thee,"
+Promise divine that never can fail.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Heavenly sunlight, heavenly sunlight,
+Flooding my soul with glory divine;
+Hallelujah, I am rejoicing,
+Singing His praises, Jesus is mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Shadows around me, shadows above me,
+Never conceal my Savior and Guide;
+He is the light, in Him is no darkness;
+Ever I’m walking close to His side. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>In the bright sunlight, ever rejoicing,
+Pressing my way to mansions above;
+Singing His praises gladly I’m walking,
+Walking in sunlight, sunlight of love. </lines>
+		</verse>
+	</lyrics>
+</song>

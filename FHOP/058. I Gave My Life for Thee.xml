@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>I Gave My Life for Thee</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Suffering</theme><theme> Invitation: for Consecration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="58"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I gave My life for thee,
+My precious blood I shed,
+That thou might'st ransomed be,
+And quickened from the dead;
+I gave, I gave My life for thee,
+What hast thou given for Me?
+I gave, I gave My life for thee,
+What hast thou given for Me?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My Father's house of light,
+My glory-circled throne,
+I left for earthly night,
+For wand'rings sad and lone;
+I left, I left it all for thee,
+Hast thou left aught for Me?
+I left, I left it all for thee,
+Hast thou left aught for Me?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I suffered much for thee,
+More than thy tongue can tell,
+Of bitt'rest agony,
+To rescue thee from hell;
+I've borne, I've borne it all for thee,
+What hast thou borne for Me?
+I've borne, I've borne it all for thee,
+What hast thou borne for Me?</lines>
+		</verse>
+		<verse name="v4">
+			<lines>And I have brought to thee,
+Down from My home above,
+Salvation full and free,
+My pardon and My love;
+I bring, I bring rich gifts to thee,
+What hast thou brought to Me?
+I bring, I bring rich gifts to thee,
+What hast thou brought to Me?</lines>
+		</verse>
+	</lyrics>
+</song>

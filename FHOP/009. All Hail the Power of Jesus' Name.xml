@@ -1,0 +1,26 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>All Hail the Power of Jesus' Name</title>
+		</titles>
+		<authors>
+			<author>Edward Perronet</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>25400</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="9"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All hail the pow'r of Jesus' name!
+Let angels prostrate fall;
+Bring forth the royal diadem
+And crown Him, crown Him, crown Him,
+Crown Him Lord of all!</lines>
+		</verse>
+	</lyrics>
+</song>

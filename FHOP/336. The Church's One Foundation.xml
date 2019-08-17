@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:25+04:00">
+	<properties>
+		<titles>
+			<title>The Church's One Foundation</title>
+		</titles>
+		<authors>
+			<author>Samuel J. Stone</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="336"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Church’s one foundation
+Is Jesus Christ her Lord;
+She is His new creation
+By water and the word:
+From Heav'n He came and sought her
+To be His holy bride;
+With His own blood He bought her,
+And for her life He died.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Elect from ev'ry nation,
+Yet one o’er all the earth,
+Her charter of salvation
+One Lord, one faith, one birth;
+One holy name she blesses,
+Partakes one holy food,
+And to one hope she presses,
+With ev'ry grace endued.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Mid toil and tribulation,
+And tumult of her war,
+She waits the consummation
+Of peace forevermore;
+Til, with the vision glorious
+Her longing eyes are blest,
+And the great church victorious
+Shall be the church at rest.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Yet she on earth hath union
+With God the Three in One,
+And mystic sweet communion
+With those whose rest is won:
+O happy ones and holy!
+Lord, give us grace that we,
+Like them, the meek and lowly,
+On high may dwell with Thee.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

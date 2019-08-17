@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>Work, for the Night Is Coming</title>
+		</titles>
+		<authors>
+			<author>Anna L. Walker</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="120"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Work, for the night is coming,
+Work thro' the morning hours;
+Work while the dew is sparkling;
+Work, 'mid springing flow'rs.
+Work, when the day grows brighter,
+Work in the glowing sun;
+Work, for the night is coming,
+When man's work is done.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Work for the night is coming,
+Work thro' the sunny noon;
+Fill brightest hours with labor,
+Rest comes sure and soon.
+Give ev'ry flying minute
+Something to keep in store;
+Work, for the night is coming,
+When man works no more.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Work for the night is coming,
+Under the sunset skies;
+While their bright tints are glowing,
+Work, for daylight flies.
+Work till the last beam fadeth,
+Fadeth to shine no more;
+Work, while the night is dark'ning,
+When man's work is o'er.</lines>
+		</verse>
+	</lyrics>
+</song>

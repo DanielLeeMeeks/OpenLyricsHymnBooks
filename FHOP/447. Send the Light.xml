@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>Send the Light</title>
+		</titles>
+		<authors>
+			<author>Charles H. Gabriel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4875350</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Missionary</theme><theme> Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="447"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s a call comes ringing o’er the restless wave,
+“Send the light! Send the light!”
+There are souls to rescue, there are souls to save,
+Send the light! Send the light!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Send the light, the blessed gospel light;
+Let it shine from shore to shore!
+Send the light, the blessed Gospel light;
+Let it shine forevermore!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We have heard the Macedonian call today,
+“Send the light! Send the light!”
+And a golden off’ring at the cross we lay,
+Send the light! Send the light! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let us pray that grace may ev'rywhere abound;
+Send the light! Send the light!
+And a Christ-like spirit ev'rywhere be found,
+Send the light! Send the light! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Let us not grow weary in the work of love,
+Send the light! Send the light!
+Let us gather jewels for a crown above,
+Send the light! Send the light! </lines>
+		</verse>
+	</lyrics>
+</song>

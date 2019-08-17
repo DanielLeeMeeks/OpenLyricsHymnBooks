@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>Lord, I Have Shut the Door</title>
+		</titles>
+		<authors>
+			<author>William M. Runyan</author>
+		</authors>
+		<copyright>© 1923, Ren. 1951 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="112"/>
+		</songbooks>
+		<comments>
+			<comment>Now Public Domain.</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, I have shut the door,
+Speak now the word
+Which in the din and throng
+Could not be heard;
+Hushed now my inner heart,
+Whisper Thy will,
+While I have come apart,
+While all is still.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, I have shut the door,
+Here do I bow;
+Speak, for my soul attent
+Turns to Thee now.
+Rebuke Thou what is vain,
+Counsel my soul,
+Thy holy will reveal,
+My will control.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In this blest quietness
+Clamorings cease;
+Here in Thy presence dwells
+Infinite peace;
+Yonder, the strife and cry,
+Yonder, the sin:
+Lord, I have shut the door,
+Thou art within.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, I have shut the door,
+Strengthen my heart;
+Yonder awaits the task--
+I share apart.
+Only through grace bestowed
+May I be true;
+Here, while alone with Thee,
+My strength renew.</lines>
+		</verse>
+	</lyrics>
+</song>

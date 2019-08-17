@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>I Must Tell Jesus</title>
+		</titles>
+		<authors>
+			<author>Elisha A. Hoffman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>35768</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="113"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I must tell Jesus all of my trials;
+I cannot bear these burdens alone;
+In my distress He kindly will help me;
+He ever loves and cares for His own.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I must tell Jesus!
+I must tell Jesus!
+I cannot bear my burdens alone;
+I must tell Jesus!
+I must tell Jesus!
+Jesus can help me, Jesus alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I must tell Jesus all of my troubles;
+He is a kind, compassionate Friend;
+If I but ask Him, He will deliver,
+Make of my troubles quickly an end. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tempted and tried I need a great Savior,
+One who can help my burdens to bear;
+I must tell Jesus, I must tell Jesus;
+He all my cares and sorrows will share. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>O how the world to evil allures me!
+O how my heart is tempted to sin!
+I must tell Jesus, and He will help me
+Over the world the vict'ry to win. </lines>
+		</verse>
+	</lyrics>
+</song>

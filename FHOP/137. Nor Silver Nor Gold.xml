@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>Nor Silver Nor Gold</title>
+		</titles>
+		<authors>
+			<author>James M. Gray</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="137"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Nor silver nor gold hath obtained my redemption,
+Nor riches of earth could have saved my poor soul;
+The blood of the cross is my only foundation,
+The death of my Savior now maketh me whole.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I am redeemed, but not with silver;
+I am bought, but not with gold;
+Bought with a price--the blood of Jesus,
+Precious price of love untold.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Nor silver nor gold hath obtained my redemption,
+The guilt on my conscience too heavy had grown;
+The blood of the cross is my only foundation,
+The death of my Savior could only atone. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nor silver nor gold hath obtained my redemption,
+The holy commandment forbade me draw near;
+The blood of the cross is my only foundation,
+The death of my Savior removeth my fear. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Nor silver nor gold hath obtained my redemption,
+The way into heaven could not thus be bought;
+The blood of the cross is my only foundation,
+The death of my Savior redemption hath wrought. </lines>
+		</verse>
+	</lyrics>
+</song>

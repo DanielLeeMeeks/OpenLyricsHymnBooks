@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>At the Cross</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts</author>
+			<author>Ralph E. Hudson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5116616</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Suffering</theme><theme> Cross: of Christ</theme><theme> Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="95"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Alas! And did my Savior bleed?
+And did my Sov'reign die?
+Would He devote that sacred head
+For sinners such as I?</lines>
+		</verse>
+		<verse name="c">
+		<lines>At the cross, at the cross where I first saw the light,
+And the burden of my heart rolled away,
+It was there by faith I received my sight,
+And now I am happy all the day!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Was it for crimes that I have done
+He groaned upon the tree?
+Amazing pity! grace unknown!
+And love beyond degree! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Well might the sun in darkness hide,
+And shut his glories in,
+When Christ, the mighty Maker, died
+For man the creature's sin. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>But drops of grief can ne’er repay
+The debt of love I owe:
+Here, Lord, I give my self away,
+’Tis all that I can do! </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:26+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Calls Us</title>
+		</titles>
+		<authors>
+			<author>Cecil F. Alexander</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4443500</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: of Believer</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="343"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus calls us; o'er the tumult
+Of our life's wild, restless sea,
+Day by day His sweet voice soundeth
+Saying, "Christian, follow Me."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus calls us from the worship
+Of the vain world's golden store,
+From each idol that would keep us,
+Saying, "Christian, love Me more."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In our joys and in our sorrows,
+Days of toil and hours of ease,
+Still He calls in cares and pleasures,
+"Christian, love Me more than these."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus calls us: by Thy mercies,
+Savior, may we hear Thy call,
+Give our hearts to Thy obedience,
+Serve and love Thee best of all.</lines>
+		</verse>
+	</lyrics>
+</song>

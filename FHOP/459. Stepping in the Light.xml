@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:41+04:00">
+	<properties>
+		<titles>
+			<title>Stepping in the Light</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Example</theme><theme> Christ: Guide</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="459"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Trying to walk in the steps of the Savior,
+Trying to follow our Savior and King;
+Shaping our lives by His blessed example,
+Happy, how happy, the songs that we bring.</lines>
+		</verse>
+		<verse name="c">
+		<lines>How beautiful to walk in the steps of the Savior,
+Stepping in the light, stepping in the light;
+How beautiful to walk in the steps of the Savior,
+Led in paths of light.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Pressing more closely to Him who is leading,
+When we are tempted to turn from the way;
+Trusting the arm that is strong to defend us,
+Happy, how happy, our praises each day. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Walking in footsteps of gentle forbearance,
+Footsteps of faithfulness, mercy and love,
+Looking to Him for the grace freely promised,
+Happy, how happy, our journey above. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Trying to walk in the steps of the Savior,
+Upward, still upward, we'll follow our Guide;
+When we shall see Him, “the King in His beauty,”
+Happy, how happy, our place at His side. </lines>
+		</verse>
+	</lyrics>
+</song>

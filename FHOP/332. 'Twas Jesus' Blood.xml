@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+	<properties>
+		<titles>
+			<title>'Twas Jesus' Blood</title>
+		</titles>
+		<authors>
+			<author>Harry D. Loes</author>
+		</authors>
+		<copyright>© 1941, Ren. 1969 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="332"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A sinner, lost, condemned was I,
+Doomed an eternal death to die;
+But Jesus died for me,
+He bore sin's penalty;
+On Calv'ry's hill was lifted high.</lines>
+		</verse>
+		<verse name="c">
+		<lines>'Twas Jesus' blood that ransomed me,
+From chains of sin He set me free.
+While ages roll, my song shall be:
+'Twas Jesus' blood that ransomed me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I ne'er could be at peace with God,
+But for the cleansing, crimson flood,
+No one but Christ would win
+Atonement for all sin--
+He signed my pardon with His blood. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>No doubter's scorn or creed of man
+Can shake my faith in Calv'ry's plan;
+His blood redeemed my soul,
+It made me pure and whole;
+By faith my life in Him began. </lines>
+		</verse>
+	</lyrics>
+</song>

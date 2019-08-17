@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+	<properties>
+		<titles>
+			<title>The Church in the Wildwood</title>
+		</titles>
+		<authors>
+			<author>William S. Pitts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5908075</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Home</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="367"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There's a church in the valley by the wildwood,
+No lovelier spot in the dale;
+No place is so dear to my childhood
+As the little brown church in the vale.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Come to the church in the wildwood,
+Oh, come to the church in the vale;
+No spot is so dear to my childhood
+As the little brown church in the vale.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh, come to the church in the wildwood,
+To the trees where the wild flowers bloom;
+Where the parting hymn will be chanted,
+We will weep by the side of the tomb. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>How sweet on a clear Sunday morning,
+To list to the clear ringing bell;
+Its tones so sweetly are calling,
+Oh, come to the church in the vale. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>From the church in the valley by the wildwood,
+When day fades away into might,
+I would fain from this spot of my childhood
+Wing my way to the mansions of light. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>Redeemed</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4191254</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme><theme> Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="140"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Redeemed--how I love to proclaim it!
+Redeemed by the blood of the Lamb;
+Redeemed thro' His infinite mercy,
+His child, and forever, I am.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Redeemed, redeemed,
+Redeemed by the blood of the Lamb;
+Redeemed, redeemed,
+His child, and forever, I am.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Redeemed and so happy in Jesus,
+No language my rapture can tell;
+I know that the light of His presence
+With me doth continually dwell. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I think of my blessed Redeemer,
+I think of him all the day long;
+I sing, for I cannot be silent;
+His love is the theme of my song. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I know I shall see in His beauty
+The King in whose law I delight;
+Who lovingly guardeth my footsteps
+And giveth me songs in the night. </lines>
+		</verse>
+	</lyrics>
+</song>

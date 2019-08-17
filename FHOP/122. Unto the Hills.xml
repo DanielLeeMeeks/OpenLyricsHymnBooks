@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:57+04:00">
+	<properties>
+		<titles>
+			<title>Unto the Hills</title>
+		</titles>
+		<authors>
+			<author>John D. S. Campbell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="122"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 121</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Unto the hills around do I lift up
+My longing eyes;
+O whence for me shall my salvation come,
+From whence arise?
+From God, the Lord, doth come my certain aid,
+From God, the Lord who heav'n and earth hath made.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He will not suffer that thy foot be moved:
+Safe shalt thou be.
+No careless slumber shall His eyelids close,
+Who keepeth thee.
+Behold our God the Lord,
+He slumbereth ne'er,
+Who keepeth Israel in His holy care.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jehovah is Himself thy keeper true,
+Thy changeless shade;
+Jehovah thy defense on thy right hand
+Himself hath made.
+And thee no sun by day shall ever smite;
+No moon shall harm thee in the silent night.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>From every evil shall He keep thy soul,
+From every sin;
+Jehovah shall preserve thy going out,
+Thy coming in.
+Above thee watching, He whom we adore
+Shall keep thee henceforth, yea, for evermore.</lines>
+		</verse>
+	</lyrics>
+</song>

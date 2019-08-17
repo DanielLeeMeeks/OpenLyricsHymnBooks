@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:43+04:00">
+	<properties>
+		<titles>
+			<title>Savior, Like a Shepherd Lead Us</title>
+		</titles>
+		<authors>
+			<author>Dorothy A. Thrupp</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>24078</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Shepherd</theme><theme> Devotional</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="480"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior, like a shepherd lead us,
+Much we need Thy tender care;
+In Thy pleasant pastures feed us,
+For our use Thy folds prepare:
+Blessèd Jesus, blessèd Jesus,
+Thou hast bought us, Thine we are;
+Blessèd Jesus, blessèd Jesus,
+Thou hast bought us, Thine we are.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We are Thine; do Thou befriend us,
+Be the Guardian of our way;
+Keep Thy flock, from sin defend us,
+Seek us when we go astray:
+Blessèd Jesus, blessèd Jesus,
+Hear, O hear us when we pray;
+Blessèd Jesus, blessèd Jesus,
+Hear, O hear us when we pray.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thou hast promised to receive us,
+Poor and sinful though we be;
+Thou hast mercy to relieve us,
+Grace to cleanse, and pow'r to free:
+Blessèd Jesus, blessèd Jesus,
+Early let us turn to Thee;
+Blessèd Jesus, blessèd Jesus,
+Early let us turn to Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Early let us seek Thy favor,
+Early let us do Thy will;
+Blessed Lord and only Savior,
+With Thy love our bosoms fill:
+Blessèd Jesus, blessèd Jesus,
+Thou hast loved us, love us still;
+Blessèd Jesus, blessèd Jesus,
+Thou hast loved us, love us still.</lines>
+		</verse>
+	</lyrics>
+</song>

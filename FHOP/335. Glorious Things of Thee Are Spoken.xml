@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:25+04:00">
+	<properties>
+		<titles>
+			<title>Glorious Things of Thee Are Spoken</title>
+		</titles>
+		<authors>
+			<author>John Newton</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6190301</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="335"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Glorious things of thee are spoken,
+Zion, city of our God;
+He, whose word cannot be broken,
+Formed thee for His own abode;
+On the Rock of Ages founded,
+What can shake thy sure repose?
+With salvation's walls surrounded,
+Thou may'st smile at all thy foes.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>See, the streams of living waters,
+Springing from eternal love,
+Well supply thy sons and daughters,
+And all fear of want remove;
+Who can faint, while such a river
+Ever will their thirst t'assuage?
+Grace which, like the Lord, the Giver,
+Never fails from age to age.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Round each habitation hov'ring,
+See the cloud and fire appear
+For a glory and a cov'ring,
+Showing that the Lord is near!
+Glorious things of thee are spoken,
+Zion, city of our God;
+He, whose word cannot be broken,
+Formed thee for His own abode.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

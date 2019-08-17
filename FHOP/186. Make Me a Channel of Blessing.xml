@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:05+04:00">
+	<properties>
+		<titles>
+			<title>Make Me a Channel of Blessing</title>
+		</titles>
+		<authors>
+			<author>Harper G. Smyth</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>109993</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="186"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Is your life a channel of blessing?
+Is the love of God flowing thro' you?
+Are you telling the lost of the Saviour?
+Are you ready His service to do?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Make me a channel of blessing today,
+Make me a channel of blessing, I pray;
+My life possessing, my service blessing,
+Make me a channel of blessing today.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Is your life a channel of blessing?
+Are you burdened for those who are lost?
+Have you urged upon those who are straying,
+The Saviour who died on the cross? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Is your life a channel of blessing?
+Is it daily telling for Him?
+Have you spoken the Word of salvation
+To those who are dying in sin? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>We cannot be channels of blessing
+If our lives are not free from known sin;
+We will barriers be and a hindrance
+To those we are trying to win. </lines>
+		</verse>
+	</lyrics>
+</song>

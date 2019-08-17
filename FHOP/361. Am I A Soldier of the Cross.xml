@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:28+04:00">
+	<properties>
+		<titles>
+			<title>Am I A Soldier of the Cross?</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>115145</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="361"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Am I a soldier of the cross?
+A foll'wer of the Lamb,
+And shall I fear to own His cause,
+Or blush to speak His name?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Must I be carried to the skies
+On flow'ry beds of ease,
+While others fought to win the prize,
+And sailed thro' bloody seas?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world a friend to grace,
+To help me on to God?</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Sure I must fight, if I would reign;
+Increase my courage, Lord;
+I'll bear the toil, endure the pain,
+Supported by Thy word.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>Faith of Our Mothers</title>
+		</titles>
+		<authors>
+			<author>A. B. Patten</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Home</theme><theme> Mother's Day</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="424"/>
+		</songbooks>
+		<comments>
+			<comment>Text only to be sung to tune of 423 (ST. CATHERINE by Hemy)</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Faith of our mothers, living still
+In cradle song and bedtime prayer;
+In nursery lore and fireside love,
+Thy presence still pervades the air:
+Faith of our mothers, living faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Faith of our mothers, loving faith,
+Fount of our childhood's trust and grace,
+Oh, may thy consecration prove
+Source of a finer, nobler race:
+Faith of our mothers, living faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Faith of our mothers, guiding faith,
+For youthful longing, youthful doubt,
+How blurred our vision, blind our way,
+Thy providential care without:
+Faith of our mothers, living faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Faith of the mothers, Christian faith,
+In truth beyond our stumbling creeds,
+Still serve the home and save the Church,
+And breathe thy spirit thro' our deeds:
+Faith of our mothers, living faith!
+We will be true to thee till death.</lines>
+		</verse>
+	</lyrics>
+</song>

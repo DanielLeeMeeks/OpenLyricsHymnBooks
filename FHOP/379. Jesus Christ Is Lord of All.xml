@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:30+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Christ Is Lord of All</title>
+		</titles>
+		<authors>
+			<author>Don Whitman</author>
+		</authors>
+		<copyright>© 1964, Ren. 1992 Hope Publishing Co.</copyright>
+		<ccliNo>457047</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Christ: Lord</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="379"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Heav'n and earth proclaim
+Jesus Christ is Lord of all;
+King of Kings is He
+Whom angel hosts adore!
+Let men and nations bring
+Praises to Christ the King,
+Who over all shall reign
+Forevermore.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sing, my heart, oh praise His name;
+Jesus Christ is Lord of all!
+Sing, ye saints, His grace proclaim;
+Jesus Christ is Lord of all!
+At His word the grave will open,
+At His feet death's bonds will fall.
+King of Kings, the mighty God,
+Jesus Christ is Lord of all!
+Jesus Christ is Lord of all!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Glorious is His name
+Giv'n by God in heav'n above.
+Name above all names,
+And evermore shall be.
+Come ev'ry knee, and bow,
+Come ev'ry tongue, confess
+That Jesus Christ is Lord
+Eternally </lines>
+		</verse>
+	</lyrics>
+</song>

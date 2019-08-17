@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>More Love to Thee</title>
+		</titles>
+		<authors>
+			<author>Elizabeth P. Prentiss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Meditation</theme><theme> Prayer: Hymns of</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="282"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>More love to Thee, O Christ,
+More love to Thee!
+Hear Thou the prayer I make
+On bended knee;
+This is my earnest plea:
+More love, O Christ, to Thee,
+More love to Thee,
+More love to Thee!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Once earthly joy I craved,
+Sought peace and rest;
+Now Thee alone I seek,
+Give what is best;
+This all my prayer shall be:
+More love, O Christ, to Thee,
+More love to Thee,
+More love to Thee!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let sorrow do its work,
+Send grief and pain;
+Sweet are Thy messengers,
+Sweet their refrain,
+When they can sing with me:
+More love, O Christ, to Thee,
+More love to Thee,
+More love to Thee!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then shall my latest breath
+Whisper Thy praise;
+This be the parting cry
+My heart shall raise;
+This still its prayer shall be:
+More love, O Christ, to Thee,
+More love to Thee,
+More love to Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

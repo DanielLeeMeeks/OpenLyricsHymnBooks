@@ -1,0 +1,62 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:19+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, I Come</title>
+		</titles>
+		<authors>
+			<author>William T. Sleeper</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="295"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Out of my bondage, sorrow and night,
+Jesus, I come, Jesus, I come;
+Into Thy freedom, gladness and light,
+Jesus, I come to Thee;
+Out of my sickness into Thy health,
+Out of my want and into Thy wealth,
+Out of my sin and into Thyself,
+Jesus, I come to Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Out of my shameful failure and loss,
+Jesus, I come, Jesus, I come;
+Into the glorious gain of Thy cross,
+Jesus, I come to Thee;
+Out of earth’s sorrows into Thy balm,
+Out of life’s storms and into Thy calm,
+Out of distress to jubilant psalm,
+Jesus, I come to Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Out of unrest and arrogant pride,
+Jesus, I come, Jesus, I come;
+Into Thy blessed will to abide,
+Jesus, I come to Thee;
+Out of myself to dwell in Thy love,
+Out of despair into raptures above,
+Upward for aye on wings like a dove,
+Jesus, I come to Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Out of the fear and dread of the tomb,
+Jesus, I come, Jesus, I come;
+Into the joy and light of Thy home,
+Jesus, I come to Thee;
+Out of the depths of ruin untold,
+Into the peace of Thy sheltering fold,
+Ever Thy glorious face to behold,
+Jesus, I come to Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

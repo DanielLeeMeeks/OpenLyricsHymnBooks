@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>Wonderful, Wonderful Jesus</title>
+		</titles>
+		<authors>
+			<author>Anna B. Russell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4052173</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="151"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There is never a day so dreary,
+There is never a night so long,
+But the soul that is trusting Jesus
+Will somewhere find a song.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Wonderful, wonderful Jesus,
+In the heart He implanteth a song:
+A song of deliv'rance, of courage, of strength,
+In the heart He implanteth an song.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is never a cross so heavy,
+There is never a weight of woe,
+But that Jesus will help to carry
+Because He loveth so. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There is never a care or burden,
+There is never a grief or loss,
+But that Jesus in love will lighten
+When carried to the cross. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There is never a guilty sinner,
+There is never a wand'ring one,
+But that God can in mercy pardon
+Thro' Jesus Christ, His Son. </lines>
+		</verse>
+	</lyrics>
+</song>

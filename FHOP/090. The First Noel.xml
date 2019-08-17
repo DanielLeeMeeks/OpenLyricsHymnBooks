@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>The First Noel</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31047</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="90"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The first Noel the angel did say
+Was to certain poor shepherds in fields as they lay;
+In fields where they lay keeping their sheep,
+On a cold winter's night that was so deep.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Noel, Noel, Noel, Noel,
+Born is the King of Israel.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>And by the light of that same Star,
+Three wise came from country far;
+To seek for a King was their intent,
+And to follow the Star wherever it went. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>This Star drew nigh to the northwest;,
+O'er Bethlehem it took its rest,
+And there it did both stop and stay,
+Right over the place where Jesus lay. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then entered in those wise men three,
+Full rev'rently upon the knee,
+And offered there in His presence
+Their gold, and myrrh, and frankincense. </lines>
+		</verse>
+	</lyrics>
+</song>

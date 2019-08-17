@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>Since the Fullness of His Love Came In</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Love</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="233"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Once my way was dark and dreary,
+For my heart was full of sin,
+But the sky is bright and cheery,
+Since the fullness of His love came in.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I can never tell how much I love Him,
+I can never tell His love for me,
+For it passeth human measure,
+Like a deep, unfathomed sea;
+’Tis redeeming love in Christ my Savior,
+In my soul the heav’nly joys begin;
+And I live for Jesus only,
+Since the fullness of His love came in.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is grace for all the lowly,
+Grace to keep the trusting soul:
+Pow’r to cleanse and make me holy,
+Jesus shall my yielded life control. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let me spread abroad the story,
+Other souls to Jesus win;
+For the cross is now my glory,
+Since the fullness of His love came in. </lines>
+		</verse>
+	</lyrics>
+</song>

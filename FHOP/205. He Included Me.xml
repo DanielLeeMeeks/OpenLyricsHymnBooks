@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:08+04:00">
+	<properties>
+		<titles>
+			<title>He Included Me</title>
+		</titles>
+		<authors>
+			<author>Johnson Oatman, Jr.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>22032</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="205"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am so happy in Christ today,
+That I go singing along my way;
+Yes, I'm so happy to know and say,
+"Jesus included me, too."</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus included me,
+Yes, He included me,
+When the Lord said, "Whosoever,"
+He included me;
+Jesus included me,
+Yes, He included me,
+When the Lord said, "Whoseoever,"
+He included me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Gladly I read, "Whoseoever may
+Come to the fountain of life today;"
+But when I read it I always say,
+"Jesus included me, too." </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ever God's Spirit is saying, "Come!"
+Hear the Bride saying, "No longer roam;"
+But I am sure while they're calling home,
+Jesus included me, too. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>"Freely come drink," words the soul to thrill!
+O with what joy they my heart do fill!
+For when He said, "Whosoever will,"
+Jesus included me, too. 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

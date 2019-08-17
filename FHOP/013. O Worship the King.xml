@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:01+04:00">
+	<properties>
+		<titles>
+			<title>O Worship the King</title>
+		</titles>
+		<authors>
+			<author>Robert Grant</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1486</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Majesty and Power</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="13"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 104</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O worship the King, all glorious above,
+O gratefully sing His wonderful love;
+Our Shield and Defender, the Ancient of days,
+Pavilioned in splendor, and girded with praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O tell of His might, and sing of His grace,
+Whose robe is the light, whose canopy space;
+His chariots of wrath the deep thunderclouds form,
+And dark is His path on the wings of the storm.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy bountiful care what tongue can recite?
+It breathes in the air, it shines in the light,
+It streams from the hills, it descends to the plain,
+And sweetly distills in the dew and the rain.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Frail children of dust, and feeble as frail,
+In Thee do we trust, nor find Thee to fail;
+Thy mercies how tender! how firm to the end!
+Our Maker, Defender, Redeemer, and Friend.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

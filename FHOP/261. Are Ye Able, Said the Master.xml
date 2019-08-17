@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:15+04:00">
+	<properties>
+		<titles>
+			<title>"Are Ye Able," Said the Master</title>
+		</titles>
+		<authors>
+			<author>Earl Marlatt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="261"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Are ye able," said the Master,
+"To be crucified with me?"
+"Yea," the sturdy dreamers answered,
+"To the death we follow Thee."</lines>
+		</verse>
+		<verse name="c">
+		<lines>"Lord, we are able,"
+Our spirits are Thine.
+Remold them, make us,
+Like Thee, divine:
+Thy guiding radiance
+Above us shall be
+A beacon to God,
+To love and loyalty.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"Are ye able," to remember,
+When a thief lifts up his eyes,
+That his pardoned soul is worthy
+Of a place in paradise? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Are ye able," when the shadows
+Close around you with the sod,
+To believe that spirit triumphs,
+To commend your soul to God? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>"Are ye able?" Still the Master
+Whispers down eternity,
+And heroic spirits answer
+Now, as then in Galilee. </lines>
+		</verse>
+	</lyrics>
+</song>

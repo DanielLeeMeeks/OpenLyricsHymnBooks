@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:27+04:00">
+	<properties>
+		<titles>
+			<title>Soldiers of Christ, Arise!</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>185924</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="356"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Soldiers of Christ, arise,
+And put your armor on,
+Strong in the strength which God supplies,
+Through His eternal Son;
+Strong in the Lord of hosts,
+And in His mighty pow'r,
+Who in the strength of Jesus trusts
+Is more than conqueror.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Stand then in His great might,
+With all His strength endued,
+And take, to arm you for the fight,
+The panoply of God;
+That having all things done,
+And all your conflicts past,
+Ye may o'ercome through Christ alone,
+And stand entire at last.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Leave no unguarded place,
+No weakness of the soul,
+Take ev'ry virtue, ev'ry grace,
+And fortify the whole,
+From strength to strength go on,
+Wrestle and fight and pray;
+Tread all the pow'rs of darkness down,
+And win the well-fought day.</lines>
+		</verse>
+	</lyrics>
+</song>

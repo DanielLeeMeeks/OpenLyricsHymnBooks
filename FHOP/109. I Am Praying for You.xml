@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>I Am Praying for You</title>
+		</titles>
+		<authors>
+			<author>S. O'Malley Cluff</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Prayer: Hymns of</theme><theme> Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="109"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I have a Savior, He’s pleading in glory,
+A dear, loving Savior, tho' earth-friends be few;
+And now He is watching in tenderness o’er me,
+But oh, that my Savior were your Savior, too!</lines>
+		</verse>
+		<verse name="c">
+		<lines>For you I am praying,
+For you I am praying,
+For you I am praying,
+I’m praying for you.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I have a Father; to me He has given
+A hope for eternity, blessed and true;
+And soon He will call me to meet Him in heaven,
+But oh, that He’d let me bring you with me, too! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I have a robe; 'tis resplendent in whiteness,
+Awaiting in glory my wondering view;
+Oh, when I receive it all shining in brightness,
+Dear friend, could I see you receiving one, too! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When Jesus has found you, tell others the story,
+That my loving Savior is your Savior, too;
+Then pray that your Savior will bring them to glory,
+And prayer will be answered--'twas answered for you! </lines>
+		</verse>
+	</lyrics>
+</song>

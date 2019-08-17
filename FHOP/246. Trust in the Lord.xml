@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:13+04:00">
+	<properties>
+		<titles>
+			<title>Trust in the Lord</title>
+		</titles>
+		<authors>
+			<author>Thomas O. Chisholm</author>
+		</authors>
+		<copyright>© 1937, Ren. 1965 Hope Publishing Co.</copyright>
+		<ccliNo>7070624</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="246"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Trust in the Lord with all thine heart,"
+This is God's gracious command;
+"In all thy ways acknowledge Him,
+So shalt thou dwell in the land."</lines>
+		</verse>
+		<verse name="c">
+		<lines>"Trust in the Lord," O troubled soul,
+Rest in the arms of His care;
+Whatever thy lot, it mattereth not,
+For nothing can trouble thee there;
+"Trust in the Lord," O troubled soul,
+Nothing can trouble you there.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"Trust in the Lord" who ruleth all,
+Seeth all things as they are,
+Be it a birdling in its nest,
+Or yonder uttermost star. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Trust in the Lord" and peaceful be,
+Fret not thy spirit in vain,
+What tho' the answer tarries long,
+Still shalt hou praise Him again. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>"Trust in the Lord"--His eye will guide
+All thro' your pathway ahead,
+He hath redeemed and He will keep,
+Trust Him and be not afraid. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:14+04:00">
+	<properties>
+		<titles>
+			<title>Holy Bible, Book Divine</title>
+		</titles>
+		<authors>
+			<author>John Burton</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7074702</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="253"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy Bible, Book divine,
+Precious treasure, thou art mine:
+Mine to tell me whence I came,
+Mine to teach me what I am;</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Mine to chide me when I rove,
+Mine to show a Savior's love,
+Mine thou art to guide and guard,
+Mine to punish or reward,</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Mine to comfort in distress--
+Suffering in this wilderness,
+Mine to show--by living faith--
+Man can triumph over death,</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Mine to tell of joys to come,
+And the rebel sinner's doom:
+O thou holy Book divine,
+Precious treasure, thou art mine.</lines>
+		</verse>
+	</lyrics>
+</song>

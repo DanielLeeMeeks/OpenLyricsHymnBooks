@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:14+04:00">
+	<properties>
+		<titles>
+			<title>Cleanse Me</title>
+		</titles>
+		<authors>
+			<author>J. Edwin Orr</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3015410</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="252"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Search me, O God, and know my heart today;
+Try me, O Savior, know my thoughts, I pray.
+See if there be some wicked way in me;
+Cleanse me from ev'ry sin and set me free.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I praise Thee, Lord, for cleansing me from sin;
+Fulfill Thy Word, and make me pure within;
+Fill me with fire, where once I burned with shame;
+Grant my desire to magnify Thy name.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord, take my life, and make it wholly Thine;
+Fill my poor heart with Thy great love divine;
+Take all my will, my passion, self and pride;
+I now surrender: Lord, in me abide.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O Holy Ghost, revival comes from Thee;
+Send a revival--start the work in me:
+Thy Word declares Thou wilt supply our need:
+For blessing now, O Lord, I humbly plead.</lines>
+		</verse>
+	</lyrics>
+</song>

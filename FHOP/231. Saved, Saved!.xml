@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>Saved, Saved!</title>
+		</titles>
+		<authors>
+			<author>Jack P. Scholfield</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>29547</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="231"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I've found a friend who is all to me,
+His love is ever true;
+I love to tell how He lifted me,
+And what His grace can do for you.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Saved by His pow'r divine,
+Saved to new life sublime!
+Life now is sweet and my joy is complete,
+For I'm Saved, saved, saved!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He saves me from ev'ry sin and harm,
+Secures my soul each day;
+I'm leaning strong on His mighty arm;
+I know He'll guide me all the way. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When poor and needy and all alone,
+In love He said to me,
+"Come unto Me and I'll lead you home,
+To live with me eternally." </lines>
+		</verse>
+	</lyrics>
+</song>

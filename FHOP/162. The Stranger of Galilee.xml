@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:02+04:00">
+	<properties>
+		<titles>
+			<title>The Stranger of Galilee</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Life and Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="162"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In fancy I stood by the shore, one day,
+Of the beautiful murm’ring sea;
+I saw the great crowds as they thronged the way
+Of the Stranger of Galilee;
+I saw how the man who was blind from birth,
+In a moment was made to see;
+The lame was made whole by the matchless skill
+Of the Stranger of Galilee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>And I felt I could love Him forever,
+So gracious and tender was He!
+I claimed Him that day as my Savior,
+This Stranger of Galilee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>His look of compassion, His words of love,
+They shall never forgotten be,
+When sin-sick and helpless He saw me there,
+This Stranger of Galilee;
+He showed me His hand and His riven side,
+And He whispered, “It was for thee!”
+My burden fell off at the pierced feet
+Of the Stranger of Galilee. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I heard Him speak peace to the angry waves,
+Of that turbulent, raging sea;
+And lo! at His word are the waters stilled,
+This Stranger of Galilee;
+A peaceful, a quiet, and holy calm,
+Now and ever abides with me;
+He holdeth my life in His mighty hands,
+This Stranger of Galilee. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come ye, who are driven, and tempest-tossed,
+And His gracious salvation see;
+He’ll quiet life’s storms with His “Peace, be still!”
+This Stranger of Galilee;
+He bids me to go and the story tell
+What He ever to you will be,
+If only you let Him with you abide,
+This Stranger of Galilee.
+Oh, my friend, won't you love Him forever?
+So gracious and tender was He!
+Accept Him today as your Savior,
+This Stranger of Galilee.</lines>
+		</verse>
+	</lyrics>
+</song>

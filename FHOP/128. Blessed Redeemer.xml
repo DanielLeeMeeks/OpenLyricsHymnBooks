@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:57+04:00">
+	<properties>
+		<titles>
+			<title>Blessed Redeemer</title>
+		</titles>
+		<authors>
+			<author>Avis B. Christiansen</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme><theme> Christ: Suffering</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="128"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Up Calvary's mountain one dreadful morn,
+Walked Christ my Saviour, weary and worn;
+Facing for sinners death on the cross,
+That He might save them from endless loss.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Blessed Redeemer! precious Redeemer!
+Seems now I see Him on Calvary's tree;
+Wounded and bleeding, for sinners pleading--
+Blind and unheeding--dying for me!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"Father, forgive them!" thus did He pray,
+E'en while His life-blood flowed fast away;
+Praying for sinners while in such woe--
+No one but Jesus ever loved so. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O how I love Him, Saviour and Friend,
+How can my praises ever find end!
+Thro' years unnumbered on heaven's shore,
+My tongue shall praise Him forevermore. </lines>
+		</verse>
+	</lyrics>
+</song>

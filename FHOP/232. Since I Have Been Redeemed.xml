@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>Since I Have Been Redeemed</title>
+		</titles>
+		<authors>
+			<author>Edwin O. Excell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="232"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I have a song I love to sing,
+Since I have been redeemed,
+Of my Redeemer, Savior, King,
+Since I have been redeemed.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Since I have been redeemed,
+Since I have been redeemed,
+I will glory in His name;
+Since I have been redeemed,
+I will glory in my Savior's name.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I have a Christ that satisfies,
+Since I have been redeemed,
+To do His will my highest prize,
+Since I have been redeemed. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I have a witness bright and clean,
+Since I have been redeemed,
+Dispelling every doubt and fear,
+Since I have been redeemed. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I have a home prepared for me,
+Since I have been redeemed,
+Where I shall dwell eternally,
+Since I have been redeemed. </lines>
+		</verse>
+	</lyrics>
+</song>

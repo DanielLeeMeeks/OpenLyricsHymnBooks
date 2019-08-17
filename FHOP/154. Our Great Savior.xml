@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:01+04:00">
+	<properties>
+		<titles>
+			<title>Our Great Savior</title>
+		</titles>
+		<authors>
+			<author>J. Wilbur Chapman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Guide</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="154"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus! what a Friend for sinners!
+Jesus! Lover of my soul;
+Friends may fail me, foes assail me,
+He, my Savior, makes me whole.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus! what a Strength in weakness!
+Let me hide myself in Him;
+Tempted, tried, and sometimes failing,
+He, my strength, my vict'ry wins. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus! what a Help in sorrow!
+While the billows o'er me roll,
+Even when my heart is breaking,
+He, my comfort, helps my soul. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus! what a guide and keeper!
+While the tempest still is high,
+Storms about me, night o'ertakes me,
+He, my pilot, hears my cry. </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus! I do now receive Him,
+More than all in Him I find,
+He hath granted me forgiveness,
+I am His, and He is mine. </lines>
+		</verse>
+	</lyrics>
+</song>

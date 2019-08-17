@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+	<properties>
+		<titles>
+			<title>The Lord's My Shepherd</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>165274</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Shepherd</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="373"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Lord’s my Shepherd, I’ll not want;
+He makes me down to lie
+In pastures green; He leadeth me
+The quiet waters by.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My soul He doth restore again;
+And me to walk, doth make
+Within the paths of righteousness,
+E'en for His own name’s sake.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Yea, tho' I walk in death’s dark vale,
+Yet will I fear no ill;
+For Thou art with me, and Thy rod--
+And staff me comfort still.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My table Thou hast furnishèd
+In presence of my foes:
+My head Thou dost with oil anoint,
+And my cup overflows.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Goodness and mercy all my life
+Shall surely follow me,
+And in God’s house forevermore
+My dwelling place shall be.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+	<properties>
+		<titles>
+			<title>At Calvary</title>
+		</titles>
+		<authors>
+			<author>William R. Newell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Christ</theme><theme> Repentance</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="400"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Years I spent in vanity and pride,
+Caring not my Lord was crucifed,
+Knowing not it was for me He died
+On Calvary.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Mercy there was great, and grace was free;
+Pardon there was multiplied to me;
+There my burdened soul found liberty,
+At Calvary.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>By God's Word at last my sin I learned;
+Then I trembled at the law I'd spurned,
+Till my guilty soul imploring turned
+To Calvary. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now I've giv'n to Jesus ev'rything,
+Now I gladly own Him as my King,
+Now my raptured soul can only sing
+Of Calvary. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, the love that drew salvation's plan!
+Oh, the grace that brought it down to man!
+Oh, the mighty gulf that God did span
+At Calvary. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:48+04:00">
+	<properties>
+		<titles>
+			<title>I'll Be a Sunbeam</title>
+		</titles>
+		<authors>
+			<author>Nellie Talbot</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>109670</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="515"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus wants me for a sunbeam,
+To shine for Him each day;
+In ev'ry way try to please Him,
+At home, at school, at play.</lines>
+		</verse>
+		<verse name="c">
+		<lines>A sunbeam, a sunbeam,
+Jesus wants me for a sunbeam;
+A sunbeam, a sunbeam,
+I’ll be a sunbeam for Him.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus wants me to be loving,
+And kind to all I see;
+Showing how pleasant and happy,
+His little one can be. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I will ask Jesus to help me
+To keep my heart from sin;
+Ever reflecting His goodness,
+And always shine for Him. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I’ll be a sunbeam for Jesus;
+I can if I but try;
+Serving Him moment by moment,
+Then live with Him on high. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:32+04:00">
+	<properties>
+		<titles>
+			<title>Hiding in Thee</title>
+		</titles>
+		<authors>
+			<author>William O. Cushing</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2647872</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme><theme> Christ: Rock</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="389"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O safe to the Rock that is higher than I,
+My soul in its conflicts and sorrows would fly;
+So sinful, so weary, Thine, Thine would I be;
+Thou blest "Rock of Ages," I'm hiding in Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hiding in Thee,
+Hiding in Thee,
+Thou blest "Rock of Ages,"
+I'm hiding in Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In the calm of the noontide, in sorrow's lone hour,
+In times when temptation casts o'er me its pow'r;
+In the tempests of life, on its wide, heaving sea,
+Thou blest "Rock of Ages," I'm hiding in Thee. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>How oft in the conflict, when pressed by the foe,
+I have fled to my Refuge and breathed out my woe;
+How often, when trials like sea-billows roll,
+Have I hidden in Thee, O Thou Rock of my soul. </lines>
+		</verse>
+	</lyrics>
+</song>

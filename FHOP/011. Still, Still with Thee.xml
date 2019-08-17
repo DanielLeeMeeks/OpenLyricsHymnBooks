@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:01+04:00">
+	<properties>
+		<titles>
+			<title>Still, Still with Thee</title>
+		</titles>
+		<authors>
+			<author>Harriet Beecher Stowe</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="11"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Still, still with Thee, when purple morning breaketh,
+When the bird waketh, and the shadows flee;
+Fairer than morning, lovelier than the daylight,
+Dawns the sweet consciousness, I am with Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Alone with Thee, amid the mystic shadows,
+The solemn hush of nature newly born;
+Alone with Thee in breathless adoration,
+In the calm dew and freshness of the morn.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When sinks the soul, subdued by toil, to slumber,
+Its closing eyes look up to Thee in prayer;
+Sweet the repose beneath the wings o’ershading,
+But sweeter still to wake and find Thee there.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>So shall it be at last, in that bright morning
+When the soul waketh, and life’s shadows flee;
+Oh, in that hour, fairer than daylight dawning,
+Shall rise the glorious thought--I am with Thee.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

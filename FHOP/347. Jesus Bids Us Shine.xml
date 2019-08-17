@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:26+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Bids Us Shine</title>
+		</titles>
+		<authors>
+			<author>Susan Warner</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2646574</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="347"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus bids us shine,
+With a clear, pure light,
+Like a little candle
+Burning in the night;
+In this world of darkness
+We must shine,
+You in your small corner,
+And I in mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus bids us shine,
+First of all for Him;
+Well He sees and knows it
+If our light is dim;
+He looks down from heaven,
+Sees us shine,
+You in your small corner,
+And I in mine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus bids us shine,
+Then, for all around
+Many kinds of darkness
+In this world abound--
+Sin, and want, and sorrow:
+We must shine,
+You in your small corner,
+And I in mine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus bids us shine,
+As we work for Him,
+Bringing those that wander
+From the paths of sin;
+He will ever help us,
+If we shine,
+You in your small corner,
+And I in mine.</lines>
+		</verse>
+	</lyrics>
+</song>

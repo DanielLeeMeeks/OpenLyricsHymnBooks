@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:45+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Is the Sweetest Name I Know</title>
+		</titles>
+		<authors>
+			<author>Lela Long</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme><theme> Christ: Name</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="36"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There have been names that I have loved to hear,
+But never has there been a name so dear
+To this heart of mine, as the name divine,
+The precious, precious name of Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus is the sweetest name I know,
+And He’s just the same as His lovely name,
+And that’s the reason why I love Him so;
+Oh, Jesus is the sweetest name I know.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is no name in earth or heav’n above,
+That we should give such honor and such love
+As the blessèd name, let us all acclaim,
+That wondrous, glorious name of Jesus. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>And some day I shall see Him face to face
+To thank and praise Him for His wondrous grace,
+Which He gave to me, when He made me free,
+The blessèd Son of God called Jesus. </lines>
+		</verse>
+	</lyrics>
+</song>

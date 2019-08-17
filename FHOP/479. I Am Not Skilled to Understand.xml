@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:43+04:00">
+	<properties>
+		<titles>
+			<title>I Am Not Skilled to Understand</title>
+		</titles>
+		<authors>
+			<author>Dora Greenwell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="479"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am not skilled to understand
+What God hath willed, what God hath planned;
+I only know at His right hand
+Is One who is my Savior!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I take Him at His word indeed;
+“Christ died for sinners,” this I read;
+And in my heart I find a need
+Of Him to be my Savior!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>That He should leave His place on high
+And come for sinful man to die,
+You count it strange? So once did I,
+Before I knew my Savior!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Yea, living, dying, let me bring
+My strength, my solace from this spring:
+That He who lives to be my King
+Once died to be my Savior!</lines>
+		</verse>
+	</lyrics>
+</song>

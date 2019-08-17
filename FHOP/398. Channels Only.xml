@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+	<properties>
+		<titles>
+			<title>Channels Only</title>
+		</titles>
+		<authors>
+			<author>Mary E. Maxwell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="398"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How I praise Thee, precious Savior,
+That Thy love laid hold of me;
+Thou hast saved and cleansed and filled me
+That I might Thy channel be.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Channels only, blessèd Master,
+But with all Thy wondrous pow'r
+Flowing thro' us, Thou canst use us
+Ev'ry day and ev'ry hour.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Emptied that Thou shouldest fill me,
+A clean vessel in Thy hand,
+With no pow'r but as Thou givest
+Graciously with each command. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Witnessing Thy pow'r to save me,
+Setting free from self and sin;
+Thou who boughtest to possess me,
+In Thy fullness, Lord, come in. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus, fill now with Thy Spirit
+Hearts that full surrender know;
+That the streams of living water
+From our inner man may flow. </lines>
+		</verse>
+	</lyrics>
+</song>

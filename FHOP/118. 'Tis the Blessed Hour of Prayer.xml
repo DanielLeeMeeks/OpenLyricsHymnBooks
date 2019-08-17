@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>'Tis the Blessed Hour of Prayer</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="118"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>’Tis the blessèd hour of prayer, when our hearts lowly bend,
+And we gather to Jesus, our Savior and Friend;
+If we come to Him in faith, His protection to share,
+What a balm for the weary! O how sweet to be there!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Blessèd hour of prayer,
+Blessèd hour of prayer;
+What a balm for the weary!
+O how sweet to be there!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>’Tis the blessèd hour of prayer, when the Savior draws near,
+With a tender compassion His children to hear;
+When He tells us we may cast at His feet every care,
+What a balm for the weary, O how sweet to be there! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>’Tis the blessèd hour of prayer, when the tempted and tried
+To the Savior who loves them their sorrow confide;
+With a sympathizing heart He removes every care;
+What a balm for the weary! O how sweet to be there! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>At the blessèd hour of prayer, trusting Him we believe
+That the blessings we’re needing we’ll surely receive;
+In the fullness of this trust we shall lose every care;
+What a balm for the weary! O how sweet to be there! </lines>
+		</verse>
+	</lyrics>
+</song>

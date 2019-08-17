@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:09+04:00">
+	<properties>
+		<titles>
+			<title>I Belong to the King</title>
+		</titles>
+		<authors>
+			<author>Ida L. Reed</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="212"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I belong to the King, I’m a child of His love,
+I shall dwell in His palace so fair;
+For He tells of its bliss in yon heaven above,
+And His children in splendor shall share.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I belong to the King, I’m a child of His love,
+And he never forsaketh His own;
+He will call me some day to His palace above,
+I shall dwell by His glorified throne.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I belong to the King, and He loves me I know,
+For His mercy and kindness, so free,
+Are unceasingly mine wheresoever I go,
+And my refuge unfailing is He. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I belong to the King, and His promise is sure,
+That we all shall be gathered at last
+In His kingdom above, by life’s waters so pure,
+When this life with its trials is past. </lines>
+		</verse>
+	</lyrics>
+</song>

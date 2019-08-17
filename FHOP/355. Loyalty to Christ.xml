@@ -1,0 +1,67 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:27+04:00">
+	<properties>
+		<titles>
+			<title>Loyalty to Christ</title>
+		</titles>
+		<authors>
+			<author>E. Taylor Cassel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="355"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>From over hill and plain
+There comes the signal strain,
+’Tis loyalty, loyalty, loyalty to Christ;
+Its music rolls along,
+The hills take up the song,
+Of loyalty, loyalty,
+Yes, loyalty to Christ.</lines>
+		</verse>
+		<verse name="c">
+		<lines>“On to victory! On to victory!”
+Cries our great Commander “On!”
+We’ll move at His command,
+We’ll soon possess the land,
+Thro' loyalty, loyalty,
+Yes, loyalty to Christ.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O hear, ye brave, the sound
+That moves the earth around,
+’Tis loyalty, loyalty, loyalty to Christ;
+Arise to dare and do,
+Ring out the watchword true,
+Of loyalty, loyalty,
+Yes, loyalty to Christ. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come, join our loyal throng,
+We’ll rout the giant wrong,
+’Tis loyalty, loyalty, loyalty to Christ;
+Where Satan’s banners float
+We’ll send the bugle note,
+Of loyalty, loyalty,
+Yes, loyalty to Christ. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>The strength of youth we lay
+At Jesus’ feet today,
+’Tis loyalty, loyalty, loyalty to Christ;
+His Gospel we’ll proclaim,
+Thro'out the world’s domain,
+Of loyalty, loyalty,
+Yes, loyalty to Christ. 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,38 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>Bread of Heaven</title>
+		</titles>
+		<authors>
+			<author>Joseph Conder</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2211064</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="433"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Bread of heav'n on Thee we feed,
+For Thy flesh is meat indeed;
+Ever let our souls be fed
+With this true and living bread.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Vine of heav'n, Thy love supplies
+This blest cup of sacrifice;
+Lord, Thy wounds our healing give,
+To Thy cross we look and live:.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Day by day, with strength supplied,
+Thro' the life of Him who died,
+Lord of life, O let us be
+Rooted, grafted, built on Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

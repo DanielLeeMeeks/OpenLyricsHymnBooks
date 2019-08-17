@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:34+04:00">
+	<properties>
+		<titles>
+			<title>Near the Cross</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Christ</theme><theme> Devotional</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="407"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, keep me near the cross,
+There a precious fountain
+Free to all--a healing stream,
+Flows from Calv’ry’s mountain.</lines>
+		</verse>
+		<verse name="c">
+		<lines>In the cross, in the cross,
+Be my glory ever;
+Till my raptured soul shall find
+Rest beyond the river.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Near the cross, a trembling soul,
+Love and mercy found me;
+There the Bright and Morning Star
+Sheds its beams around me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Near the cross! O Lamb of God,
+Bring its scenes before me;
+Help me walk from day to day,
+With its shadows o’er me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Near the cross I’ll watch and wait
+Hoping, trusting ever,
+Till I reach the golden strand,
+Just beyond the river. </lines>
+		</verse>
+	</lyrics>
+</song>

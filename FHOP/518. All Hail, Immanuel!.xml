@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:48+04:00">
+	<properties>
+		<titles>
+			<title>All Hail, Immanuel!</title>
+		</titles>
+		<authors>
+			<author>D. R. Van Sickle</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Choir</theme><theme> Christ: Kingship and Reign</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="518"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All hail to Thee, Immanuel,
+We cast our crowns before Thee;
+Let ev'ry heart obey Thy will,
+And every voice adore Thee.
+In praise to Thee, our Savior King,
+The vibrant chords of Heaven ring,
+And echo back the mighty strain:
+All hail! all hail! All hail all hail! Immanuel!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hail to the King we love so well! Hail! Immanuel!
+Hail to the King we love so well! Hail! Immanuel!
+Glory and honor and majesty,
+Wisdom and power be unto Thee,
+Now and evermore!
+Hail to the King we love so well! Hail! Immanuel!
+Hail to the King we love so well! Hail! Immanuel!
+King of kings and Lord of lords,
+All hail, Immanuel!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All hail to Thee, Immanuel,
+The ransomed hosts surround Thee;
+And earthly monarchs clamor forth
+Their Sov'reign King to crown Thee.
+While those redeemed in ages gone,
+Assembled round the great white throne,
+Break forth into immortal song:
+All hail! all hail! All hail all hail! Immanuel! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>All hail to Thee, Immanuel,
+Our risen King and Savior!
+Thy foes are vanquished, and Thou art
+Omnipotent forever.
+Death, sin and hell no longer reign,
+And Satan’s pow’r is burst in twain;
+Eternal glory to Thy Name:
+All hail! all hail! All hail all hail! Immanuel! 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

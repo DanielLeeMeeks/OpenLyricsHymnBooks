@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>The Star-Spangled Banner</title>
+		</titles>
+		<authors>
+			<author>Francis Scott Key</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>93786</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>National</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="451"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Oh, say can you see, by the dawn's early light,
+What so proudly we hailed at the twilight's last gleaming?
+Whose broad stripes and bright stars, thro' the perilous fight,
+O'er the ramparts we watched, were so gallantly streaming?
+And the rockets' red glare, the bombs bursting in air,
+Gave proof thro' the night that our flag was still there.
+Oh, say, does the star-spangled banner yet wave
+O'er the land of the free, and the home of the brave?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>On the shore, dimly seen thro' the mists of the deep,
+Where the foe's haughty host in dead silence reposes,
+What is that which the breeze, o'er the towering steep,
+As it fitfully blows, half conceals, half discloses?
+Now it catches the gleam of the morning's first beam,
+In full glory reflected now shines on the stream:
+'Tis the star-spangled banner; oh long may it wave
+O'er the land of the free, and the home of the brave!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And where is that band, who so vauntingly swore
+That the havoc of war and the battle's confusion,
+A home and a country should leave us no more?
+Their blood has washed out their foul footsteps' pollution;
+No refuge could save the hireling and slave
+From the terror of flight or the gloom of the grave.
+And the star-spangled banner in triumph doth wave
+O'er the land of the free, and the home of the brave.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, thus be it ever when free men shall stand
+Between their loved homes and the war's desolation;
+Blest with vict'ry and peace, may the Heav'n-rescued land
+Praise the Pow'r that hath made and preserved us a nation!
+Then conquer we must, when our cause it is just,
+And this be our motto: "In God is our trust!"
+And the star-spangled banner in triumph shall wave
+O'er the land of the free and the home of the brave.</lines>
+		</verse>
+	</lyrics>
+</song>

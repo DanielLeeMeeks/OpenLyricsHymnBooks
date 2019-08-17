@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:50+04:00">
+	<properties>
+		<titles>
+			<title>Safely Through Another Week</title>
+		</titles>
+		<authors>
+			<author>John Newton</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>122042</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="72"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Safely through another week
+God has brought us on our way;
+Let us now a blessing seek,
+Waiting in His courts today;
+Day of all the week the best,
+Emblem of eternal rest:
+Day of all the week the best,
+Emblem of eternal rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>While we pray for pard'ning grace,
+Thro' the dear Redeemer's name,
+Show Thy reconciled face;
+Take away our sin and shame;
+From our worldly cares set free,
+May we rest this day in Thee:
+From our worldly cares set free,
+May we rest this day in Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Here we come Thy name to praise,
+Let us feel thy presence near;
+May Thy glory meet our eyes,
+While we in Thy house appear:
+Here afford us, Lord, a taste
+Of our everlasting feast:
+Here afford us, Lord, a taste
+Of our everlasting feast.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>May Thy gospel's joyful sound
+Conquer sinners, comfort saints;
+May the fruits of grace abound,
+Bring relief for all complaints:
+Thus may all our Sabbaths prove,
+Till we join the church above:
+Thus may all our Sabbaths prove,
+Till we join the church above.</lines>
+		</verse>
+	</lyrics>
+</song>

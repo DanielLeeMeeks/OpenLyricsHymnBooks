@@ -1,0 +1,71 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>When Loves Shine In</title>
+		</titles>
+		<authors>
+			<author>Mrs. Frank A. Breck</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="143"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus comes with pow’r to gladden,
+When love shines in,
+Ev'ry life that woe can sadden,
+When love shines in.
+Love will teach us how to pray,
+Love will drive the gloom away,
+Turn our darkness into day,
+When love shines in.</lines>
+		</verse>
+		<verse name="c">
+		<lines>When love shines in,
+When love shines in,
+How the heart is tuned to singing,
+When love shines in,
+When love shines in,
+Joy and peace to others bringing,
+When love shines in!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>How the world will grow with beauty,
+When love shines in,
+And the heart rejoice in duty,
+When love shines in.
+Trials may be sanctified,
+And the soul in peace abide,
+Life will all be glorified,
+When love shines in. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Darkest sorrow will grow brighter,
+When love shines in,
+And the heaviest burden lighter,
+When love shines in.
+’Tis the glory that will throw
+Light to show us where to go;
+O the heart shall blessing know--
+When love shines in. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>We may have unfading splendor,
+When love shines in,
+And a friendship true and tender,
+When love shines in.
+When earth’s vict’ries shall be won,
+And our life in Heav’n begun,
+There will be no need of sun,
+When love shines in. </lines>
+		</verse>
+	</lyrics>
+</song>

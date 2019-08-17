@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>Why Do I Sing about Jesus?</title>
+		</titles>
+		<authors>
+			<author>Albert A. Ketchum</author>
+		</authors>
+		<copyright>© 1923, Ren. 1951 Hope Publishing Co.</copyright>
+		<ccliNo>6460158</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="149"/>
+		</songbooks>
+		<comments>
+			<comment>Now Public Domain.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Deep in my heart there's a gladness,
+Jesus has saved me from sin!
+Praise to His name, what a Saviour!
+Cleansing without and within.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Why do I sing about Jesus?
+Why is He precious to me?
+He is my Lord and my Saviour,
+Dying! He set me free!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Only a glimpse of His goodness,
+That was sufficient for me;
+Only one look at the Saviour,
+Then was my spirit set free. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>He is the fairest of fair ones,
+He is the Lily, the Rose;
+Rivers of mercy surround Him,
+Grace, love, and pity He shows. </lines>
+		</verse>
+	</lyrics>
+</song>

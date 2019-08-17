@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>Faith of Our Fathers</title>
+		</titles>
+		<authors>
+			<author>Frederick W. Faber</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: of Believer</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="423"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Faith of our fathers! living still,
+In spite of dungeon, fire, and sword:
+O how our hearts beat high with joy
+Whene’er we hear that glorious Word!
+Faith of our fathers, holy faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Our fathers, chained in prisons dark,
+Were still in heart and conscience free:
+How sweet would be their children's fate,
+If they like them could die for thee!
+Faith of our fathers, holy faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Faith of our fathers! we will strive
+To win all nations unto thee,
+And thro' the truth that comes from God,
+Mankind shall then be truly free.
+Faith of our fathers, holy faith!
+We will be true to thee till death.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Faith of our fathers! we will love
+Both friend and foe in all our strife:
+And preach thee, too, as love knows how,
+By kindly words and virtuous life:
+Faith of our fathers, holy faith!
+We will be true to thee till death.</lines>
+		</verse>
+	</lyrics>
+</song>

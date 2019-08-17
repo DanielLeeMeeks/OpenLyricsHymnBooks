@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:28+04:00">
+	<properties>
+		<titles>
+			<title>True-Hearted, Whole-Hearted</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Faithfulness: of Believer</theme><theme> Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="364"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>True-hearted, whole-hearted, faithful and loyal,
+King of our lives, by Thy grace we will be;
+Under the standard exalted and royal,
+Strong in Thy strength we will battle for Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Peal out the watchword! silence it never!
+Song of our spirits, rejoicing and free;
+Peal out the watchword! loyal forever,
+King of our lives, by Thy grace we will be.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>True-hearted, whole-hearted, fullest allegiance
+Yielding henceforth to our glorious King;
+Valiant endeavor and loving obedience,
+Freely and joyously now would we bring. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>True-hearted, whole-hearted, Savior all-glorious!
+Take Thy great power and reign Thou alone,
+Over our wills and affections victorious,
+Freely surrendered and wholly Thine own. </lines>
+		</verse>
+	</lyrics>
+</song>

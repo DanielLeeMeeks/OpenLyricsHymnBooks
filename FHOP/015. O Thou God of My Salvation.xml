@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:01+04:00">
+	<properties>
+		<titles>
+			<title>O Thou God of My Salvation</title>
+		</titles>
+		<authors>
+			<author>Thomas Olivers</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="15"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Thou God of my salvation,
+My Redeemer from all sin;
+Moved by Thy divine compassion,
+Who hast died my heart to win;
+I will praise Thee, I will praise Thee,
+Where shall I Thy praise begin?
+I will praise Thee, I will praise Thee,
+Where shall I Thy praise begin?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though unseen, I love the Savior,
+He hath brought salvation near;
+Manifests His pard'ning favor,
+And when Jesus doth appear,
+Soul and body, soul and body,
+Shall His glorious image bear;
+Soul and body, soul and body,
+Shall His glorious image bear.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>While the angel choirs are crying,
+“Glory to the great I Am,”
+I with them will still be vying--
+Glory, glory, to the Lamb!
+Oh, how precious, oh, how precious
+Is the sound of Jesus’ Name!
+Oh, how precious, oh, how precious
+Is the sound of Jesus’ Name!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Angels now are hov'ring round us,
+Unperceived among the throng;
+Wond'ring at the love that crowned us,
+Glad to sing the holy song;
+Hallelujah, hallelujah,
+Love and praise to Christ belong!
+Hallelujah, hallelujah,
+Love and praise to Christ belong!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

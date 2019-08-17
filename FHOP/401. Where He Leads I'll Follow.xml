@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+	<properties>
+		<titles>
+			<title>Where He Leads I'll Follow</title>
+		</titles>
+		<authors>
+			<author>William A. Ogden</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Example</theme><theme> Christ: Guide</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="401"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sweet are the promises,
+Kind is the word,
+Dearer far than any message man ever heard;
+Pure was the mind of Christ,
+Sinless I see;
+He the great example is, and pattern for me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Where He leads I’ll follow,
+Follow all the way.
+Where He leads I’ll follow,
+Follow Jesus ev’ry day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sweet is the tender love
+Jesus hath shown,
+Sweeter far than any love that mortals have known;
+Kind to the erring one,
+Faithful is He;
+He the great example is, and pattern for me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>List to His loving words,
+“Come unto Me;”
+Weary, heavy-laden, there is sweet rest for thee;
+Trust in His promises,
+Faithful and sure;
+Lean upon the Savior, and thy soul is secure. </lines>
+		</verse>
+	</lyrics>
+</song>

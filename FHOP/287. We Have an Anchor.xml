@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>We Have an Anchor</title>
+		</titles>
+		<authors>
+			<author>Priscilla J. Owens</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4473037</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Rock</theme><theme> Faithfulness: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="287"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Will your anchor hold in the storms of life,
+When the clouds unfold their wings of strife?
+When the strong tides lift, and the cables strain,
+Will your anchor drift, or firm remain?</lines>
+		</verse>
+		<verse name="c">
+		<lines>We have an anchor that keeps the soul
+Steadfast and sure while the billows roll,
+Fastened to the Rock which cannot move,
+Grounded firm and deep in the Savior’s love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It is safely moored, ’twill the storm withstand,
+For ’tis well secured by the Savior’s hand;
+And the cables, passed from His heart to mine,
+Can defy that blast, thro’ strength divine. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>It will firmly hold in the straits of fear,
+When the breakers have told that the reef is near;
+Though the tempest rave and the wild winds blow,
+Not an angry wave shall our bark o’erflow. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When our eyes behold thro' the gath’ring night
+The city of gold, our harbor bright,
+We shall anchor fast by the heav’nly shore,
+With the storms all past forevermore. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,40 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>Away in a Manger</title>
+		</titles>
+		<authors>
+			<author>Martin Luther</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>38583</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="93"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Away in a manger,
+No crib for a bed,
+The little Lord Jesus
+Laid down His sweet head;
+The stars in the sky...
+Looked down where He lay,
+The little Lord Jesus,
+Asleep on the hay.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The cattle are lowing,
+The poor baby wakes,
+But little Lord Jesus,
+No crying He makes;
+I love Thee, Lord Jesus!
+Look down from the sky,
+And stay by my cradle
+To watch lullaby.</lines>
+		</verse>
+	</lyrics>
+</song>

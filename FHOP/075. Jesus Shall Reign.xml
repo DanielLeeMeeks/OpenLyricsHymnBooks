@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:51+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Shall Reign</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7106241</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="75"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus shall reign where'er the sun
+Does his successive journeys run;
+His kingdom spread from shore to shore,
+Till moons shall wax and wane no more.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>From north to south the princes meet
+To pay their homage at His feet;
+While western empires own their Lord,
+And savage tribes attend His word.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To Him shall endless prayer be made,
+And endless praises crown His head;
+His name like sweet perfume shall rise
+With ev'ry morning sacrifice.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>People and realms of ev'ry tongue
+Dwell on His love with sweetest song,
+And infant voices shall proclaim
+Their early blessings on His name.</lines>
+		</verse>
+	</lyrics>
+</song>

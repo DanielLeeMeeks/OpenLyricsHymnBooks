@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:10+04:00">
+	<properties>
+		<titles>
+			<title>Only a Sinner</title>
+		</titles>
+		<authors>
+			<author>James M. Gray</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="225"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Naught have I gotten but what I received;
+Grace hath bestowed it since I have believed;
+Boasting excluded, pride I abase;
+I’m only a sinner, saved by grace!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Only a sinner saved by grace!
+Only a sinner saved by grace!
+This is my story, to God be the glory,—-
+I’m only a sinner saved by grace!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Once I was foolish, and sin ruled my heart,
+Causing my footsteps from God to depart;
+Jesus hath found me, happy my case;
+I now am a sinner, saved by grace! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tears unavailing, no merit had I;
+Mercy had saved me, or else I must die;
+Sin had alarmed me, fearing God’s face;
+But now I’m a sinner saved by grace! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Suffer a sinner whose heart overflows,
+Loving his Savior to tell what he knows;
+Once more to tell it would I embrace--
+I’m only a sinner saved by grace! </lines>
+		</verse>
+	</lyrics>
+</song>

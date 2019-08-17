@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>I Love Thy Kingdom, Lord</title>
+		</titles>
+		<authors>
+			<author>Timothy Dwight</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1402912</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="313"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I love Thy kingdom, Lord,
+The house of Thine abode,
+The Church our blessed Redeemer saved
+With His own precious blood.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I love Thy Church, O God!
+Her walls before Thee stand,
+Dear as the apple of Thine eye,
+And graven on Thy hand.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For her my tears shall fall;
+For her my prayers ascend;
+To her my cares and toils be giv'n,
+Till toils and cares shall end.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Beyond my highest joy
+I prize her heav'nly ways,
+Her sweet communion, solemn vows,
+Her hymns of love and praise.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Sure as Thy truth shall last,
+To Zion shall be giv'n
+The brightest glories earth can yield,
+And brighter bliss of heav'n.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

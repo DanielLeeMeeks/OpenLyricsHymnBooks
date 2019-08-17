@@ -1,0 +1,62 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:47+04:00">
+	<properties>
+		<titles>
+			<title>Jerusalem the Golden</title>
+		</titles>
+		<authors>
+			<author>Bernard of Cluny</author>
+			<author>John M. Neale</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5871999</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="507"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jerusalem the golden,
+With milk and honey blest!.
+Beneath thy contemplation
+Sink heart and voice opprest.
+I know not, O I know not,
+What joys await us there;
+What radiancy of glory!
+What bliss beyond compare!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>They stand, those halls of Zion,
+All jubilant with song,
+And bright with many an angel,
+And all the martyr throng.
+The Prince is ever in them,
+The daylight is serene;
+The pastures of the blessed
+Are decked in glorious sheen.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>There is the throne of David;
+And there, from care released,
+The song of them that triumph,
+The shout of them that feast;
+And they, who with their Leader
+Have conquered in the fight,
+Forever and forever
+Are clad in robes of white.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O sweet and blessed country,
+The home of God's elect!
+O sweet and blessed country
+That eager hearts expect!
+Jesus, in mercy bring us
+To that dear land of rest;
+Who art, with God the Father
+And Spirit, ever blest.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

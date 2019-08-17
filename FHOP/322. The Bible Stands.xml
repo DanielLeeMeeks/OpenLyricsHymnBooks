@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>The Bible Stands</title>
+		</titles>
+		<authors>
+			<author>Haldor Lillenas</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1616760</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="322"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Bible stands like a rock undaunted
+'Mid the raging storms of time;
+Its pages burn with the truth eternal,
+And they glow with a light sublime.</lines>
+		</verse>
+		<verse name="c">
+		<lines>The Bible stands tho' the hills may tumble,
+It will firmly stand when the earth shall crumble;
+I will plant my feet on its firm foundation,
+For the Bible stands.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The Bible stands like a mountain tow'ring
+Far above the works of man;
+Its truth by none ever was refuted,
+And destroy it they never can. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The Bible stands and it will forever,
+When the world has passed away;
+By inspiration it has been given,
+All its precepts I will obey. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>The Bible stands ev'ry test we give it,
+For its Author is divine;
+By grace alone I will expect to live it,
+And to prove it and make it mine. </lines>
+		</verse>
+	</lyrics>
+</song>

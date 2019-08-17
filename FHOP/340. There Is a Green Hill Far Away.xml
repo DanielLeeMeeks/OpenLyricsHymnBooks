@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:25+04:00">
+	<properties>
+		<titles>
+			<title>There Is a Green Hill Far Away</title>
+		</titles>
+		<authors>
+			<author>Cecil F. Alexander</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Love</theme><theme> Christ: Sacrifice</theme><theme> Cross: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="340"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There is a green hill far away,
+Without a city wall,
+Where the dear Lord was crucified,
+Who died to save us all.</lines>
+		</verse>
+		<verse name="c">
+		<lines>O dearly, dearly has He loved,
+And we must love Him, too;
+And trust in His redeeming blood,
+And try His works to do.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We may not know we cannot tell,
+What pains He had to bear;
+But we believe it was for us
+He hung and suffered there. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>He died that we might be forgiv'n,
+He died to make us good,
+That we might go at last to Heav'n,
+Saved by His precious blood. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There was no other good enough,
+To pay the price of sin;
+He only could unlock the gate
+Of Heav'n and let us in. </lines>
+		</verse>
+	</lyrics>
+</song>

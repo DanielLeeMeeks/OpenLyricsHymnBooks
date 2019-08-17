@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>From Greenland's Icy Mountains</title>
+		</titles>
+		<authors>
+			<author>Reginald Heber</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>93638</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="443"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>From Greenland's icy mountains,
+From India's coral strand;
+Where Afric's sunny fountains
+Roll down their golden sand:
+From many an ancient river,
+From many a palmy plain,
+They call us to deliver
+Their land from error's chain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What though the spicy breezes
+Blow soft o'er Ceylon's isle;
+Though ev'ry prospect pleases,
+And only man is vile?
+In vain with lavish kindness
+The gifts of God are strown;
+The heathen in his blindness
+Bows down to wood and stone.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Shall we, whose souls are lighted
+With wisdom from on high,
+Shall we to men benighted
+The lamp of life deny?
+Salvation! O salvation!
+The joyful sound proclaim,
+Till earth's remotest nation
+Has learned Messiah's name.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Waft, waft, ye winds, His story,
+And you, ye waters, roll,
+Till, like a sea of glory,
+It spreads from pole to pole:
+Till o'er our ransomed nature
+The Lamb for sinners slain,
+Redeemer, King, Creator,
+In bliss returns to reign.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

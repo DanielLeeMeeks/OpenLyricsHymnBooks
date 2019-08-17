@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:34+04:00">
+	<properties>
+		<titles>
+			<title>Nearer the Cross</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Christ</theme><theme> Meditation</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="409"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Nearer the cross!" my heart can say,
+I am coming nearer,
+Nearer the cross from day to day,
+I am coming nearer;
+Nearer the cross where Jesus died,
+Nearer the fountain's crimson tide,
+Nearer my Savior's wounded side,
+I am coming nearer,
+I am coming nearer.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Nearer the Christian's mercy -seat,
+I am coming nearer,
+Feasting my soul on manna sweet,
+I am coming nearer;
+Stronger in faith, more clear I see
+Jesus who gave Himself for me;
+Nearer to Him I still would be,
+Still I'm coming nearer,
+Still I'm coming nearer.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nearer in prayer my hope aspires,
+I am coming nearer,
+Deeper the love my soul desires,
+I am coming nearer;
+Nearer the end of toil and care,
+Nearer the joy I long to share,
+Nearer the crown I soon shall wear;
+I am coming nearer,
+I am coming nearer.</lines>
+		</verse>
+	</lyrics>
+</song>

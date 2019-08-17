@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:06+04:00">
+	<properties>
+		<titles>
+			<title>Tell Me the Stories of Jesus</title>
+		</titles>
+		<authors>
+			<author>William H. Parker</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Life and Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="191"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tell me the stories of Jesus
+I love to hear;
+Things I would ask Him to tell me
+If He were here;
+Scenes by the wayside,
+Tales of the sea,
+Stories of Jesus,
+Tell them to me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>First let me hear how the children
+Stood round His knee;
+and I shall fancy His blessing
+Resting on me:
+Words full of kindness,
+Deeds full of grace,
+All in the love-light
+Of Jesus' face.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Into the city I'd follow,
+The children's band,
+Waving a branch of the palm tree
+High in my hand;
+One of His heralds,
+Yes, I would sing
+Loudest hosannas!
+Jesus is King.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

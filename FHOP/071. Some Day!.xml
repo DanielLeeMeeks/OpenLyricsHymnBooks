@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:50+04:00">
+	<properties>
+		<titles>
+			<title>Some Day!</title>
+		</titles>
+		<authors>
+			<author>Jessie B. Pounds</author>
+			<author>Avis B. Christiansen</author>
+		</authors>
+		<copyright>© 1964 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="71"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Somewhere the sun is shining,
+Somewhere the songbirds dwell;
+Hush, then, thy sad repining,
+God lives, and all is well.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Come day! Some day!
+We shall behold His glory!
+Coming again, evermore to reign,
+All will be wondrous glory!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Soon will earth's night be over,
+Soon will the morning dawn;
+Soon will the Christ of Glory
+Call His redeemed ones home. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There amid Heaven's beauties
+They shall behold His face,
+And through eternal ages
+Sing of His wondrous grace </lines>
+		</verse>
+	</lyrics>
+</song>

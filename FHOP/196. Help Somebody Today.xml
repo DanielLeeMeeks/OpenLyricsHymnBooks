@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:07+04:00">
+	<properties>
+		<titles>
+			<title>Help Somebody Today</title>
+		</titles>
+		<authors>
+			<author>Carrie E. Breck</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="196"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Look all around you, find someone in need,
+Help somebody today!
+Tho' it be little--a neighborly deed--
+Help somebody today!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Help somebody today,
+Somebody along life’s way;
+Let sorrow be ended, the friendless befriended,
+Oh, help somebody today!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Many are waiting a kind, loving word,
+Help somebody today!
+Thou hast a message, O let it be heard,
+Help somebody today! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Many have burdens too heavy to bear,
+Help somebody today!
+Grief is the portion of some ev'rywhere,
+Help somebody today! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Some are discouraged and weary in heart,
+Help somebody today!
+Someone the journey to heaven should start,
+Help somebody today! </lines>
+		</verse>
+	</lyrics>
+</song>

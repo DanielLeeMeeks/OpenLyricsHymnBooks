@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>I'd Rather Have Jesus</title>
+		</titles>
+		<authors>
+			<author>Rhea F. Miller</author>
+		</authors>
+		<copyright>© 1922, Ren. 1950 Chancel Music</copyright>
+		<ccliNo>16653</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="106"/>
+		</songbooks>
+		<comments>
+			<comment>Now Public Domain</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I'd rather have Jesus than silver or gold,
+I'd rather be His than have riches untold;
+I'd rather have Jesus than houses or lands,
+I'd rather be led by His nail-pierced hand
+Than to be the king of a vast domain
+Or be held in sin's dread sway;
+I'd rather have Jesus than anything
+This world affords today.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I'd rather have Jesus than men's applause,
+I'd rather be faithful to His dear cause;
+I'd rather have Jesus than worldwide fame,
+I'd rather be true to His holy name
+Than to be the king of a vast domain
+Or be held in sin's dread sway;
+I'd rather have Jesus than anything
+This world affords today.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He's fairer than lilies of rarest bloom,
+He's sweeter than honey from out the comb;
+He's all that my hungering spirit needs,
+I'd rather have Jesus and let Him lead
+Than to be the king of a vast domain
+Or be held in sin's dread sway;
+I'd rather have Jesus than anything
+This world affords today.</lines>
+		</verse>
+	</lyrics>
+</song>

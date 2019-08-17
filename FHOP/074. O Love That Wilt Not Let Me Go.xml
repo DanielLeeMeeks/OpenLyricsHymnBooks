@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:50+04:00">
+	<properties>
+		<titles>
+			<title>O Love That Wilt Not Let Me Go</title>
+		</titles>
+		<authors>
+			<author>George Matheson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1265403</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Light</theme><theme> Christ: Love</theme><theme> Cross: of Believer</theme><theme> Devotional</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="74"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Love that wilt not let me go,
+I rest my weary soul on Thee;
+I give Thee back the life I owe,
+That in Thine ocean depths its flow
+May richer, fuller be.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O Light that follow'st all my way,
+I yield my flick'ring torch to Thee;
+My heart restores its borrowed ray,
+That in Thy sunshine's glowe its day
+May brighter, fairer be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O Joy that seekest me thro' pain,
+I cannot close my heart to Thee;
+I trace the rainbow thro' the rain,
+And feel the promise is not vain
+That morn shall tearless be.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O Cross that liftest up my head,
+I dare not ask to fly from Thee;
+I lay in dust life's glory dead,
+And from the ground there blossoms red
+Life that shall endless be.</lines>
+		</verse>
+	</lyrics>
+</song>

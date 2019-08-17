@@ -1,0 +1,62 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>Is My Name Written There?</title>
+		</titles>
+		<authors>
+			<author>Mary A. Kidder</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="60"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, I care not for riches,
+Neither silver nor gold;
+I would make sure of heaven,
+I would enter the fold.
+In the book of Thy kingdom
+With its pages so fair,
+Tell me, Jesus, my Savior,
+Is my name written there?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Is my name written there,
+On the page white and fair?
+In the book of Thy kingdom,
+Is my name written there?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, my sins they are many,
+Like the sands of the sea,
+But Thy blood, O my Savior,
+Is sufficient for me;
+For Thy promise is written,
+In bright letters that glow,
+“Tho' your sins be as scarlet,
+I will make them like snow.” </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O that beautiful city
+With its mansions of light,
+With its glorified beings
+In pure garments of white;
+Where no evil thing cometh
+To despoil what is fair,
+Where the angels are watching,
+Yes, my name’s written there.
+Yes, my name's written there,
+On the page white and fair?
+In the book of Thy kingdom,
+Yes, my name's written there?</lines>
+		</verse>
+	</lyrics>
+</song>

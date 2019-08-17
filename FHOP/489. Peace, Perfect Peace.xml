@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:44+04:00">
+	<properties>
+		<titles>
+			<title>Peace, Perfect Peace</title>
+		</titles>
+		<authors>
+			<author>Edward H. Bickersteth</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="489"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Peace, perfect peace, in this dark world of sin?
+The blood of Jesus whispers peace within.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Peace, perfect peace, with sorrows surging round?
+On Jesus' bosom naught but calm is found.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Peace, perfect peace, our future all unknown?
+Jesus we know, and He is on the throne.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Peace, perfect peace, death shadowing us and ours?
+Jesus has vanquished death and all its powers.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>It is enough: earth's struggles soon shall cease,
+And Jesus, call us to heaven's perfect peace.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

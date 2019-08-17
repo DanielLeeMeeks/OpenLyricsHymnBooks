@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:01+04:00">
+	<properties>
+		<titles>
+			<title>Blessed Be the Name</title>
+		</titles>
+		<authors>
+			<author>W. H. Clark</author>
+			<author>Ralph E. Hudson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7012413</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Kingship and Reign</theme><theme> Christ: Name</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="16"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All praise to Him who reigns above
+In majesty supreme,
+Who gave His Son for man to die,
+That He might man redeem!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Blessèd be the name, blessèd be the name,
+Blessèd be the name of the Lord;
+Blessèd be the name, blessèd be the name,
+Blessèd be the name of the Lord.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>His name above all names shall stand,
+Exalted more and more,
+At God the Father’s own right hand,
+Where angel hosts adore. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Redeemer, Savior, Friend of man
+Once ruined by the fall,
+Thou hast devised salvation’s plan,
+For Thou hast died for all. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>His name shall be the Counselor,
+The mighty Prince of Peace,
+Of all earth’s kingdoms Conqueror,
+Whose reign shall never cease. </lines>
+		</verse>
+	</lyrics>
+</song>

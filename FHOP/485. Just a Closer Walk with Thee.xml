@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:44+04:00">
+	<properties>
+		<titles>
+			<title>Just a Closer Walk with Thee</title>
+		</titles>
+		<authors>
+			<author>Unknown</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2549877</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Comforter</theme><theme> Fellowship: with God</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="485"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am weak, but Thou art strong;
+Jesus, keep me from all wrong;
+I’ll be satisfied as long
+As I walk, let me walk close to Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Just a closer walk with Thee,
+Grant it, Jesus, is my plea,
+Daily walking close to Thee,
+Let it be, dear Lord, let it be.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thro' this world of toil and snares,
+If I falter, Lord, who cares?
+Who with me my burden shares?
+None but Thee, dear Lord, none but Thee. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When my feeble life is o’er,
+Time for me will be no more;
+Guide me gently, safely o’er
+To Thy kingdom shore, to Thy shore. </lines>
+		</verse>
+	</lyrics>
+</song>

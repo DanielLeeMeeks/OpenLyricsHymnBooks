@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>Breathe on Me, Breath of God</title>
+		</titles>
+		<authors>
+			<author>Edwin Hatch</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>99481</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="3"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Breathe on me, Breath of God,
+Fill me with life anew,
+That I may love what Thou dost love,
+And do what Thou wouldst do.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Breathe on me, Breath of God,
+Until my heart is pure,
+Until with Thee I will one will,
+To do and to endure.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Breathe on me, Breath of God,
+Till I am wholly Thine,
+Until this earthly part of me
+Glows with Thy fire divine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Breathe on me, Breath of God,
+So shall I never die,
+But live with Thee the perfect life
+Of Thine eternity.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

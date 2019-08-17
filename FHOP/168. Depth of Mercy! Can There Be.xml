@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>Depth of Mercy! Can There Be</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1377456</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Love and Mercy</theme><theme> Repentance</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="168"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Depth of mercy! can there be
+Mercy still reserved for me?
+Can my God His wrath forbear--
+Me, the chief of sinners spare?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I have long with stood His grace,
+Long provoked Him to His face,
+Would not hearken to His calls,
+Grieved Him by a thousand falls.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now incline me to repent;
+Let me now my fall lament;
+Now my foul revolt deplore,
+Weep, believe, and sin no more.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There for me my Saviour stands,
+Holding forth His wounded hands;
+God is love! I know, I feel,
+Jesus weeps and loves me still.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

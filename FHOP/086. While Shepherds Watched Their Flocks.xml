@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>While Shepherds Watched Their Flocks</title>
+		</titles>
+		<authors>
+			<author>Nahum Tate</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>32008</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="86"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>While shepherds watched their flocks by night,
+All seated on the ground,
+The angel of the Lord came down,
+And glory shone around,
+And glory shone around.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"Fear not!" said he; for mighty dread
+Had seized their troubled mind,
+"Glad tidings of great joy I bring
+To you and all mankind,
+To you and all mankind.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"To you, in David's town this day
+Is born of David's line,
+The Savior who is Christ the Lord;
+And this shall be the sign:
+And this shall be the sign:</lines>
+		</verse>
+		<verse name="v4">
+			<lines>"The heav'nly Babe you there shall find
+To human view displayed,
+All meanly wrapped in swathing bands,
+And in a manger laid,
+And in a manger laid.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>"All glory be to God on high,
+And to the earth be peace;
+Good will henceforth from heav'n to men,
+Begin and never cease,
+Begin and never cease."</lines>
+		</verse>
+	</lyrics>
+</song>

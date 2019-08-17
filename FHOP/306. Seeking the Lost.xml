@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>Seeking the Lost</title>
+		</titles>
+		<authors>
+			<author>William A. Ogden</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Shepherd</theme><theme> Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="306"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Seeking the lost, yes, kindly entreating
+Wanderers on the mountain astray;
+“Come unto Me,” His message repeating,
+Words of the Master speaking today.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Going afar upon the mountain,
+Bringing the wand'rer back again, back again,
+Into the fold of my Redeemer,
+Jesus, the Lamb for sinners slain, for sinners slain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Seeking the lost and pointing to Jesus
+Souls that are weak and hearts that are sore,
+Leading them forth in ways of salvation,
+Showing the path to life evermore. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thus would I go on missions of mercy,
+Following Christ from day unto day,
+Cheering the faint and raising the fallen,
+Pointing the lost to Jesus, the Way. </lines>
+		</verse>
+	</lyrics>
+</song>

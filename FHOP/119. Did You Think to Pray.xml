@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>Did You Think to Pray?</title>
+		</titles>
+		<authors>
+			<author>Mrs. M. A. Kidder</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="119"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ere you left your room this morning,
+Did you think to pray?
+In the name of Christ our Savior,
+Did you sue for loving favor,
+As a shield today?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, how praying rests the weary!
+Prayer will change the night to day;
+So in sorrow and in gladness,
+Don’t forget to pray.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When you met with great temptation,
+Did you think to pray?
+By His dying love and merit,
+Did you claim the Holy Spirit
+As your guide and stay? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When your heart was filled with anger,
+Did you think to pray?
+Did you plead for grace, my brother,
+That you might forgive another
+Who had crossed your way? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>When sore trials came upon you,
+Did you think to pray?
+When your soul was bowed in sorrow,
+Balm of Gilead did you borrow
+At the gates of day? </lines>
+		</verse>
+	</lyrics>
+</song>

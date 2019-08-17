@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:25+04:00">
+	<properties>
+		<titles>
+			<title>Take Time to Be Holy</title>
+		</titles>
+		<authors>
+			<author>William D. Longstaff</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="342"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Take time to be holy,
+Speak oft with thy Lord;
+Abide in Him always,
+And feed on His Word.
+Make friends of God's children;
+Help those who are weak;
+Forgetting in nothing
+His blessing to seek.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Take time to be holy,
+The world rushes on;
+Spend much time in secret
+With Jesus alone;
+By looking to Jesus,
+Like Him thou shalt be;
+Thy friends in thy conduct
+His likeness shall see.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Take time to be holy,
+Let Him be thy guide,
+And run not before Him,
+Whatever betide;
+In joy or in sorrow,
+Still follow thy Lord,
+And, looking to Jesus,
+Still trust in His Word.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Take time to be holy,
+Be calm in thy soul;
+Each tho't and each motive
+Beneath His control;
+Thus led by His Spirit
+To fountains of love,
+Thou soon shalt be fitted
+For service above.</lines>
+		</verse>
+	</lyrics>
+</song>

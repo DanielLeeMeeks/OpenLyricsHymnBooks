@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:30+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Rose of Sharon</title>
+		</titles>
+		<authors>
+			<author>Ida A. Guirey</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="381"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Rose of Sharon, bloom within my heart;
+Beauties of Thy truth and holiness impart,
+That where’er I go my life may shed abroad
+Fragrance of the knowledge of the love of God.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Jesus, Rose of Sharon,
+Bloom in radiance and in love within my heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus, Rose of Sharon, sweeter far to me
+Than the fairest flow’rs of earth could ever be,
+Fill my life completely, adding more each day
+Of Thy grace divine and purity, I pray. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus, Rose of Sharon, balm for ev’ry ill,
+May Thy tender mercy’s healing power distil
+For afflicted souls of weary, burdened men,
+Giving needy mortals health and hope again. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus, Rose of Sharon, bloom forevermore;
+Be Thy glory seen on earth from shore to shore,
+Till the nations own Thy Sov’reignty complete,
+Lay their honors down and worship at Thy feet. </lines>
+		</verse>
+	</lyrics>
+</song>

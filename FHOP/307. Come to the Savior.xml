@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>Come to the Savior</title>
+		</titles>
+		<authors>
+			<author>George F. Root</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="307"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come to the Savior, make no delay--
+Here in His Word He has shown us the way;
+Here in our midst He’s standing today,
+Tenderly saying, “Come!”</lines>
+		</verse>
+		<verse name="c">
+		<lines>Joyful, joyful will the meeting be,
+When from sin our hearts are pure and free,
+And we shall gather, Savior, with Thee,
+In our eternal home.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>“Suffer the children!” O hear His voice!
+Let ev’ry heart leap forth and rejoice,
+And let us freely make Him our choice:
+Do not delay, but come. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Think once again, He’s with us today;
+Heed now His blest command, and obey;
+Hear now His accents tenderly say,
+“Will you, My children, come?” </lines>
+		</verse>
+	</lyrics>
+</song>

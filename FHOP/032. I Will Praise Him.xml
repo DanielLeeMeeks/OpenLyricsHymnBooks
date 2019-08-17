@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:04+04:00">
+	<properties>
+		<titles>
+			<title>I Will Praise Him</title>
+		</titles>
+		<authors>
+			<author>Mrs. M. J. Harris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="32"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When I saw the cleansing fountain,
+Open wide for all my sin,
+I obeyed the Spirit’s wooing
+When He said, Wilt thou be clean?</lines>
+		</verse>
+		<verse name="c">
+		<lines>I will praise Him! I will praise Him!
+Praise the Lamb for sinners slain;
+Give Him glory, all ye people,
+For His blood can wash away each stain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tho' the way seems straight and narrow,
+All I claimed was swept away;
+My ambitions, plans, and wishes,
+At my feet in ashes lay. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Then God’s fire upon the altar
+Of my heart was set aflame;
+I shall never cease to praise Him,
+Glory, glory to His name! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Blessèd be the name of Jesus!
+I’m so glad He took me in;
+He’s forgiven my transgressions,
+He has cleansed my heart from sin. </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Glory, glory to the Father!
+Glory, glory to the Son!
+Glory, glory to the Spirit!
+Glory to the Three in One! </lines>
+		</verse>
+	</lyrics>
+</song>

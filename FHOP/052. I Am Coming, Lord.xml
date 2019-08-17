@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:47+04:00">
+	<properties>
+		<titles>
+			<title>I Am Coming, Lord</title>
+		</titles>
+		<authors>
+			<author>Lewis Hartsough</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="52"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I hear Thy welcome voice,
+That calls me, Lord, to Thee
+For cleansing in Thy precious blood
+That flowed on Calvary.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I am coming, Lord!
+Coming now to Thee!
+Wash me, cleanse me in the blood
+That flowed on Calvary!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tho' coming weak and vile,
+Thou dost my strength assure;
+Thou dost my vileness fully cleanse,
+Till spotless all and pure. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Tis Jesus calls me on
+To perfect faith and love,
+To perfect hope, and peace, and trust,
+For earth and heav'n above. </lines>
+		</verse>
+	</lyrics>
+</song>

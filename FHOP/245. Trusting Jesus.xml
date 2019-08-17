@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:13+04:00">
+	<properties>
+		<titles>
+			<title>Trusting Jesus</title>
+		</titles>
+		<authors>
+			<author>Edgar P. Stites</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="245"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Simply trusting ev'ry day,
+Trusting through a stormy way;
+Even when my faith is small,
+Trusting Jesus, that is all.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Trusting as the moments fly,
+Trusting as the days go by;
+Trusting Him whate’er befall,
+Trusting Jesus, that is all.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Brightly doth His Spirit shine
+Into this poor heart of mine;
+While He leads I cannot fall;
+Trusting Jesus, that is all. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Singing if my way is clear,
+Praying if the path be drear;
+If in danger, for Him call;
+Trusting Jesus, that is all. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Trusting Him while life shall last,
+Trusting Him till earth be past;
+Till within the jasper wall:
+Trusting Jesus, that is all. </lines>
+		</verse>
+	</lyrics>
+</song>

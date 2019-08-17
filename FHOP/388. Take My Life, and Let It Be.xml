@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:31+04:00">
+	<properties>
+		<titles>
+			<title>Take My Life, and Let It Be</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="388"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Take my life, and let it be
+Consecrated, Lord, to Thee;
+Take my hand, and let them move
+At the impulse of Thy love,
+At the impulse of Thy love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Take my feet, and let them be
+Swift and beautiful for Thee;
+Take my voice and let me sing
+Always, only, for my King,
+Always, only, for my King.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Take my lips, and let them be
+Filled with messages for Thee;
+Take my silver and my gold,
+Not a mite would I withhold,
+Not a mite would I withhold.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Take my love, my God, I pour
+At Thy feet its treasure store;
+Take myself and I will be
+Ever, only, all for Thee,
+Ever, only, all for Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

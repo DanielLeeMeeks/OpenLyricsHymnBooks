@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:42+04:00">
+	<properties>
+		<titles>
+			<title>There's a Wideness in God's Mercy</title>
+		</titles>
+		<authors>
+			<author>Frederick W. Faber</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Love and Mercy</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="468"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s a wideness in God’s mercy,
+Like the wideness of the sea;
+There’s a kindness in His justice
+Which is more than liberty.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is welcome for the sinner,
+And more graces for the good;
+There is mercy with the Savior;
+There is healing in His blood.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For the love of God is broader,
+Than the measures of man's mind;
+And the heart of the Eternal
+Is most wonderfully kind.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>If our love were but more simple,
+We should take Him at His word,
+And our lives would be all sunshine
+In the sweetness of our Lord.</lines>
+		</verse>
+	</lyrics>
+</song>

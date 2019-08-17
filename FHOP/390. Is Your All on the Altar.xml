@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:32+04:00">
+	<properties>
+		<titles>
+			<title>Is Your All on the Altar?</title>
+		</titles>
+		<authors>
+			<author>Elisha A. Hoffman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="390"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>You have longed for sweet peace, and for faith to increase,
+And have earnestly, fervently prayed;
+But you cannot have rest or be perfectly blest
+Until all on the altar is laid.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Is your all on the altar of sacrifice laid?
+Your heart does the Spirit control?
+You can only be blest and have peace and sweet rest,
+As you yield Him your body and soul.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Would you walk with the Lord, in the light of His Word,
+And have peace and contentment alway,
+You must do His sweet will, to be free from all ill,
+On the altar your all you must lay. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, we never can know what the Lord will bestow
+Of the blessings for which we have prayed,
+Till our body and soul He doth fully control,
+And our all on the altar is laid. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Who can tell all the love He will send from above,
+And how happy our hearts will be made,
+Of the fellowship sweet we shall share at His feet,
+When our all on the altar is laid. </lines>
+		</verse>
+	</lyrics>
+</song>

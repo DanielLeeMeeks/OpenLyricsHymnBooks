@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+	<properties>
+		<titles>
+			<title>He Took My Sins Away</title>
+		</titles>
+		<authors>
+			<author>Mrs. M. J. Harris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="150"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I came to Jesus, weary, worn, and sad,
+He took my sins away,
+He took my sins away,
+And now His love has made my heart so glad,
+He took my sins away.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He took my sins away,
+He took my sins away,
+And keeps me singing ev'ry day!
+I’m so glad He took my sins away.
+He took my sins away.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The load of sin was more than I could bear.
+He took them all away,
+He took them all away,
+And now on Him I roll my ev'ry care,
+He took my sins away. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>No condemnation have I in my heart,
+He took my sins away,
+He took my sins away,
+His perfect peace He did to me impart,
+He took my sins away. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>If you will come to Jesus Christ today,
+He’ll take your sins away,
+He’ll take your sins away,
+And keep you happy in His love each day.
+He’ll take your sins away. </lines>
+		</verse>
+	</lyrics>
+</song>

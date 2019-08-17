@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+	<properties>
+		<titles>
+			<title>Savior, More Than Life to Me</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="176"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior, more than life to me,
+I am clinging, clinging, close to Thee;
+Let Thy precious blood applied,
+Keep me ever, ever near Thy side.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Ev'ry day, ev'ry hour,
+Let me feel Thy cleansing pow’r;
+Let Thy precious blood applied,
+Keep me ever, ever near Thy side.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thro' this changing world below,
+Lead me gently, gently as I go;
+Trusting Thee, I cannot stray,
+I can never, never lose my way. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let me love Thee more and more,
+Till this fleeting, fleeting life is o’er;
+Till my soul is lost in love,
+In a brighter, brighter world above. </lines>
+		</verse>
+	</lyrics>
+</song>

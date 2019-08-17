@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Thy Blood and Righteousness</title>
+		</titles>
+		<authors>
+			<author>Nicolaus L. Zinzendorf</author>
+			<author>John Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme><theme> Christ: Intercessor</theme><theme> Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="169"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Thy blood and righteousness
+My beauty are, my glorious dress;
+'Midst flaming worlds, in these arrayed,
+With joy shall I lift up my head.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bold shall I stand in that great day,
+For who aught to my charge shall lay?
+Fully absolved through these I am,
+From sin and fear, from guilt and shame.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord, I believe Thy precious blood,
+Which, at the mercy seat of God,
+Forever doth for sinners plead,
+For me, e'en for my soul was shed.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, I believe were sinners more
+Than sands upon the ocean shore,
+Thou hast for all a ransom paid,
+For all a full atonement made.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

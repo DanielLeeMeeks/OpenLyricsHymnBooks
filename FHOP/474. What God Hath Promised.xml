@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:42+04:00">
+	<properties>
+		<titles>
+			<title>What God Hath Promised</title>
+		</titles>
+		<authors>
+			<author>Annie Johnson Flint</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="474"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God hath not promised skies always blue,
+Flower-strewn pathways all our lives through;
+God hath not promised sun without rain,
+Joy without sorrow, peace without pain.</lines>
+		</verse>
+		<verse name="c">
+		<lines>But God hath promised strength for the day,
+Rest for the labor, light for the way;
+Grace for the trials, help from above,
+Unfailing sympathy, undying love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God hath not promised we shall not know
+Toil and temptation, trouble and woe;
+He hath not told us we shall not bear
+Many a burden, many a care. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>God hath not promised smooth roads and wide,
+Swift, easy travel, needing no guide;
+Never a mountain rocky and steep,
+Never a river turbid and deep. </lines>
+		</verse>
+	</lyrics>
+</song>

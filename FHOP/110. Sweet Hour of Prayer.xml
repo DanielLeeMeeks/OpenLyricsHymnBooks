@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>Sweet Hour of Prayer</title>
+		</titles>
+		<authors>
+			<author>William W. Walford</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>32273</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="110"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sweet hour of prayer! sweet hour of prayer!
+That calls me from a world of care,
+And bids me at my Father's throne,
+Make all my wants and wishes known;
+In seasons of distress and grief,
+My soul has often found relief,
+And oft escaped the tempter's snare,
+By thy return, sweet hour of prayer.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sweet hour of prayer! sweet hour of prayer!
+Thy wings shall my petition bear
+To him, whose truth and faithfulness
+Engage the waiting the soul to bless;
+And since He bids me seek His face,
+Believe His Word, and trust His grace,
+I'll cast on Him my every care,
+And wait for thee, sweet hour of prayer.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sweet hour of prayer! sweet hour of prayer!
+May I thy consolation share,
+Till, from Mount Pisgah's lofty height,
+I view my home, and take my flight:
+This robe of flesh I'll drop, and rise
+To seize the everlasting prize;
+And shout, while passing thro' the air,
+Farewell, farewell, sweet hour of prayer!</lines>
+		</verse>
+	</lyrics>
+</song>

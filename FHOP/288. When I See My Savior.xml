@@ -1,0 +1,41 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>When I See My Savior</title>
+		</titles>
+		<authors>
+			<author>Maud Frazer</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="288"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When I see my Savior, hanging on Calvary,
+Bearing there for sinners bitterest agony,
+Gratitude o’erwhelms me, makes mine eyes grow dim,
+All my ransomed being captive is to Him.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I can see the blood-drops, red ’neath His thorny crown,
+From the cruel nail-wounds now they are falling down;
+Lord, when I would wander from Thy love away,
+Let me see those blood-drops shed for me that day.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>“Why hast thou forsaken?” list to that sad, sad moan!
+Oh, His heart was broken, suffering there alone;
+Broken then that mortals ne’er need cry in vain
+For God’s love and comfort, in the hour of pain.</lines>
+		</verse>
+	</lyrics>
+</song>

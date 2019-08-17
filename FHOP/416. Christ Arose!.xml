@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:35+04:00">
+	<properties>
+		<titles>
+			<title>Christ Arose!</title>
+		</titles>
+		<authors>
+			<author>Robert Lowry</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27783</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="416"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Low in the grave he lay—-
+Jesus my Savior!
+Waiting the coming day—-
+Jesus my Lord!</lines>
+		</verse>
+		<verse name="c">
+		<lines>Up from the grave he arose,
+With a mighty triumph o'er His foes;
+He arose a victor from the dark domain,
+And He lives for ever with His saints to reign.
+He arose! He arose!
+Hallelujah! Christ arose!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Vainly they watch his bed—-
+Jesus my Savior!
+Vainly they seal the dead—-
+Jesus my Lord. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Death cannot keep his prey—-
+Jesus my Savior!
+He tore the bars away—-
+Jesus my Lord! </lines>
+		</verse>
+	</lyrics>
+</song>

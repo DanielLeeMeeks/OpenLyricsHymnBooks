@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:05+04:00">
+	<properties>
+		<titles>
+			<title>Glory to His Name</title>
+		</titles>
+		<authors>
+			<author>Elisha A. Hoffman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5264173</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Name</theme><theme> Cross: of Christ</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="188"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Down at the cross where my Savior died,
+Down where for cleansing from sin I cried,
+There to my heart was the blood applied;
+Glory to His name.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Glory to His name,
+Glory to His name;
+There to my heart was the blood applied;
+Glory to His name.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I am so wondrously saved from sin,
+Jesus so sweetly abides within,
+There at the cross where He took me in;
+Glory to His name. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O precious fountain that saves from sin,
+I am so glad I have entered in;
+There Jesus saves me and keeps me clean;
+Glory to His name. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come to this fountain so rich and sweet;
+Cast thy poor soul at the Savior’s feet;
+Plunge in today, and be made complete;
+Glory to His name. </lines>
+		</verse>
+	</lyrics>
+</song>

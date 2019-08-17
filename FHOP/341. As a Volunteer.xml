@@ -1,0 +1,29 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:25+04:00">
+	<properties>
+		<titles>
+			<title>As a Volunteer</title>
+		</titles>
+		<authors>
+			<author>W. S. Brown</author>
+		</authors>
+		<copyright>© 1935 Rodeheaver Co.</copyright>
+		<ccliNo>98475</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="341"/>
+		</songbooks>
+		<comments>
+			<comment>Could not scrap this song.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

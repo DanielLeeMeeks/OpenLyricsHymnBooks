@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>Under His Wings</title>
+		</titles>
+		<authors>
+			<author>William O. Cushing</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4438948</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme><theme> Christ: Refuge</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="311"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Under His wings I am safely abiding;
+Tho' the night deepens and tempests are wild,
+Still I can trust Him; I know He will keep me;
+He has redeemed me, and I am His child.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Under His wings, under His wings,
+Who from His love can sever?
+Under His wings my soul shall abide,
+Safely abide forever.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Under His wings, what a refuge in sorrow!
+How the heart yearningly turns to His rest!
+Often when earth has no balm for my healing,
+There I find comfort and there I am blessed. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Under His wings, O what precious enjoyment!
+There will I hide till life’s trials are o’er;
+Sheltered, protected, no evil can harm me,
+Resting in Jesus I’m safe evermore. </lines>
+		</verse>
+	</lyrics>
+</song>

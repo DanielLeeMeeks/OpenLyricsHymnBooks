@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:08+04:00">
+	<properties>
+		<titles>
+			<title>He Is So Precious to Me</title>
+		</titles>
+		<authors>
+			<author>Charles H. Gabriel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="208"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>So precious is Jesus, my Savior, my King,
+His praise all the day long with rapture I sing;
+To Him in my weakness for strength I can cling,
+For He is so precious to me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>For He is so precious to me,
+For He is so precious to me;
+’Tis heaven below my Redeemer to know,
+For He is so precious to me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He stood at my heart’s door ’mid sunshine and rain,
+And patiently waited an entrance to gain;
+What shame that so long He entreated in vain,
+For He is so precious to me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I stand on the mountain of blessing at last,
+No cloud in the heavens a shadow to cast;
+His smile is upon me, the valley is past,
+For He is so precious to me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I praise Him because He appointed a place
+Where some day, thro' faith in His wonderful grace,
+I know I shall see Him--shall look on His face,
+For He is so precious to me. 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

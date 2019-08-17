@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Is Calling</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="59"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus is tenderly calling thee home--
+Calling today, calling today;
+Why from the sunshine of love wilt thou roam
+Farther and farther away?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Calling today,
+Calling today,
+Jesus is calling,
+Is tenderly calling today.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus is calling the weary to rest--
+Calling today, calling today;
+Bring Him thy burden and thou shalt be blest;
+He will not turn thee away. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus is waiting; O come to Him now--
+Waiting today, waiting today;
+Come with thy sins; at His feet lowly bow;
+Come, and no longer delay. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus is pleading; O list to his voice;
+Hear Him today, hear Him today;
+They who believe on His name shall rejoice;
+Quickly arise and away. </lines>
+		</verse>
+	</lyrics>
+</song>

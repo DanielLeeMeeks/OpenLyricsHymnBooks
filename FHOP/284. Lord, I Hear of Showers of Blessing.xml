@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>Lord, I Hear of Showers of Blessing</title>
+		</titles>
+		<authors>
+			<author>Elizabeth Codner</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>474446</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="284"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, I hear of show'rs of blessing,
+Thou art scatt'ring full and free,
+Show'rs the thirsty land refreshing;
+Let some drops now fall on me--</lines>
+		</verse>
+		<verse name="c">
+		<lines>Even me, even me,
+Let some drops now fall on me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Pass me not, O tender Savior!
+Let me love and cling to Thee;
+I am longing for Thy favor;
+While Thou'rt calling, O call me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Pass me not, O mighty Spirit!
+Thou canst make the blind to see;
+Witnesser of Jesus' merit,
+Speak the word of pow/r to me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Love of God, so pure and changeless;
+Blood of Christ, so rich and free;
+Grace of God, so strong and boundless;
+Magnify them all in me. </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Pass me not! Thy lost one bringing,
+Bind my heart, O Lord, to Thee;
+While the streams of life are springing,
+Blessing others, O bless me. </lines>
+		</verse>
+	</lyrics>
+</song>

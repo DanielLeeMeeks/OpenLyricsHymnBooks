@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:57+04:00">
+	<properties>
+		<titles>
+			<title>Come, We that Love the Lord</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>144398</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="123"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, we that love the Lord,
+And let our joys be known;
+Join in a song with sweet accord,
+And thus surround the throne.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let those refuse to sing
+That never knew our God;
+But children of the heavenly King
+May speak their joys abroad.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The hill of Zion yields
+A thousand sacred sweets
+Before we reach the heavenly fields,
+Or walk the golden streets.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then let our songs abound,
+And every tear be dry;
+We're marching thro' Immanuel's ground,
+To fairer worlds on high.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>Revive Thy Work</title>
+		</titles>
+		<authors>
+			<author>Alfred Midlane</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="114"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Revive Thy work, O Lord,!
+Thy mighty arm make bare;
+Speak with the voice that wakes the dead,
+And make Thy people hear.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Revive! revive!
+And give refreshing show'rs;
+The glory shall be all Thine own;
+The blessing shall be ours.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Revive Thy work, O Lord!
+Disturb this sleep of death;
+Quicken the smould'ring embers now
+By Thine almighty breath. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Revive Thy work, O Lord!
+Create soul-thirst for Thee;
+And hung'ring for the Bread of Life
+Oh, may our spirits be! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Revive Thy work, O Lord!
+Exalt Thy precious name;
+And, by the Holy Ghost, our love
+For Thee and Thine inflame. </lines>
+		</verse>
+	</lyrics>
+</song>

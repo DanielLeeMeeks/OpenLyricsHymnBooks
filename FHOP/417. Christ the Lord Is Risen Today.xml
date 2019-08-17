@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:35+04:00">
+	<properties>
+		<titles>
+			<title>Christ the Lord Is Risen Today</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27965</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="417"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ the Lord is risen today, Alleluia!
+Sons of men and angels say: Alleluia!
+Raise your joys and triumphs high; Alleluia!
+Sing ye heav'ns, and earth reply: Alleluia!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lives again our glorious King; Alleluia!
+Where, O death, is now thy sting? Alleluia!
+Dying once, He all doth save: Alleluia!
+Where thy victory, O grave? Alleluia!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Love’s redeeming work is done, Alleluia!
+Fought the fight, the battle won; Alleluia!
+Death in vain forbids Him rise; Alleluia!
+Christ has opened Paradise. Alleluia!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Soar we now where Christ has led, Alleluia!
+Following our exalted Head; Alleluia!
+Made like Him, like Him we rise; Alleluia!
+Ours the cross, the grave, the skies. Alleluia!</lines>
+		</verse>
+	</lyrics>
+</song>

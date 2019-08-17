@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:39+04:00">
+	<properties>
+		<titles>
+			<title>Bringing in the Sheaves</title>
+		</titles>
+		<authors>
+			<author>Knowles Shaw</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>47220</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: of Believer</theme><theme> Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="444"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sowing in the morning, sowing seeds of kindness,
+Sowing in the noontide and the dewy eve;
+Waiting for the harvest, and the time of reaping,
+We shall come rejoicing, bringing in the sheaves.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Bringing in the sheaves, bringing in the sheaves,
+We shall come rejoicing, bringing in the sheaves;
+Bringing in the sheaves, bringing in the sheaves,
+We shall come rejoicing, bringing in the sheaves.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sowing in the sunshine, sowing in the shadows,
+Fearing neither clouds nor winter’s chilling breeze;
+By and by the harvest, and the labor ended,
+We shall come rejoicing, bringing in the sheaves. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Going forth with weeping, sowing for the Master,
+Tho' the loss sustained our spirit often grieves;
+When our weeping’s over, He will bid us welcome,
+We shall come rejoicing, bringing in the sheaves. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:21+04:00">
+	<properties>
+		<titles>
+			<title>Come to the Feast</title>
+		</titles>
+		<authors>
+			<author>Charles H. Gabriel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="305"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>“All things are ready,” come to the feast!
+Come, for the table now is spread;
+Ye famishing, ye weary, come,
+And thou shalt be richly fed.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hear the invitation,
+Come, “whosoever will”;
+Praise God for full salvation
+For “whosoever will.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>“All things are ready,” come to the feast!
+Come, for the door is open wide;
+A place of honor is reserved
+For you at the Master’s side. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>“All things are ready,” come to the feast!
+Come, while He waits to welcome thee;
+Delay not while this day is thine,
+Tomorrow may never be. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>“All things are ready,” come to the feast!
+Leave ev’ry care and worldly strife;
+Come, feast upon the love of God,
+And drink everlasting life. </lines>
+		</verse>
+	</lyrics>
+</song>

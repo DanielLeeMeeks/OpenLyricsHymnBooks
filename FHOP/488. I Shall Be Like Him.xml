@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:44+04:00">
+	<properties>
+		<titles>
+			<title>I Shall Be Like Him</title>
+		</titles>
+		<authors>
+			<author>W. A. Spencer</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Example</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="488"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When I shall reach the more excellent glory,
+And all my trials are passed,
+I shall be like Him, O wonderful story!
+I shall be like Him at last.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I shall be like Him, I shall be like Him,
+And in His beauty shall sine,
+I shall be like Him, wondrously like Him,
+Jesus, my Saviour divine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We shall not wait till the glorious dawning
+Breaks on the vision so fair,
+Now we may welcome the heavenly morning,
+Now we His image may bear. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>More and more like Him, repeat the blest story,
+Over and over again,
+Changed by His Spirit from glory to glory,
+I shall be satisfied then. </lines>
+		</verse>
+	</lyrics>
+</song>

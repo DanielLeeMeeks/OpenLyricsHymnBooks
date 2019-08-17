@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:31+04:00">
+	<properties>
+		<titles>
+			<title>Nothing Between</title>
+		</titles>
+		<authors>
+			<author>C. Albert Tindley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="386"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Nothing between my soul and my Savior,
+Naught of this world's delusive dream;
+I have renounced all sinful pleasure,
+Jesus is mine; there's nothing between.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Nothing between my soul and the Savior,
+So that His blessed face may be seen;
+Nothing preventing the least of His favor,
+Keep the way clear!
+Let nothing between.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Nothing between, like worldly pleasure,
+Habits of life though harmless they seem,
+Must not my heart from Him e'er sever,
+He is my all, there's nothing between. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nothing between, like pride or station;
+Self or friends shall not intervene,
+Tho' it may cost me much tribulation,
+I am resolved; there's nothing between. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Nothing between, e'en many hard trials,
+Tho' the whole world against me convene;
+Watching with prayer and much self denial,
+I'll triumph at last, with nothing between. </lines>
+		</verse>
+	</lyrics>
+</song>

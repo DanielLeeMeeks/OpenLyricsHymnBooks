@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:56+04:00">
+	<properties>
+		<titles>
+			<title>Tell It to Jesus</title>
+		</titles>
+		<authors>
+			<author>Jeremiah E. Rankin</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="116"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Are you weary, are you heavy-hearted?
+Tell it to Jesus,
+Tell it to Jesus;
+Are you grieving over joys departed?
+Tell it to Jesus alone.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Tell it to Jesus, tell it to Jesus,
+He is a friend that's well known;
+You've no other such a friend or brother,
+Tell it to Jesus alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Do the tears flow down your cheeks unbidden?
+Tell it to Jesus,
+Tell it to Jesus;
+Have you sins that to men's eyes are hidden?
+Tell it to Jesus alone. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Do you fear the gath'ring clouds of sorrow?
+Tell it to Jesus,
+Tell it to Jesus;
+Are you anxious what shall be tomorrow?
+Tell it to Jesus alone. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Are you troubled at the thought of dying?
+Tell it to Jesus,
+Tell it to Jesus;
+For Christ's coming kingdom are you sighing?
+Tell it to Jesus alone. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>I Long to Glorify Thee</title>
+		</titles>
+		<authors>
+			<author>Ralph Manchee</author>
+		</authors>
+		<copyright>© 1942, Ren. 1972 Hope Publishing Co.</copyright>
+		<ccliNo>472376</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="167"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ my Lord gave all for me,
+That from sin I might be free,
+Now in me He lives again;
+Glory to His precious Name.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I long to glorify Thee, dear Lord,
+I long to glorify Thee.
+In all I do, in all I say,
+I long to glorify Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Christ my Lord arose and lives,
+Over all the vict'ry gives,
+Now in Him I live anew,
+Praise His Name, I know 'tis true. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Christ my Lord will come one day,
+Take me home with Him to stay,
+Then anew His praise I'll sing;
+Reign with Him my Lord and King. </lines>
+		</verse>
+	</lyrics>
+</song>

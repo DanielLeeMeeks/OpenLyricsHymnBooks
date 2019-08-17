@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:14+04:00">
+	<properties>
+		<titles>
+			<title>My Savior First of All</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="256"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When my lifework is ended and I cross the swelling tide,
+When the bright and glorious morning I shall see;
+I shall know my Redeemer when I reach the other side,
+And His smile will be the first to welcome me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I shall know Him, I shall know Him,
+And redeemed by His side I shall stand,
+I shall know Him, I shall know Him
+By the print of the nails in His hand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh, the soul-thrilling rapture when I view His blessed face,
+And the luster of His kindly beaming eye;
+How my full heart will praise Him for the mercy, love, and grace,
+That prepare for me a mansion in the sky. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, the dear ones in glory, how they beckon me to come,
+And our parting at the river I recall;
+To the sweet vales of Eden they will sing my welcome home;
+But I long to meet my Savior first of all. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thro' the gates to the city, in a robe of spotless white,
+He will lead me where no tears will ever fall;
+In the glad song of ages I shall mingle with delight;
+But I long to meet my Savior first of all. </lines>
+		</verse>
+	</lyrics>
+</song>

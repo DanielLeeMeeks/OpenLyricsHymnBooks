@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+	<properties>
+		<titles>
+			<title>Some Time We'll Understand</title>
+		</titles>
+		<authors>
+			<author>Maxwell N. Cornelius</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="496"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Not now, but in the coming years,
+It may be in the better land,
+We'll read the meaning of our tears,
+And there, some time, we'll understand.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Then trust in God thro' all the days;
+Fear not, for He doth hold thy hand;
+Though dark thy way, still sing and praise,
+Some time, some time, we'll understand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We'll catch the broken thread again,
+Anmd finish what we here began;
+Heav'n will the mysteries explain,
+And then, ah, then, we'll understand </lines>
+		</verse>
+		<verse name="v3">
+			<lines>We'll know why clouds instead of sun
+Were over many a cherished plan;
+Why song has ceased when scarce begun;
+'Tis there, some time, we'll understand. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>God knows the way, He holds the key,
+He guides us with unerring hand;
+Some time with tearless eyes we'll see;
+Yes, there, up there, we'll understand. </lines>
+		</verse>
+	</lyrics>
+</song>

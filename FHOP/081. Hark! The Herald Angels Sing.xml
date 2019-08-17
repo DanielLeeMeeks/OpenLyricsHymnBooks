@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:51+04:00">
+	<properties>
+		<titles>
+			<title>Hark! The Herald Angels Sing</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27738</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="81"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hark! the herald angels sing,
+"Glory to the new-born King:
+Peace on earth, and mercy mild;
+God and sinners reconciled."
+Joyful, all ye nations, rise,
+Join the triumph of the skies;
+With angelic host proclaim,
+"Christ is born in Bethlehem."
+Hark! the herald angels sing,
+"Glory to the newborn King!"</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Christ, by highest Heav'n adored,
+Christ, the everlasting Lord:
+Late in time behold Him come,
+Offspring of a virgin's womb.
+Veiled in flesh the Godhead see,
+Hail th'incarnate Deity!
+Pleased as man with men to appear,
+Jesus our Immanuel here.
+Hark! the herald angels sing,
+"Glory to the newborn King!"</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Hail the Heav'n-born Prince of Peace!
+Hail the Sun of righteousness!
+Light and life to all He brings,
+Ris'n with healing in His wings:
+Mild He lays His glory by,
+Born that man no more may die;
+Born to raise the sons of earth;
+Born to give them second birth.
+Hark! the herald angels sing,
+"Glory to the newborn King."</lines>
+		</verse>
+	</lyrics>
+</song>

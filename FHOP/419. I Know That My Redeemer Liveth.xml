@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>I Know That My Redeemer Liveth</title>
+		</titles>
+		<authors>
+			<author>Jessie B. Pounds</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="419"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I know that my Redeemer liveth,
+And on the earth again shall stand;
+I know eternal life He giveth,
+That grace and pow'r are in His hand.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I know, I know that Jesus liveth,
+And on the earth again shall stand.
+I know, I know that life He giveth,
+That grace and pow'r are in His hand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I know his promise never faileth,
+The word He speaks, it cannot die;
+Tho' cruel death my flesh assaileth,
+Yet I shall see Him by and by. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I know my mansion He prepareth,
+That where He is there I may be;
+O wondrous tho't, for me He careth,
+And He at last will come for me. </lines>
+		</verse>
+	</lyrics>
+</song>

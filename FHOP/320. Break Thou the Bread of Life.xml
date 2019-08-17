@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Break Thou the Bread of Life</title>
+		</titles>
+		<authors>
+			<author>Mary Ann Lathbury</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Teacher</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="320"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Break Thou the bread of life,
+Dear Lord, to me,
+As Thou didst break the loaves
+Beside the sea;
+Beyond the sacred page
+I seek Thee, Lord,
+My spirit pants for Thee,
+O living Word.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bless Thou the truth, dear Lord,
+To me--to me--
+As Thou didst bless the bread
+By Galilee;
+Then shall all bondage cease,
+All fetters fall;
+And I shall find my peace,
+My All in All.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thou art the bread of life,
+O Lord, to me,
+Thy holy Word the truth
+That saveth me;
+Give me to eat and live
+With Thee above;
+Teach me to love Thy truth,
+For Thou art love.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O send Thy Spirit, Lord,
+Now unto me,
+That He may touch my eyes,
+And make me see:
+Show me the truth concealed
+Within Thy Word,
+And in Thy Book revealed
+I see the Lord.</lines>
+		</verse>
+	</lyrics>
+</song>

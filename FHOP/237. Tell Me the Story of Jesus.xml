@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:12+04:00">
+	<properties>
+		<titles>
+			<title>Tell Me the Story of Jesus</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Life and Ministry</theme><theme> Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="237"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tell me the story of Jesus,
+Write on my heart ev'ry word;
+Tell me the story most precious,
+Sweetest that ever was heard.
+Tell how the angels, in chorus
+Sang as they welcomed His birth,
+"Glory to God in the highest!
+Peace and good tidings to earth."</lines>
+		</verse>
+		<verse name="c">
+		<lines>Tell me the story of Jesus,
+Write on my heart every word;
+Tell me the story most precious,
+Sweetest that ever was heard.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Fasting alone in the desert,
+Tell of the days that are past,
+How for our sins He was tempted,
+Yet was triumphant at last.
+Tell of the years of His labor,
+Tell of the sorrow He bore,
+He was despised and afflicted,
+Homeless, rejected and poor. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tell of the cross where they nailed Him,
+Writhing in anguish and pain;
+Tell of the grave where they laid Him,
+Tell how He liveth again.
+Love in that story so tender
+Clearer than ever I see:
+Stay, let me weep while you whisper,
+Love paid the ransom for me. </lines>
+		</verse>
+	</lyrics>
+</song>

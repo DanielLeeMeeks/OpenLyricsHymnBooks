@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>According to Thy Gracious Word</title>
+		</titles>
+		<authors>
+			<author>James Montgomery</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2241230</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="432"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>According to Thy gracious word,
+In meek humility,
+This will I do, my dying Lord,
+I will remember Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy body, broken for my sake,
+My bread from heaven shall be;
+Thy testamental cup I take,
+And thus remember Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When to the cross I turn mine eyes,
+And rest on Calvary,
+O Lamb of God, my sacrifice,
+I must remember Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Remember Thee, and all Thy pains,
+And all Thy love to me:
+Yea, while I breathe, a pulse remains
+Will I remember Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>And when these failing lips grow dumb,
+And mind and memory flee,
+When Thou shalt in Thy Kingdom come,
+Jesus, remember me.</lines>
+		</verse>
+	</lyrics>
+</song>

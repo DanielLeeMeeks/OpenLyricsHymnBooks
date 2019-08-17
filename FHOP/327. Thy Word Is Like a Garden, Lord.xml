@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Thy Word Is Like a Garden, Lord</title>
+		</titles>
+		<authors>
+			<author>Edwin Hidder</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="327"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thy Word is like a garden, Lord,
+With flowers bright and fair;
+And ev'ry one who seeks may pluck
+A lovely cluster there.
+Thy Word is like a deep, deep mine,
+And jewels rich and rare
+Are hidden in its mighty depths
+For ev'ry searcher there.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy Word is like a starry host:
+A thousand rays of light
+Are seen to guide the traveler,
+And make his pathway bright.
+Thy Word is like an armory,
+Where soldiers may repair,
+And find, for life’s long battle-day,
+All needful weapons there.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, may I love Thy precious Word,
+May I explore the mine,
+May I its fragrant flowers glean,
+May light upon me shine!
+Oh, may I find my armor there!
+Thy Word my trusty sword,
+I’ll learn to fight with every foe
+The battle of the Lord.</lines>
+		</verse>
+	</lyrics>
+</song>

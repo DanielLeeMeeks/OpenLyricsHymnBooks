@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:05+04:00">
+	<properties>
+		<titles>
+			<title>Will Jesus Find Us Watching?</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme><theme> Christ: Resurrection</theme><theme> Faithfulness: of Believer</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="187"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When Jesus comes to reward His servants,
+Whether it be noon or night,
+Faithful to Him will He find us watching,
+With our lamps all trimmed and bright?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, can we say we are ready, brother?
+Ready for the soul’s bright home?
+Say, will He find you and me still watching,
+Waiting, waiting when the Lord shall come?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>If, at the dawn of the early morning,
+He shall call us one by one,
+When to the Lord we restore our talents,
+Will He answer thee--“Well done”? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Have we been true to the trust He left us?
+Do we seek to do our best?
+If in our hearts there is naught condemns us,
+We shall have a glorious rest. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Blessed are those whom the Lord finds watching,
+In His glory they shall share;
+If He shall come at the dawn or midnight,
+Will He find us watching there? </lines>
+		</verse>
+	</lyrics>
+</song>

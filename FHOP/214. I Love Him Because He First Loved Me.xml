@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:09+04:00">
+	<properties>
+		<titles>
+			<title>I Love Him Because He First Loved Me</title>
+		</titles>
+		<authors>
+			<author>Frank E. Roush</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Christ: Love</theme><theme> Christ: Sacrifice</theme><theme> Cross: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="214"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ Jesus my Lord from heaven came,
+To save me from guilt and sin and shame;
+His death on the cross of Calvary
+Brought pardon and gave me liberty.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I love Him because He first loved me,
+He first loved me, He first loved me;
+I love Him because He first loved me,
+And died on the cross of Calvary.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He sweat drops of blood in prayer for me,
+Heartbroken in dark Gethsemane.,
+While angels from blessèd realms of light
+Gave strength to His aching heart that night. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Up Calvary’s hill the cross He bore,
+And for me a crown of thorns He wore;
+They nailed Him upon the tree to die,
+Then darkness came over earth and sky. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>My Lord who was slain by sinful man,
+A wonderful Friend to me has been;
+He rose from the tomb with victory,
+And now I love Him who first loved me. </lines>
+		</verse>
+	</lyrics>
+</song>

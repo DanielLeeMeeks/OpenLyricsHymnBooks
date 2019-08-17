@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:08+04:00">
+	<properties>
+		<titles>
+			<title>Christ Receiveth Sinful Men</title>
+		</titles>
+		<authors>
+			<author>Erdmann Neumeister</author>
+			<author>Emma P. Bevan</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3403709</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="204"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sinners Jesus will receive;
+Sound this word of grace to all
+Who the heav'nly pathway leave,
+All who linger, all who fall.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sing it o'er and o'er again;
+Christ receiveth sinful men;
+Make the message clear and plain:
+Christ receiveth sinful men.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come, and He will give you rest;
+Trust Him, for His word is plain;
+He will take the sinfulest;
+Christ receiveth sinful men. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now my heart condemns me not,
+Pure before the law I stand;
+He who cleansed me from all spot,
+Satisfied its last demand. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Christ receiveth sinful men,
+Even me with all my sin;
+Purged from every spot and stain,
+Heav'n with Him I enter in. </lines>
+		</verse>
+	</lyrics>
+</song>

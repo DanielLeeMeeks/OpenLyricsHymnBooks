@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:16+04:00">
+	<properties>
+		<titles>
+			<title>More Holiness Give Me</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="269"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>More holiness give me,
+More striving within;
+More patience in suff'ring,
+More sorrow for sin;
+More faith in my Savior,
+More sense of His care;
+More joy in His service,
+More purpose in prayer.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>More gratitude give me,
+More trust in the Lord;
+More pride in His glory,
+More hope in His word;
+More tears for His sorrows,
+More pain at His grief;
+More meekness in trial,
+More praise for relief.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>More purity give me,
+More strength to o’ercome;
+More freedom from earth-stains,
+More longings for home;
+More fit for the kingdom,
+More used would I be;
+More blessèd and holy,
+More, Savior, like Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

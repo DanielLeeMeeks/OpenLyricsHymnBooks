@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:03+04:00">
+	<properties>
+		<titles>
+			<title>Ring the Bells of Heaven</title>
+		</titles>
+		<authors>
+			<author>William O. Cushing</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Soul Winning</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="28"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ring the bells of heaven! there is joy today
+For a soul returning from the wild;
+See! the Father meets him out upon the way,
+Welcoming His weary, wand'ring child.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Glory! glory! how the angels sing;
+Glory! glory! how the loud harps ring!
+'Tis the ransomed army, like a mighty sea,
+Pealing forth the anthem of the free!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ring the bells of heaven! there is joy today,
+For the wand'rer now is reconciled;
+Yes, a soul is rescued from his sinful way,
+And is born anew a ransomed child. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ring the bells of heaven! spread the feast today!
+Angels, swell the glad triumphant strain!
+Tell the joyful tidings, bear it far away!
+For a precious soul is born again. </lines>
+		</verse>
+	</lyrics>
+</song>

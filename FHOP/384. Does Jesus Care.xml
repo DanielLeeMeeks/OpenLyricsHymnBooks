@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:31+04:00">
+	<properties>
+		<titles>
+			<title>Does Jesus Care?</title>
+		</titles>
+		<authors>
+			<author>Frank E. Graeff</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>101812</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Comforter</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="384"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Does Jesus care when my heart is pained
+Too deeply for mirth and song;
+As the burdens press and the cares distress,
+And the way grows weary and long?</lines>
+		</verse>
+		<verse name="c">
+		<lines>O yes, He cares; I know He cares,
+His heart is touched with my grief;
+When the days are weary, the long nights dreary,
+I know my Savior cares.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Does Jesus care when my way is dark
+With a nameless dread and fear?
+As the daylight fades into deep night shades,
+Does He care enough to be near? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Does Jesus care when I’ve tried and failed
+To resist some temptation strong;
+When for my deep grief there is no relief,
+Tho' my tears flow all the night long? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Does Jesus care when I’ve said "goodbye"
+To the dearest on earth to me,
+And my sad heart aches till it nearly breaks—-
+Is it aught to Him? Does He see? </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:40+04:00">
+	<properties>
+		<titles>
+			<title>O for a Thousand Tongues to Sing</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1369</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="456"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O for a thousand tongues to sing
+My dear Redeemer's praise,
+The glories of my God and King,
+The triumphs of His grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My gracious Master and my God,
+Assist me to proclaim,
+To spread thro' all the earth abroad,
+The honors of Thy name.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus! the name that charms our fears,
+That bids our sorrows cease;
+'Tis music in the sinner's ears,
+'Tis life, and health, and peace.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He breaks the pow'r of canceled sin,
+He sets the pris'ner free;
+His blood can make the foulest clean;
+His blood availed for me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Hear Him, ye deaf; His praise, ye dumb,
+Your loosened tongues employ;
+Ye blind, behold your Savior come;
+And leap, ye lame, for joy.</lines>
+		</verse>
+	</lyrics>
+</song>

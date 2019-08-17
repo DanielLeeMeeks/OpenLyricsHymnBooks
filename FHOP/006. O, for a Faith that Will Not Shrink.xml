@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>O, for a Faith that Will Not Shrink</title>
+		</titles>
+		<authors>
+			<author>William H. Bathurst</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Character</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="6"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O for a faith that will not shrink,
+Tho' pressed by every foe,
+That will not tremble on the brink
+Of any earthly woe!--</lines>
+		</verse>
+		<verse name="v2">
+			<lines>That will not murmur nor complain
+Beneath the chastening rod,
+But, in the hour of grief or pain,
+Will lean upon its God;--</lines>
+		</verse>
+		<verse name="v3">
+			<lines>A faith that shines more bright and clear
+When tempests rage without;
+That when in danger knows no fear,
+In darkness feels no doubt.--</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, give us such a faith as this,
+And then, whate’er may come,
+We’ll taste, e’en here, the hallowed bliss
+Of an eternal home.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>Silent Night! Holy Night!</title>
+		</titles>
+		<authors>
+			<author>Joseph Mohr</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4629513</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="87"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Silent night, holy night,
+All is calm, all is bright
+'Round yon virgin mother and child.
+Holy infant so tender and mild,
+Sleep in heavenly peace,
+Sleep in heavenly peace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Silent night, holy night,
+Shepherds quake at the sight,
+Glories stream from heaven afar,
+Heav'nly hosts sing Alleluia;
+Christ the Savior is born,
+Christ the Savior is born.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Silent night, holy night,
+Son of God, love’s pure light
+Radiant beams from thy holy face,
+With the dawn of redeeming grace,
+Jesus, Lord, at thy birth,
+Jesus, Lord, at thy birth.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Silent night, holy night,
+Wondrous star, lend thy light;
+With the angels let us sing,
+Alleluia to our King;
+Christ the Savior is born.
+Christ the Savior is born.</lines>
+		</verse>
+	</lyrics>
+</song>

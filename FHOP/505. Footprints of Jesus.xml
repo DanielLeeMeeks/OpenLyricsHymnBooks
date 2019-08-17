@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+	<properties>
+		<titles>
+			<title>Footprints of Jesus</title>
+		</titles>
+		<authors>
+			<author>Mary B. C. Slade</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="505"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sweetly, Lord, have we heard Thee calling,
+"Come, follow Me!"
+And we see where Thy footprints falling
+Lead us to Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Footprints of Jesus, that make the pathway glow!
+We will follow the steps of Jesus where’er they go.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though they lead o’er the cold, dark mountains,
+Seeking His sheep,
+Or along by Siloam’s fountains,
+Helping the weak: </lines>
+		</verse>
+		<verse name="v3">
+			<lines>If they lead thro' the temple holy,
+Preaching the Word;
+Or in homes of the poor and lowly,
+Serving the Lord: </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then at last, when on high He sees us,
+Our journey done,
+We will rest where the steps of Jesus
+End at His throne. </lines>
+		</verse>
+	</lyrics>
+</song>

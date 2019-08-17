@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+	<properties>
+		<titles>
+			<title>The Son of God Goes Forth to War</title>
+		</titles>
+		<authors>
+			<author>Reginald Heber</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>171945</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Missionary</theme><theme> Warfare, Christian</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="179"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The Son of God goes forth to war,
+A kingly crown to gain;
+His blood-red banner streams afar:
+Who follows in His train?
+Who best can drink his cup of woe,
+Triumphant over pain,
+Who patient bears His cross below,--
+He follows in His train.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The martyr first, whose eagle eye
+Could pierce beyond the grave;
+Who saw his Master in the sky,
+And called on Him to save.
+Like Him, with pardon on his tongue
+In midst of mortal pain,
+He prayed for them that did the wrong:
+Who follows in His train?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>A noble band, the chosen few
+On whom the Spirit came;
+Twelve valiant saints, their hope they knew,
+And mocked the cross and flame.
+They met the tyrant's brandished steel,
+The lion's gory mane;
+They bowed their necks the death to feel:
+Who follows in their turn?</lines>
+		</verse>
+	</lyrics>
+</song>

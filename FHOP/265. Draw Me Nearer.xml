@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:16+04:00">
+	<properties>
+		<titles>
+			<title>Draw Me Nearer</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="265"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am Thine, O Lord, I have heard Thy voice,
+And it told Thy love to me;
+But I long to rise in the arms of faith,
+And be closer drawn to Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Draw me nearer, nearer, blessed Lord,
+To the cross where Thou hast died;
+Draw me nearer, nearer, nearer, blessed Lord,
+To Thy precious, bleeding side.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Consecrate me now to Thy service, Lord,
+By the pow’r of grace divine;
+Let my soul look up with a steadfast hope,
+And my will be lost in Thine. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, the pure delight of a single hour
+That before Thy throne I spend,
+When I kneel in prayer, and with Thee, my God,
+I commune as friend with friend! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There are depths of love that I cannot know
+Till I cross the narrow sea;
+There are heights of joy that I may not reach
+Till I rest in peace with Thee. </lines>
+		</verse>
+	</lyrics>
+</song>

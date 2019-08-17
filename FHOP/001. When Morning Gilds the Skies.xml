@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:59+04:00">
+	<properties>
+		<titles>
+			<title>When Morning Gilds the Skies</title>
+		</titles>
+		<authors>
+			<author>Edward Caswall</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1707349</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="1"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When morning gilds the skies,
+My heart awaking cries:
+May Jesus Christ be praised;
+Alike at work and prayer..
+To Jesus I repair:..
+May Jesus Christ be praised.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When sleep her balm denies,
+My silent spirit sighs:
+May Jesus Christ be praised;
+When evil thoughts molest,...
+With this I shield my breast:..
+May Jesus Christ be praised.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Does sadness fill my mind,
+A solace here I find:
+May Jesus Christ be praised;
+Or fades my earthly bliss,..
+My comfort still is this:..
+May Jesus Christ be praised.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>In heav'n's eternal bliss
+The loveliest strain is this:
+May Jesus Christ be praised;
+The pow'rs of darkness fear,...
+When this sweet chant they hear:.
+May Jesus Christ be praised.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Be this, while life is mine,
+My canticle divine,
+May Jesus Christ be praised;
+Be this th'eternal song,..
+Thro' all the ages on:...
+May Jesus Christ be praised.</lines>
+		</verse>
+	</lyrics>
+</song>

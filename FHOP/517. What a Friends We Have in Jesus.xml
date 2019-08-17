@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:48+04:00">
+	<properties>
+		<titles>
+			<title>What a Friends We Have in Jesus</title>
+		</titles>
+		<authors>
+			<author>Joseph Scriven</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27714</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Friend</theme><theme> Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="517"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What a friend we have in Jesus,
+All our sins and griefs to bear!
+What a privilege to carry
+Ev'rything to God in prayer!
+O what peace we often forfeit,
+O what needless pain we bear,
+All because we do not carry
+Ev'rything to God in prayer!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Have we trials and temptations?
+Is there trouble anywhere?
+We should never be discouraged,
+Take it to the Lord in prayer.
+Can we find a friend so faithful
+Who will all our sorrows share?
+Jesus knows our ev'ry weakness,
+Take it to the Lord in prayer.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Are we weak and heavy-laden,
+Cumbered with a load of care?
+Precious Savior, still our refuge,
+Take it to the Lord in prayer.
+Do thy friends despise, forsake thee?
+Take it to the Lord in prayer;
+In His arms He’ll take and shield thee,
+Thou wilt find a solace there.</lines>
+		</verse>
+	</lyrics>
+</song>

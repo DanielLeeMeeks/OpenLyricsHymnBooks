@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:18+04:00">
+	<properties>
+		<titles>
+			<title>I'll Live for Him</title>
+		</titles>
+		<authors>
+			<author>Ralph E. Hudson</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4867351</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="283"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My life, my love, I give to Thee,
+Thou Lamb of God who died for me;
+Oh, may I ever faithful be,
+My Savior and my God!</lines>
+		</verse>
+		<verse name="c">
+		<lines>I’ll live for Him who died for me,
+How happy then my life shall be!
+I’ll live for Him who died for me,
+My Savior and my God!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I now believe Thou dost receive,
+For Thou hast died that I might live;
+And now henceforth I’ll trust to Thee,
+My Savior and my God! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O Thou who died on Calvary,
+To save my soul and make me free,
+I’ll consecrate my life to Thee,
+My Savior and my God! </lines>
+		</verse>
+	</lyrics>
+</song>

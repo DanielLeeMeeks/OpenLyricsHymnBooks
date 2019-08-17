@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:57+04:00">
+	<properties>
+		<titles>
+			<title>To God Be the Glory</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7009143</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="127"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>To God be the glory--great things He hath done,
+So loved He the world that He gave us His Son,
+Who yielded His life an atonement for sin,
+And opened the Lifegate that all may go in.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Praise the Lord, praise the Lord,
+Let the earth hear His voice!
+Praise the Lord, praise the Lord,
+Let the people rejoice!
+O come to the Father thro' Jesus the Son,
+And give Him the glory--great things He hath done!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O perfect redemption, the purchase of blood,
+To every believer the promise of God;
+The vilest offender who truly believes,
+That moment from Jesus forgiveness receives. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Great things He hath taught us, great things He hath done,
+And great our rejoicing thro' Jesus the Son;
+But purer and higher and greater will be
+Our wonder, our transport, when Jesus we see. </lines>
+		</verse>
+	</lyrics>
+</song>

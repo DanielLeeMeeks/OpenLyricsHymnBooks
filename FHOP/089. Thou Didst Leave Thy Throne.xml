@@ -1,0 +1,69 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:53+04:00">
+	<properties>
+		<titles>
+			<title>Thou Didst Leave Thy Throne</title>
+		</titles>
+		<authors>
+			<author>Emily E. S. Elliott</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="89"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thou didst leave Thy throne
+And Thy kingly crown
+When Thou camest to earth for me;
+But in Bethlehem's home
+Was there found no room
+For Thy holy nativity:</lines>
+		</verse>
+		<verse name="c">
+		<lines>O come to my heart, Lord Jesus!
+There is room in my heart for Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Heaven's arches rang
+When the angels sang,
+Proclaiming Thy royal degree;
+But of lowly birth
+Didst Thou come to earth,
+And in greatest humility: </lines>
+		</verse>
+		<verse name="v3">
+			<lines>The foxes found rest
+And the birds their nest,
+In the shade of the forest tree;
+But Thy couch was the sod,
+O Thou Son of God,
+In the deserts of Galilee: </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thou camest, O Lord,
+With the living word
+That should set Thy people free;
+But with mocking scorn,
+And with crown of thorn,
+They bore Thee to Calvary: </lines>
+		</verse>
+		<verse name="v5">
+			<lines>When the heavens shall ring,
+And the angels sing,
+At Thy coming to victory,
+Let Thy voice call me home,
+Saying, "Yet there is room,
+There is room at My side for thee:"
+My heart shall rejoice, Lord Jesus,
+When Thou comest and callest for me.</lines>
+		</verse>
+	</lyrics>
+</song>

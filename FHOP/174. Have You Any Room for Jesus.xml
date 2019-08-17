@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+	<properties>
+		<titles>
+			<title>Have You Any Room for Jesus</title>
+		</titles>
+		<authors>
+			<author>Daniel W. Whittle</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Admonition</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="174"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Have you any room for Jesus,
+He who bore your load of sin?
+As He knocks and asks admission,
+Sinners, will you let Him in?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Room for Jesus, King of glory!
+Hasten now His Word obey;
+Swing the heart’s door widely open,
+Bid Him enter while you may.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Room for pleasure, room for business,
+But for Christ the Crucified,
+Not a place that He can enter,
+In the heart for which He died? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Have you any room for Jesus,
+As in grace He calls again?
+O today is time accepted,
+Tomorrow you may call in vain. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Room and time now give to Jesus,
+Soon will pass God’s day of grace;
+Soon thy heart left cold and silent,
+And thy Savior’s pleading cease. </lines>
+		</verse>
+	</lyrics>
+</song>

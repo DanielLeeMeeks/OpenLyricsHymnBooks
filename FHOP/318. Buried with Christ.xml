@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:22+04:00">
+	<properties>
+		<titles>
+			<title>Buried with Christ</title>
+		</titles>
+		<authors>
+			<author>T. Ryder</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="318"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Buried with Christ and raised with Him too,
+What is there left for me to do?
+Simply to cease from struggling and strife,
+Simply to walk in newness of life.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Buried with Christ and dead unto sin;
+Dying but living, Jesus within;
+Ruling and reigning day after day,
+Guiding and keeping all of the way.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Risen with Christ my glorious Head,
+Holiness now the pathway I tread;
+Beautiful thought from walking therein,
+He that is dead is freed from all sin. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Living with Christ, who dieth no more,
+Following Christ, who goeth before;
+Not under law, I’m now under grace,
+Sin is dethroned, and Christ takes its place. </lines>
+		</verse>
+	</lyrics>
+</song>

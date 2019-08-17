@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+	<properties>
+		<titles>
+			<title>Follow On</title>
+		</titles>
+		<authors>
+			<author>W. O. Cushing</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Guide</theme><theme> Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="431"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Down in the valley with my Saviour I would go,
+Where the flowers are blooming and the sweet waters flow;
+Everywhere He leads me I will follow, follow on,
+Walking in His footsteps till the crown be won.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Follow! follow! I will follow Jesus!
+Anywhere, everywhere, I will follow on!
+Follow! follow! I will follow Jesus!
+Everywhere He leads me I will follow on!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Down in the valley with my Saviour I would go,
+Where the storms are sweeping and the dark waters flow;
+With His hand to lead me I will never, never fear,
+Danger cannot fright me if my Lord is near. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Down in the valley or upon the mountain steep,
+Close beside my Saviour would my soul ever keep;
+He will lead me safely in the path that He has trod,
+Up to where they gather on the hills of God. </lines>
+		</verse>
+	</lyrics>
+</song>

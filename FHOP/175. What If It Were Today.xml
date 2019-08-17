@@ -1,0 +1,66 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+	<properties>
+		<titles>
+			<title>What If It Were Today?</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme><theme> Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="175"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus is coming to earth again,</lines>
+		</verse>
+		<verse name="v1">
+			<lines>Jesus is coming to earth again,
+What if it were today?
+Coming in power and love to reign,
+What if it were today?
+Coming to claim His chosen Bride,
+All the redeemed and purified,
+Over this whole earth scattered wide,
+What if it were today?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Glory, glory!
+Joy to my heart 'twill bring,
+Glory, glory!
+When we shall crown Him King;
+Glory, glory!
+Haste to prepare the way;
+Glory, glory!
+Jesus will come some day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Satan's dominion will then be o'er,
+O that it were today!
+Sorrow and sighing shall be no more,
+O that it were today!
+Then shall the dead in Christ arise,
+Caught up to meet Him in the skies,
+When shall these glories meet our eyes?
+What if it were today? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Faithful and true would He find us here,
+If He should come today?
+Watching in gladness and not in fear,
+If He should come today?
+Signs of His coming multiply,
+Morning light breaks in eastern sky,
+Watch, for that time is drawing nigh,
+What if it were today? </lines>
+		</verse>
+	</lyrics>
+</song>

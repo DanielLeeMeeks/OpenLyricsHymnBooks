@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:11+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Loves Even Me</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7065989</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Love</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="234"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am so glad that our Father in heav'n,
+Tells of His love in the Book He has giv'n;
+Wonderful things in the Bible I see;
+This is the dearest--that Jesus loves me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I am so glad that Jesus loves me,
+Jesus loves me, Jesus loves me;
+I am so glad that Jesus loves me,
+Jesus loves even me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though I forget Him and wander away,
+Kindly He follows wherever I stray;
+Back to His dear loving arms would I flee,
+When I remember that Jesus loves me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, if there's only one song I can sing,
+When in His beauty I see the Great King,
+This shall my song in eternity be,
+"Oh, what a wonder that Jesus loves me!" </lines>
+		</verse>
+	</lyrics>
+</song>

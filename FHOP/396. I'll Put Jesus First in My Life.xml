@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+	<properties>
+		<titles>
+			<title>I'll Put Jesus First in My Life</title>
+		</titles>
+		<authors>
+			<author>James D. Murch</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="396"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The world all about me has now no allure:
+Its pleasure ring pain,
+Its wisdom is vain;
+I seek a foundation that's steadfast and sure:
+I'll put Jesus first in my life.</lines>
+		</verse>
+		<verse name="c">
+		<lines>In all that I say,
+In all that I do,
+Thro'out the world of toil and strife,
+By day and by night,
+Thro' trust in His might,
+I'll put Jesus first in my life.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The Lord Jesus died my salvation to win:
+He went in my stead
+To Calv'ry and bled;
+Redemption impels me to give up all sin:
+I'll put Jesus first in my life. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I know there's a home for the ransomed and blest,
+When death is no more,
+When struggle is o'er,
+For those who love Jesus and give Him their best:
+I'll put Jesus first in my life. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Tho' earth's tribulations continue each day,
+Tho' pleasure may call,
+Tho' evil enthrall,
+His grace will protect me forever and aye:
+I'll put Jesus first in my life. </lines>
+		</verse>
+	</lyrics>
+</song>

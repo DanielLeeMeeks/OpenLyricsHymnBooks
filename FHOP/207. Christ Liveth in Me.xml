@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:08+04:00">
+	<properties>
+		<titles>
+			<title>Christ Liveth in Me</title>
+		</titles>
+		<authors>
+			<author>Daniel W. Whittle</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="207"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Once far from God and dead in sin,
+No light my heart could see;
+But in God’s Word the light I found--
+Now Christ liveth in me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Christ liveth in me,
+Christ liveth in me,
+Oh! what a salvation this,
+That Christ liveth in me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>As rays of light from yonder sun,
+The flow’rs of earth set free,
+So life and light and love came forth
+From Christ living in me. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>As lives the flow’r within the seed,
+As in the cone the tree,
+So, praise the God of truth and grace,
+His Spirit dwelleth in me. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>With longing all my heart is filled
+That like Him I may be,
+As on the wondrous tho't I dwell
+That Christ liveth in me. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:49+04:00">
+	<properties>
+		<titles>
+			<title>Just as I Am</title>
+		</titles>
+		<authors>
+			<author>Charlotte Elliott</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5635850</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="62"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Just as I am, without one plea
+But that Thy blood was shed for me,
+And that Thou bidd'st me come to Thee,
+O Lamb of God, I come! I come!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Just as I am, and waiting not
+To rid my soul of one dark blot,
+To Thee, whose blood can cleanse each spot,
+O Lamb of God, I come! I come!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Just as I am, tho' tossed about
+With many a conflict, many a doubt,
+Fightings and fears within, without,
+O Lamb of God, I come! I come!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Just as I am, poor, wretched, blind;
+Sight, riches, healing of the mind,
+Yea, all I need, in Thee to find,
+O Lamb of God, I come! I come!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Just as I am, Thou wilt receive,
+Wilt welcome, pardon, cleanse, relieve;
+Because Thy promise I believe,
+O Lamb of God, I come! I come!</lines>
+		</verse>
+	</lyrics>
+</song>

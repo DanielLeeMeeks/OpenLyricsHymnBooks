@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+	<properties>
+		<titles>
+			<title>Accepted in the Beloved</title>
+		</titles>
+		<authors>
+			<author>Civilla D. Martin</author>
+		</authors>
+		<copyright>© 1930, Ren. 1958 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Intercessor</theme><theme> Christ: Savior</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="499"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"In the Beloved" accepted am I,
+Risen, ascended, and seated on high;
+Saved from all sin thro' His infinite grace,
+With the redeemed ones accorded a place</lines>
+		</verse>
+		<verse name="c">
+		<lines>"In the Beloved," God's marvelous grace
+Calls me to dwell in this wonderful place;
+God sees my Savior and then He sees me
+"In the Beloved," accepted and free.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"In the Beloved"--how safe my retreat,
+In the Beloved accounted complete;
+"Who can condemn me?" In Him I am free,
+Savior and Keeper forever is He. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>"In the Beloved" I went to the tree,
+There, in His Person, by faith I may see
+Infinite wrath rolling over His head,
+Infinite grace, for He died in my stead. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:51+04:00">
+	<properties>
+		<titles>
+			<title>Lead On, O King Eternal</title>
+		</titles>
+		<authors>
+			<author>Ermest W Shurtleff</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="76"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lead on, O King eternal,
+The day of march has come;
+Henceforth in fields of conquest
+Thy tents shall be our home.
+Thro' days of preparation
+Thy grace has made us strong,
+And now, O King eternal,
+We lift our battle song.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lead on, O King eternal,
+Till sin’s fierce war shall cease,
+And holiness shall whisper
+The sweet Amen of peace;
+For not with swords loud clashing,
+Nor roll of stirring drums;
+With deeds of love and mercy
+The heav'nly kingdom comes.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lead on, O King eternal,
+We follow, not with fears;
+For gladness breaks like morning
+Where’er Thy face appears;
+Thy cross is lifted over us;
+We journey in its light:
+The crown awaits the conquest;
+Lead on, O God of might.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:16+04:00">
+	<properties>
+		<titles>
+			<title>Nearer, My God, to Thee</title>
+		</titles>
+		<authors>
+			<author>Sarah F. Adams</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Cross: of Believer</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="272"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Nearer, my God, to Thee,
+Nearer to Thee!
+E'en though it be a cross
+That raiseth me;
+Still all my song shall be,
+Nearer, my God, to Thee,
+Nearer, my God, to Thee,
+Nearer to Thee!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though like the wanderer,
+The sun gone down,
+Darkness be over me,
+My rest a stone;
+Yet in my dreams I'd be
+Nearer, my God, to Thee,
+Nearer, my God, to Thee,
+Nearer to Thee!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>There let the way appear
+Steps unto Heav'n:
+All that Thou sendest me
+In mercy giv'n:
+Angels to beckon me
+Nearer, my God, to Thee,
+Nearer, my God, to Thee,
+Nearer to Thee!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then, with my waking tho'ts
+Bright with Thy praise,
+Out of my stony griefs
+Bethel I'll raise;
+So by my woes to be
+Nearer, my God, to Thee,
+Nearer, my God, to Thee,
+Nearer to Thee!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Or if on joyful wing,
+Cleaving the sky,
+Sun, moon, and stars forgot,
+Upwards I fly,
+Still all my song shall be,
+Nearer, my God, to Thee,
+Nearer, my God, to Thee,
+Nearer to Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

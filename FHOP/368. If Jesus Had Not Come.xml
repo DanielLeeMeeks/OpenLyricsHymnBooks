@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+	<properties>
+		<titles>
+			<title>If Jesus Had Not Come</title>
+		</titles>
+		<authors>
+			<author>Albert C. Norton</author>
+		</authors>
+		<copyright>© 1953 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme><theme> Christ: Life and Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="368"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>If Jesus had not come, how dark had been the night!
+The wise men, sadly dumb, had seen no starry light!
+The shepherds on the hill had heard no angel song!
+The bells in silence chill, no joyous peal had rung!</lines>
+		</verse>
+		<verse name="c">
+		<lines>But Jesus came! He came to earth,
+And men beheld His manger birth!
+The shepherds heard the angels sing,
+The wise proclaimed Him Lord and King!
+He died, He rose; and by His blood,
+We too become the sons of God;
+We preach the gospel in His name!
+For Jesus came! Yes, Jesus came!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>If Jesus had not come, no freedom had the slave;
+No woman's happy home, no hand a child to save;
+The people in the gloom had one eternal night:
+Death met them at the tomb, no resurrection light! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>If Jesus had not come, no Great Physician king
+Had brought a healing balm, a vision for the blind!
+No soul with demon torn had found a sure release!
+The hopeless and forlorn had found no way of peace! </lines>
+		</verse>
+		<verse name="v4">
+			<lines>If Jesus had not come, how blank the Sacred page!
+The poet had no song, and silent were the sage!
+No artist to adorn our worship with delight;
+No choral Psalm had borne His praises day or night! </lines>
+		</verse>
+		<verse name="v5">
+			<lines>If Jesus had not come, how sad had been our fate!
+Of judgment sore the sum for all our sin and hate!
+No loving God of grace His precious Son had giv'n;
+No hope to see His face; no joy to meet in heaven! </lines>
+		</verse>
+	</lyrics>
+</song>

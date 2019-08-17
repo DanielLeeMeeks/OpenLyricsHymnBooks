@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:03+04:00">
+	<properties>
+		<titles>
+			<title>In Thy Heart Right with God?</title>
+		</titles>
+		<authors>
+			<author>Elisha A. Hoffman</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Invitation: for Consecration</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="172"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Have thy affections been nailed to the cross?
+Is thy heart right with God?
+Countest thou all things for Jesus but loss?
+Is thy heart right with God?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Is thy heart right with God,
+Washed in the crimson flood,
+Cleansed and made holy, humble and lowly,
+Right in the sight of God?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hast thou dominion o’er self and o’er sin?
+Is thy heart right with God?
+Over all evil without and within?
+Is thy heart right with God? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Is there no more condemnation for sin?
+Is thy heart right with God?
+Does Jesus rule in the temple within?
+Is thy heart right with God? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Art thou now walking in heaven's pure light?
+Is thy heart right with God?
+Is thy soul wearing the garment of white?
+Is thy heart right with God? </lines>
+		</verse>
+	</lyrics>
+</song>

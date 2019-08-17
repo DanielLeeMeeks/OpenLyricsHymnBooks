@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:30+04:00">
+	<properties>
+		<titles>
+			<title>Whom Have I but Thee?</title>
+		</titles>
+		<authors>
+			<author>Avis B. Christiansen</author>
+		</authors>
+		<copyright>© 1962, Ren. 1988 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Refuge</theme><theme> Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="380"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Whom have I on earth, Lord Jesus,
+Whom in heav'n above but Thee?
+Now and through eternal ages
+Thou art all in all to me!</lines>
+		</verse>
+		<verse name="c">
+		<lines>All in all! all in all!
+Thou art all in all to me,
+Thou art all my soul's desire--
+Now and through eternity!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Whom have I on earth, Lord Jesus,
+To sustain and comfort me?
+Thou, the Rock of my salvation,
+Ever will my refuge be! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Whom have I in heav'n, Lord Jesus,
+When life's fleeting days are past?
+Whom but Thee, blest Lamb of Calv'ry,
+To receive my soul at last? </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>'Tis Midnight; and on Olive's Brow</title>
+		</titles>
+		<authors>
+			<author>William B. Tappan</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme><theme> Christ: Suffering</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="321"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>'Tis midnight; and on Olive's brow
+The star is dimmed that lately shone;
+'Tis midnight; in the garden now,
+The suff'ring Savior prays alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>'Tis midnight; and from all removed,
+The Savior wrestles lone with fears;
+E'en that disciple whom He loved
+Heeds not His master's grief and tears.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Tis midnight; and for others' guilt
+The Man of Sorrows weeps in blood;
+Yet He that hath in anguish knelt
+Is not forsaken by His God.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>'Tis midnight; and from ether-plains
+Is borne the song that angels know;
+Unheard by mortals are the strains
+That sweetly soothe the Savior's woe.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

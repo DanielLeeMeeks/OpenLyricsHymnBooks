@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:41+04:00">
+	<properties>
+		<titles>
+			<title>O Perfect Love</title>
+		</titles>
+		<authors>
+			<author>Dorothy F. Gurney</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> Prayer: Hymns of</theme><theme> Weddding</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="461"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O perfect Love, all human thought transcending,
+Lowly we kneel in prayer before Thy throne,
+That theirs may be the love which knows no ending,
+Whom Thou forevermore dost join in one.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O perfect Life, be Thou their full assurance
+Of tender charity and steadfast faith,
+Of patient hope, and quiet, brave endurance,
+With childlike trust that fears not pain nor death.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Grant them the joy which brightens earthly sorrow,
+Grant them the peace which calms all earthly strife,
+And to life's day the glorious, unknown morrow
+That dawns upon eternal love and life.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hear us, O Father, gracious and forgiving,
+Through Jesus Christ, Thy co-eternal Word,
+Who, with the Holy Ghost, by all things living
+Now and to endless ages art adored.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

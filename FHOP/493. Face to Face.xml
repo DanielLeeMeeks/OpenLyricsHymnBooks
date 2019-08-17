@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+	<properties>
+		<titles>
+			<title>Face to Face</title>
+		</titles>
+		<authors>
+			<author>Carrie E. Breck</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Praise: of Christ</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="493"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Face to face with Christ, my Saviour,
+Face to face--what will it be?
+When with rapture I behold Him,
+Jesus Christ who died for me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Face to face I shall behold Him,
+Far beyond the starry sky;
+Face to face in all His glory,
+I shall see Him by and by!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Only faintly now I see Him,
+With the darkened veil between,
+But a blessed day is coming
+When His glory shall be seen. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>What rejoicing in His presence
+When are banished grief and pain;
+When the crooked ways are straightened,
+And the dark things shall be plain. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Face to face! O blissful moment!
+Face to face--to see and know;
+Face to face with my Redeemer,
+Jesus Christ who loves me so. </lines>
+		</verse>
+	</lyrics>
+</song>

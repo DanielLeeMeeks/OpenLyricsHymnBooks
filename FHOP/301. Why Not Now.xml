@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:20+04:00">
+	<properties>
+		<titles>
+			<title>Why Not Now?</title>
+		</titles>
+		<authors>
+			<author>Daniel W. Whittle</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="301"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>While we pray and while we plead,
+While you see your soul’s deep need,
+While our Father calls you home,
+Will you not, my brother, come?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Why not now? Why not now?
+Why not come to Jesus now?
+Why not now? Why not now?
+Why not come to Jesus now?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>You have wandered far away;
+Do not risk another day;
+Do not turn from God thy face,
+But today accept His grace. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>In the world you’ve failed to find
+Aught of peace for troubled mind;
+Come to Christ, on Him believe,
+Peace and joy you shall receive. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come to Christ, confession make;
+Come to Christ, and pardon take;
+Trust in Him from day to day,
+He will keep you all the way. </lines>
+		</verse>
+	</lyrics>
+</song>

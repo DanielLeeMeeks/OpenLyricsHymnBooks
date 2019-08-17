@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+	<properties>
+		<titles>
+			<title>Nothing but the Blood</title>
+		</titles>
+		<authors>
+			<author>Robert Lowry</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>21332</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="138"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What can wash away my sin?
+Nothing but the blood of Jesus;
+What can make me whole again?
+Nothing but the blood of Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh! precious is the flow
+That makes me white as snow;
+No other fount I know,
+Nothing but the blood of Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>For my pardon, this I see--
+Nothing but the blood of Jesus;
+For my cleansing this my plea--
+Nothing but the blood of Jesus. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nothing can for sin atone--
+Nothing but the blood of Jesus;
+Naught of good that I have done--
+Nothing but the blood of Jesus. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>This is all my hope and peace--
+Nothing but the blood of Jesus;
+This is all my righteousness--
+Nothing but the blood of Jesus. </lines>
+		</verse>
+	</lyrics>
+</song>

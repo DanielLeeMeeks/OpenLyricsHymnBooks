@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:54+04:00">
+	<properties>
+		<titles>
+			<title>Wonderful Peace</title>
+		</titles>
+		<authors>
+			<author>Haldor Lillenas</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>17054</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="101"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Coming to Jesus, my Savior, I found
+Wonderful peace, wonderful peace;
+Storms in their fury may rage all around,
+I have peace, sweet peace.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Peace,peace, wonderful peace,
+Peace, peace, glorious peace;
+Since my Redeemer has ransomed my soul,
+I have peace, sweet peace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Peace like a river, so deep and so broad,
+Wonderful peace, wonderful peace;
+Resting my soul on the bosom of God,
+I have peace, sweet peace. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Peace like a holy and infinite calm,
+Wonderful peace, wonderful peace;
+Like to the strains of an evening psalm,
+I have peace, sweet peace. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Gone is the battle that once raged within,
+Wonderful peace, wonderful peace;
+Jesus has saved me and cleansed me from sin,
+I have peace, sweet peace. </lines>
+		</verse>
+	</lyrics>
+</song>

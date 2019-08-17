@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:54+04:00">
+	<properties>
+		<titles>
+			<title>Like a River Glorious</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: Of God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="103"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Like a river glorious
+Is God’s perfect peace,
+Over all victorious,
+In its bright increase;
+Perfect, yet it floweth
+Fuller every day,
+Perfect, yet it groweth
+Deeper all the way.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Stayed upon Jehovah,
+Hearts are fully blest;
+Finding, as He promised,
+Perfect peace and rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hidden in the hollow
+Of His blessed hand,
+Never foe can follow,
+Never traitor stand;
+Not a surge of worry,
+Not a shade of care,
+Not a blast of hurry
+Touch the spirit there. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Every joy or trial
+Falleth from above,
+Traced upon our dial
+By the Sun of Love.
+We may trust Him fully
+All for us to do;
+They who trust Him wholly
+Find Him wholly true. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:19+04:00">
+	<properties>
+		<titles>
+			<title>Blessed Assurance</title>
+		</titles>
+		<authors>
+			<author>Fanny J. Crosby</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2280222</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="289"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Blessed assurance, Jesus is mine!
+Oh, what a foretaste of glory divine!
+Heir of salvation, purchase of God,
+Born of His Spirit, washed in His blood.</lines>
+		</verse>
+		<verse name="c">
+		<lines>This is my story, this is my song,
+Praising my Savior all the day long;
+This is my story, this is my song,
+Praising my Savior all the day long.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Perfect submission, perfect delight,
+Visions of rapture now burst on my sight;
+Angels descending, bring from above
+Echoes of mercy, whispers of love. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Perfect submission, all is at rest,
+I in my Savior am happy and blest;
+Watching and waiting, looking above,
+Filled with His goodness, lost in His love. </lines>
+		</verse>
+	</lyrics>
+</song>

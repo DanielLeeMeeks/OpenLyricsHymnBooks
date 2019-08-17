@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:23+04:00">
+	<properties>
+		<titles>
+			<title>Standing on the Promises</title>
+		</titles>
+		<authors>
+			<author>R. Kelso Carter</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3288285</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="323"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Standing on the promises of Christ my King,
+Thro' eternal ages let His praises ring;
+Glory in the highest, I will shout and sing,
+Standing on the promises of God.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Standing, standing,
+Standing on the promises of God my Savior;
+Standing, standing,
+I'm standing on the promises of God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Standing on the promises that cannot fail,
+When the howling storms of doubt and fear assail,
+By the living Word of God I shall prevail,
+Standing on the promises of God. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Standing on the promises of Christ the Lord,
+Bound to Him eternally by love's strong cord,
+Overcoming daily with the Spirit's sword,
+Standing on the promises of God. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Standing on the promises I cannot fall,
+List'ning ev'ry moment to the Spirit's call,
+Resting in my Savior, as my all in all,
+Standing on the promises of God. </lines>
+		</verse>
+	</lyrics>
+</song>

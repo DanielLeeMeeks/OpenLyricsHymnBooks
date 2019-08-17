@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:09+04:00">
+	<properties>
+		<titles>
+			<title>I've Heard the King</title>
+		</titles>
+		<authors>
+			<author>Grant C. Tuller</author>
+		</authors>
+		<copyright>© 1953, Ren. 1981 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="216"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I've heard the King! The King of heaven!
+Nor can I e'er forget the music of His voice.
+I've heard the King! His call I've answered.
+I've made the King of heav'n my everlasting choice.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He came to me, and with Him came a blessing.
+He spoke to me, and glory filled my soul;
+His voice I heard, so charming and so wondrous.
+I've heard the King, and hearing am made whole.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I've heard the King! The King of glory;
+For whom my heart's door opened wide and He came in.
+I've heard the King! Oh, blessed hearing,
+His voice spoke peace and pardon for my guilt and sin. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I've heard the King! Oh, had I missed Him,
+My life forevermore could not regain the loss.
+From heav'n He came, the world to ransom,
+And this He did one day on Calv'ry's cruel cross. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I've heard the King! and now I'm telling
+To all the world the gospel of undying love,
+That others too may catch the music
+His voice can bring, and find their way to heav'n above. </lines>
+		</verse>
+	</lyrics>
+</song>

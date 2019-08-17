@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:59+04:00">
+	<properties>
+		<titles>
+			<title>Holy, Holy, Holy</title>
+		</titles>
+		<authors>
+			<author>Reginald Heber</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1156</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Adoration</theme><theme> God: Holiness</theme><theme> God: Majesty and Power</theme><theme> God: Trinity</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="2"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy, Holy, Holy! Lord God Almighty!
+Early in the morning our song shall rise to Thee;
+Holy, Holy, Holy! Merciful and Mighty!
+God in Three Persons, blessèd Trinity!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Holy, Holy, Holy! All the saints adore Thee,
+Casting down their golden crowns around the glassy sea;
+Cherubim and seraphim falling down before Thee,
+Which wert and art and evermore shalt be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Holy, Holy, Holy! Tho' the darkness hide Thee,
+Tho' the eye of sinful man Thy glory may not see,
+Only Thou art holy; there is none beside Thee,
+Perfect in pow'r, in love, and purity.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Holy, Holy, Holy! Lord God Almighty!
+All Thy works shall praise Thy name, in earth, and sky, and sea;
+Holy, Holy, Holy! Merciful and Mighty,
+God in Three Persons, blessèd Trinity!</lines>
+		</verse>
+	</lyrics>
+</song>

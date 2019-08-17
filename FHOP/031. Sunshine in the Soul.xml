@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:04+04:00">
+	<properties>
+		<titles>
+			<title>Sunshine in the Soul</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Light</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="31"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There's sunshine in my soul today,
+More glorious and bright
+Than glows in any earthly sky,
+For Jesus is my light.</lines>
+		</verse>
+		<verse name="c">
+		<lines>O there's sunshine, blessed sunshine,
+When the peaceful, happy moments roll;
+When Jesus shows His smiling face,
+There is sunshine in my soul.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There's music in my soul today,
+A carol to my King,
+And Jesus, listening, can hear
+The songs I cannot sing. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There's springtime in my soul today,
+For, when the Lord is near,
+The dove of peace sings in my heart,
+The flow'rs of grace appear. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There's gladness in my soul today,
+And hope and praise and love,
+For blessings which He gives me now,
+For joys "laid up above." </lines>
+		</verse>
+	</lyrics>
+</song>

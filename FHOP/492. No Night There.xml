@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+	<properties>
+		<titles>
+			<title>No Night There</title>
+		</titles>
+		<authors>
+			<author>John R. Clements</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4855507</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="492"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In the land of fadeless day
+Lies the "city four-square;"
+It shall never pass away,
+And there is "no night there."</lines>
+		</verse>
+		<verse name="c">
+		<lines>God shall "wipe away all tears;"
+There's no death, no pain, nor fears;
+And they count not time by years,
+For there is "no night there."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All the gates of pearl are made
+In the "city four-square;"
+All the streets with gold are laid,
+And there is "no night there." </lines>
+		</verse>
+		<verse name="v3">
+			<lines>And the gates shall never close
+To the "city four-square;"
+There life's crystal river flows,
+And there is "no night there." </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There they need no sunshine bright,
+In that "city four-square;"
+For the Lamb is all the light,
+And there is "no night there." </lines>
+		</verse>
+	</lyrics>
+</song>

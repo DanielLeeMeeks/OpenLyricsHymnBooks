@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:48+04:00">
+	<properties>
+		<titles>
+			<title>Art Thou Weary, Art Thou Languid?</title>
+		</titles>
+		<authors>
+			<author>John M. Neale</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="57"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Art thou weary, art thou languid,
+At thou sore distressed?
+"Come to Me," saith One, "and coming,
+Be at rest."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hath He marks to lead me to Him,
+If He be my Guide?
+In His feet and hands are wound-prints,
+And His side."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Is there diadem, as Monarch,
+That His brow adorns?
+Yea, a crown, in very surety,
+But of thorns.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>If I ask Him to receive me,
+Will He say me nay?
+Not till earth and not till heaven
+Pass away.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Finding, foll'wing, keeping, struggling,
+Is He sure to bless?
+Saints, apostles, prophets, martyrs,
+Answer, "Yes."
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

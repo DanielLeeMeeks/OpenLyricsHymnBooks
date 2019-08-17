@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+	<properties>
+		<titles>
+			<title>We Shall See the King Some Day</title>
+		</titles>
+		<authors>
+			<author>Lewis E. Jones</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Kingship and Reign</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="498"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tho' the way we journey may be often drear,
+We shall see the King some day;
+On that blessèd morning clouds will disappear;
+We shall see the King some day.</lines>
+		</verse>
+		<verse name="c">
+		<lines>We shall see the King some day,
+We will shout and sing some day;
+Gathered ’round the throne,
+When He shall call His own,
+We shall see the King some day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>After pain and anguish, after toil and care,
+We shall see the King some day;
+Thro' the endless ages joy and blessing share,
+We shall see the King some day. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>After foes are conquered, after battles won,
+We shall see the King some day;
+After strife is over, after set of sun,
+We shall see the King some day. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>There with all the loved ones who have gone before,
+We shall see the King some day;
+Sorrow past forever, on that peaceful shore,
+We shall see the King some day. </lines>
+		</verse>
+	</lyrics>
+</song>

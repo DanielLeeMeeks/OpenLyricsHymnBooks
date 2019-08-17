@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T13:00+04:00">
+	<properties>
+		<titles>
+			<title>Rejoice, Ye Pure in Heart</title>
+		</titles>
+		<authors>
+			<author>Edward H. Plumptre</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Choir</theme><theme> Worship</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="7"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rejoice, ye pure in heart,
+Rejoice, give thanks, and sing;
+Your festal banner wave on high,
+The cross of Christ, your King.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Rejoice, rejoice,
+Rejoice, give thanks, and sing!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>With all the angel choirs,
+With all the saints on earth,
+Pour out the strains of joy and bliss,
+True rapture, noblest mirth! </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Still lift your standard high,
+Still march in firm array;
+As warriors through the darkness toil
+Till dawns the golden day. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Yes, on through life's long path,
+Still chanting as ye go;
+From youth to age, by night and day,
+In gladness and in woe. </lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then on, ye pure in heart,
+Rejoice, give thanks, and sing;
+Your festal banner wave on high,
+The cross of Christ your King. 
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

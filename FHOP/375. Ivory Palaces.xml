@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:30+04:00">
+	<properties>
+		<titles>
+			<title>Ivory Palaces</title>
+		</titles>
+		<authors>
+			<author>Henry Barraclough</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4485173</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Love</theme><theme> Christ: Sacrifice</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="375"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My Lord has garments so wondrous fine,
+And myrrh their texture fills;
+Its fragrance reached to this heart of mine,
+With joy my being thrills.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Out of the ivory palaces
+Into a world of woe,
+Only His great eternal love
+Made my Savior go.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>His life had also its sorrows sore,
+For aloes had a part;
+And when I think of the cross He bore,
+My eyes with teardrops start. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>His garments too were in cassia dipped,
+With healing in a touch;
+Each time my feet in some sin have slipped,
+He took me from its clutch. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>In garments glorious He will come,
+To open wide the door;
+And I shall enter my heav’nly home,
+To dwell forevermore. </lines>
+		</verse>
+	</lyrics>
+</song>

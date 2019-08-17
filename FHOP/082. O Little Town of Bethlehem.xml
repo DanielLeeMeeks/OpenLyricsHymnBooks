@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+	<properties>
+		<titles>
+			<title>O Little Town of Bethlehem</title>
+		</titles>
+		<authors>
+			<author>Phillips Brooks</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27879</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Advent and Birth</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="82"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O little town of Bethlehem,
+How still we see thee lie!
+Above thy deep and dreamless sleep
+The silent stars go by;
+Yet in thy dark streets shineth
+The everlasting Light;
+The hopes and fears of all the years
+Are met in thee tonight.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>For Christ is born of Mary;
+And gathered all above,
+While mortals sleep, the angels keep
+Their watch of wond'ring love,
+O morning stars, together
+Proclaim the holy birth!
+And praises sing to God the King,
+And peace to men on earth.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>How silently, how silently,
+The wondrous gift is giv'n!
+So God imparts to human hearts
+The blessings of His Heav'n.
+No ear may hear His coming;
+But in this world of sin,
+Where meek souls will receive Him still,
+The dear Christ enters in.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O holy Child of Bethlehem,
+Descend to us, we pray;
+Cast out our sin, and enter in,
+Be born in us today.
+We hear the Christmas angels
+The great glad tidings tell,--
+O come to us, abide with us,
+Our Lord Emmanuel.</lines>
+		</verse>
+	</lyrics>
+</song>

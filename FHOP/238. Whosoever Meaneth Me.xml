@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:12+04:00">
+	<properties>
+		<titles>
+			<title>"Whosoever" Meaneth Me</title>
+		</titles>
+		<authors>
+			<author>J. Edwin McConnell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="238"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am happy today and the sun shines bright,
+The clouds have been rolled away;
+For the Savior said Whosoever will,
+May come with Him to stay.</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Whosoever” surely meaneth me,
+Surely meaneth me, O surely meaneth me;
+“Whosoever” surely meaneth me,
+“Whosoever” meaneth me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All my hopes have been raised, O His Name be praised,
+His glory has filled my soul;
+I’ve been lifted up and from sin set free,
+His blood hath made me whole. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>O what wonderful love, O what grace divine,
+That Jesus should die for me!
+I was lost in sin, for the world I pined,
+But now I am set free. </lines>
+		</verse>
+	</lyrics>
+</song>

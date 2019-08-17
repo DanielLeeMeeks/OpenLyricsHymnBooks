@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:17+04:00">
+	<properties>
+		<titles>
+			<title>Open My Eyes, that I May See</title>
+		</titles>
+		<authors>
+			<author>Clara H. Scott</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>68003</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="278"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Open my eyes, that I may see
+Glimpses of truth Thou hast for me;
+Place in my hands the wonderful key
+That shall unclasp and set me free.
+Silently now I wait for Thee,
+Ready, my God, Thy will to see;
+Open my eyes, illumine me,
+Spirit divine!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Open my ears, that I may hear
+Voices of truth Thou sendest clear;
+And while the wave-notes fall on my ear,
+Everything false will disappear.
+Silently now I wait for Thee,
+Ready, my God, Thy will to see,
+Open my ears, illumine me,
+Spirit divine!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Open my mouth, and let me bear
+Gladly the warm truth ev'rywhere;
+Open my heart, and let me prepare
+Love with Thy children thus to share.
+Silently now I wait for Thee,
+Ready, my God, Thy will to see,
+Open my heart, illumine me,
+Spirit divine!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

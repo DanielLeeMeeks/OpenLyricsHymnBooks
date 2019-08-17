@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+	<properties>
+		<titles>
+			<title>When We All Get to Heaven</title>
+		</titles>
+		<authors>
+			<author>Eliza E. Hewitt</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4720027</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Faithfulness: of Believer</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="501"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sing the wondrous love of Jesus,
+Sing His mercy and His grace;
+In the mansions bright and blessed,
+He’ll prepare for us a place.</lines>
+		</verse>
+		<verse name="c">
+		<lines>When we all get to heaven,
+What a day of rejoicing that will be!
+When we all see Jesus,
+We’ll sing and shout the victory.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>While we walk the pilgrim pathway
+Clouds will overspread the sky;
+But when trav’ling days are over,
+Not a shadow, not a sigh. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let us then be true and faithful,
+Trusting, serving ev'ry day;
+Just one glimpse of Him in glory
+Will the toils of life repay. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Onward to the prize before us!
+Soon His beauty we’ll behold;
+Soon the pearly gates will open,
+We shall tread the streets of gold. </lines>
+		</verse>
+	</lyrics>
+</song>

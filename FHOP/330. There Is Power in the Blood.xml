@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+	<properties>
+		<titles>
+			<title>There Is Power in the Blood</title>
+		</titles>
+		<authors>
+			<author>Lewis E. Jones</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>232042</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Blood</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="330"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Would you be free from the burden of sin?
+There’s pow’r in the blood, pow’r in the blood;
+Would you o’er evil a victory win?
+There’s wonderful pow’r in the blood.</lines>
+		</verse>
+		<verse name="c">
+		<lines>There is pow’r, pow’r, wonder-working pow’r
+In the blood of the Lamb;
+There is pow’r, pow’r, wonder-working pow’r
+In the precious blood of the Lamb.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Would you be free from your passion and pride?
+There’s pow’r in the blood, pow’r in the blood;
+Come for a cleansing to Calvary’s tide?
+There’s wonderful pow’r in the blood. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Would you be whiter, much whiter than snow?
+There’s pow’r in the blood, pow’r in the blood;
+Sin-stains are lost in its life-giving flow;
+There’s wonderful pow’r in the blood. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Would you do service for Jesus your King?
+There’s pow’r in the blood, pow’r in the blood;
+Would you live daily His praises to sing?
+There’s wonderful pow’r in the blood. </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:48+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Loves Me</title>
+		</titles>
+		<authors>
+			<author>Anna B. Warner</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7068012</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="513"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus loves me! this I know,
+For the Bible tells me so;
+Little ones to Him belong,
+They are weak, but He is strong.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Yes, Jesus loves me!
+Yes, Jesus loves me!
+Yes, Jesus loves me!
+The Bible tells me so.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus loves me! loves me still,
+Tho' I'm very weak and ill;
+That I might from sin be free,
+Bled and died upon the tree. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus loves me! He who died
+Heaven's gate to open wide;
+He will wash away my sin,
+Let His little child come in. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus loves me! He will stay
+Close beside me all the way:
+Thou hast bled and died for me,
+I will henceforth live for Thee. </lines>
+		</verse>
+	</lyrics>
+</song>

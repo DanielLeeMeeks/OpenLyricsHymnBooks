@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>Sun of My Soul</title>
+		</titles>
+		<authors>
+			<author>John Keble</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3079614</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Devotional</theme><theme> Evening hymns</theme><theme> Meditation</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="422"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sun of my soul! Thou Savior dear,
+It is not night if Thou be near;
+O may no earth-born cloud arise
+To hide Thee from Thy servant's eyes.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When the soft dews of kindly sleep
+My weary eyelids gently steep,
+Be my last thought, how sweet to rest
+Forever on my Savior's breast.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Abide with me from morn till eve,
+For without Thee I cannot live;
+Abide with me when night is nigh,
+For without Thee I dare not die.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Be near to bless us when we wake,
+Ere thro' the world our way we take;
+Till, in the ocean of Thy love,
+We lose ourselves in heav'n above.
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

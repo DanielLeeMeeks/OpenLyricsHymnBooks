@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:55+04:00">
+	<properties>
+		<titles>
+			<title>From Every Stormy Wind</title>
+		</titles>
+		<authors>
+			<author>Hugh Stowell</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6176590</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns about</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="104"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>From every stormy wind that blows,
+From every swelling tide of woes,
+There is a calm, a sure retreat:
+'Tis found beneath the mercy seat.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is a place where Jesus sheds
+The oil of gladness on our heads;
+A place than all besides more sweet;
+It is the blood-bought mercy seat.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>There is a scene where spirits blend,
+Where friend holds fellowship with friend;
+Tho' sundered far, by faith they meet
+Around one common mercy seat.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There, there on eagles' wings we soar,
+And sin and sense molest no more.
+And heav'n comes down our souls to greet,
+When glory crowns the mercy seat.</lines>
+		</verse>
+	</lyrics>
+</song>

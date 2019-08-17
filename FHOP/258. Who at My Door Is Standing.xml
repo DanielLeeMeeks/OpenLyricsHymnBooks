@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:15+04:00">
+	<properties>
+		<titles>
+			<title>Who at My Door Is Standing?</title>
+		</titles>
+		<authors>
+			<author>Mary B.C. Slade</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="258"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Who at my door is standing,
+Patiently drawing near,
+Entrance within demanding?
+Whose is the voice I hear?</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sweetly the tones are falling;
+“Open the door for me!
+If thou wilt heed My calling,
+I will abide with thee.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lonely without He’s staying:
+Lonely within am I;
+While I am still delaying,
+Will He not pass me by? </lines>
+		</verse>
+		<verse name="v3">
+			<lines>All through the dark hours dreary,
+Knocking again is He;
+Jesus, art Thou not weary,
+Waiting so long for me? </lines>
+		</verse>
+		<verse name="v4">
+			<lines>Door of my heart, I hasten!
+Thee will I open wide.
+Though He rebuke and chasten,
+He shall with me abide. </lines>
+		</verse>
+	</lyrics>
+</song>

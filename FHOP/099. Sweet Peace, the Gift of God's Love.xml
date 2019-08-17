@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:54+04:00">
+	<properties>
+		<titles>
+			<title>Sweet Peace, the Gift of God's Love</title>
+		</titles>
+		<authors>
+			<author>Peter P. Bilhorn</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God: Love and Mercy</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="99"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There comes to my heart one sweet strain,
+A glad and a joyous refrain;
+I sing it again and again,
+Sweet peace, the gift of God’s love.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Peace, peace, sweet peace!
+Wonderful gift from above!
+O wonderful, wonderful peace!
+Sweet peace, the gift of God’s love!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thro' Christ on the cross peace was made,
+My debt by His death was all paid;
+No other foundation is laid
+For peace, the gift of God’s love. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>When Jesus as Lord I had crowned,
+My heart with this peace did abound;
+In Him the rich blessing I found--
+Sweet peace, the gift of God’s love. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>In Jesus for peace I abide,
+And as I keep close to His side,
+There’s nothing but peace doth betide,
+Sweet peace, the gift of God’s love. </lines>
+		</verse>
+	</lyrics>
+</song>

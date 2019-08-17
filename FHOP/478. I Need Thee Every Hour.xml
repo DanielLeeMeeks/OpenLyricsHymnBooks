@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:43+04:00">
+	<properties>
+		<titles>
+			<title>I Need Thee Every Hour</title>
+		</titles>
+		<authors>
+			<author>Annie S. Hawks</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Meditation</theme><theme> Prayer: Hymns of</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="478"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I need Thee ev'ry hour,
+Most gracious Lord;
+No tender voice like Thine
+Can peace afford.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I need Thee, O I need Thee;
+Ev'ry hour I need Thee!
+O bless me now, my Savior,
+I come to Thee!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I need Thee ev'ry hour;
+Stay Thou near by;
+Temptations lose their pow'r
+When Thou art nigh. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>I need Thee ev'ry hour
+In joy or pain;
+Come quickly and abide,
+Or life is vain. </lines>
+		</verse>
+		<verse name="v4">
+			<lines>I need Thee ev'ry hour,
+Most Holy One;
+O make me Thine indeed,
+Thou blessed Son! </lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:38+04:00">
+	<properties>
+		<titles>
+			<title>Fling Out the Banner! Let It Float</title>
+		</titles>
+		<authors>
+			<author>George W. Doane</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Church: Militant and Triumphant</theme><theme> Missionary</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="437"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Fling out the banner! let it float
+Skyward and seaward, high and wide;
+The sun that lights its shining folds,
+The cross on which the Savior died.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Fling out the banner, heathen lands
+Shall see from far the glorious sight,
+And nations, crowding to be born,
+Baptize their spirits in its light.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Fling out the banner, sin-sick souls
+That sink and perish in the strife.
+Shall touch in faith its radiant hem,
+And spring immortal into life.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fling out the banner, let it float
+Skyward and seaward, high and wide,
+Our glory only in the cross;
+Our only hope, the Crucified!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:41+04:00">
+	<properties>
+		<titles>
+			<title>Near to the Heart of God</title>
+		</titles>
+		<authors>
+			<author>Cleland B. McAfee</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Devotional</theme><theme> Fellowship: with God</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="464"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There is a place of quiet rest,
+Near to the heart of God,
+A place where sin cannot molest,
+Near to the heart of God.</lines>
+		</verse>
+		<verse name="c">
+		<lines>O Jesus, blest Redeemer
+Sent from the heart of God,
+Hold us, who wait before Thee
+Near to the heart of God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There is a place of comfort sweet,
+Near to the heart of God,
+A place where we our Savior meet,
+Near to the heart of God. </lines>
+		</verse>
+		<verse name="v3">
+			<lines>There is a place of full releas,
+Near to the heart of God,
+A place where all is joy and peace,
+Near to the heart of God. </lines>
+		</verse>
+	</lyrics>
+</song>

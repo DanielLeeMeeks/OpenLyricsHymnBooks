@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:32+04:00">
+	<properties>
+		<titles>
+			<title>All for Jesus</title>
+		</titles>
+		<authors>
+			<author>Mary D. James</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="394"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All for Jesus, all for Jesus!
+All my being's ransomed pow'rs:
+All my tho'ts and words and doings,
+All my days and all my hours.
+All for Jesus! all for Jesus!
+All my days and all my hours;
+All for Jesus! all for Jesus!
+All my days and all my hours.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let my hands perform His bidding,
+Let my feet run in His ways;
+Let my eyes see Jesus only,
+Let my lips speak forth His praise.
+All for Jesus! all for Jesus!
+Let my lips speak forth His praise;
+All for Jesus! all for Jesus!
+Let my lips speak forth His praise.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Since my eyes were fixed on Jesus,
+I've lost sight of all beside;
+So enchained my spirit's vision,
+Looking at the Crucified.
+All for Jesus! all for Jesus!
+Looking at the Crucified;
+All for Jesus! all for Jesus!
+Looking at the Crucified.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, what wonder! how amazing!
+Jesus, glorious King of kings,
+Deigns to call me His beloved,
+Lets me rest beneath His wings.
+All for Jesus! all for Jesus!
+Resting now beneath His wings;
+All for Jesus! all for Jesus!
+Resting now beneath His wings.</lines>
+		</verse>
+	</lyrics>
+</song>

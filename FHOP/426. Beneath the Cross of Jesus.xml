@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:36+04:00">
+	<properties>
+		<titles>
+			<title>Beneath the Cross of Jesus</title>
+		</titles>
+		<authors>
+			<author>Elizabeth C. Clephane</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Christ: Suffering</theme><theme> Cross: of Christ</theme><theme> Devotional</theme></themes>
+		<songbooks>
+			<songbook name="Favorite Hymns of Praise‎" entry="426"/>
+		</songbooks>
+		<comments>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Beneath the cross of Jesus
+I fain would take my stand,
+The shadow of a mighty Rock
+Within a weary land;
+A home within the wilderness,
+A rest upon the way,
+From the burning of the noontide heat,
+And the burden of the day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Upon that cross of Jesus
+Mine eyes at times can see
+The very dying form of One
+Who suffered there for me;
+And from my smitten heart with tears
+Two wonders I confess,
+The wonders of His glorious love
+And my own worthlessness.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I take, O cross thy shadow
+For my abiding place;
+I ask no other sunshine than
+The sunshine of His face;
+Content to let the world go by,
+To know no gain nor loss,
+My sinful self my only shame,
+My glory all the cross.</lines>
+		</verse>
+	</lyrics>
+</song>
