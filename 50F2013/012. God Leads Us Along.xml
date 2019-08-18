@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:36+04:00">
+	<properties>
+		<titles>
+			<title>God Leads Us Along</title>
+		</titles>
+		<authors>
+			<author>George A. Young (1903)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2137588</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="12"/>
+		</songbooks>
+		<comments>
+			<comment>John 10:3; Psalm 23:3</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In shady, green pastures, so rich and so sweet,
+God leads His dear children along;
+Where the water’s cool flow bathes the weary one’s feet,
+God leads His dear children along.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Some through the waters, some through the flood,
+Some through the fire, but all through the blood;
+Some through great sorrow, but God gives a song,
+In the night season and all the day long.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sometimes on the mount where the sun shines so bright,
+God leads His dear children along;
+Sometimes in the valley, in darkest of night,
+God leads His dear children along.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Though sorrows befall us and evils oppose,
+God leads His dear children along;
+Through grace we can conquer, defeat all our foes,
+God leads His dear children along.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Away from the mire, and away from the clay,
+God leads His dear children along;
+Away up in glory, eternity’s day,
+God leads His dear children along.</lines>
+		</verse>
+	</lyrics>
+</song>

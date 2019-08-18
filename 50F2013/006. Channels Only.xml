@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Channels Only</title>
+		</titles>
+		<authors>
+			<author>Mary E. Maxwell (pub.1900; alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4866479</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="6"/>
+		</songbooks>
+		<comments>
+			<comment>2 Timothy 2:21; 2 Corinthians 4:7; 2 Corinthians 5:20</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How I praise Thee, precious Savior,
+That Thy love laid hold of me;
+Thou hast saved and cleansed and filled me
+That I might Thy channel be.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Channels only, blessed Master,
+But with all Thy wondrous pow’r
+Flowing through us, Thou canst use us
+Every day and every hour.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Just a channel full of blessing,
+To the thirsty hearts around;
+To tell out Thy full salvation
+All Thy loving message sound.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Emptied that Thou shouldest fill me,
+A clean vessel in Thy hand;
+With no pow’r but as Thou givest
+Graciously with each command.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Witnessing Thy pow’r to save me,
+Setting free from self and sin;
+Thou who boughtest to possess me,
+In Thy fullness, Lord, come in.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus, fill now with Thy Spirit
+Hearts that full surrender know;
+That the streams of living water
+From our inner self may flow.</lines>
+		</verse>
+	</lyrics>
+</song>

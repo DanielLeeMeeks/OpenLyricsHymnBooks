@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:39+04:00">
+	<properties>
+		<titles>
+			<title>Nearer, My God, to Thee</title>
+		</titles>
+		<authors>
+			<author>Sarah F. Adams (pub.1841)</author>
+			<author>Edward H. Bickersteth, Jr.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>78835</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="31"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 42:2; Genesis 28:11-13</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Nearer, my God, to Thee, nearer to Thee!
+E’en though it be a cross that raiseth me,
+Still all my song shall be, nearer, my God, to Thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Nearer, my God, to Thee, nearer to Thee!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though like the wanderer, the sun gone down,
+Darkness be over me, my rest a stone;
+Yet in my dreams I’d be nearer, my God, to Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>There let the way appear, steps unto Heav’n;
+All that Thou sendest me, in mercy giv’n;
+Angels to beckon me nearer, my God, to Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then, with my waking thoughts bright with Thy praise,
+Out of my stony griefs Bethel I’ll raise;
+So by my woes to be nearer, my God, to Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Or, if on joyful wing cleaving the sky,
+Sun, moon, and stars forgot, upward I’ll fly,
+Still all my song shall be, nearer, my God, to Thee.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>There in my Father’s home, safe and at rest,
+There in my Savior’s love, perfectly blest;
+Age after age to be nearer, my God, to Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

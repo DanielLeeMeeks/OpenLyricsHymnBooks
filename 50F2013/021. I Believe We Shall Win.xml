@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:37+04:00">
+	<properties>
+		<titles>
+			<title>I Believe We Shall Win</title>
+		</titles>
+		<authors>
+			<author>William Hodgson (pub.1880, v. 4 pub. 1922)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="21"/>
+		</songbooks>
+		<comments>
+			<comment>1 John 5:4</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We’re a band that shall conquer the foe,
+If we fight in the strength of the King;
+With the sword of the Spirit we know
+We sinners to Jesus shall bring.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I believe we shall win,
+If we fight in the strength of the King;
+I believe we shall win,
+If we fight in the strength of the King.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We have conquered in times that are past,
+And have scattered the foe from the field;
+So we’ll fight for the King till the last,
+And the sword of the Spirit we’ll wield.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Our foe may be mighty and brave,
+And the fighting be hard and severe;
+But the King is the Mighty to Save,
+And in conflict He always is near.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Ever true in the army of God,
+We will fight in the name of the King;
+We shall win with the fire and the blood,
+And the world to His feet we shall bring.</lines>
+		</verse>
+	</lyrics>
+</song>

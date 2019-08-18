@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:38+04:00">
+	<properties>
+		<titles>
+			<title>My Anchor Holds</title>
+		</titles>
+		<authors>
+			<author>William C. Martin (1902)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6158927</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="30"/>
+		</songbooks>
+		<comments>
+			<comment>Hebrews 6:19</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tho’ the angry surges roll
+On my tempest-driven soul,
+I am peaceful, for I know,
+Wildly though the winds may blow,
+I’ve an anchor safe and sure,
+That can evermore endure.</lines>
+		</verse>
+		<verse name="c">
+		<lines>And it holds, my anchor holds:
+Blow your wildest, then, O gale,
+On my bark so small and frail;
+By His grace I shall not fail,
+For my anchor holds, my anchor holds.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Mighty tides about me sweep,
+Perils lurk within the deep,
+Angry clouds o’ershade the sky,
+And the tempest rises high;
+Still I stand the tempest’s shock,
+For my anchor grips the rock.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I can feel the anchor fast
+As I meet each sudden blast,
+And the cable, though unseen,
+Bears the heavy strain between;
+Thro’ the storm I safely ride,
+Till the turning of the tide.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Troubles almost ’whelm the soul;
+Griefs like billows o’er me roll;
+Tempters seek to lure astray;
+Storms obscure the light of day:
+But in Christ I can be bold,
+I’ve an anchor that shall hold.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:40+04:00">
+	<properties>
+		<titles>
+			<title>The Cleansing Wave</title>
+		</titles>
+		<authors>
+			<author>Phoebe W. Palmer (pub.1873)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2801010</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="40"/>
+		</songbooks>
+		<comments>
+			<comment>Zechariah 13:1; 1 Corinthians 2:2</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Oh, now I see the crimson wave!
+The fountain deep and wide;
+Jesus, my Lord, mighty to save,
+Points to His wounded side.</lines>
+		</verse>
+		<verse name="c">
+		<lines>The cleansing stream I see, I see!
+I plunge, and, oh, it cleanseth me!
+Oh, praise the Lord, it cleanseth me!
+It cleanseth me, yes, cleanseth me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I see the new creation rise,
+I hear the speaking blood;
+It speaks, polluted nature dies,
+Sinks ’neath the cleansing flood.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I rise to walk in Heav’n’s own light,
+Above the world and sin,
+With heart made pure and garments white,
+And Christ enthroned within.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Amazing grace! ’tis Heav’n below
+To feel the blood applied,
+And Jesus, only Jesus know,
+My Jesus crucified.</lines>
+		</verse>
+	</lyrics>
+</song>

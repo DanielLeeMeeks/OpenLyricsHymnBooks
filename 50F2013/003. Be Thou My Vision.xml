@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Be Thou My Vision</title>
+		</titles>
+		<authors>
+			<author>Dallan Forgaill</author>
+			<author>Mary E. Byrne (pub.1905)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7018310</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="3"/>
+		</songbooks>
+		<comments>
+			<comment>Ephesians 1:17-23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Be Thou my Vision, O Lord of my heart;
+Naught be all else to me, save that Thou art;
+Thou my best Thought, by day or by night,
+Waking or sleeping, Thy presence my light.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Be Thou my Wisdom, and Thou my true Word;
+I ever with Thee and Thou with me, Lord;
+Thou my great Father, I Thy true son;
+Thou in me dwelling, and I with Thee one.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Be Thou my battle Shield, Sword for the fight;
+Be Thou my Dignity, Thou my Delight;
+Thou my soul’s Shelter, Thou my high Tow’r:
+Raise Thou me heav’nward, O Pow’r of my pow’r.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Riches I heed not, nor man’s empty praise,
+Thou mine Inheritance, now and always:
+Thou and Thou only, first in my heart,
+High King of Heaven, my Treasure Thou art.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>High King of Heaven, my victory won,
+May I reach Heaven’s joys, O bright Heav’n’s Sun!
+Heart of my own heart, whate’er befall,
+Still be my Vision, O Ruler of all.</lines>
+		</verse>
+	</lyrics>
+</song>

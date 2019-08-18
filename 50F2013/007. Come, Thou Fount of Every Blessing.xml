@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Come, Thou Fount of Every Blessing</title>
+		</titles>
+		<authors>
+			<author>Robert Robinson (c.1758; alt)</author>
+			<author>Joel A. Erickson (2006)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>108389</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="7"/>
+		</songbooks>
+		<comments>
+			<comment>1 Samuel 7:12; Exodus 33:14; Psalm 16:11</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Thou Fount of every blessing,
+Tune my heart to sing Thy grace;
+Streams of mercy, never ceasing,
+Call for songs of loudest praise.
+Teach me some melodious sonnet,
+Sung by flaming tongues above;
+Praise the mount! I’m fixed upon it,
+Mount of Thy redeeming love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Here I’ll raise my Ebenezer;
+Hither by Thy help I’m come;
+And I hope, by Thy good pleasure,
+Safely to arrive at home.
+Jesus sought me when a stranger,
+Wand’ring from the fold of God;
+He, to rescue me from danger,
+Interposed His precious blood.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, to grace how great a debtor
+Daily I’m constrained to be!
+Let Thy goodness, like a fetter,
+Bind my feeble heart to Thee.
+“Prone to wander, Lord, I feel it,”
+Long I cried to be made pure;
+“Here’s my heart, O take and seal it,
+Work in me Thy double cure.”</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hallelujah! I have found it,
+The full cleansing I had craved,
+And to all the world I’ll sound it:
+They too may be wholly saved.
+I am sealed by Thy sweet Spirit,
+Prone no longer now to roam;
+And Thy voice, I’ll humbly hear it,
+For Thy presence is my home.</lines>
+		</verse>
+	</lyrics>
+</song>

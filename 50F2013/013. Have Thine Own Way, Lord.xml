@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:36+04:00">
+	<properties>
+		<titles>
+			<title>Have Thine Own Way, Lord</title>
+		</titles>
+		<authors>
+			<author>Adelaide A. Pollard (1907)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>28225</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="13"/>
+		</songbooks>
+		<comments>
+			<comment>Isaiah 64:8</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Have Thine own way, Lord! Have Thine own way!
+Thou art the Potter, I am the clay.
+Mold me and make me after Thy will,
+While I am waiting, yielded and still.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Have Thine own way, Lord! Have Thine own way!
+Search me and try me, Master, today!
+Whiter than snow, Lord, wash me just now,
+As in Thy presence humbly I bow.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Have Thine own way, Lord! Have Thine own way!
+Wounded and weary, help me, I pray!
+Power, all power, surely is Thine!
+Touch me and heal me, Savior divine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Have Thine own way, Lord! Have Thine own way!
+Hold o’er my being absolute sway!
+Fill with Thy Spirit till all shall see
+Christ only, always, living in me.</lines>
+		</verse>
+	</lyrics>
+</song>

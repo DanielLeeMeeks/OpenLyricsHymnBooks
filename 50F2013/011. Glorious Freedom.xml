@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:36+04:00">
+	<properties>
+		<titles>
+			<title>Glorious Freedom</title>
+		</titles>
+		<authors>
+			<author>Haldor Lillenas (1917)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3914607</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="11"/>
+		</songbooks>
+		<comments>
+			<comment>Romans 6:22; Romans 8:2</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Once I was bound by sin’s galling fetters,
+Chained like a slave, I struggled in vain;
+But I received a glorious freedom,
+When Jesus broke my fetters in twain.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Glorious freedom, wonderful freedom,
+No more in chains of sin I repine!
+Jesus the glorious Emancipator,
+Now and forever He shall be mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Freedom from all the carnal affections,
+Freedom from envy, hatred and strife;
+Freedom from vain and worldly ambitions,
+Freedom from all that saddened my life.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Freedom from pride and all sinful follies,
+Freedom from love and glitter of gold;
+Freedom from evil, temper, and anger,
+Glorious freedom, rapture untold.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>4.Freedom from fear with all of its torments,
+Freedom from care with all of its pain;
+Freedom in Christ, my blessed Redeemer,
+He who has rent my fetters in twain.</lines>
+		</verse>
+	</lyrics>
+</song>

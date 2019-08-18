@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:40+04:00">
+	<properties>
+		<titles>
+			<title>Victory All the Time</title>
+		</titles>
+		<authors>
+			<author>Leila N. Morris (1901)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6517386</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="45"/>
+		</songbooks>
+		<comments>
+			<comment>1 Corinthians 15:57; 2 Corinthians 2:14</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>They who know the Savior shall in Him be strong,
+Mighty in the conflict of the right ’gainst wrong;
+This the blessed promise given in God’s Word,
+Doing wondrous exploits, they who know the Lord.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Victory! victory! Blessed, blood-bought victory!
+Victory! victory! Vict’ry all the time!
+As Jehovah liveth, strength divine He giveth
+Unto those who know Him—vict’ry all the time!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In the midst of battle be thou not dismayed,
+Though the pow’rs of darkness ’gainst thee are arrayed;
+God, thy Strength, is with thee, causing thee to stand,
+Heaven’s allied armies wait at thy command.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Brave to bear life’s testing, strong the foe to meet,
+Walking like a hero midst the furnace heat,
+Doing wondrous exploits with the Spirit’s sword,
+Winning souls for Jesus, praise, oh, praise the Lord!</lines>
+		</verse>
+	</lyrics>
+</song>

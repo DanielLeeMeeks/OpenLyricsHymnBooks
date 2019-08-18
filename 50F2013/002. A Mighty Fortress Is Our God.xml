@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>A Mighty Fortress Is Our God</title>
+		</titles>
+		<authors>
+			<author>Martin Luther (ca.1529)</author>
+			<author>Frederick H. Hedge (1853)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2184098</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="2"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 46:1</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A mighty fortress is our God, a bulwark never failing;
+Our helper He, amid the flood of mortal ills prevailing:
+For still our ancient foe doth seek to work us woe;
+His craft and pow’r are great, and, armed with cruel hate,
+On earth is not his equal.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Did we in our own strength confide, our striving would be losing,
+Were not the right Man on our side, the Man of God’s own choosing:
+Dost ask who that may be? Christ Jesus, it is He;
+Lord Sabaoth, His Name, from age to age the same,
+And He must win the battle.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And though this world, with devils filled, should threaten to undo us,
+We will not fear, for God hath willed His truth to triumph through us;
+The Prince of Darkness grim, we tremble not for him;
+His rage we can endure, for lo, his doom is sure,
+One little word shall fell him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>That word above all earthly pow’rs, no thanks to them, abideth;
+The Spirit and the gifts are ours through Him Who with us sideth;
+Let goods and kindred go, this mortal life also;
+The body they may kill: God’s truth abideth still,
+His kingdom is forever.</lines>
+		</verse>
+	</lyrics>
+</song>

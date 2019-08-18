@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:38+04:00">
+	<properties>
+		<titles>
+			<title>It Pays to Serve Jesus</title>
+		</titles>
+		<authors>
+			<author>Frank C. Huston (1909)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="24"/>
+		</songbooks>
+		<comments>
+			<comment>John 12:26</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The service of Jesus true pleasure affords,
+In Him there is joy without an alloy;
+’Tis Heaven to trust Him and rest on His words;
+It pays to serve Jesus each day.</lines>
+		</verse>
+		<verse name="c">
+		<lines>It pays to serve Jesus, it pays every day,
+It pays every step of the way,
+Though the pathway to glory may sometimes be drear,
+You’ll be happy each step of the way.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It pays to serve Jesus whate’er may betide,
+It pays to be true whate’er you may do;
+’Tis riches of mercy in Him to abide;
+It pays to serve Jesus each day.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Though sometimes the shadows may hang o’er the way,
+And sorrows may come to beckon us home,
+Our precious Redeemer each toil will repay;
+It pays to serve Jesus each day.</lines>
+		</verse>
+	</lyrics>
+</song>

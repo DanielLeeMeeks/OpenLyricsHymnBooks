@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Break Thou the Bread of Life</title>
+		</titles>
+		<authors>
+			<author>Alexander Groves (pub.1913)</author>
+			<author>Mary A. Lathbury (1877)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6348201</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="4"/>
+		</songbooks>
+		<comments>
+			<comment>John 6:35</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Break Thou the bread of life, dear Lord, to me,
+As Thou didst break the loaves beside the sea;
+Beyond the sacred page I seek Thee, Lord;
+My spirit pants for Thee, O living Word!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bless Thou the truth, dear Lord, to me, to me,
+As Thou didst bless the bread by Galilee;
+Then shall all bondage cease, all fetters fall;
+And I shall find my peace, my all in all.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thou art the bread of life, O Lord, to me,
+Thy holy Word the truth that saveth me;
+Give me to eat and live with Thee above;
+Teach me to love Thy truth, for Thou art love.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, send Thy Spirit, Lord, now unto me,
+That He may touch my eyes, and make me see:
+Show me the truth concealed within Thy Word,
+And in Thy Book revealed I see the Lord.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,78 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:37+04:00">
+	<properties>
+		<titles>
+			<title>He'll Take You Through</title>
+		</titles>
+		<authors>
+			<author>James V. Reid (1911)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>321276</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="17"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 66:12; Zechariah 13:9</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In the midst of joy and blessing,
+And when all the way seems bright,
+Clouds may come which seem distressing,
+And they may obscure the light;
+Though you weep at night with sorrow,
+And the gloom oppresses you,
+Joy is sure to come tomorrow,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He’ll take you through, however you’re tried;
+His tender care is never denied;
+Then always trust His promise so true,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It may seem God does not hear you,
+And withholds the gift you seek,
+Then just learn to trust His silence
+When the Father does not speak;
+Let your heart new courage borrow,
+For His promises are true,
+He’ll reward your faith tomorrow,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Think not strange of fiery trial,
+Which is sent your faith to try,
+Though it mean great self-denial
+To live for Him, or to die;
+Count it joy to share Christ’s sorrow,
+Gladness then will come to you,
+For there’s sure a bright tomorrow,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When affliction is upon you,
+You may say, as Job of old,
+“When He’s tested, when He’s tried me,
+I shall then come forth as gold”;
+Then take courage in your sorrow,
+Cease your sighs, let tears be few,
+Just remember on the morrow,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then, O brother, never waver,
+Even though in prison cast,
+Though you lose all worldly favor,
+You will gain a crown at last;
+And when trials all have ended,
+If to Jesus you’ve been true,
+Then the pearly gates will open,
+He’ll take you through, He’ll take you through.</lines>
+		</verse>
+	</lyrics>
+</song>

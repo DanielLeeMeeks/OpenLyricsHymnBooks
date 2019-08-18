@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:39+04:00">
+	<properties>
+		<titles>
+			<title>Satisfied</title>
+		</titles>
+		<authors>
+			<author>Clara T. Williams (1875)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3861097</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="35"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 90:14; Psalm 107:9</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All my life I had a longing
+For a drink from some clear spring,
+That I hoped would quench the burning
+Of the thirst I felt within.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hallelujah! I have found Him
+Whom my soul so long has craved!
+Jesus satisfies my longings,
+Through His blood I now am saved.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Feeding on the husks around me,
+Till my strength was almost gone,
+Longed my soul for something better,
+Only still to hunger on.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Poor I was, and sought for riches,
+Something that would satisfy,
+But the dust I gathered round me
+Only mocked my soul’s sad cry.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Well of water, ever springing,
+Bread of life so rich and free,
+Untold wealth that never faileth,
+My Redeemer is to me.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:36+04:00">
+	<properties>
+		<titles>
+			<title>Day by Day</title>
+		</titles>
+		<authors>
+			<author>Karolina W. Sandell-Berg (1865)</author>
+			<author>Andrew L. Skoog</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>104479</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="9"/>
+		</songbooks>
+		<comments>
+			<comment>2 Corinthians 4:15-16</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Day by day, and with each passing moment,
+Strength I find, to meet my trials here;
+Trusting in my Father’s wise bestowment,
+I’ve no cause for worry or for fear.
+He Whose heart is kind beyond all measure
+Gives unto each day what He deems best—
+Lovingly, its part of pain and pleasure,
+Mingling toil with peace and rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Every day, the Lord Himself is near me
+With a special mercy for each hour;
+All my cares He fain would bear, and cheer me,
+He Whose Name is Counselor and Pow’r.
+The protection of His child and treasure
+Is a charge that on Himself He laid;
+“As thy days, thy strength shall be in measure,”
+This the pledge to me He made.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Help me then in every tribulation
+So to trust Thy promises, O Lord,
+That I lose not faith’s sweet consolation
+Offered me within Thy holy Word.
+Help me, Lord, when toil and trouble meeting,
+E’er to take, as from a father’s hand,
+One by one, the days, the moments fleeting,
+Till I reach the promised land.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Count Your Blessings</title>
+		</titles>
+		<authors>
+			<author>Johnson Oatman, Jr. (pub.1897)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>40416</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="8"/>
+		</songbooks>
+		<comments>
+			<comment>1 Thessalonians 5:18; Ephesians 1:3</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When upon life’s billows you are tempest-tossed,
+When you are discouraged, thinking all is lost,
+Count your many blessings, name them one by one,
+And it will surprise you what the Lord hath done.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Count your blessings, name them one by one,
+Count your blessings, see what God hath done!
+Count your blessings, name them one by one,
+Count your many blessings, see what God hath done.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Are you ever burdened with a load of care?
+Does the cross seem heavy you are called to bear?
+Count your many blessings, every doubt will fly,
+And you will keep singing as the days go by.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When you look at others with their lands and gold,
+Think that Christ has promised you His wealth untold;
+Count your many blessings—money cannot buy
+Your reward in heaven, nor your home on high.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>So, amid the conflict whether great or small,
+Do not be discouraged, God is over all;
+Count your many blessings, angels will attend,
+Help and comfort give you to your journey’s end.</lines>
+		</verse>
+	</lyrics>
+</song>

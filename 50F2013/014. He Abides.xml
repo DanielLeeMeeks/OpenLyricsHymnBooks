@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:36+04:00">
+	<properties>
+		<titles>
+			<title>He Abides</title>
+		</titles>
+		<authors>
+			<author>Herbert Buffum (1922)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4035389</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="14"/>
+		</songbooks>
+		<comments>
+			<comment>John 14:16</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I’m rejoicing night and day
+As I walk the narrow way,
+For the hand of God in all my life I see;
+And the reason of my bliss,
+Yes, the secret all is this:
+That the Comforter abides with me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He abides, He abides;
+Hallelujah, He abides with me!
+I’m rejoicing night and day
+As I walk the narrow way,
+For the Comforter abides with me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Once my heart was full of sin,
+Once I had no peace within,
+Till I heard how Jesus died upon the tree;
+Then I fell down at His feet,
+And there came a peace so sweet;
+Now the Comforter abides with me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He is with me everywhere,
+And He knows my every care;
+I’m as happy as a bird and just as free;
+For the Spirit has control;
+Jesus satisfies my soul,
+Since the Comforter abides with me.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There’s no thirsting for the things
+Of the world—they’ve taken wings;
+Long ago I gave them up, and instantly
+All my night was turned to day,
+All my burdens rolled away;
+Now the Comforter abides with me.</lines>
+		</verse>
+	</lyrics>
+</song>

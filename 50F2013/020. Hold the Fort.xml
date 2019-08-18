@@ -1,0 +1,42 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:37+04:00">
+	<properties>
+		<titles>
+			<title>Hold the Fort</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss (1870)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>317709</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="20"/>
+		</songbooks>
+		<comments>
+			<comment>Revelation 2:25; Revelation 3:11</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ho, my comrades, see the signal, waving in the sky!
+Reinforcements now appearing, victory is nigh.</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Hold the fort, for I am coming,” Jesus signals still;
+Wave the answer back to Heaven, “By Thy grace we will.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>See the mighty host advancing, Satan leading on;
+Mighty ones around us falling, courage almost gone!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>See the glorious banner waving! Hear the trumpet blow!
+In our Leader’s Name we triumph over every foe.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fierce and long the battle rages, but our help is near;
+Onward comes our great Commander, cheer, my comrades, cheer!</lines>
+		</verse>
+	</lyrics>
+</song>

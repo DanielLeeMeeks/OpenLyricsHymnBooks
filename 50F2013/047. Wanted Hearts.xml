@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:41+04:00">
+	<properties>
+		<titles>
+			<title>Wanted Hearts</title>
+		</titles>
+		<authors>
+			<author>John Lawley</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4553328</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="47"/>
+		</songbooks>
+		<comments>
+			<comment>Luke 3:16; Romans 12:1</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Wanted: hearts baptized with fire,
+Hearts completely cleansed from sin;
+Hearts that will go to the mire,
+Hearts that dare do aught for Him;
+Hearts that will be firmer, braver,
+Hearts like heroes gone before;
+Hearts enjoying God’s full favor,
+Hearts to love Him more and more.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hearts to hoist the colors bravely,
+Hearts to share the hardest fight;
+Hearts that know their duty clearly,
+Hearts to dare and do the right.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Wanted: hearts that beat true ever,
+Hearts that can for others feel;
+Hearts that prove the traitor never,
+Hearts that will the wounded heal;
+Hearts o’erflowing with compassion,
+Hearts renewed by grace divine;
+Hearts aglow with full salvation,
+Hearts to say: “Thy will, not mine!”</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Wanted: hearts to love the masses,
+Hearts to help Him seek the lost;
+Hearts to help Him save all classes,
+Hearts to help Him save the worst;
+Hearts to share with Him the weeping,
+Hearts to bear with Him the cross;
+Hearts to help Him with the reaping,
+Hearts to trust through gain or loss.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Wanted: hearts like Thine, Lord, holy,
+Hearts that in Thine image shine;
+Hearts that turn from sin and folly,
+Hearts to know no way but Thine;
+Hearts that unto Thee are given,
+Hearts possessed with dying love;
+Hearts on earth but filled with Heaven,
+Hearts inspired from above.</lines>
+		</verse>
+	</lyrics>
+</song>

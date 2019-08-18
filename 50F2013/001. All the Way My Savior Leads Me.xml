@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:34+04:00">
+	<properties>
+		<titles>
+			<title>All the Way My Savior Leads Me</title>
+		</titles>
+		<authors>
+			<author>Frances J. Crosby (pub.1875)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3751231</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="1"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 23:3; Revelation 7:17</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All the way my Savior leads me,
+What have I to ask beside?
+Can I doubt His tender mercy,
+Who through life has been my Guide?
+Heav’nly peace, divinest comfort,
+Here by faith in Him to dwell!
+For I know, whate’er befall me,
+Jesus doeth all things well;
+For I know, whate’er befall me,
+Jesus doeth all things well.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All the way my Savior leads me,
+Cheers each winding path I tread,
+Gives me grace for every trial,
+Feeds me with the living Bread.
+Though my weary steps may falter
+And my soul athirst may be,
+Gushing from the Rock before me,
+Lo! A spring of joy I see;
+Gushing from the Rock before me,
+Lo! A spring of joy I see.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>All the way my Savior leads me,
+Oh, the fullness of His love!
+Perfect rest to me is promised
+In my Father’s house above.
+When my spirit, clothed immortal,
+Wings its flight to realms of day
+This my song through endless ages:
+Jesus led me all the way;
+This my song through endless ages:
+Jesus led me all the way.</lines>
+		</verse>
+	</lyrics>
+</song>

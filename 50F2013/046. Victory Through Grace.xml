@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:41+04:00">
+	<properties>
+		<titles>
+			<title>Victory Through Grace</title>
+		</titles>
+		<authors>
+			<author>Frances J. Crosby (pub.1890)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="46"/>
+		</songbooks>
+		<comments>
+			<comment>Ecclesiastes 9:11; Revelation 6:2; Revelation 19:11-16</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Conquering now and still to conquer, rideth a King in His might;
+Leading the host of all the faithful into the midst of the fight;
+See them with courage advancing, clad in their brilliant array,
+Shouting the Name of their Leader, hear them exultingly say:</lines>
+		</verse>
+		<verse name="c">
+		<lines>Not to the strong is the battle, not to the swift is the race,
+Yet to the true and the faithful vict’ry is promised through grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Conquering now and still to conquer, who is this wonderful King?
+Whence are the armies which He leadeth, while of His glory they sing?
+He is our Lord and Redeemer, Savior and Monarch divine;
+They are the stars that forever bright in His kingdom shall shine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Conquering now and still to conquer, Jesus, Thou Ruler of all,
+Thrones and their scepters all shall perish, crowns and their splendor shall fall,
+Yet shall the armies Thou leadest, faithful and true to the last,
+Find in Thy mansions eternal rest, when their warfare is past.</lines>
+		</verse>
+	</lyrics>
+</song>

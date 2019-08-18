@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:38+04:00">
+	<properties>
+		<titles>
+			<title>Keep on the Firing Line</title>
+		</titles>
+		<authors>
+			<author>Howard Haney (bef.1927)</author>
+		</authors>
+		<copyright>Copyright Status Uncertain.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="25"/>
+		</songbooks>
+		<comments>
+			<comment>Ephesians 6:13</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>If you’re in the battle for the Lord and right,
+Keep on the firing line;
+If you win, my brother, surely you must fight,
+Keep on the firing line;
+There are many dangers that we all must face,
+If we die still fighting it is no disgrace;
+Cowards in the service will not find a place,
+So keep on the firing line.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, you must fight, be brave against all evil,
+Never run, nor even lag behind;
+If you would win for God and the right,
+Just keep on the firing line.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God will only use the soldier He can trust,
+Keep on the firing line;
+If you’ll wear a crown then bear the cross you must,
+Keep on the firing line.
+Life is but to labor for the Master dear,
+Help to banish evil and to spread good cheer;
+Great you’ll be rewarded for your service here,
+So keep on the firing line.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When we get to heaven, brother, we’ll be glad,
+Keep on the firing line;
+How we’ll praise the Savior for the call we had,
+Keep on the firing line;
+When we see the souls that we have helped to win,
+Leading them to Jesus, from the paths of sin,
+With a shout of welcome, we will all march in,
+So keep on the firing line.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:39+04:00">
+	<properties>
+		<titles>
+			<title>Oh! to Be Like Thee</title>
+		</titles>
+		<authors>
+			<author>Thomas O. Chisholm (pub.1897)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5033225</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="33"/>
+		</songbooks>
+		<comments>
+			<comment>2 Corinthians 3:18; 1 John 4:17</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Oh! to be like Thee, blessed Redeemer,
+This is my constant longing and prayer;
+Gladly I’ll forfeit all of earth’s treasures,
+Jesus, Thy perfect likeness to wear.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh! to be like Thee, oh! to be like Thee,
+Blessed Redeemer, pure as Thou art;
+Come in Thy sweetness, come in Thy fullness;
+Stamp Thine own image deep on my heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh! to be like Thee, full of compassion,
+Loving, forgiving, tender and kind,
+Helping the helpless, cheering the fainting,
+Seeking the wand’ring sinner to find.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh! to be like Thee, lowly in spirit,
+Holy and harmless, patient and brave;
+Meekly enduring cruel reproaches,
+Willing to suffer, others to save.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh! to be like Thee, Lord, I am coming,
+Now to receive th’ anointing divine;
+All that I am and have I am bringing,
+Lord, from this moment all shall be Thine.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Oh! to be like Thee, while I am pleading,
+Pour out Thy Spirit, fill with Thy love,
+Make me a temple meet for Thy dwelling,
+Fit me for life and Heaven above.</lines>
+		</verse>
+	</lyrics>
+</song>

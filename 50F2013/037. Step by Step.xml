@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:39+04:00">
+	<properties>
+		<titles>
+			<title>Step by Step</title>
+		</titles>
+		<authors>
+			<author>Lizze DeArmond (pub.1899)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="37"/>
+		</songbooks>
+		<comments>
+			<comment>1 Peter 2:21</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Step by step, every day,
+He will lead us all the way;
+Nothing can our hearts dismay,
+While we follow, follow Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>One step at a time, you see,
+Is enough for you, is enough for me;
+So we’ll follow faithfully,
+Follow, follow Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Step by step, all is right,
+Though we walk by faith, not sight;
+E’en the darkness turns to light,
+While we follow, follow Jesus.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Step by step, some glad day,
+Homeward we will wend our way;
+Never can we go astray,
+While we follow, follow Jesus.</lines>
+		</verse>
+	</lyrics>
+</song>

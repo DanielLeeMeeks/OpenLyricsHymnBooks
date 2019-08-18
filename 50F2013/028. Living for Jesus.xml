@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:38+04:00">
+	<properties>
+		<titles>
+			<title>Living for Jesus</title>
+		</titles>
+		<authors>
+			<author>Thomas O. Chisholm (1917)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>20687</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="28"/>
+		</songbooks>
+		<comments>
+			<comment>Colossians 1:10; Galatians 2:20</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Living for Jesus, a life that is true,
+Striving to please Him in all that I do;
+Yielding allegiance, glad-hearted and free,
+This is the pathway of blessing for me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>O Jesus, Lord and Savior, I give myself to Thee,
+For Thou, in Thy atonement, didst give Thyself for me;
+I own no other Master, my heart shall be Thy throne;
+My life I give, henceforth to live, O Christ, for Thee alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Living for Jesus Who died in my place,
+Bearing on Calv’ry my sin and disgrace;
+Such love constrains me to answer His call,
+Follow His leading and give Him my all.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Living for Jesus, wherever I am,
+Doing each duty in His holy Name;
+Willing to suffer affliction and loss,
+Deeming each trial a part of my cross.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Living for Jesus through earth’s little while,
+My dearest treasure, the light of His smile;
+Seeking the lost ones He died to redeem,
+Bringing the weary to find rest in Him.</lines>
+		</verse>
+	</lyrics>
+</song>

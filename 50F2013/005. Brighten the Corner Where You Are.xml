@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:35+04:00">
+	<properties>
+		<titles>
+			<title>Brighten the Corner Where You Are</title>
+		</titles>
+		<authors>
+			<author>Ina D. Ogdon (pub.1913)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>93999</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="5"/>
+		</songbooks>
+		<comments>
+			<comment>Matthew 5:14-16</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Do not wait until some deed of greatness you may do,
+Do not wait to shed your light afar;
+To the many duties ever near you now be true,
+Brighten the corner where you are.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Brighten the corner where you are!
+Brighten the corner where you are!
+Someone far from harbor you may guide across the bar;
+Brighten the corner where you are!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Just above are clouded skies that you may help to clear,
+Let not narrow self your way debar;
+Though into one heart alone may fall your song of cheer,
+Brighten the corner where you are.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Here for all your talent you may surely find a need,
+Here reflect the bright and Morning Star;
+Even from your humble hand the Bread of Life may feed,
+Brighten the corner where you are.</lines>
+		</verse>
+	</lyrics>
+</song>

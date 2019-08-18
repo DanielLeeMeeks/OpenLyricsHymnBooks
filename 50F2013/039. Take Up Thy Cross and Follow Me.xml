@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T21:40+04:00">
+	<properties>
+		<titles>
+			<title>Take Up Thy Cross and Follow Me</title>
+		</titles>
+		<authors>
+			<author>Alfred H. Ackley (1922)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>181021</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Favorites (2013)" entry="39"/>
+		</songbooks>
+		<comments>
+			<comment>Luke 9:23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I walked one day along a country road,
+And there a stranger journeyed, too,
+Bent low beneath the burden of His load:
+It was a cross, a cross I knew.</lines>
+		</verse>
+		<verse name="c">
+		<lines>“Take up thy cross and follow Me,”
+I hear the blessed Savior call;
+How can I make a lesser sacrifice,
+When Jesus gave His all?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I cried, “Lord Jesus,” and He spoke my name;
+I saw His hands all bruised and torn;
+I stooped to kiss away the marks of shame,
+The shame for me that He had borne.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>“Oh, let me bear Thy cross, dear Lord,” I cried,
+And, lo, a cross for me appeared,
+The one, forgotten, I had cast aside,
+The one, so long, that I had feared.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My cross I’ll carry till the crown appears—
+The way I journey soon will end—
+Where God Himself shall wipe away all tears,
+And friend hold fellowship with friend.</lines>
+		</verse>
+	</lyrics>
+</song>
