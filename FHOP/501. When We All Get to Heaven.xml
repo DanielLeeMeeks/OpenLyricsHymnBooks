@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:46+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:07+04:00">
 	<properties>
 		<titles>
 			<title>When We All Get to Heaven</title>
@@ -7,12 +7,12 @@
 			<author>Eliza E. Hewitt</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>4720027</ccliNo>
+		<ccliNo>7048632</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Faithfulness: of Believer</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="501"/>
+			<songbook name="Favorite Hymns of Praise" entry="501"/>
 		</songbooks>
 	</properties>
 	<lyrics>

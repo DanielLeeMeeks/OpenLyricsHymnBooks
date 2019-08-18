@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:44+04:00">
 	<properties>
 		<titles>
 			<title>When I See the Blood</title>
@@ -7,12 +7,12 @@
 			<author>John Foote</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>124318</ccliNo>
+		<ccliNo>27893</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Blood</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="331"/>
+			<songbook name="Favorite Hymns of Praise" entry="331"/>
 		</songbooks>
 	</properties>
 	<lyrics>

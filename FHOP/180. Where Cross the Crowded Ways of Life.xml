@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:04+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:31+04:00">
 	<properties>
 		<titles>
 			<title>Where Cross the Crowded Ways of Life</title>
@@ -7,16 +7,13 @@
 			<author>Frank M. North</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>103250</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Missionary</theme><theme> National</theme><theme> Social Righteousness</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="180"/>
+			<songbook name="Favorite Hymns of Praise" entry="180"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

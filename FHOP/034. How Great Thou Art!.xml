@@ -1,17 +1,19 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:54+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:06+04:00">
 	<properties>
 		<titles>
-			<title>Come, Holy Spirit</title>
+			<title>How Great Thou Art!</title>
 		</titles>
 		<authors>
-			<author>Lily Hedman Wells</author>
+			<author>Stuart K. Hine</author>
+			<author>Carl Boberg</author>
 		</authors>
-		<copyright>© 1953, Ren. 1981 Hope Publishing Co.</copyright>
-		<ccliNo>24133</ccliNo>
+		<copyright>© 1949 and 1953 by The Stuart Hine Trust. All rights in the U.S.A. except print rights administered by EMI CMG. U.S.A. print rights administered by Hope Publishing Company</copyright>
+		<ccliNo>14181</ccliNo>
 		<released></released>
 		<key></key>
+		<themes><theme>Christ: Resurrection</theme><theme> Christ: Return</theme><theme> Second Coming</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise" entry="406"/>
+			<songbook name="Favorite Hymns of Praise" entry="34"/>
 		</songbooks>
 	</properties>
 	<lyrics>To view this media, please accept the license agreement:

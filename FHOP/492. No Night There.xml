@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:45+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:06+04:00">
 	<properties>
 		<titles>
 			<title>No Night There</title>
@@ -7,11 +7,11 @@
 			<author>John R. Clements</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>4855507</ccliNo>
+		<ccliNo>7050367</ccliNo>
 		<released></released>
 		<key></key>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="492"/>
+			<songbook name="Favorite Hymns of Praise" entry="492"/>
 		</songbooks>
 	</properties>
 	<lyrics>

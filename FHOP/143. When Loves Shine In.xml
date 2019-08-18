@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:59+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:26+04:00">
 	<properties>
 		<titles>
 			<title>When Loves Shine In</title>
@@ -7,15 +7,12 @@
 			<author>Mrs. Frank A. Breck</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>2695446</ccliNo>
 		<released></released>
 		<key></key>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="143"/>
+			<songbook name="Favorite Hymns of Praise" entry="143"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

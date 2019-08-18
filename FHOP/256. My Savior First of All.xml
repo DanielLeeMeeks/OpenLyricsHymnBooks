@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:14+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:41+04:00">
 	<properties>
 		<titles>
 			<title>My Savior First of All</title>
@@ -7,16 +7,13 @@
 			<author>Fanny J. Crosby</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>4322872</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Character</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="256"/>
+			<songbook name="Favorite Hymns of Praise" entry="256"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

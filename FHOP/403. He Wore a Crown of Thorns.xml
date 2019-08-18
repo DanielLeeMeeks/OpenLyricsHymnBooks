@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:54+04:00">
 	<properties>
 		<titles>
 			<title>He Wore a Crown of Thorns</title>
@@ -7,16 +7,13 @@
 			<author>William M. Runyan</author>
 		</authors>
 		<copyright>© 1927, Ren. 1955 Hope Publishing Co.</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>181124</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Suffering</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="403"/>
+			<songbook name="Favorite Hymns of Praise" entry="403"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>To view this media, please accept the license agreement:
 Hope Publishing: one copy

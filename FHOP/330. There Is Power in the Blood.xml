@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:24+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:43+04:00">
 	<properties>
 		<titles>
 			<title>There Is Power in the Blood</title>
@@ -7,12 +7,12 @@
 			<author>Lewis E. Jones</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>232042</ccliNo>
+		<ccliNo>21370</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Blood</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="330"/>
+			<songbook name="Favorite Hymns of Praise" entry="330"/>
 		</songbooks>
 	</properties>
 	<lyrics>

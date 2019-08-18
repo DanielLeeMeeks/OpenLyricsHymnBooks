@@ -1,16 +1,16 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:49+04:00">
 	<properties>
 		<titles>
 			<title>The Lord's My Shepherd</title>
 		</titles>
 		<authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>165274</ccliNo>
+		<ccliNo>3196731</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Comforter</theme><theme> Christ: Shepherd</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="373"/>
+			<songbook name="Favorite Hymns of Praise" entry="373"/>
 		</songbooks>
 		<comments>
 			<comment>Psalm 23</comment>

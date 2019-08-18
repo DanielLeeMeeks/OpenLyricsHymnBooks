@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:00+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:27+04:00">
 	<properties>
 		<titles>
 			<title>Why Do I Sing about Jesus?</title>
@@ -7,12 +7,12 @@
 			<author>Albert A. Ketchum</author>
 		</authors>
 		<copyright>© 1923, Ren. 1951 Hope Publishing Co.</copyright>
-		<ccliNo>6460158</ccliNo>
+		<ccliNo>58848</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Character</theme><theme> Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="149"/>
+			<songbook name="Favorite Hymns of Praise" entry="149"/>
 		</songbooks>
 		<comments>
 			<comment>Now Public Domain.</comment>

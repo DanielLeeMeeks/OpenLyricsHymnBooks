@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:33+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:53+04:00">
 	<properties>
 		<titles>
 			<title>The Way of the Cross Leads Home</title>
@@ -7,16 +7,15 @@
 			<author>Jessie B. Pounds</author>
 		</authors>
 		<copyright>Copyright 1935, renewal extended. Rodeheaver Co., owner. Used by permission</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>3422481</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Cross: of Christ</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="402"/>
+			<songbook name="Favorite Hymns of Praise" entry="402"/>
 		</songbooks>
 		<comments>
 			<comment>Could not scrap this song.</comment>
-			<comment>Could not find CCLI number.</comment>
 		</comments>
 	</properties>
 	<lyrics>

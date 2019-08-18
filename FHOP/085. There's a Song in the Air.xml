@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:52+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:15+04:00">
 	<properties>
 		<titles>
 			<title>There's a Song in the Air</title>
@@ -7,12 +7,12 @@
 			<author>Josiah G. Holland</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>5581708</ccliNo>
+		<ccliNo>4824703</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Advent and Birth</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="85"/>
+			<songbook name="Favorite Hymns of Praise" entry="85"/>
 		</songbooks>
 	</properties>
 	<lyrics>

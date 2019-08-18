@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:46+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:09+04:00">
 	<properties>
 		<titles>
 			<title>Safe in the Arms of Jesus</title>
@@ -7,16 +7,13 @@
 			<author>Fanny J. Crosby</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>4308872</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Refuge</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="44"/>
+			<songbook name="Favorite Hymns of Praise" entry="44"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

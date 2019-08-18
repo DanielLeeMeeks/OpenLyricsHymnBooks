@@ -3,11 +3,8 @@
 3. Breathe on Me, Breath of God (Edwin Hatch)
 4. Come, Thou Almighty King (Unknown)
 5. Fairest Lord Jesus (Joseph A. Seiss)
-	Could not find CCLI number.
 6. O, for a Faith that Will Not Shrink (William H. Bathurst)
-	Could not find CCLI number.
 7. Rejoice, Ye Pure in Heart (Edward H. Plumptre)
-	Could not find CCLI number.
 8. All Hail the Power of Jesus' Name (Edward Perronet, John Rippon)
 9. All Hail the Power of Jesus' Name (Edward Perronet)
 10. All Hail the Power of Jesus' Name (John Rippon, Edward Perronet)
@@ -19,7 +16,25 @@
 	Psalm 104
 14. Praise Ye the Lord, the Almighty (Joachim Neander, Catherine Winkworth)
 15. O Thou God of My Salvation (Thomas Olivers)
+16. Blessed Be the Name (W. H. Clark, Ralph E. Hudson)
+1. When Morning Gilds the Skies (Edward Caswall)
+2. Holy, Holy, Holy (Reginald Heber)
+3. Breathe on Me, Breath of God (Edwin Hatch)
+4. Come, Thou Almighty King (Unknown)
+5. Fairest Lord Jesus (Joseph A. Seiss)
+6. O, for a Faith that Will Not Shrink (William H. Bathurst)
+7. Rejoice, Ye Pure in Heart (Edward H. Plumptre)
+8. All Hail the Power of Jesus' Name (Edward Perronet, John Rippon)
+9. All Hail the Power of Jesus' Name (Edward Perronet)
+10. All Hail the Power of Jesus' Name (John Rippon, Edward Perronet)
+11. Still, Still with Thee (Harriet Beecher Stowe)
 	Could not find CCLI number.
+12. All People That on Earth Do Dwell (William Kethe)
+	Psalm 100
+13. O Worship the King (Robert Grant)
+	Psalm 104
+14. Praise Ye the Lord, the Almighty (Joachim Neander, Catherine Winkworth)
+15. O Thou God of My Salvation (Thomas Olivers)
 16. Blessed Be the Name (W. H. Clark, Ralph E. Hudson)
 17. Come, Thou Fount (Robert Robinson)
 18. O to Be Like Thee! (Thomas O. Chisholm)
@@ -34,67 +49,51 @@
 27. Heavenly Sunlight (H. J. Zelley)
 	Could not find CCLI number.
 28. Ring the Bells of Heaven (William O. Cushing)
-	Could not find CCLI number.
 29. Since Jesus Came into My Heart (Rufus H. McDaniel)
 	Could not scrap this song.
 30. Sunlight (Judson W. van DeVenter)
-	Could not find CCLI number.
 31. Sunshine in the Soul (Eliza E. Hewitt)
-	Could not find CCLI number.
 32. I Will Praise Him (Mrs. M. J. Harris)
 	Could not find CCLI number.
 33. Nailed to the Cross (Carrie E. Breck)
-	Could not find CCLI number.
+34. How Great Thou Art! (Stuart K. Hine, Carl Boberg)
 35. He Is Able to Deliver Thee (William A. Ogden)
 	Could not find CCLI number.
 36. Jesus Is the Sweetest Name I Know (Lela Long)
 	Could not find CCLI number.
 37. My Hope Is in the Lord (Norman J. Clayton)
 	Could not scrap this song.
-	Could not find CCLI number.
 38. How Firm a Foundation (Unknown)
 39. How Firm a Foundation (Unknown)
 40. Moment by Moment (Daniel W. Whittle)
-	Could not find CCLI number.
 41. Precious Hiding Place (Avis B. Christiansen)
 	Could not find CCLI number.
 42. Constantly Abiding (Mrs. Will L. Murphy)
 	Could not find CCLI number.
 43. My Jesus, as Thou Wilt! (Benjamin Schmolck, Jane L. Borthwick)
 44. Safe in the Arms of Jesus (Fanny J. Crosby)
-	Could not find CCLI number.
 45. Love Divine, All Loves Excelling (Charles Wesley)
 46. Holy Spirit, Faithful Guide (Marcus M. Wells)
-	Could not find CCLI number.
 47. Holy Ghost, with Light Divine (Andrew Reed)
 48. Fill Me Now (Elwood H. Stokes)
 49. The Comforter Has Come (Frank Bottome)
 	Could not find CCLI number.
 50. Spirit of God, Descend upon My Heart (George Croly)
 51. Pass Me Not, O Gentle Savior (Fanny J. Crosby)
-	Could not find CCLI number.
 52. I Am Coming, Lord (Lewis Hartsough)
-	Could not find CCLI number.
 53. Look to the Lamb of God (H. G. Jackson)
 	Could not find CCLI number.
 54. I Heard the Voice of Jesus Say (Horatius Bonar)
 55. Let Jesus Come into Your Heart (Leila N. Morris)
-	Could not find CCLI number.
 56. O Jesus, Thou Art Standing (William W. How)
-	Could not find CCLI number.
 57. Art Thou Weary, Art Thou Languid? (John M. Neale)
 	Could not find CCLI number.
 58. I Gave My Life for Thee (Frances R. Havergal)
-	Could not find CCLI number.
 59. Jesus Is Calling (Fanny J. Crosby)
-	Could not find CCLI number.
 60. Is My Name Written There? (Mary A. Kidder)
-	Could not find CCLI number.
 61. Why Do You Wait? (George F. Root)
-	Could not find CCLI number.
 62. Just as I Am (Charlotte Elliott)
 63. Lord, I'm Coming Home (William J. Kirkpatrick)
-	Could not find CCLI number.
 64. Springs of Living Water (John W. Peterson)
 	Could not scrap this song.
 65. All That Thrills My Soul (Thoro Harris)
@@ -103,16 +102,13 @@
 	Could not find CCLI number.
 67. Ye Servants of God, Your Master Proclaim (Charles Wesley)
 68. Let Him In (Jonathan B. Atchinson)
-	Could not find CCLI number.
 69. You May Have the Joy-bells (J. Edward Ruark)
 	Could not find CCLI number.
 70. There's a New Song in My Heart (John W. Peterson)
 	Could not scrap this song.
 71. Some Day! (Jessie B. Pounds, Avis B. Christiansen)
-	Could not find CCLI number.
 72. Safely Through Another Week (John Newton)
 73. It Is Well with My Soul (Horatio G. Spafford)
-	Could not find CCLI number.
 74. O Love That Wilt Not Let Me Go (George Matheson)
 75. Jesus Shall Reign (Isaac Watts)
 76. Lead On, O King Eternal (Ermest W Shurtleff)
@@ -131,10 +127,8 @@
 88. Joy to the World! (Isaac Watts)
 	Psalm 98
 89. Thou Didst Leave Thy Throne (Emily E. S. Elliott)
-	Could not find CCLI number.
 90. The First Noel ()
 91. I Heard the Bells on Christmas Day (Henry W. Longfellow)
-	Could not find CCLI number.
 92. Angels, from the Realms of Glory (James Montgomery)
 93. Away in a Manger (Martin Luther)
 94. Alas! And Did My Savior Bleed? (Isaac Watts)
@@ -147,61 +141,46 @@
 	Psalm 46
 	Could not find CCLI number.
 99. Sweet Peace, the Gift of God's Love (Peter P. Bilhorn)
-	Could not find CCLI number.
 100. Wonderful Peace (W. D. Cornell (alt. ))
-	Could not find CCLI number.
 101. Wonderful Peace (Haldor Lillenas)
 102. Master, the Tempest Is Raging (Mary A. Baker)
 103. Like a River Glorious (Frances R. Havergal)
-	Could not find CCLI number.
 104. From Every Stormy Wind (Hugh Stowell)
 105. O Thou in Whose Presence (Joseph Swain)
 106. I'd Rather Have Jesus (Rhea F. Miller)
 	Now Public Domain
 107. And Can It Be that I Should Gain? (Charles Wesley)
+107. And Can It Be that I Should Gain? (Charles Wesley)
 108. Blessed Quietness (Manie P. Ferguson)
-	Could not find CCLI number.
 109. I Am Praying for You (S. O'Malley Cluff)
-	Could not find CCLI number.
 110. Sweet Hour of Prayer (William W. Walford)
 111. Jesus, and Shall It Ever Be? (Joseph Grigg, Benjamin Francis)
 112. Lord, I Have Shut the Door (William M. Runyan)
 	Now Public Domain.
-	Could not find CCLI number.
 113. I Must Tell Jesus (Elisha A. Hoffman)
 114. Revive Thy Work (Alfred Midlane)
 	Could not find CCLI number.
 115. Teach Me to Pray (Albert S. Reitz)
 	Could not scrap this song.
-	Could not find CCLI number.
 116. Tell It to Jesus (Jeremiah E. Rankin)
-	Could not find CCLI number.
 117. The Beautiful Garden of Prayer (Eleanor A. Schroll)
 118. 'Tis the Blessed Hour of Prayer (Fanny J. Crosby)
-	Could not find CCLI number.
 119. Did You Think to Pray? (Mrs. M. A. Kidder)
-	Could not find CCLI number.
 120. Work, for the Night Is Coming (Anna L. Walker)
-	Could not find CCLI number.
 121. Praise Ye the Father (Unknown)
 122. Unto the Hills (John D. S. Campbell)
 	Psalm 121
-	Could not find CCLI number.
 123. Come, We that Love the Lord (Isaac Watts)
 124. Teach Me Thy Will, O Lord (Katherine A. Grimes)
 125. Sweet Will of God (Leila N. Morris)
-	Could not find CCLI number.
 126. We're Marching to Zion (Isaac Watts)
 127. To God Be the Glory (Fanny J. Crosby)
 128. Blessed Redeemer (Avis B. Christiansen)
-	Could not find CCLI number.
 129. Arise, My Soul, Arise! (Charles Wesley)
 130. Majestic Sweetness Sits Enthroned (Samuel Stennett)
 131. Jesus Paid It All (Elvina M. Hall)
 132. Hallelujah for the Cross! (Horatius Bonar (arr.))
-	Could not find CCLI number.
 133. I Will Sing the Wondrous Story (Francis H. Rowley)
-	Could not find CCLI number.
 134. Love Led Him to Calvary (George O. Webster)
 	Could not scrap this song.
 135. It Took a Miracle (John W. Peterson)
@@ -213,20 +192,14 @@
 	Could not find CCLI number.
 138. Nothing but the Blood (Robert Lowry)
 139. Once for All (Philip P. Bliss)
-	Could not find CCLI number.
 140. Redeemed (Fanny J. Crosby)
 141. There Is a Fountain (William Cowper)
 142. Though Your Sins Be as Scarlet (Fanny J. Crosby)
-	Could not find CCLI number.
 143. When Loves Shine In (Mrs. Frank A. Breck)
-	Could not find CCLI number.
 144. Only Trust Him (John H. Stockton)
-	Could not find CCLI number.
 145. Whiter than Snow (James Nicholson)
 146. Wonderful Story of Love (J. M. Driver)
-	Could not find CCLI number.
 147. Ye Must Be Born Again (William T. Sleeper)
-	Could not find CCLI number.
 148. Great Is Thy Faithfulness (Thomas O. Chisholm)
 	Now Public Domain.
 149. Why Do I Sing about Jesus? (Albert A. Ketchum)
@@ -237,27 +210,21 @@
 152. Jesus, Lover of My Soul (Charles Wesley)
 153. Only Jesus (Avis B. Christiansen)
 154. Our Great Savior (J. Wilbur Chapman)
-	Could not find CCLI number.
 155. The Heavenly Vision (Helen H. Lemmel)
 156. The Light of the World Is Jesus (Philip P. Bliss)
-	Could not find CCLI number.
 157. The Lily of the Valley (Charles W. Fry)
 158. Hallelujah, What a Savior! (Philip P. Bliss)
-	Could not find CCLI number.
 159. The Great Physician (William Hunter)
 160. The Name of Jesus (W. C. Martin)
 161. The Unveiled Christ (N. B. Herrell)
 162. The Stranger of Galilee (Leila N. Morris)
 	Could not find CCLI number.
 163. Christ Is King (Charles R. Scoville)
-	Could not find CCLI number.
 164. He Lives (Alfred H. Ackley)
 	Could not scrap this song.
-	Could not find CCLI number.
 165. Jesus Never Fails (Arthur A. Luther)
 	Could not scrap this song.
 166. The Love of God (Frederick M. Lehman)
-	Could not find CCLI number.
 167. I Long to Glorify Thee (Ralph Manchee)
 168. Depth of Mercy! Can There Be (Charles Wesley)
 169. Jesus, Thy Blood and Righteousness (Nicolaus L. Zinzendorf, John Wesley)
@@ -266,60 +233,45 @@
 171. He Is Coming Again (Mable Johnston Camp)
 	Could not find CCLI number.
 172. In Thy Heart Right with God? (Elisha A. Hoffman)
-	Could not find CCLI number.
 173. Jesus Is Coming Again (John W. Peterson)
 	Could not scrap this song.
 174. Have You Any Room for Jesus (Daniel W. Whittle)
-	Could not find CCLI number.
 175. What If It Were Today? (Leila N. Morris)
-	Could not find CCLI number.
 176. Savior, More Than Life to Me (Fanny J. Crosby)
-	Could not find CCLI number.
 177. God Be with You (Jeremiah E. Rankin)
 178. In the Service of the King (Alfred H. Ackley)
 	Could not scrap this song.
-	Could not find CCLI number.
 179. The Son of God Goes Forth to War (Reginald Heber)
 180. Where Cross the Crowded Ways of Life (Frank M. North)
-	Could not find CCLI number.
 181. Let the Lower Lights Be Burning (Philip P. Bliss)
-	Could not find CCLI number.
 182. My Savior's Love (Charles H. Gabriel)
 183. It Pays to Serve Jesus (Frank C. Huston)
 	Now Public Domain
 	Could not find CCLI number.
 184. Make Me a Blessing (Ira B. Wilson)
 	Could not scrap this song.
-	Could not find CCLI number.
 185. Others (Charles D. Meigs)
 	Could not scrap this song.
 186. Make Me a Channel of Blessing (Harper G. Smyth)
 187. Will Jesus Find Us Watching? (Fanny J. Crosby)
-	Could not find CCLI number.
 188. Glory to His Name (Elisha A. Hoffman)
 189. Must Jesus Bear the Cross Alone? (Thomas Shepherd)
 190. Savior, Breathe an Evening Blessing (James Edmeston)
 191. Tell Me the Stories of Jesus (William H. Parker)
-	Could not find CCLI number.
 192. Jesus, Savior (Herman Voss)
 193. No Other Plea (Likie H. Edmunds)
 	Could not find CCLI number.
 194. Rescue the Perishing (Fanny J. Crosby)
 195. A Passion for Souls (Herbert H. Tovey)
 	Could not scrap this song.
-	Could not find CCLI number.
 196. Help Somebody Today (Carrie E. Breck)
 	Could not find CCLI number.
 197. The Ninety and Nine (Elizabeth C. Clephane)
-	Could not find CCLI number.
 198. Throw Out the Life-Line (Edward S. Ufford)
 199. He's a Friend of Mine (John H. Sammis)
-	Could not find CCLI number.
 200. A New Name in Glory (C. Austin Miles)
-	Could not find CCLI number.
 201. Come, Ye Disconsolate (Thomas Moore, Thomas Hastings)
 202. All Things in Jesus (Harry D. Loes)
-	Could not find CCLI number.
 203. Burdens Are Lifted at Calvary (John M. Moore)
 	Could not scrap this song.
 204. Christ Receiveth Sinful Men (Erdmann Neumeister, Emma P. Bevan)
@@ -328,59 +280,42 @@
 	Could not scrap this song.
 	Could not find CCLI number.
 207. Christ Liveth in Me (Daniel W. Whittle)
-	Could not find CCLI number.
 208. He Is So Precious to Me (Charles H. Gabriel)
-	Could not find CCLI number.
 209. He Lifted Me (Charles H. Gabriel)
-	Could not find CCLI number.
 210. A Child of the King (Harriet E. Buell)
-	Could not find CCLI number.
 211. A Shelter in the Time of Storm (Vernon J. Charlesworth, Ira D. Sankey)
 212. I Belong to the King (Ida L. Reed)
 	Could not find CCLI number.
 213. I Know Whom I Have Believed (Daniel W. Whittle)
-	Could not find CCLI number.
 214. I Love Him Because He First Loved Me (Frank E. Roush)
 	Could not find CCLI number.
 215. I Love to Tell the Story (A. Catherine Hankey)
 216. I've Heard the King (Grant C. Tuller)
-	Could not find CCLI number.
 217. Jesus Has Lifted Me! (Avis B. Christiansen)
-	Could not find CCLI number.
 218. It's Just Like His Great Love (Edna H. Worrell)
 	Could not find CCLI number.
 219. He Leadeth Me (Joseph H. Gilmore)
-	Could not find CCLI number.
 220. Jesus Is All the World to Me (Will H. Thompson)
-	Could not find CCLI number.
 221. Love Lifted Me (James Rowe)
 222. My Redeemer (Philip P. Bliss)
-	Could not find CCLI number.
 223. He Will Answer Every Prayer (Mary Bernstecher)
 	Could not find CCLI number.
 224. No, Not One! (Johnson Oatman, Jr.)
 225. Only a Sinner (James M. Gray)
-	Could not find CCLI number.
 226. Oh, How I Love Jesus (Frederick Whitfield)
 227. O Happy Day (Philip Doddridge)
 228. We'll Work till Jesus Comes (Elizabeth Mills)
 	Could not find CCLI number.
 229. Saved! (Oswald J. Smith)
-	Could not find CCLI number.
 230. Now I Belong to Jesus (Norman J. Clayton)
 	Could not scrap this song.
-	Could not find CCLI number.
 231. Saved, Saved! (Jack P. Scholfield)
 232. Since I Have Been Redeemed (Edwin O. Excell)
-	Could not find CCLI number.
 233. Since the Fullness of His Love Came In (Eliza E. Hewitt)
-	Could not find CCLI number.
 234. Jesus Loves Even Me (Philip P. Bliss)
 235. Sweeter as the Years Go By (Leila N. Morris)
-	Could not find CCLI number.
 236. Must I Go, and Empty-Handed? (Charles C. Luther)
 237. Tell Me the Story of Jesus (Fanny J. Crosby)
-	Could not find CCLI number.
 238. "Whosoever" Meaneth Me (J. Edwin McConnell)
 	Could not find CCLI number.
 239. I've Discovered the Way of Gladness (Floyd W. Hawkins)
@@ -389,82 +324,61 @@
 	Could not find CCLI number.
 241. 'Tis So Sweet to Trust in Jesus (Louisa M. R. Stead)
 242. I Am Trusting Thee, Lord Jesus (Frances R. Havergal)
-	Could not find CCLI number.
 243. Rock of Ages (Augustus M. Toplady)
-	Could not find CCLI number.
 244. The Haven of Rest (Henry L. Gilmour)
-	Could not find CCLI number.
 245. Trusting Jesus (Edgar P. Stites)
-	Could not find CCLI number.
 246. Trust in the Lord (Thomas O. Chisholm)
 247. He Hideth My Soul (Fanny J. Crosby)
 248. His Eye Is on the Sparrow (Civilla D. Martin)
 249. Precious Lord, Take My Hand (Thomas A. Dorsey)
 	Could not scrap this song.
-	Could not find CCLI number.
 250. I Know Who Holds Tomorrow (Ira Stanphill)
 	Could not scrap this song.
 251. In the Hollow of His Hand (William M. Runyan)
-	Could not find CCLI number.
 252. Cleanse Me (J. Edwin Orr)
 253. Holy Bible, Book Divine (John Burton)
 254. Lord, Dismiss Us with Thy Blessing (John Fawcett, Godfrey Thring)
 255. The Sands of Time (Anne Ross Cousin)
 256. My Savior First of All (Fanny J. Crosby)
-	Could not find CCLI number.
 257. Gone, Yes, Gone Forevermore! (Joseph C. Macaulay)
 	Could not find CCLI number.
 258. Who at My Door Is Standing? (Mary B.C. Slade)
-	Could not find CCLI number.
 259. Living for Jesus (Thomas O. Chisholm)
 	Could not scrap this song.
 260. I Would Be True (Howard A. Walter)
-	Could not find CCLI number.
 261. "Are Ye Able," Said the Master (Earl Marlatt)
 	Could not find CCLI number.
 262. Higher Ground (Johnson Oatman, Jr.)
 263. Bring Your Vessels, Not a Few (Leila N. Morris)
 	Could not find CCLI number.
 264. Something for Thee (Sylvanus D. Phelps)
-	Could not find CCLI number.
 265. Draw Me Nearer (Fanny J. Crosby)
-	Could not find CCLI number.
 266. I Need Jesus (George O. Webster)
 	Could not scrap this song.
 267. Nearer, Still Nearer (Leila N. Morris)
-	Could not find CCLI number.
 268. Revive Us Again (William P. Mackay)
-	Could not find CCLI number.
 269. More Holiness Give Me (Philip P. Bliss)
 	Could not find CCLI number.
 270. I Would Be Like Jesus (James Rowe)
 	Could not scrap this song.
 271. Jesus, I My Cross Have Taken (Henry F. Lyte)
-	Could not find CCLI number.
 272. Nearer, My God, to Thee (Sarah F. Adams)
-	Could not find CCLI number.
 273. Lord, Speak to Me (Frances R. Havergal)
 274. O Jesus, I Have Promised (John E. Bode)
-	Could not find CCLI number.
 275. More About Jesus (Eliza E. Hewitt)
 276. O for a Closer Walk with God (William Cowper)
 277. Lead, Kindly Light (John H. Newman)
-	Could not find CCLI number.
 278. Open My Eyes, that I May See (Clara H. Scott)
 279. There Shall Be Showers of Blessing (Daniel W. Whittle)
-	Could not find CCLI number.
 280. More Like the Master (Charles H. Gabriel)
-	Could not find CCLI number.
 281. In the Hour of Trial (James Montgomery)
 282. More Love to Thee (Elizabeth P. Prentiss)
-	Could not find CCLI number.
 283. I'll Live for Him (Ralph E. Hudson)
 284. Lord, I Hear of Showers of Blessing (Elizabeth Codner)
 285. Just When I Need Him Most (William C. Poole)
 	Could not scrap this song.
-	Could not find CCLI number.
 286. Anywhere with Jesus (Jessie B. Pounds)
-	Could not find CCLI number.
+286. Anywhere with Jesus (Jessie B. Pounds)
 287. We Have an Anchor (Priscilla J. Owens)
 288. When I See My Savior (Maud Frazer)
 	Could not find CCLI number.
@@ -477,28 +391,18 @@
 293. God Will Take Care of You (Civilla D. Martin)
 294. The Rock That Is Higher Than I (Erastus Johnson)
 295. Jesus, I Come (William T. Sleeper)
-	Could not find CCLI number.
 296. He Keeps Me Singing (Luther B. Bridgers)
-	Could not find CCLI number.
 297. My Jesus, I Love Thee (William R. Featherstone)
 298. Close to Thee (Fanny J. Crosby)
-	Could not find CCLI number.
 299. Almost Persuaded (Philip P. Bliss)
-	Could not find CCLI number.
 300. Give Me Thy Heart (Eliza E. Hewitt)
-	Could not find CCLI number.
 301. Why Not Now? (Daniel W. Whittle)
-	Could not find CCLI number.
 302. "Whosoever Will" (Philip P. Bliss)
-	Could not find CCLI number.
 303. Softly and Tenderly Jesus Is Calling (Will L. Thompson)
 304. What Will You Do with Jesus? ()
 305. Come to the Feast (Charles H. Gabriel)
-	Could not find CCLI number.
 306. Seeking the Lost (William A. Ogden)
-	Could not find CCLI number.
 307. Come to the Savior (George F. Root)
-	Could not find CCLI number.
 308. The Savior Is Waiting (Ralph Carmichael)
 	Could not scrap this song.
 309. Don't Turn the Savior Away (Harry D. Clarke)
@@ -507,7 +411,6 @@
 312. Never Alone! (Unknown)
 313. I Love Thy Kingdom, Lord (Timothy Dwight)
 314. His Mighty Hand (George W. Whitcomb)
-	Could not find CCLI number.
 315. I Never Walk Alone (Alfred H. Ackley)
 	Could not scrap this song.
 	Could not find CCLI number.
@@ -516,20 +419,15 @@
 	Could not find CCLI number.
 317. The Old Rugged Cross (George Bennard)
 318. Buried with Christ (T. Ryder)
-	Could not find CCLI number.
 319. O Word of God Incarnate (William W. How)
-	Could not find CCLI number.
 320. Break Thou the Bread of Life (Mary Ann Lathbury)
-	Could not find CCLI number.
 321. 'Tis Midnight; and on Olive's Brow (William B. Tappan)
-	Could not find CCLI number.
 322. The Bible Stands (Haldor Lillenas)
 323. Standing on the Promises (R. Kelso Carter)
 324. Thy Word Have I Hid in My Heart (Ernest O. Sellers)
 325. Beautiful Words of Jesus (Eliza E. Hewitt)
 	Could not find CCLI number.
 326. Wonderful Words of Life (Philip P. Bliss)
-	Could not find CCLI number.
 327. Thy Word Is Like a Garden, Lord (Edwin Hidder)
 	Could not find CCLI number.
 328. Are You Washed in the Blood? (Elisha A. Hoffman)
@@ -539,34 +437,26 @@
 332. 'Twas Jesus' Blood (Harry D. Loes)
 	Could not find CCLI number.
 333. Yield Not to Temptation (Horatio R. Palmer)
-	Could not find CCLI number.
 334. He Died for Me (John Newton)
 335. Glorious Things of Thee Are Spoken (John Newton)
 336. The Church's One Foundation (Samuel J. Stone)
-	Could not find CCLI number.
 337. Lead Me to Calvary (Jennie E. Hussey)
-	Could not find CCLI number.
 338. O Sacred Head, Now Wounded (Paul Gerhardt, Bernard of Clairvaux, James W. Alexander)
 339. Surely Goodness and Mercy (John W. Peterson, Alfred B. Smith)
 	Could not scrap this song.
 340. There Is a Green Hill Far Away (Cecil F. Alexander)
-	Could not find CCLI number.
 341. As a Volunteer (W. S. Brown)
 	Could not scrap this song.
 342. Take Time to Be Holy (William D. Longstaff)
-	Could not find CCLI number.
 343. Jesus Calls Us (Cecil F. Alexander)
 344. My Faith Looks Up to Thee (Ray Palmer)
 345. Hold the Fort (Philip P. Bliss)
-	Could not find CCLI number.
 346. Fight the Good Fight (John S. B. Monsell)
-	Could not find CCLI number.
 347. Jesus Bids Us Shine (Susan Warner)
 348. Give of Your Best to the Master (Howard B. Grose)
 349. I Am Resolved (Palmer Hartsough)
 350. My Soul, Be on Thy Guard (George Heath)
 351. Rise Up, O Men of God (William P. Merrill)
-	Could not find CCLI number.
 352. In Times Like These (Ruth Caye Jones)
 	Could not scrap this song.
 353. Onward, Christian Soldiers (Sabine Baring-Gould)
@@ -577,40 +467,28 @@
 357. Stand Up, Stand Up for Jesus (George Duffield)
 358. Stand Up, Stand Up for Jesus (George Duffield)
 359. Sound the Battle Cry (William F. Sherwin)
-	Could not find CCLI number.
 360. The Banner of the Cross (Daniel W. Whittle)
-	Could not find CCLI number.
 361. Am I A Soldier of the Cross? (Isaac Watts)
 362. A Charge to Keep I Have (Charles Wesley)
 363. To the Work! (Fanny J. Crosby)
-	Could not find CCLI number.
 364. True-Hearted, Whole-Hearted (Frances R. Havergal)
-	Could not find CCLI number.
 365. Trust and Obey (John H. Sammis)
-	Could not find CCLI number.
 366. Who Is on the Lord's Side? (Frances R. Havergal)
-	Could not find CCLI number.
 367. The Church in the Wildwood (William S. Pitts)
 368. If Jesus Had Not Come (Albert C. Norton)
-	Could not find CCLI number.
 369. Wounded for Me (W. G. Ovens, Gladys W. Roberts)
-	Could not find CCLI number.
 370. I've Found a Friend (James G. Small)
-	Could not find CCLI number.
 371. In Tenderness He Sought Me (W. Spencer Walton)
 372. The King of Love My Shepherd Is (Henry W. Baker)
 	Psalm 23
-	Could not find CCLI number.
 373. The Lord's My Shepherd ()
 	Psalm 23
 374. The Lord Is My Shepherd (James Montgomery)
 	Psalm 23
-	Could not find CCLI number.
 375. Ivory Palaces (Henry Barraclough)
 376. What a Wonderful Savior! (Elisha A. Hoffman)
 377. One Day (J. Wilbur Chapman)
 	Could not scrap this song.
-	Could not find CCLI number.
 378. Take the Name of Jesus with You (Lydia Baxter)
 379. Jesus Christ Is Lord of All (Don Whitman)
 380. Whom Have I but Thee? (Avis B. Christiansen)
@@ -619,89 +497,62 @@
 	Could not find CCLI number.
 382. We Gather Together (Theodore Baker)
 383. Leave It There (C. Albert Tindley)
-	Could not find CCLI number.
 384. Does Jesus Care? (Frank E. Graeff)
 385. His Way with Thee (Cyrus S. Nusbaum)
-	Could not find CCLI number.
 386. Nothing Between (C. Albert Tindley)
-	Could not find CCLI number.
 387. Have Thine Own Way, Lord (Adelaide A. Pollard)
 388. Take My Life, and Let It Be (Frances R. Havergal)
-	Could not find CCLI number.
 389. Hiding in Thee (William O. Cushing)
 390. Is Your All on the Altar? (Elisha A. Hoffman)
 	Could not find CCLI number.
 391. I Surrender All (Judson W. Van DeVenter)
 392. Savior, My Heart Is Thine (Unknown, George C. Stebbins)
 393. Where He Leads Me (E. W. Blandy)
-	Could not find CCLI number.
 394. All for Jesus (Mary D. James)
-	Could not find CCLI number.
 395. I Will Follow Thee (Johnson Oatman, Jr.)
 396. I'll Put Jesus First in My Life (James D. Murch)
-	Could not find CCLI number.
 397. If Jesus Goes with Me (C. Austin Miles)
-	Could not find CCLI number.
 398. Channels Only (Mary E. Maxwell)
-	Could not find CCLI number.
 399. I'll Go Where You Want Me to Go (Charles H. Gabriel)
-	Could not find CCLI number.
 400. At Calvary (William R. Newell)
-	Could not find CCLI number.
 401. Where He Leads I'll Follow (William A. Ogden)
 	Could not find CCLI number.
 402. The Way of the Cross Leads Home (Jessie B. Pounds)
 	Could not scrap this song.
-	Could not find CCLI number.
 403. He Wore a Crown of Thorns (William M. Runyan)
-	Could not find CCLI number.
 404. No One Understands Like Jesus (John W. Peterson)
 	Could not scrap this song.
 405. Kneel at the Cross (Charles E. Moody)
 	Could not scrap this song.
 406. Come, Holy Spirit (Lily Hedman Wells)
-	Could not find CCLI number.
 407. Near the Cross (Fanny J. Crosby)
-	Could not find CCLI number.
 408. In the Cross of Christ (John Bowring)
 409. Nearer the Cross (Fanny J. Crosby)
-	Could not find CCLI number.
 410. Ten Thousand Angels (Ray Overholt)
 	Could not scrap this song.
 411. Jesus Only, Let Me See (Oswald J. Smith)
 	Could not find CCLI number.
 412. We Would See Jesus (Anna B. Warner)
-	Could not find CCLI number.
 413. When I Survey the Wondrous Cross (Isaac Watts)
 414. Dear Lord and Father of Mankind (John G. Whittier)
-	Could not find CCLI number.
 415. All Glory, Laud and Honor (Theodulph of Orleans, John M. Neale)
 416. Christ Arose! (Robert Lowry)
 417. Christ the Lord Is Risen Today (Charles Wesley)
 418. Come, Ye Faithful, Raise the Strain (John of Damascus, John M. Neale)
 419. I Know That My Redeemer Liveth (Jessie B. Pounds)
-	Could not find CCLI number.
 420. Day Is Dying in the West (Mary A. Lathbury)
-	Could not find CCLI number.
 421. Now the Day Is Over (Sabine Baring-Gould)
 422. Sun of My Soul (John Keble)
 423. Faith of Our Fathers (Frederick W. Faber)
-	Could not find CCLI number.
 424. Faith of Our Mothers (A. B. Patten)
 	Text only to be sung to tune of 423 (ST. CATHERINE by Hemy)
-	Could not find CCLI number.
 425. Faith Is the Victory! (John H. Yates)
-	Could not find CCLI number.
 426. Beneath the Cross of Jesus (Elizabeth C. Clephane)
-	Could not find CCLI number.
 427. The Touch of His Hand on Mine (Jessie B. Pounds)
-	Could not find CCLI number.
 428. In the Garden (C. Austin Miles)
-	Could not find CCLI number.
 429. O Master, Let Me Walk with Thee (Washington Gladden)
 430. Blest Be the Tie That Binds (John Fawcett)
 431. Follow On (W. O. Cushing)
-	Could not find CCLI number.
 432. According to Thy Gracious Word (James Montgomery)
 433. Bread of Heaven (Joseph Conder)
 434. Communion Hymn (Charles McMillan)
@@ -720,12 +571,10 @@
 	Could not find CCLI number.
 442. So Send I You (E. Margaret Clarkson)
 	Could not scrap this song.
-	Could not find CCLI number.
 443. From Greenland's Icy Mountains (Reginald Heber)
 444. Bringing in the Sheaves (Knowles Shaw)
 445. Jesus Saves (Priscilla J. Owens)
 446. O Zion, Haste (Mary A. Thomson)
-	Could not find CCLI number.
 447. Send the Light (Charles H. Gabriel)
 448. The Regions Beyond (Albert B. Simpson)
 449. We've a Story to Tell to the Nations (H. Ernest Nichol)
@@ -734,40 +583,28 @@
 	Could not find CCLI number.
 451. The Star-Spangled Banner (Francis Scott Key)
 452. We Give Thee But Thine Own (William W. How)
-	Could not find CCLI number.
 453. Battle Hymn of the Republic (Julia Ward Howe)
 454. God of Our Fathers, Whose Almighty Hand (Daniel O. Roberts)
 455. My Country, 'Tis of Thee (Samuel F. Smith)
-	Could not find CCLI number.
 456. O for a Thousand Tongues to Sing (Charles Wesley)
 457. For the Beauty of the Earth (Folliott S. Pierpoint)
-	Could not find CCLI number.
 458. This Is My Father's World (Maltbie D. Babcock)
-	Could not find CCLI number.
 459. Stepping in the Light (Eliza E. Hewitt)
 	Could not find CCLI number.
 460. Room at the Cross for You (Ira F. Stanphill)
 	Could not scrap this song.
-	Could not find CCLI number.
 461. O Perfect Love (Dorothy F. Gurney)
-	Could not find CCLI number.
 462. Abide with Me (Henry F. Lyte)
-	Could not find CCLI number.
 463. Jesus, the Very Thought of Thee (Bernard of Clairvaux, Edward Caswall)
 464. Near to the Heart of God (Cleland B. McAfee)
-	Could not find CCLI number.
 465. I Am His, and He Is Mine (George W. Robinson)
-	Could not find CCLI number.
 466. A Mighty Fortress Is Our God (Martin Luther, Frederick H. Hedge)
 467. O God, Our Help in Ages Past (Isaac Watts)
 468. There's a Wideness in God's Mercy (Frederick W. Faber)
-	Could not find CCLI number.
 469. Grace Greater Than Our Sin (Julia H. Johnston)
-	Could not find CCLI number.
 470. Wonderful Grace of Jesus (Haldor Lillenas)
 471. Saved by Grace (Fanny J. Crosby)
 472. All the Way My Savior Leads Me (Fanny J. Crosby)
-	Could not find CCLI number.
 473. God Leads Us Along (G. A. Young)
 474. What God Hath Promised (Annie Johnson Flint)
 	Could not find CCLI number.
@@ -776,7 +613,6 @@
 477. Jesus, Savior, Pilot Me (Edward Hopper)
 	Could not find CCLI number.
 478. I Need Thee Every Hour (Annie S. Hawks)
-	Could not find CCLI number.
 479. I Am Not Skilled to Understand (Dora Greenwell)
 	Could not find CCLI number.
 480. Savior, Like a Shepherd Lead Us (Dorothy A. Thrupp)
@@ -794,16 +630,12 @@
 	Could not scrap this song.
 487. Amazing Grace (John Newton)
 488. I Shall Be Like Him (W. A. Spencer)
-	Could not find CCLI number.
 489. Peace, Perfect Peace (Edward H. Bickersteth)
-	Could not find CCLI number.
 490. On Jordan's Stormy Banks (Samuel Stennett)
 491. Shall We Gather at the River? (Robert Lowry)
 492. No Night There (John R. Clements)
 493. Face to Face (Carrie E. Breck)
-	Could not find CCLI number.
 494. O That Will Be Glory (Charles H. Gabriel)
-	Could not find CCLI number.
 495. Some Golden Daybreak (Carl A. Blackmore)
 	Could not scrap this song.
 496. Some Time We'll Understand (Maxwell N. Cornelius)
@@ -812,9 +644,7 @@
 498. We Shall See the King Some Day (Lewis E. Jones)
 	Could not find CCLI number.
 499. Accepted in the Beloved (Civilla D. Martin)
-	Could not find CCLI number.
 500. When the Roll Is Called Up Yonder (James M. Black)
-	Could not find CCLI number.
 501. When We All Get to Heaven (Eliza E. Hewitt)
 502. Where the Gates Swing Outward Never (Charles H. Gabriel)
 	Could not scrap this song.
@@ -823,9 +653,7 @@
 	Could not find CCLI number.
 504. When We See Christ (Esther K. Rusthoi)
 	Could not scrap this song.
-	Could not find CCLI number.
 505. Footprints of Jesus (Mary B. C. Slade)
-	Could not find CCLI number.
 506. I Won't Have to Cross Jordan Alone (Thomas Ramsey)
 	Could not scrap this song.
 507. Jerusalem the Golden (Bernard of Cluny, John M. Neale)
@@ -833,9 +661,7 @@
 509. Come, Ye Thankful People, Come (Henry Alford)
 510. The Children's Friend Is Jesus (Robert Harkness)
 511. Jewels (William O. Cushing)
-	Could not find CCLI number.
 512. Dare to Be a Daniel (Philip P. Bliss)
-	Could not find CCLI number.
 513. Jesus Loves Me (Anna B. Warner)
 514. Praise Him, All Ye Little Children (Unknown)
 515. I'll Be a Sunbeam (Nellie Talbot)

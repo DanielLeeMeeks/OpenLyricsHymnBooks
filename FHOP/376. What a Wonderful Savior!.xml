@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:30+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:50+04:00">
 	<properties>
 		<titles>
 			<title>What a Wonderful Savior!</title>
@@ -12,7 +12,7 @@
 		<key></key>
 		<themes><theme>Christ: Savior</theme><theme> Praise: of Christ</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="376"/>
+			<songbook name="Favorite Hymns of Praise" entry="376"/>
 		</songbooks>
 	</properties>
 	<lyrics>

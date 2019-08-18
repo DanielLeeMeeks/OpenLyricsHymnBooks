@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:02+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:29+04:00">
 	<properties>
 		<titles>
 			<title>The Love of God</title>
@@ -7,16 +7,13 @@
 			<author>Frederick M. Lehman</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>18448</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>God: Love and Mercy</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="166"/>
+			<songbook name="Favorite Hymns of Praise" entry="166"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

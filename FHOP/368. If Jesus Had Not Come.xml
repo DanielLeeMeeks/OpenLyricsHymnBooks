@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:29+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:49+04:00">
 	<properties>
 		<titles>
 			<title>If Jesus Had Not Come</title>
@@ -7,16 +7,13 @@
 			<author>Albert C. Norton</author>
 		</authors>
 		<copyright>© 1953 Hope Publishing Co.</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>269297</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Advent and Birth</theme><theme> Christ: Life and Ministry</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="368"/>
+			<songbook name="Favorite Hymns of Praise" entry="368"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

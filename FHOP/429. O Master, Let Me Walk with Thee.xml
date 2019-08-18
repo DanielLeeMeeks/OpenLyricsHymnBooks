@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:37+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T13:57+04:00">
 	<properties>
 		<titles>
 			<title>O Master, Let Me Walk with Thee</title>
@@ -12,7 +12,7 @@
 		<key></key>
 		<themes><theme>Devotional</theme><theme> Fellowship: with God</theme><theme> Prayer: Hymns of</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="429"/>
+			<songbook name="Favorite Hymns of Praise" entry="429"/>
 		</songbooks>
 	</properties>
 	<lyrics>

@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T11:50+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:14+04:00">
 	<properties>
 		<titles>
 			<title>O Love That Wilt Not Let Me Go</title>
@@ -7,12 +7,12 @@
 			<author>George Matheson</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo>1265403</ccliNo>
+		<ccliNo>438121</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Christ: Light</theme><theme> Christ: Love</theme><theme> Cross: of Believer</theme><theme> Devotional</theme><theme> Weddding</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="74"/>
+			<songbook name="Favorite Hymns of Praise" entry="74"/>
 		</songbooks>
 	</properties>
 	<lyrics>

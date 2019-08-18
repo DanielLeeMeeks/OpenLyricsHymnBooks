@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:42+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:03+04:00">
 	<properties>
 		<titles>
 			<title>Grace Greater Than Our Sin</title>
@@ -7,15 +7,12 @@
 			<author>Julia H. Johnston</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>31690</ccliNo>
 		<released></released>
 		<key></key>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="469"/>
+			<songbook name="Favorite Hymns of Praise" entry="469"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">

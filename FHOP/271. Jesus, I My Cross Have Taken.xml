@@ -1,4 +1,4 @@
-<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T12:16+04:00">
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-17T22:43+04:00">
 	<properties>
 		<titles>
 			<title>Jesus, I My Cross Have Taken</title>
@@ -7,16 +7,13 @@
 			<author>Henry F. Lyte</author>
 		</authors>
 		<copyright>Public Domain</copyright>
-		<ccliNo></ccliNo>
+		<ccliNo>2089894</ccliNo>
 		<released></released>
 		<key></key>
 		<themes><theme>Cross: of Believer</theme></themes>
 		<songbooks>
-			<songbook name="Favorite Hymns of Praise‎" entry="271"/>
+			<songbook name="Favorite Hymns of Praise" entry="271"/>
 		</songbooks>
-		<comments>
-			<comment>Could not find CCLI number.</comment>
-		</comments>
 	</properties>
 	<lyrics>
 		<verse name="v1">
