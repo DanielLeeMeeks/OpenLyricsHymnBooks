@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>Trust</title>
+		</titles>
+		<authors>
+			<author>Rebecca N. Taylor (bef.1883)</author>
+			<author>Rebecca N. Taylor (pub.1915; alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5399000</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="40"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 18:2</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Though the rain may fall and the wind be blowing,
+And cold and chill is the wintry blast;
+Though the cloudy sky is still cloudier growing,
+And dead leaves tell that the summer has passed,
+Yet my face I hold to the stormy heaven,
+My heart as calm as a summer sea;
+I am glad to receive what my God hath given,
+Whate’er it be.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When I feel the cold, I can say, “He sends it,”
+His wind blows blessing I surely know;
+For I’ve ne’er a want but that He attends it;
+My heart beats warm, though the winds may blow;
+The soft, sweet summer was warm and glowing,
+So bright were the blossoms on every bough;
+I trusted Him when the roses were blowing—
+I trust Him now.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, small were my faith should it weakly falter,
+When now the roses have ceased to blow;
+And frail were the trust that now should alter,
+To doubt His love when the storm clouds grow;
+If I trust Him once I must trust Him ever—
+His way is best, though I stand or fall;
+Through wind or storm He will leave me never,
+For He sends all.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Now why should my heart be faint and fearing?
+The Mighty One rules above the storm;
+For even the wintry blast is cheering,
+Revealing His power to keep me warm;
+No, never a care on my heart is pressing,
+And never a fear can disturb my breast;
+Yes, everything that He sends is blessing,
+For He knows best.</lines>
+		</verse>
+	</lyrics>
+</song>

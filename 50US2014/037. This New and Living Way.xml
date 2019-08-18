@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:42+04:00">
+	<properties>
+		<titles>
+			<title>This New and Living Way</title>
+		</titles>
+		<authors>
+			<author>Harlan D. Sorrell (ca.1987)</author>
+		</authors>
+		<copyright>Public Domain.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="37"/>
+		</songbooks>
+		<comments>
+			<comment>Hebrews 10:19-22</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>There’s a new and living way
+Opened in the Lord today—
+Oh, what treasures are unveiled before our eyes!
+’Tis the way of holiness,
+Perfect love and righteousness,
+Then from sin and all confusion let us rise.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Oh, this perfect holiness
+Fills my happy soul with bliss,
+I am walking in the Spirit day by day;
+Oh, what love and joy and peace
+In my bosom doth increase—
+I have found it in this new and living way.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh, this land of Canaan rest
+Is the home of all the blest
+Who have entered into that within the veil;
+They are wholly sanctified,
+In God’s presence they abide,
+They have found abundant grace that cannot fail.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, this new and living way
+Is a free and happy way,
+’Tis so sweet to give the Lord complete control;
+Then His Spirit will come in,
+Cleanse thy heart from inbred sin,
+Bringing perfect peace and rest unto thy soul.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come and boldly enter in,
+You may now the vict’ry win
+If your all upon the altar you will lay;
+Give the Lord complete control
+Of thy body and thy soul,
+Reign with Jesus in this new and living way.</lines>
+		</verse>
+	</lyrics>
+</song>

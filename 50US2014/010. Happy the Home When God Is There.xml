@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>Happy the Home When God Is There</title>
+		</titles>
+		<authors>
+			<author>Henry Ware, Jr. (pub.1846)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5899775</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="10"/>
+		</songbooks>
+		<comments>
+			<comment>Deuteronomy 6:5-7; Joshua 24:15</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Happy the home when God is there,
+And love fills every breast;
+When one their wish, and one their prayer,
+And one their heav’nly rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Happy the home where Jesus’ name
+Is sweet to every ear;
+Where children early speak His fame,
+And parents hold Him dear.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Happy the home where prayer is heard,
+And praise is wont to rise;
+Where parents love the sacred Word
+And all its wisdom prize.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, let us in our homes agree
+This blessed peace to gain;
+Unite our hearts in love to Thee,
+And love to all will reign.</lines>
+		</verse>
+	</lyrics>
+</song>

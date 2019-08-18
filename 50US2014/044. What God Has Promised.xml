@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>What God Has Promised</title>
+		</titles>
+		<authors>
+			<author>Annie J. Flint (pub.1919)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="44"/>
+		</songbooks>
+		<comments>
+			<comment>John 16:33; 1 John 2:25; 2 Peter 1:4</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God has not promised skies always blue,
+Flower-strewn pathways all our lives through;
+God has not promised sun without rain,
+Joy without sorrow, peace without pain.</lines>
+		</verse>
+		<verse name="c">
+		<lines>But God has promised strength for the day,
+Rest for the labor, light for the way,
+Grace for the trials, help from above,
+Unfailing kindness, undying love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God has not promised we shall not know
+Toil and temptation, trouble and woe;
+He has not told us we shall not bear
+Many a burden, many a care.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>God has not promised smooth roads and wide,
+Swift, easy travel, needing no guide;
+Never a mountain rocky and steep,
+Never a river turbid and deep.</lines>
+		</verse>
+	</lyrics>
+</song>

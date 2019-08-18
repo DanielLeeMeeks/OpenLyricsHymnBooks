@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Live Out Thy Life Within Me</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4234953</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="23"/>
+		</songbooks>
+		<comments>
+			<comment>1 John 3:24; John 14:23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Live out Thy life within me, O Jesus, King of kings!
+Be Thou Thyself the answer to all my questionings;
+Live out Thy life within me, in all things have Thy way!
+I, the transparent medium, Thy glory to display.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The temple has been yielded, and purified of sin,
+Let Thy Shekinah glory now shine forth from within,
+And all the earth keep silence, the body henceforth be
+Thy silent, gentle servant, moved only as by Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Its members every moment held subject to Thy call,
+Ready to have Thee use them, or not be used at all,
+Held without restless longing, or strain, or stress, or fret,
+Or chafings at Thy dealings, or thoughts of vain regret.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>But restful, calm and pliant, from bend and bias free,
+Awaiting Thy decision, when Thou hast need of me;
+Live out Thy life within me, O Jesus, King of kings!
+Be Thou the glorious answer to all my questionings.</lines>
+		</verse>
+	</lyrics>
+</song>

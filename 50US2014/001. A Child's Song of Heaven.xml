@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:37+04:00">
+	<properties>
+		<titles>
+			<title>A Child's Song of Heaven</title>
+		</titles>
+		<authors>
+			<author>Martha Nighswander (1998)</author>
+		</authors>
+		<copyright>This song may be freely used anywhere and any time by children and all who love to sing of heaven.</copyright>
+		<ccliNo>4729482</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="1"/>
+		</songbooks>
+		<comments>
+			<comment>Revelation 22:1-5; Revelation 22:14</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>I want to go to Heaven, that Home so bright and fair;
+So beautiful, and—best of all—Dear Jesus will be there!</lines>
+		</verse>
+		<verse name="v1">
+			<lines>I want to see the city away beyond the sky,
+With pearly gates and walls of shining stones so great and high;
+Beside the crystal river there is a fruitful tree;
+And, oh, I want to see the mansions made for you and me!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I never will get hurt there, I’ll never have to cry;
+No pain or sickness there in Heav’n, and none will ever die;
+There Satan cannot tempt me to even once be bad,
+For sin can never enter Heav’n—I’ll be so safe, so glad!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I’ll see old Noah, Moses, Elijah, Daniel, Paul,
+And all the millions since that time who gave to God their all;
+The many little children who’ve died before they’re old
+Are singing ’round the throne of God, and play on streets of gold!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, there I’ll be so happy with friends both old and young;
+The lame and blind, now healed and well, praise God in endless song;
+The angels too will join us; and dressed in spotless white,
+We’ll not get tired of praising God, for there there is no night!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:38+04:00">
+	<properties>
+		<titles>
+			<title>Confidence</title>
+		</titles>
+		<authors>
+			<author>Joel A. Erickson (2007)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7084128</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="4"/>
+		</songbooks>
+		<comments>
+			<comment>Proverbs 3:26; 2 Corinthians 10:4; Romans 8:37</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We will not falter in the battle,
+For by the grace of God we’ll stand,
+And while we use our Captain’s armor,
+No one can pluck us from His hand;
+He is our confidence and courage,
+While we obey we’ll never fall;
+Let us be true, and fight in Jesus’ might,
+Follow our mighty Captain’s call.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, I need grace to be Your soldier—
+Grace that will bear the battle’s din;
+Strengthen me at my post of duty,
+That I may conquer every sin;
+You are my confidence and courage,
+Not a defeat You’ve ever known;
+I will not quit nor yield, but trust Your shield,
+Strong in the strength You give Your own.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We will not fear the foe’s appearance,
+For we are led by Christ our King:
+He is the Captain of Salvation,
+And of His conquests we will sing;
+He is our confidence and courage,
+He is the One Who set us free;
+And with our hearts aglow we’ll rout the foe,
+For He has promised victory!</lines>
+		</verse>
+	</lyrics>
+</song>

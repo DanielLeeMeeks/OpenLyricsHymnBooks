@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Just When I Need Him Most</title>
+		</titles>
+		<authors>
+			<author>William C. Poole (1907)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>19100</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="20"/>
+		</songbooks>
+		<comments>
+			<comment>Philippians 4:19</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Just when I need Him, Jesus is near,
+Just when I falter, just when I fear;
+Ready to help me, ready to cheer,
+Just when I need Him most.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Just when I need Him most,
+Just when I need Him most,
+Jesus is near to comfort and cheer,
+Just when I need Him most.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Just when I need Him, Jesus is true,
+Never forsaking, all the way through;
+Giving for burdens pleasures anew,
+Just when I need Him most.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Just when I need Him, Jesus is strong,
+Bearing my burdens all the day long;
+For all my sorrow giving a song,
+Just when I need Him most.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Just when I need Him, He is my all,
+Answering when upon Him I call;
+Tenderly watching lest I should fall,
+Just when I need Him most.</lines>
+		</verse>
+	</lyrics>
+</song>

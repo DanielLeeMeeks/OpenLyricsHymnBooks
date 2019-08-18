@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>Tender Love of Jesus</title>
+		</titles>
+		<authors>
+			<author>Ruth M. Emswiler (1970)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3120886</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="32"/>
+		</songbooks>
+		<comments>
+			<comment>Ephesians 5:2; Ephesians 3:19</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Tender love of Jesus, so lovely and so pure;
+Flowing through this vessel to strengthen, fill, and cure
+All the doubt and turmoil that’s caused by sin and shame,
+Making me a witness to His most holy name.
+Refrain 1-2:
+Yes, love, Christ’s love, pure love, great love;
+With joy my heart is singing, the things of life grow dim,
+For Christ is love!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Through the passing ages flowed down this love divine,
+Lighting men and angels and causing them to shine
+With a heav’nly radiance, His glory from above,
+Sunshine of the Spirit, the holy light of love.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tender love from heaven in Jesus came to live,
+Showing us how God loves, and then His life to give;
+Came to be a servant, with God’s great pow’r and peace
+Leads us to the Father, Whose love will never cease.
+Refrain 3-4:
+God’s love, sweet love from Heav’n above;
+This love is like an ocean, its waves are reaching me;
+Christ came this love to be.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Love is mine in Jesus, this babe of Bethlehem,
+Prince of Peace forever, the Christ, the great I AM;
+Angels gave the message, and shepherds passed it on,
+Love will be the story when heav’n and earth are gone.</lines>
+		</verse>
+	</lyrics>
+</song>

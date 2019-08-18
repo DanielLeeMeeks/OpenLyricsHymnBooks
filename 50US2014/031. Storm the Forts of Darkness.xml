@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>Storm the Forts of Darkness</title>
+		</titles>
+		<authors>
+			<author>Robert Johnson (1884)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7103043</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="31"/>
+		</songbooks>
+		<comments>
+			<comment>2 Corinthians 10:4; Ephesians 6:12</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Soldiers of our God, arise!
+The day is drawing nearer;
+Shake the slumber from your eyes,
+The light is growing clearer.
+Sit no longer idly by,
+While the heedless millions die;
+Lift the blood-stained banner high,
+And take the field for Jesus.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Storm the forts of darkness, bring them down, bring them down!
+Storm the forts of darkness, bring them down, bring them down!
+Pull down the devil’s kingdom,
+Where’er he holds dominion,
+Storm the forts of darkness, bring them down.
+Glory, honor to the Lamb,
+Praise and power to the Lamb;
+Glory, honor, praise and power,
+Be forever to the Lamb.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>See the brazen hosts of hell,
+Their art and pow’r employing;
+More than human tongue can tell,
+The blood-bought souls destroying.
+Hark! from ruin’s ghastly road,
+Victims groan beneath their load,
+Forward, O ye sons of God,
+And dare or die for Jesus.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Warriors of the risen King,
+Great army of salvation,
+Spread His fame, His praises sing,
+And conquer every nation.
+Raise the glorious standard higher,
+Work for vict’ry, never tire;
+Forward march with blood and fire,
+And win the world for Jesus.</lines>
+		</verse>
+	</lyrics>
+</song>

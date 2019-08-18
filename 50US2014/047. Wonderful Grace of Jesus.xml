@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>Wonderful Grace of Jesus</title>
+		</titles>
+		<authors>
+			<author>Haldor Lillenas (1918)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>17054</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="47"/>
+		</songbooks>
+		<comments>
+			<comment>Revelation 22:21; 2 Corinthians 9:8</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Wonderful grace of Jesus,
+Greater than all my sin;
+How shall my tongue describe it,
+Where shall its praise begin?
+Taking away my burden,
+Setting my spirit free;
+For the wonderful grace of Jesus reaches me.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Wonderful the matchless grace of Jesus,
+Deeper than the mighty rolling sea;
+Higher than the mountain, sparkling like a fountain,
+All-sufficient grace for even me!
+Broader than the scope of my transgressions,
+Greater far than all my sin and shame;
+Oh, magnify the precious Name of Jesus,
+Praise His Name!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Wonderful grace of Jesus,
+Reaching to all the lost,
+By it I have been pardoned,
+Saved to the uttermost;
+Chains have been torn asunder,
+Giving me liberty;
+For the wonderful grace of Jesus reaches me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Wonderful grace of Jesus,
+Reaching the most defiled,
+By its transforming power,
+Making him God’s dear child,
+Purchasing peace and heaven
+For all eternity—
+And the wonderful grace of Jesus reaches me.</lines>
+		</verse>
+	</lyrics>
+</song>

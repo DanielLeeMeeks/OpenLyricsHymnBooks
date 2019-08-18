@@ -1,0 +1,50 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:42+04:00">
+	<properties>
+		<titles>
+			<title>Thanks to God</title>
+		</titles>
+		<authors>
+			<author>August L. Storm (pub.1891)</author>
+			<author>Carl E. Backstrom (1931)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>87448</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="33"/>
+		</songbooks>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thanks to God for my Redeemer,
+Thanks for all Thou dost provide!
+Thanks for times now but a mem’ry,
+Thanks for Jesus by my side!
+Thanks for pleasant, balmy springtime,
+Thanks for dark and stormy fall!
+Thanks for tears by now forgotten,
+Thanks for peace within my soul!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thanks for prayers that Thou hast answered,
+Thanks for what Thou dost deny!
+Thanks for storms that I have weathered,
+Thanks for all Thou dost supply!
+Thanks for pain, and thanks for pleasure,
+Thanks for comfort in despair!
+Thanks for grace that none can measure,
+Thanks for love beyond compare!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thanks for roses by the wayside,
+Thanks for thorns their stems contain!
+Thanks for home and thanks for fireside,
+Thanks for hope, that sweet refrain!
+Thanks for joy and thanks for sorrow,
+Thanks for heav’nly peace with Thee!
+Thanks for hope in the tomorrow,
+Thanks through all eternity!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:42+04:00">
+	<properties>
+		<titles>
+			<title>The Love of God Within the Heart</title>
+		</titles>
+		<authors>
+			<author>Laurene Highfield (1916)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="36"/>
+		</songbooks>
+		<comments>
+			<comment>1 John 4:10-11; 1 John 4:19</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Since the love of God has shed
+Priceless blessings on my head,
+I have made it my own;
+I will hide it in my heart
+That it never may depart,
+It shall rule there alone.</lines>
+		</verse>
+		<verse name="c">
+		<lines>The love of God within the heart
+Will kindliness and warmth impart;
+The soul will glow like Jesus in His tender mercy,
+If the heart is made His dwelling place;
+The love of God glows like a flame,
+Through endless years it is the same;
+The love of God will never fail nor lose its glory
+Till we see Him face to face.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Since the Son of God came down
+With His love our lives to crown,
+He with us would remain;
+Greater love there could not be,
+Jesus died for you and me,
+In our hearts, He would reign.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He who gave His love to me
+That I might from sin be free
+Bids me share it today;
+“As I love you,” He has said,
+“You must serve men in My stead
+As you go on your way.”</lines>
+		</verse>
+		<verse name="v4">
+			<lines>While His love burns true and bright,
+We are walking in the light,
+He has shown us the road;
+We His glory must reflect,
+Lest our dimness and neglect
+Keep some soul from it’s God.</lines>
+		</verse>
+	</lyrics>
+</song>

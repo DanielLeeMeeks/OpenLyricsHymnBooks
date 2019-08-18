@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>If You But Trust in God to Guide You</title>
+		</titles>
+		<authors>
+			<author>Georg Neumark (1641)</author>
+			<author>Catherine Winkworth (1855, 1863; alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3937251</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="15"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 48:14</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>If you but trust in God to guide you,
+And place your confidence in Him,
+You’ll find Him always there beside you
+To give you hope and strength within;
+For those who trust God’s changeless love
+Build on the Rock that will not move.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Only be still and wait His pleasure
+In cheerful hope, with heart content:
+He fills your needs to fullest measure
+With what discerning love has sent;
+Doubt not our inmost wants are known
+To Him who chose us for His own.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sing, pray, and keep His ways unswerving,
+Offer your service faithfully,
+And trust His word; though undeserving,
+You’ll find His promise true to be;
+God never will forsake in need
+The soul that trusts in Him indeed.</lines>
+		</verse>
+	</lyrics>
+</song>

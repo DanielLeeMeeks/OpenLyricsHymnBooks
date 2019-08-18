@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>Only Believe</title>
+		</titles>
+		<authors>
+			<author>Paul Rader (1921)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3276716</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="28"/>
+		</songbooks>
+		<comments>
+			<comment>Mark 9:23; Mark 11:23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Fear not, little flock, from the cross to the throne,
+From death into life He went for His own;
+All power in earth, all power above,
+Is given to Him for the flock of His love.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Only believe, only believe;
+All things are possible, only believe;
+Only believe, only believe;
+All things are possible, only believe.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Fear not, little flock, He goeth ahead,
+Your Shepherd selecteth the path you must tread;
+The waters of Marah He’ll sweeten for thee,
+He drank all the bitter in Gethsemane.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Fear not, little flock, whatever your lot,
+He enters all rooms, “the doors being shut,”
+He never forsakes; He never is gone,
+So count on His presence in darkness and dawn.</lines>
+		</verse>
+	</lyrics>
+</song>

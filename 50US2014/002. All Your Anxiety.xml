@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:37+04:00">
+	<properties>
+		<titles>
+			<title>All Your Anxiety</title>
+		</titles>
+		<authors>
+			<author>Edward H. Joy (1920, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27460</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="2"/>
+		</songbooks>
+		<comments>
+			<comment>Matthew 11:18; 1 Peter 5:7</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Is there a heart o’erbound by sorrow?
+Is there a life weighed down by care?
+Come to the cross, each burden bearing;
+All your anxiety—leave it there.</lines>
+		</verse>
+		<verse name="c">
+		<lines>All your anxiety, all your care,
+Bring to the mercy seat, leave it there,
+Never a burden He cannot bear,
+Never a friend like Jesus!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No other friend so swift to help you,
+No other friend so quick to hear,
+No other place to leave your burden,
+No other one to hear your prayer.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come then at once; delay no longer!
+Heed His entreaty kind and sweet,
+You need not fear a disappointment;
+You shall find peace at the mercy seat.</lines>
+		</verse>
+	</lyrics>
+</song>

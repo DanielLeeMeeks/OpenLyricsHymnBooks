@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Life Out of Death</title>
+		</titles>
+		<authors>
+			<author>Author Unknown</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7086226</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="21"/>
+		</songbooks>
+		<comments>
+			<comment>Romans 6:4; Jeremiah 18:4</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Life out of death—dear Master, is it spoken
+Of the life here, or in the better land?
+Nay, wherefore wait? The vessel marred and broken
+Shall now be molded by the Potter’s hand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Life out of death—oh, wondrous resurrection!
+Seed sown in conscious weakness, raised in pow’r;
+Thy life lived out in days of toil and friction,
+“Not I, but Christ” in me from hour to hour.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Life out of death—a pilgrim path and lonely,
+Trodden by those who glory in the cross;
+They live in fellowship with “Jesus only,”
+And for His sake count earthly gain but loss.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Life out of death—blest mission to be ever
+Bearing the living water brimming o’er;
+With life abundant from the clear, pure river,
+Telling that thirsty souls need thirst no more.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Like a River Glorious</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal (1876)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6464518</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="22"/>
+		</songbooks>
+		<comments>
+			<comment>Philippians 4:7; Isaiah 26:3; Isaiah 66:12</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Like a river glorious is God’s perfect peace,
+Over all victorious, in its bright increase;
+Perfect, yet it floweth fuller every day,
+Perfect, yet it groweth deeper all the way.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Stayed upon Jehovah, hearts are fully blest
+Finding, as He promised, perfect peace and rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hidden in the hollow of His blessed hand,
+Never foe can follow, never traitor stand;
+Not a surge of worry, not a shade of care,
+Not a blast of hurry touch the spirit there.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Every joy or trial falleth from above,
+Traced upon our dial by the Sun of Love;
+We may trust Him fully all for us to do;
+They who trust Him wholly find Him wholly true.</lines>
+		</verse>
+	</lyrics>
+</song>

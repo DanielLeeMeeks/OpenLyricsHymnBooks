@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>He Wants His Way in Thee</title>
+		</titles>
+		<authors>
+			<author>Charles W. Naylor (1918)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2301510</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="13"/>
+		</songbooks>
+		<comments>
+			<comment>1 John 3:24; Ephesians 5:18</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God has sent the Holy Spirit
+To our hearts an honored guest,
+To deliver us from evil,
+And to bring us peace and rest;
+He has come to work within us
+Heaven’s purposes so blest:
+He wants His way in thee.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Yield unto the Holy Spirit,
+Let Him have His way in thee;
+Be thou ready to obey Him,
+He leads to victory.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let the Spirit do the planning,
+Point the way thy feet shall go;
+Greater than thine own His wisdom,
+He the will of God doth know;
+Better, wiser than thy choosing
+Is the way that He will show:
+He wants His way in thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He doth sometimes work in silence,
+When thou dost not know at all;
+He doth sometimes speak so softly
+Thou must listen for His call;
+But if thou wilt trust Him fully,
+He will be thine all in all:
+He wants His way in thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>All thyself to Him surrender,
+As He pleases let Him do;
+In the paths He leadeth, follow,
+Whether they be old or new;
+When the tasks seem hard before thee,
+He with power will endue:
+He wants His way in thee.</lines>
+		</verse>
+	</lyrics>
+</song>

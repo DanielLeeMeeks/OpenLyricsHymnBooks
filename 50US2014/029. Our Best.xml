@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>Our Best</title>
+		</titles>
+		<authors>
+			<author>Salathiel C. Kirk (pub.1912)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="29"/>
+		</songbooks>
+		<comments>
+			<comment>Numbers 18:29; Romans 12:1; Ephesians 6:6-7</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hear ye the Master’s call, “Give Me thy best!”
+For, be it great or small, that is His test.
+Do then the best you can, not for reward,
+Not for the praise of men, but for the Lord.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Every work for Jesus will be blest,
+But He asks from everyone his best.
+Our talents may be few, these may be small,
+But unto Him is due our best, our all.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Wait not for men to laud, heed not their slight;
+Winning the smile of God brings its delight!
+Aiding the good and true ne’er goes unblest,
+All that we think or do, be it the best.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Night soon comes on apace, day hastens by;
+Workman and work must face testing on high.
+Oh, may we in that day find rest, sweet rest,
+Which God has promised those who do their best.</lines>
+		</verse>
+	</lyrics>
+</song>

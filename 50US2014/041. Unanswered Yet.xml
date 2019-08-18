@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>Unanswered Yet</title>
+		</titles>
+		<authors>
+			<author>Charles D. Tillman (pub.1883)</author>
+			<author>Unknown (pub.1912)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="41"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 143:1; Luke 18:1</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Unanswered yet? The prayer your lips have pleaded
+In agony of heart these many years?
+Does faith begin to fail, is hope departing,
+And think you all in vain those falling tears?
+Say not the Father hath not heard your prayer;
+You shall have your desire, sometime, somewhere.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Unanswered yet? Though when you first presented
+This one petition at the Father’s throne,
+It seemed you could not wait the time of asking,
+So urgent was your heart to make it known.
+Though years have passed since then, do not despair;
+The Lord will answer you, sometime, somewhere.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Unanswered yet? But you are not unheeded;
+The promises of God forever stand;
+To Him our days and years alike are equal;
+“Have faith in God”; it is your Lord’s command.
+Hold on to Jacob’s angel and your prayer
+Shall bring a blessing down sometime, somewhere.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Unanswered yet? Nay, do not say ungranted;
+Perhaps your part is not yet wholly done;
+The work began when first your prayer was uttered,
+And God will finish what He has begun.
+If you will keep the incense burning there,
+His glory you shall see, sometime, somewhere.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Unanswered yet? Faith cannot be unanswered;
+Her feet were firmly planted on the Rock;
+Amid the wildest storm prayer stands undaunted,
+Nor quails before the loudest thunder shock.
+She knows Omnipotence has heard her prayer,
+And cries, “It shall be done,” sometime, somewhere.</lines>
+		</verse>
+	</lyrics>
+</song>

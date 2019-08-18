@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>When Jesus Has Control</title>
+		</titles>
+		<authors>
+			<author>William C. Poole</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>69624</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="46"/>
+		</songbooks>
+		<comments>
+			<comment>Romans 6:13; Romans 8:13; Romans 12:1</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I find each day new victory,
+When Jesus has control,
+And blessings that are sent to me,
+When Jesus has control.</lines>
+		</verse>
+		<verse name="c">
+		<lines>When Jesus has control,
+When Jesus has control;
+He leads the way from day to day,
+When Jesus has control.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I find new joys unknown before,
+When Jesus has control,
+And peace abiding more and more,
+When Jesus has control.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I find new strength to conquer wrong,
+When Jesus has control,
+And blessings with the victor’s song,
+When Jesus has control.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I find new light upon my way,
+When Jesus has control,
+To light and guide me day by day,
+When Jesus has control.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>I look beyond life’s unknown sea,
+When Jesus has control,
+And see the Homeland waiting me,
+When Jesus has control.</lines>
+		</verse>
+	</lyrics>
+</song>

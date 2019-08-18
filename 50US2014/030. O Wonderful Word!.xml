@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>O Wonderful Word!</title>
+		</titles>
+		<authors>
+			<author>Frances J. Crosby (ca.1886)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="30"/>
+		</songbooks>
+		<comments>
+			<comment>Isaiah 40:8; 1 Peter 1:25</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O wonderful, wonderful Word of the Lord!
+True wisdom its pages unfold;
+And though we may read them a thousand times o’er,
+They never, no never, grow old!
+Each line hath a treasure, each promise a pearl,
+That all if they will may secure;
+And we know that when time and the world pass away,
+God’s Word shall forever endure.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O wonderful, wonderful Word of the Lord!
+The lamp that our Father above
+So kindly has lighted to teach us the way
+That leads to the arms of His love!
+Its warnings, its counsels, are faithful and just;
+Its judgments are perfect and pure;
+And we know that when time and the world pass away,
+God’s Word shall forever endure.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O wonderful, wonderful Word of the Lord!
+Our only salvation is there;
+It carries conviction down deep in the heart,
+And shows us ourselves as we are.
+It tells of a Savior, and points to the cross,
+Where pardon we now may secure;
+For we know that when time and the world pass away,
+God’s Word shall forever endure.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O wonderful, wonderful Word of the Lord!
+The hope of our friends in the past;
+Its truth, where so firmly they anchored their trust,
+Through ages eternal shall last.
+O wonderful, wonderful Word of the Lord!
+Unchanging, abiding and sure;
+For we know that when time and the world pass away,
+God’s Word shall forever endure.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>I Know Whom I Have Believed</title>
+		</titles>
+		<authors>
+			<author>Daniel W. Whittle (pub.1883)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31762</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="16"/>
+		</songbooks>
+		<comments>
+			<comment>2 Timothy 1:12; Jude 1:24</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I know not why God’s wondrous grace
+To me He hath made known,
+Nor why, unworthy, Christ in love
+Redeemed me for His own.</lines>
+		</verse>
+		<verse name="c">
+		<lines>But “I know Whom I have believed,
+And am persuaded that He is able
+To keep that which I’ve committed
+Unto Him against that day.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I know not how this saving faith
+To me He did impart,
+Nor how believing in His Word
+Wrought peace within my heart.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I know not how the Spirit moves,
+Convincing men of sin,
+Revealing Jesus through the Word,
+Creating faith in Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I know not what of good or ill
+May be reserved for me,
+Of weary ways or golden days,
+Before His face I see.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>I know not when my Lord may come,
+At night or noonday fair,
+Nor if I walk the vale with Him,
+Or meet Him in the air.</lines>
+		</verse>
+	</lyrics>
+</song>

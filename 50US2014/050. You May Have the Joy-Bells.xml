@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:44+04:00">
+	<properties>
+		<titles>
+			<title>You May Have the Joy-Bells</title>
+		</titles>
+		<authors>
+			<author>J. Edward Ruark (pub.1899)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="50"/>
+		</songbooks>
+		<comments>
+			<comment>Romans 15:13; Psalm 16:11</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>You may have the joy-bells ringing in your heart,
+And a peace that from you never will depart;
+Walk the straight and narrow way,
+Live for Jesus every day,
+He will keep the joy-bells ringing in your heart.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Joy-bells ringing in your heart,
+Joy-bells ringing in your heart;
+Take the Savior here below
+With you everywhere you go;
+He will keep the joy-bells ringing in your heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Love of Jesus in its fullness you may know;
+And this love to those around you sweetly show;
+Words of kindness always say;
+Deeds of mercy do each day,
+Then He’ll keep the joy-bells ringing in your heart.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>You will meet with trials as you journey home;
+Grace sufficient He will give to overcome;
+Though unseen by mortal eye,
+He is with you ever nigh,
+And He’ll keep the joy-bells ringing in your heart.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Let your life speak well of Jesus every day;
+Own His right to every service you can pay;
+Sinners you can help to win
+If your life is pure and clean,
+And you keep the joy-bells ringing in your heart.</lines>
+		</verse>
+	</lyrics>
+</song>

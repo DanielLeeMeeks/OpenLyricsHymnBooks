@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>He Brought Me Out</title>
+		</titles>
+		<authors>
+			<author>Henry J. Zelley (1898)</author>
+			<author>Henry L. Gilmour (1898)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>42902</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="11"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 40:2-3</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My heart was distressed ’neath Jehovah’s dread frown,
+And low in the pit where my sins dragged me down;
+I cried to the Lord from the deep miry clay,
+Who tenderly brought me out to golden day.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He brought me out of the miry clay,
+He set my feet on the Rock to stay;
+He puts a song in my soul today,
+A song of praise, hallelujah!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He placed me upon the strong Rock by His side,
+My steps were established and here I’ll abide;
+No danger of falling while here I remain,
+But stand by His grace until the crown I gain.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He gave me a song, ’twas a new song of praise;
+By day and by night its sweet notes I will raise;
+My heart’s overflowing, I’m happy and free;
+I’ll praise my Redeemer, Who has rescued me.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I’ll sing of His wonderful mercy to me,
+I’ll praise Him till all men His goodness shall see;
+I’ll sing of salvation at home and abroad,
+Till many shall hear the truth and trust in God.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>I’ll tell of the pit, with its gloom and despair,
+I’ll praise the dear Father, who answered my prayer;
+I’ll sing my new song, the glad story of love,
+Then join in the chorus with the saints above.</lines>
+		</verse>
+	</lyrics>
+</song>

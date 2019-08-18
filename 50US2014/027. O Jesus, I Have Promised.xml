@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>O Jesus, I Have Promised</title>
+		</titles>
+		<authors>
+			<author>John E. Bode (1868; alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3715095</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="27"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 119:57; Luke 9:26</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Jesus, I have promised to serve Thee to the end;
+Be Thou forever near me, my Master and my Friend;
+I shall not fear the battle if Thou art by my side,
+Nor wander from the pathway if Thou wilt be my Guide.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oh, let me hear Thee speaking in accents clear and still,
+I dare not trust my judgment: Thy way shall be my will;
+Oh, speak to reassure me, to hasten or control;
+Oh, speak, and help me listen, Thou Guardian of my soul.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O Jesus, Thou hast promised to all who follow Thee
+That where Thou art in glory there shall Thy servant be;
+And Jesus, I have promised to serve Thee to the end—
+Oh, give me grace to follow, my Master and my Friend.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Oh, let me see Thy footprints, and in them plant mine own;
+My hope to follow duly is in Thy strength alone;
+Oh, guide me, call me, draw me, uphold me to the end;
+And then in Heav’n receive me, my Savior and my Friend.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:38+04:00">
+	<properties>
+		<titles>
+			<title>Hallelujah for the Blood</title>
+		</titles>
+		<authors>
+			<author>Lelia N. Morris (pub.1899)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="9"/>
+		</songbooks>
+		<comments>
+			<comment>1 Peter 1:18-19; Ephesians 1:7; 1 John 1:7</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hallelujah for the blood, for the sin-cleansing fountain,
+For the Lamb has been slain, and the ransom price paid;
+Fully cancelled was the debt, when on Calvary’s mountain
+All the sins of this world upon Jesus were laid.</lines>
+		</verse>
+		<verse name="c">
+		<lines>There was no arm to save, there was no eye to pity,
+Until Jesus our Savior from glory came down;
+He was mighty to save, He was strong to deliver,
+He has brought us salvation, a robe and a crown;
+Hallelujah, hallelujah, sing the triumphant strain;
+Hallelujah, for the blood and the Lamb that was slain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hallelujah for the blood; sing for joy, all ye nations,
+And rejoice that the work of redemption is done;
+Here is pardon free for all, and a perfect salvation
+Through the sin-cleansing blood of the Crucified One.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Hallelujah for the blood, hallelujah forever!
+We shall sing it anew in the kingdom of God,
+Where the anthems of delight shall be silent, no, never;
+Evermore hallelujah for Christ and the blood.</lines>
+		</verse>
+	</lyrics>
+</song>

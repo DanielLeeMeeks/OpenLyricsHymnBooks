@@ -1,0 +1,89 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Priceless Treasure</title>
+		</titles>
+		<authors>
+			<author>Johann Franck (pub.1653)</author>
+			<author>Catherine Winkworth (pub.1863; alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5264898</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="19"/>
+		</songbooks>
+		<comments>
+			<comment>Matthew 13:44; Matthew 8:19; Colossians 2:3</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, priceless Treasure,
+Source of purest pleasure,
+Truest friend to me.
+Long my heart hath panted,
+Till it almost fainted,
+Thirsting after Thee.
+Thine I am, O spotless Lamb,
+I will suffer naught to hide Thee,
+Ask for nought beside Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In Thy arms I rest me;
+Foes who would molest me
+Cannot reach me here.
+Though the earth be shaking,
+Every heart be quaking,
+Jesus calms my fear.
+Sin and hell in conflict fell,
+With their heaviest storms assail me:
+Jesus will not fail me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Satan, I defy thee;
+Death, I now decry thee;
+Fear, I bid thee cease.
+World, thou shalt not harm me
+Nor thy threats alarm me
+While I sing of peace.
+God’s great pow’r guards every hour;
+Earth and all its depths adore Him,
+Silent bow before Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Evil world, I leave thee;
+Thou shalt not deceive me,
+Thy appeal is vain.
+Sin that once did bind me,
+Get thee far behind me,
+Come not forth again.
+Past thy hour, O pride and pow’r;
+Sinful life, thy bonds I sever,
+Leave thee now forever.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Hence, all earthly treasure!
+Jesus is my pleasure;
+Jesus is my choice.
+Hence, all empty glory!
+What to me thy story
+Told with tempting voice?
+Pain or loss or shame or cross
+Shall not from my Savior move me,
+Since He chose to love me.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Hence, all thought of sadness!
+For the Lord of gladness,
+Jesus, enters in.
+Those who love the Father,
+Though the storms may gather,
+Still have peace within;
+Yea, whate’er we here must bear,
+Still in Thee lies purest pleasure,
+Jesus, priceless Treasure!</lines>
+		</verse>
+	</lyrics>
+</song>

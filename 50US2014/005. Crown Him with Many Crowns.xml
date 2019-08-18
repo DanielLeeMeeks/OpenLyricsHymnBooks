@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:38+04:00">
+	<properties>
+		<titles>
+			<title>Crown Him with Many Crowns</title>
+		</titles>
+		<authors>
+			<author>Matthew Bridges (pub.1852)</author>
+			<author>Godfrey Thring (pub.1874)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>23938</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="5"/>
+		</songbooks>
+		<comments>
+			<comment>Revelation 4:10; Revelation 19:12</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Crown Him with many crowns,
+The Lamb upon His throne;
+Hark! How the heav’nly anthem drowns
+All music but its own!
+Awake, my soul and sing
+Of Him Who died for thee,
+And hail Him as thy matchless King
+Through all eternity.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Crown Him the Lord of love!
+Behold His hands and side—
+Rich wounds, yet visible above,
+In beauty glorified.
+No angel in the sky
+Can fully bear that sight,
+But downward bends His wond’ring eye
+At mysteries so bright.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Crown Him the Lord of life!
+Who triumphed o’er the grave,
+Who rose victorious in the strife
+For those He came to save.
+His glories now we sing,
+Who died, and rose on high,
+Who died eternal life to bring,
+And lives that death may die.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Crown Him the Lord of heav’n!
+One with the Father known,
+One with the Spirit through Him giv’n
+From yonder glorious throne,
+To Thee be endless praise,
+For Thou for us hast died;
+Be Thou, O Lord, through endless days
+Adored and magnified.</lines>
+		</verse>
+	</lyrics>
+</song>

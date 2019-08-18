@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:43+04:00">
+	<properties>
+		<titles>
+			<title>We Know Not the Hour</title>
+		</titles>
+		<authors>
+			<author>Franklin E. Belden (1886)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="42"/>
+		</songbooks>
+		<comments>
+			<comment>Matthew 24:42</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We know not the hour of the Master’s appearing,
+Yet signs all foretell that the moment is nearing
+When He shall return—’tis a promise most cheering—
+But we know not the hour.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He will come, let us watch and be ready;
+He will come, hallelujah! hallelujah!
+He will come in the clouds of His Father’s bright glory—
+But we know not the hour.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There’s light for the wise who are seeking salvation,
+There’s truth in the Book of divine revelation—
+Each prophecy points to the great consummation—
+But we know not the hour.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We’ll watch and we’ll pray, with our lamps trimmed and burning,
+We’ll work and we’ll wait till the Master’s returning,
+We’ll sing and rejoice, every omen discerning—
+But we know not the hour.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:41+04:00">
+	<properties>
+		<titles>
+			<title>My Father Knows</title>
+		</titles>
+		<authors>
+			<author>Sarepta M. I. Henry (pub.1897)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="26"/>
+		</songbooks>
+		<comments>
+			<comment>Job 23:10; Matthew 6:8</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I know my heav’nly Father knows
+The storms that would my way oppose;
+But He can drive the clouds away,
+And turn the darkness into day.</lines>
+		</verse>
+		<verse name="c">
+		<lines>He knows, He knows
+The storms that would my way oppose;
+He knows, He knows,
+And tempers every wind that blows.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I know my heav’nly Father knows
+The balm I need to soothe my woes;
+And with His touch of love divine
+He heals this wounded heart of mine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I know my heav’nly Father knows
+How frail I am to meet my foes;
+But He my cause will e’er defend,
+Uphold and keep me to the end.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I know my heav’nly Father knows
+The hour my journey here will close;
+And may that hour, O faithful Guide,
+Find me safe sheltered by Thy side.</lines>
+		</verse>
+	</lyrics>
+</song>

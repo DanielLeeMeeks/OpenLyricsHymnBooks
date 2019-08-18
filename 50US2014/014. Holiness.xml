@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:39+04:00">
+	<properties>
+		<titles>
+			<title>Holiness</title>
+		</titles>
+		<authors>
+			<author>Barney E. Warren</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="14"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 29:2; Psalm 110:3</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Beautiful holiness! theme of the Bible,
+Filling my heart with its riches of grace;
+Cleansing and keeping me ever from evil,
+Fitting my soul for that heavenly place.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Beautiful holiness! fair as the morning,
+Sparkling with jewels of purity bright;
+Rubies of grace in their splendid adorning,
+Cover me here as I walk in the light.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Beautiful holiness! coming from heaven,
+Likeness of God and the angels above;
+Jesus, the way, and the Bible, are given—
+Wonderful favor through infinite love!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Beautiful holiness! blissful, eternal,
+Surely without it no man seeth God;
+It will prepare us for glories immortal—
+This is the way our dear Savior hath trod.</lines>
+		</verse>
+	</lyrics>
+</song>

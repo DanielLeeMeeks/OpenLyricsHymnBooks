@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>I'm on the Winning Side</title>
+		</titles>
+		<authors>
+			<author>Charles W. Naylor (1921)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="17"/>
+		</songbooks>
+		<comments>
+			<comment>1 Samuel 17:47; Romans 8:37</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Along the way of life are many foes
+That daily war against my soul;
+But constant victory
+My Savior gives to me
+As I press on to the goal.</lines>
+		</verse>
+		<verse name="c">
+		<lines>On the winning side, I’m on the winning side,
+I’m on the winning side with Jesus;
+Though hot may be the fray,
+My soul can boldly say,
+I’m on the winning side with Jesus.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The battle may be long and hard to win,
+And Satan’s hosts may press me sore;
+But though I may be tried,
+I’m on the winning side,
+I shall triumph evermore.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>A multitude of warriors of the cross
+In serried ranks do bravely fight;
+They never shall retreat,
+Nor ever know defeat,
+They are winning for the right.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>With courage in my soul I’ll do my part,
+For Jesus I will loyal stand;
+So on the winning side
+Triumphant I abide
+With the faithful, holy band.</lines>
+		</verse>
+	</lyrics>
+</song>

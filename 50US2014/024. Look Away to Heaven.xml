@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>Look Away to Heaven</title>
+		</titles>
+		<authors>
+			<author>Joel A. Erickson (2006)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7001228</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="24"/>
+		</songbooks>
+		<comments>
+			<comment>Hebrews 12:1-2; Matthew 6:19-21</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Look away, dear pilgrim, to heaven above:
+Jesus is waiting for you;
+Set aside earth’s striving, and seek treasure of
+That realm beyond earthly view.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Look away to heaven—what glory awaits!
+Watch, lest this world drag you down;
+Dropping all distractions, then press for those gates—
+There is your mansion and crown!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Never will you find what you need here to live:
+This world cannot satisfy;
+Jesus has the joy that this world cannot give,
+And greater joys are on high.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Just a moment more and the trumpet shall sound—
+Jesus is waiting for me;
+Heaven has my heart-strings, for heaven I’m bound,
+With Him in heaven I’ll be!</lines>
+		</verse>
+	</lyrics>
+</song>

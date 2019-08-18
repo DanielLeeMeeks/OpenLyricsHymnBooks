@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:42+04:00">
+	<properties>
+		<titles>
+			<title>The King's Business</title>
+		</titles>
+		<authors>
+			<author>Elijah T. Cassel (1902)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="34"/>
+		</songbooks>
+		<comments>
+			<comment>2 Corinthians 5:20</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I am a stranger here, within a foreign land;
+My home is far away, upon a golden strand;
+Ambassador to be of realms beyond the sea,
+I’m here on business for my King.</lines>
+		</verse>
+		<verse name="c">
+		<lines>This is the message that I bring,
+A message angels fain would sing:
+“Oh, be ye reconciled,”
+Thus saith my Lord and King,
+“Oh, be ye reconciled to God.”</lines>
+		</verse>
+		<verse name="v2">
+			<lines>This is the King’s command: that all men, everywhere,
+Repent and turn away from sin’s seductive snare;
+That all who will obey, with Him shall reign for aye,
+And that’s my business for my King.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>My home is brighter far than Sharon’s rosy plain,
+Eternal life and joy throughout its vast domain;
+My Sov’reign bids me tell how mortals there may dwell,
+And that’s my business for my King.</lines>
+		</verse>
+	</lyrics>
+</song>

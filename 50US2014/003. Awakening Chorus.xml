@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:38+04:00">
+	<properties>
+		<titles>
+			<title>Awakening Chorus</title>
+		</titles>
+		<authors>
+			<author>Charles H. Gabriel (1905)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="3"/>
+		</songbooks>
+		<comments>
+			<comment>Psalm 57:7-11; Psalm 83:18</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Awake! awake! and sing the blessed story;
+Awake! awake! and let your song of praise arise;
+Awake! awake! the earth is full of glory,
+And light is beaming from the radiant skies;
+The rocks and rills, the vales and hills resound with gladness,
+All nature joins to sing the triumph song.</lines>
+		</verse>
+		<verse name="c">
+		<lines>The Lord Jehovah reigns and sin is backward hurled!
+Rejoice! rejoice! lift heart and voice, Jehovah reigns!
+Proclaim His sov’reign pow’r to all the world,
+And let His glorious banner be unfurled!
+Jehovah reigns! Rejoice! rejoice! rejoice! Jehovah reigns!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ring out! ring out! O bells of joy and gladness;
+Repeat, repeat anew the story o’er again,
+Till all the earth shall lose its weight of sadness,
+And shout anew the glorious refrain;
+Ye angels in the heights, sing of the great Redeemer,
+Who saves us from the pow’r of sin and death.</lines>
+		</verse>
+	</lyrics>
+</song>

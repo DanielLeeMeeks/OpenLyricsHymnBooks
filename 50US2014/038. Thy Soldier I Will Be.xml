@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:42+04:00">
+	<properties>
+		<titles>
+			<title>Thy Soldier I Will Be</title>
+		</titles>
+		<authors>
+			<author>Author Unknown (pub.1922)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="38"/>
+		</songbooks>
+		<comments>
+			<comment>2 Timothy 2:3</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The die is cast, my choice is made,
+A soldier I will be;
+Where Jesus leads I’m not afraid,
+A soldier I will be.
+In any clime, in any place,
+E’en can I not my Savior trace,
+To spread the news of Jesus’ grace,
+A soldier I will be.</lines>
+		</verse>
+		<verse name="c">
+		<lines>I’ll follow Thee, my Savior,
+No matter where it be;
+I’ll follow Thee, my Savior,
+O’er mountain, vale, or sea;
+I’ll follow Thee, my Savior,
+You can depend on me:
+In joy or pain, in loss or gain,
+Thy soldier I will be.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In spite of sorrow, toil, or pain,
+A soldier I will be;
+I’ll bear the cross, despise the shame,
+A soldier I will be.
+I know no color, class, or state,
+But cry, “Repent, ere ’tis too late!”
+And save lost souls from hell’s sad fate,
+A soldier I will be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Until I draw my latest breath
+A soldier I will be;
+And when my eyes shall close in death,
+A soldier I will be.
+And when I reach those gates of pearl,
+I’ll sheath my sword, my colors furl,
+Defiance at the foe I’ll hurl,
+A soldier I will be.</lines>
+		</verse>
+	</lyrics>
+</song>

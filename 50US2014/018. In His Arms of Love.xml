@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:40+04:00">
+	<properties>
+		<titles>
+			<title>In His Arms of Love</title>
+		</titles>
+		<authors>
+			<author>Joel A. Erickson (2005)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5636866</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="50 Uncommon Songs" entry="18"/>
+		</songbooks>
+		<comments>
+			<comment>Song of Solomon 6:3</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The waves are tossing, billows roll,
+And storm clouds screen the sunny sky;
+I’ll trust the Lover of my soul,
+For I am safe when He is nigh.
+He’ll carry me up, up, away—
+Above the clouds the sun doth shine;
+In His dear arms of love I’ll lay,
+For I am His and He is mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I cannot see the way before;
+Through desert wastes or by the sea—
+Whatever He may have in store,
+I’ll drink the cup He giveth me.
+I’ll lowly let Him have His way
+To purge all dross and gold refine;
+In His dear arms of love I’ll lay,
+For I am His and He is mine.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let nothing ever come to cool
+My love for Him who loveth me;
+Let nothing blight the bliss but fuel
+The flame to burn away debris.
+Let nothing turn my feet astray,
+Nor strain the ties that intertwine;
+In His dear arms of love I’ll lay,
+For I am His and He is mine.</lines>
+		</verse>
+	</lyrics>
+</song>
