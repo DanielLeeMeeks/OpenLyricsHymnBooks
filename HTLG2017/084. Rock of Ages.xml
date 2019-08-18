@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:05+04:00">
+	<properties>
+		<titles>
+			<title>Rock of Ages</title>
+		</titles>
+		<authors>
+			<author>Augustus M. Toplady (1776)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>40588</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="84"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rock of Ages, cleft for me,
+let me hide myself in Thee;
+let the water and the blood
+from Thy wounded side which flowed,
+be of sin the double cure;
+cleanse me from its guilt and pow'r.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not the labors of my hands
+can fulfil Thy Law's demands;
+could my zeal no respite know,
+could my tears forever flow,
+all for sin could not atone;
+Thou must save, and Thou alone.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nothing in my hand I bring,
+simply to Thy cross I cling.
+Naked, come to Thee for dress;
+helpless, look to Thee for grace;
+foul, I to the fountain fly;
+wash me, Savior, or I die!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>While I draw this fleeting breath,
+when mine eyelids close in death,
+when I soar to worlds unknown,
+see Thee on Thy judgment throne,
+Rock of Ages, cleft for me,
+let me hide myself in Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

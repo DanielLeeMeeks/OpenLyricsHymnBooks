@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:14+04:00">
+	<properties>
+		<titles>
+			<title>Gentle Mary Laid Her Child</title>
+		</titles>
+		<authors>
+			<author>Joseph S. Cook (1919)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>698851</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="115"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Gentle Mary laid her Child
+lowly in a manger;
+there He lay, the undefiled,
+to the world a stranger;
+such a Babe in such a place,
+can He be the Savior?
+Ask the saved of all the race
+who have found His favor.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Angels sang about His birth;
+wise men sought and found Him;
+heaven’s star shone brightly forth,
+glory all around Him;
+shepherds saw the wondrous sight,
+heard the angels singing;
+all the plains were lit that night,
+all the hills were ringing.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Gentle Mary laid her Child
+lowly in a manger;
+He is still the undefiled,
+but no more a stranger;
+Son of God, of humble birth,
+beautiful the story;
+praise His name in all the earth;
+hail the King of glory!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:03+04:00">
+	<properties>
+		<titles>
+			<title>How Sad Our State</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5173491</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="76"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How sad our state by nature is,
+our sin, how deep it stains;
+and Satan binds our captive minds
+fast in his slavish chains.
+But there's a voice of sov'reign grace
+sounds from the sacred Word,
+"Ho, ye despairing sinners, come,
+and trust upon the Lord."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My soul obeys th'almighty call,
+and runs to this relief;
+I would believe Thy promise, Lord,
+O help my unbelief.
+Unto the fountain of Thy blood,
+Incarnate God, I fly;
+here let me wash my spotted soul,
+from Crimes of deepest dye.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Stretch out Thine arm, victorious King,
+my reigning sins subdue;
+and drive the dragon from his seat,
+with all his hellish crew.
+A guilty, weak, and helpless worm,
+on Thy kind arms I fall;
+be thou my strength and righteousness,
+my Jesus and my all.</lines>
+		</verse>
+	</lyrics>
+</song>

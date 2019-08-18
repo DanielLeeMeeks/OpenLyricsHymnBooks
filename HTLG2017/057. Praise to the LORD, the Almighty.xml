@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:57+04:00">
+	<properties>
+		<titles>
+			<title>Praise to the LORD, the Almighty</title>
+		</titles>
+		<authors>
+			<author>Joachim Neander (1680)</author>
+			<author>Catherine Winkworth (1863, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>43073</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="57"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 103:1-6</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise to the LORD, the Almighty, the King of creation!
+O my soul, praise Him, for He is thy health and salvation.
+All ye who hear,
+now to His temple draw near:
+join me in glad adoration!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Praise to the LORD, who o'er all things so wondrously reigneth,
+shelters thee under His wings, yea, so gently sustaineth!
+Hast thou not seen
+how thy desires e'er have been
+granted in what He ordaineth?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Praise to the LORD, who with marvelous wisdom hath made thee,
+decked thee with health, and with loving han guided and stayed thee.
+How oft in grief
+hath not He brought thee relief,
+spreading His wings for to shade thee!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Praise to the LORD, who doth prosper thy works and defend thee;
+surely His goodness and mercy here daily attend thee.
+Ponder anew
+what the Almighty can do,
+if with His love He befriend thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Praise to the LORD, O let all that is in me adore Him!
+All that hath life and breath, come now with praises before Him!
+Let the amen
+sound from His people again:
+gladly forever adore Him!</lines>
+		</verse>
+	</lyrics>
+</song>

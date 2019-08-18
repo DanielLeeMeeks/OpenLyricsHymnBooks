@@ -1,0 +1,70 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:06+04:00">
+	<properties>
+		<titles>
+			<title>From Depths of Woe</title>
+		</titles>
+		<authors>
+			<author>Martin Luther (1524)</author>
+			<author>Catherine Winkworth (1863, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6102526</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="87"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 130</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>From depths of woe I cry to Thee;
+Lord, hear me, I implore Thee.
+Bend down Thy gracious ear to me;
+my pray'r let come before Thee.
+If Thou rememb'rest every sin,
+if nought but just reward we win,
+could we abide Thy presence?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy love and grace alone avail
+to blot out my transgression;
+the best and holiest deeds must fail
+to break sin's dread oppression.
+Before Thee none can boasting stand,
+but all must fear Thy strict demand
+and live alone by mercy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Therefore my hope is in the LORD
+and not in mine own merit;
+it rests upon His faithful Word
+to them of contrite spirit
+that He is merciful and just;
+this is my comfort and my trust.
+His help I wait with patience.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>And though it tarry till the night
+and till the morning waken,
+my heart shall never doubt His might
+nor count itself forsaken.
+Do thus, O ye of Adam's seed,
+ye of the Spirit born indeed;
+wait for your God's appearing.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Though great our time and sore our woes,
+His grace much more aboundeth;
+His helping love on emit knows,
+or utmost need it soundeth.
+Our Shepherd good and true is He,
+who will at last His people free
+from all their sin and sorrow.</lines>
+		</verse>
+	</lyrics>
+</song>

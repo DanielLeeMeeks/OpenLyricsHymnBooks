@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:30+04:00">
+	<properties>
+		<titles>
+			<title>Alleluia! Alleluia! Hearts to Heaven</title>
+		</titles>
+		<authors>
+			<author>Christopher Wordsworth (1862)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1425645</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="170"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Alleluia, alleluia!
+Hearts to heav'n and voices raise:
+sing to God a hymn of gladness,
+sing to God a hymn of praise.
+He, who on the cross a victim
+for the world's salvation bled,
+Jesus Christ, the King of glory,
+now is risen from the dead.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Now the iron bars are broken,
+Christ from death to life is born,
+glorious life, and life immortal,
+on the holy Easter morn.
+Christ has triumphed, and we conquer
+by His mighty enterprise;
+we with Him to life eternal
+by His resurrection rise.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Christ is risen, Christ, the first-fruits
+of the holy harvest field,
+which will all its full abundance
+at His second coming yield.
+Then the golden ears of harvest
+will their heads before Him wave,
+ripened by His glorious sunshine
+from the furrows of the grave.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Christ is risen, we are risen!
+Shed upon us heav'nly grace,
+rain, and dew and gleams of glory
+from the brightness of Thy face,
+that we, with our hearts in heaven,
+here on earth may fruitful be,
+and by angel hands be gathered,
+and be ever, Lord, with Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Alleluia, alleluia!
+Glory be to God on high!
+Alleluia! to the Savior
+who has gained the victory!
+Alleluia! to the Spirit,
+fount of love and sanctity!
+Alleluia, alleluia
+to the Triune Majesty.</lines>
+		</verse>
+	</lyrics>
+</song>

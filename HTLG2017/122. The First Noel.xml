@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:16+04:00">
+	<properties>
+		<titles>
+			<title>The First Noel</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31047</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="122"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The first noel the angel did say
+was to certain poor shepherds in fields as they lay,
+in fields where they lay keeping their sheep
+on a cold winter's night that was so deep.
+Noel, noel, noel, noel!
+Born is the King of Israel!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>They lookèd up and saw a star
+shining in the east, beyond them far;
+and to the earth it gave great light,
+and so it continued both day and night.
+Noel, noel, noel, noel!
+Born is the King of Israel!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And by the light of that same star,
+three wise men came from country far;
+to seek for a king was their intent,
+and to follow the star wherever it went.
+Noel, noel, noel, noel!
+Born is the King of Israel!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>This star drew nigh to the northwest,
+over Bethlehem it took its rest;
+and there it did both stop and stay
+right over the place where Jesus lay.
+Noel, noel, noel, noel!
+Born is the King of Israel!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then entered in those wise men three,
+full rev'rently upon their knee,
+and offered there in His presence,
+their gold, and myrrh, and frankincense.
+Noel, noel, noel, noel!
+Born is the King of Israel!</lines>
+		</verse>
+	</lyrics>
+</song>

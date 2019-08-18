@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:11+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Shall Reign</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7106241</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="105"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 72</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus shall reign where'er the sun
+does its successive journeys run;
+His kingdom stretch from shore to shore,
+till moons shall wax and wane no more.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To Him shall endless pray'r be made,
+and endless praises crown his Head;
+His name like sweet perfume shall rise
+with ev'ry morning sacrifice.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>People and realms of ev'ry tongue
+dwell on His love with sweetest song,
+and infant voices shall proclaim
+their early blessings on His name.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Blessings abound where'er He reigns;
+the pris'ners leap to lose their chains,
+the weary find eternal rest,
+and all who suffer want are blessed.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Let ev'ry creature rise and bring
+their grateful honors to our King.
+Angels descend with songs again,
+and earth repeat the loud "Amen!"</lines>
+		</verse>
+	</lyrics>
+</song>

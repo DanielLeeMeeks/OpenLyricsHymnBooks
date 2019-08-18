@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:55+04:00">
+	<properties>
+		<titles>
+			<title>I Sing the Mighty Power of God</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1715)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>29097</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="53"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I sing the mighty pow'r of God
+that made the mountains rise,
+that spread the flowing seas abroad
+and built the lofty skies.
+I sing the wisdom that ordained
+the sun to rule the day;
+the moon shines full at His command,
+and all the stars obey.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I sing the goodness of the Lord
+that filled the earth with food;
+He formed the creatures with His Word
+and then pronounced them good.
+Lord, how Thy wonders are displayed,
+where'er I turn my eye
+if I survey the ground I tread,
+or gaze upon the sky.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>There's not a plant or flow'r below
+but makes Thy glories known;
+and clouds arise and tempests blow
+by order from Thy throne;
+while all that borrows life from Thee
+is ever in Thy care,
+and ev'rywhere that man can be,
+Thou, God, art present there.</lines>
+		</verse>
+	</lyrics>
+</song>

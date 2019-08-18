@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:54+04:00">
+	<properties>
+		<titles>
+			<title>Safely Through Another Week</title>
+		</titles>
+		<authors>
+			<author>John Newton (1774)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>122042</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="47"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Safely through another week
+God has brought us on our way;
+let us now a blessing seek,
+waiting in His courts today;
+day of all the week the best,
+emblem of eternal rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>While we pray for pard'ning grace,
+through the dear Redeemer's name,
+show Thy reconciling face;
+take away our sin and shame;
+from our worldly cares set free,
+may we rest this day in Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Here we come Thy name to praise,
+let us feel Thy presence near;
+may Thy glory meet our eyes,
+while we in Thy house appear:
+here afford us, Lord, a taste
+of our everlasting feast.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>May Thy gospel's joyful sound
+conquer sinners, comfort saints;
+may the fruits of grace abound,
+bring relief for all complaints:
+thus may all our Sabbaths prove,
+till we join the church above.</lines>
+		</verse>
+	</lyrics>
+</song>

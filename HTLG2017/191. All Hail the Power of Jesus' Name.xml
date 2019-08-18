@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:36+04:00">
+	<properties>
+		<titles>
+			<title>All Hail the Power of Jesus' Name</title>
+		</titles>
+		<authors>
+			<author>Edward Perronet (1780)</author>
+			<author>John Rippon (1787)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>25400</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="191"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All hail the pow'r of Jesus' name!
+Let angels prostrate fall;
+bring forth the royal diadem,
+and crown Him Lord of all!
+Bring forth the royal diadem,
+and crown Him Lord of all!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ye chosen seed of Israel's race,
+ye ransomed from the fall,
+hail Him who saves you by His grace,
+and crown Him Lord of all!
+Hail Him who saves you by His grace,
+and crown Him Lord of all!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Crown Him, ye martyrs of your God,
+who from His altar call;
+extol the stem of Jesse's rod,
+and crown Him Lord of all!
+Extol the stem of Jesse's rod,
+and crown Him Lord of all!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Let ev'ry kindred, ev'ry tribe
+on this terrestrial ball
+to Him all majesty ascribe,
+and crown Him Lord of all!
+To Him all majesty ascribe,
+and crown Him Lord of all!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O that with yonder sacred throng
+we at His feet may fall!
+We'll join the everlasting song,
+and crown Him Lord of all!
+We'll join the everlasting song,
+and crown Him Lord of all!</lines>
+		</verse>
+	</lyrics>
+</song>

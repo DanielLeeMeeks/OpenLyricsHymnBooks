@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:19+04:00">
+	<properties>
+		<titles>
+			<title>Jerusalem, My Happy Home</title>
+		</titles>
+		<authors>
+			<author>F. B. P., 16th cent.</author>
+			<author>Augustine of Hippo, 5th cent.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="338"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jerusalem, my happy home,
+when shall I come to thee?
+When shall my sorrows have an end?
+Thy joys, when shall I see?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O happy harbor of the saints,
+O sweet and pleasant soil!
+In thee no sorrow may be found,
+no grief, no care, no toil.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy saints are crowned with glory great;
+they see God face to face;
+they triumph still, they still rejoice:
+most happy is their case.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jerusalem, Jerusalem,
+God grant that I may see
+thine endless joy, and of the same
+partaker ever be!</lines>
+		</verse>
+	</lyrics>
+</song>

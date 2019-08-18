@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:11+04:00">
+	<properties>
+		<titles>
+			<title>Lo! He Comes, with Clouds Descending</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1758, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2873086</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="103"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lo! He comes, with clouds descending,
+once for our salvation slain;
+thousand thousand saints attending
+swell the triumph of His train.
+Alleluia! Alleluia! Alleluia!
+God appears on earth to reign.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ev'ry eye shall now behold Him,
+robed in dreadful majesty;
+those who set at naught and sold Him,
+pierced, and nailed Him to the tree,
+deeply wailing, deeply wailing,
+shall the true Messiah see.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Every island, sea, and mountain,
+heav'n and earth, shall flee away;
+all who hate Him must, confounded,
+hear the trump proclaim the day:
+Come to judgment! Come to judgment!
+Come to judgment, come away!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Now redemption, long expected,
+see in solemn pomp appear!
+And His saints, by men rejected,
+coming with Him in the air.
+Alleluia! Alleluia! Alleluia!
+See the day of God appear!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Yea, amen! Let all adore Thee,
+high on Thine eternal throne;
+Savior, take the pow'r and glory,
+claim the kingdom for Thine own:
+O come quickly, O come quickly,
+Alleluia! Come, Lord, come!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:32+04:00">
+	<properties>
+		<titles>
+			<title>This Joyful Eastertide</title>
+		</titles>
+		<authors>
+			<author>George Ratcliffe Woodward (1894)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5632468</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="175"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>This joyful Eastertide,
+away with sin and sorrow!
+My Love, the Crucified,
+has sprung to life this morrow:</lines>
+		</verse>
+		<verse name="c">
+		<lines>Had Christ, who once was slain,
+not burst His three-day prison,
+our faith had been in vain;
+but now has Christ arisen,
+arisen, arisen;
+but now has Christ arisen!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Death’s flood has lost its chill
+since Jesus crossed the river;
+Lover of souls, from ill
+my passing soul deliver: [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>My flesh in hope shall rest
+and for a season slumber
+till trump from east to west
+shall wake the dead in number: [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

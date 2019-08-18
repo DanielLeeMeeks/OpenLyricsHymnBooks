@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:56+04:00">
+	<properties>
+		<titles>
+			<title>Praise the LORD who reigns above</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1743)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3511000</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="55"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 150</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise the Lord who reigns above
+and keeps His courts below;
+praise the holy God of love,
+and all His greatness show.
+Praise Him for His noble deeds,
+praise Him for His matchless pow'r;
+Him from whom all good proceeds
+let earth and heaven adore.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Celebrate th'eternal God
+with harp and psaltery;
+timbrels soft and cymbals loud
+in His high praise agree.
+Praise Him, ev'ry tuneful string;
+all the reach of heav'nly art,
+all the pow'rs of music bring,
+the music of the heart.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Him, in whom they move and live,
+let ev'ry creature sing,
+glory to their Maker give,
+and homage to their King.
+Hallowed be His name beneath,
+as in heav'n, on earth adored;
+praise the Lord in ev'ry breath,
+let all things praise the LORD!</lines>
+		</verse>
+	</lyrics>
+</song>

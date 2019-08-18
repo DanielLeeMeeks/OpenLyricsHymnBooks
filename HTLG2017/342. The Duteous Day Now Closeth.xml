@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:20+04:00">
+	<properties>
+		<titles>
+			<title>The Duteous Day Now Closeth</title>
+		</titles>
+		<authors>
+			<author>Paul Gerhardt (1648)</author>
+			<author>Robert S. Bridges (1899)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Benediction</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="342"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The duteous day now closeth,
+each flow'r and tree reposeth,
+shade creeps o’er wild and wood;
+let us, as night is falling,
+on God our Maker calling,
+give thanks to Him, the Giver good.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Now all the heav'nly splendor
+breaks forth in starlight tender
+from myriad worlds unknown;
+and man, the marvel seeing,
+forgets his selfish being,
+for joy of beauty not his own.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>His care he drowneth yonder,
+lost in th'abyss of wonder;
+to heav'n his soul doth steal;
+this life he disesteemeth,
+the day it is that dreameth,
+that doth from truth his vision seal.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Awhile his mortal blindness
+may miss God’s loving-kindness
+and grope in faithless strife;
+but when life’s day is over
+shall death’s fair night discover
+the fields of everlasting life.</lines>
+		</verse>
+	</lyrics>
+</song>

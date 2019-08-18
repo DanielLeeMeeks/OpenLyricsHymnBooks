@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:47+04:00">
+	<properties>
+		<titles>
+			<title>Father Most Holy</title>
+		</titles>
+		<authors>
+			<author>Percy Dearmer (1906)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4268682</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="24"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Father most holy, merciful, and tender;
+Jesus our Savior, with the Father reigning;
+Spirit of mercy, Advocate, Defender,
+Light never waning;</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Trinity blessed, Unity unshaken;
+Deity perfect, giving and forgiving;
+Light of the angels, Life of the forsaken,
+Hope of all living;</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Maker of all things, all Thy creatures praise Thee;
+lo, all things serve Thee, through Thy whole creation:
+hear us, Almighty, hear us as we raise Thee,
+heart's adoration.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To the almighty triune God be glory:
+highest and greatest, help Thou our endeavor;
+we, too, would praise Thee, giving honor worthy,
+now and forever.</lines>
+		</verse>
+	</lyrics>
+</song>

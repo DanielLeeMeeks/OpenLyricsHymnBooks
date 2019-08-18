@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:51+04:00">
+	<properties>
+		<titles>
+			<title>O Word of God Incarnate</title>
+		</titles>
+		<authors>
+			<author>William Walsham How (1867)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>121971</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God's Word</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="240"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Word of God incarnate,
+O Wisdom from on high,
+O Truth, unchanged, unchanging,
+O Light of our dark sky!
+We praise Thee for the radiance
+that from the hallowed page,
+a lantern to our footsteps,
+shines on from age to age.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The church from her dear Master
+received the gift divine,
+and still that light she lifteth
+o'er all the earth to shine.
+It is the golden casket
+where gems of truth are stored;
+it is the heav'n-drawn picture
+Of Christ, the living Word.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>It floateth like a banner
+before God's host unfurled;
+it shineth like a beacon
+above the darkling world;
+it is the chart and compass
+that o'er life's surging sea,
+mid mists and rocks and quicksands,
+still guides, O Christ, to Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O make Thy Church, dear Savior,
+a lamp of burnished gold,
+to bear before the nations
+Thy true light as of old;
+O teach Thy wand'ring pilgrims
+by this, their path to trace,
+till, clouds and darkness ended,
+They see Thee face to face.</lines>
+		</verse>
+	</lyrics>
+</song>

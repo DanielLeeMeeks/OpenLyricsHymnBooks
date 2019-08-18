@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:44+04:00">
+	<properties>
+		<titles>
+			<title>I Hear the Words of Love</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5942787</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="218"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I hear the words of love,
+I gaze upon the blood,
+I see the mighty sacrifice,
+and I have peace with God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>’Tis everlasting peace,
+sure as Jehovah’s name;
+’tis stable as His steadfast throne,
+for evermore the same.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The clouds may go and come,
+and storms may sweep my sky;
+this blood-sealed friendship changes not,
+the cross is ever nigh.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I change--He changes not;
+the Christ can never die;
+His love, not mine, the resting-place;
+His truth, not mine, the tie.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>My love is oftimes low,
+my joy still ebbs and flows,
+but peace with Him remains the same;
+no change Jehovah knows.</lines>
+		</verse>
+	</lyrics>
+</song>

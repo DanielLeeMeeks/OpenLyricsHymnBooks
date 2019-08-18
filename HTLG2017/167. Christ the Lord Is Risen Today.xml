@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:29+04:00">
+	<properties>
+		<titles>
+			<title>Christ the Lord Is Risen Today</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1739)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27965</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="167"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ the Lord is ris'n today, Alleluia!
+Sons of men and angels say, Alleluia!
+Raise your joys and triumphs high, Alleluia!
+Sing ye heav'ns, and earth, reply, Alleluia!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Love's redeeming work is done, Alleluia!
+Fought the fight, the battle won, Alleluia!
+Death in vain forbids Him rise, Alleluia!
+Christ hath opened Paradise, Alleluia!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lives again our glorious King, Alleluia!
+Where, O death, is now thy sting? Alleluia!
+Once He died, our souls to save, Alleluia!
+Where thy victory, O grave? Alleluia!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Soar we now where Christ has led, Alleluia!
+Foll'wing our exalted Head, Alleluia!
+Made like Him, like Him we rise, Alleluia!
+Ours the cross, the grave, the skies, Alleluia!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Hail, the Lord of earth and heav'n! Alleluia!
+Praise to Thee by both be giv'n, Alleluia!
+Thee we greet triumphant now, Alleluia!
+Hail, the Resurrection Thou! Alleluia!</lines>
+		</verse>
+	</lyrics>
+</song>

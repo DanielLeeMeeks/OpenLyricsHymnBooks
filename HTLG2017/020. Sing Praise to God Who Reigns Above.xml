@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:46+04:00">
+	<properties>
+		<titles>
+			<title>Sing Praise to God Who Reigns Above</title>
+		</titles>
+		<authors>
+			<author>Johann J. Schütz (1675)</author>
+			<author>Frances E. Cox (1864, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3926004</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="20"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sing praise to God who reigns above,
+the God of all creation;
+the God of pow'r, the God of love,
+the God of our salvation;
+with healing balm my soul He fills,
+and ev'ry faithless murmur stills -
+to God all praise and glory!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What God's almighty pow'r has made
+in mercy He is keeping,
+by morning glow or evening shade
+His eye is never sleeping;
+within the kingdom of His might,
+lo! all is just and all is right -
+to God all praise and glory!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The Lord is never far away,
+but through all grief distressing,
+an ever-present help and stay,
+our peace and joy and blessing;
+as with a mother's tender hand
+He leads His own, His chosen band -
+to God all praise and glory!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thus all my toilsome way along,
+I sing aloud His praises,
+that all may hear the grateful song
+my voice unwearied raises:
+"Be joyful in the Lord, my heart!
+Both soul and body bear your part -
+to God all praise and glory!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:26+04:00">
+	<properties>
+		<titles>
+			<title>Ah, Holy Jesus</title>
+		</titles>
+		<authors>
+			<author>Johann Heermann (1630)</author>
+			<author>Robert Bridges (1899, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2791041</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="156"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ah, holy Jesus, how have You offended,
+that that mortal judgment has on You descended?
+By foes derided, by Your own rejected,
+O most afflicted!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Who was the guilty? Who brought this upon You?
+Alas, my treason, Jesus, has undone You!
+'Twas I, Lord Jesus, I it was denied You,
+I crucified You.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lo, the Good Shepherd for the sheep is offered;
+the slave has sinnèd, and the Son has suffered.
+For our atonement, while we nothing heeded,
+God interceded.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For me, kind Jesus, was Your incarnation,
+Your mortal sorrow, and Your life's oblation;
+Your death of anguish and Your bitter passion,
+for my salvation.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Therefore, kind Jesus, since I cannot pay You,
+I do adore You, and will ever pray You,
+think on Your pity and Your love unswerving,
+not my deserving.</lines>
+		</verse>
+	</lyrics>
+</song>

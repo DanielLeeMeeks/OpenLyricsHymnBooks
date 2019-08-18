@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:10+04:00">
+	<properties>
+		<titles>
+			<title>The King Shall Come</title>
+		</titles>
+		<authors>
+			<author>John Brownlie (1907)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>62212</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="101"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The King shall come when morning dawns
+and light triumphant breaks,
+when beauty gilds the eastern hills,
+and life to joy awakes.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not as of old a little child
+to bear, and fight, and die,
+but crowned with glory like the sun
+that lights the morning sky.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O brighter than the rising morn
+when He, victorious, rose
+and left the lonesome place of death,
+despite the rage of foes.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O brighter than that glorious morn
+shall this fair morning be,
+when Christ, our King, in beauty comes,
+and we His face shall see.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>The King shall come when morning dawns,
+and earth's dark night is past:
+O haste the rising of that morn,
+the day that aye shall last.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>And let the endless bliss begin,
+by weary saints foretold,
+when right shall triumph over wrong,
+and truth shall be extolled.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>The King shall come when morning dawns,
+and light and beauty brings;
+"Hail, Christ the Lord!" Thy people pray,
+come quickly, King of kings!</lines>
+		</verse>
+	</lyrics>
+</song>

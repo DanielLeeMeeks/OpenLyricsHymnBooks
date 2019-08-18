@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:00+04:00">
+	<properties>
+		<titles>
+			<title>Credo</title>
+		</titles>
+		<authors>
+			<author>David Oestreich (2014)</author>
+		</authors>
+		<copyright>© 2017 by Angela Oestreich</copyright>
+		<ccliNo>1263924</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="273"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Copyright owner has given permission for this hymn to be displayed</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Yes, I believe in Him
+who is almighty Father, God,
+who made all things in heaven, earth,
+who made them very good.
+Yes, I believe in Jesus Christ,
+God's only Son, our Lord,
+begotten by the Spirit
+and of Virgin Mary born.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Who under Pontius Pilate's hand
+was scorned and suffered grief;
+who then was crucified and, dead,
+laid in a borrowed grave;
+who from descent to depths of earth
+the third day rose again,
+ascended into heaven
+where He sits at God's right hand.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>From there one day He will return
+to judge the souls of men;
+the small and great, living and dead,
+must all before Him stand.
+Yes, I believe the Holy Ghost
+is very God who calls
+the penitent to His true church,
+where each communes with all.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Yes, I believe God does forgive
+the sins of those who come
+to Him confessing Jesus Lord
+and trusting in His name.
+Yes, I believe the righteous dead
+Christ's resurrection share,
+that blessed life with Him for all
+eternity is theirs.</lines>
+		</verse>
+	</lyrics>
+</song>

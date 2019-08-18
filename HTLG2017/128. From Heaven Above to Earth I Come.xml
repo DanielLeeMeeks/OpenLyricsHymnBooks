@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:18+04:00">
+	<properties>
+		<titles>
+			<title>From Heaven Above to Earth I Come</title>
+		</titles>
+		<authors>
+			<author>Martin Luther (1535)</author>
+			<author>Catherine Winkworth (1855)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4070526</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="128"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>From heav'n above to earth I come,
+to bear good news to ev'ry home;
+glad tidings of great joy I bring
+whereof I now will say and sing:</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To you, this night, is born a Child
+of Mary, chosen mother mild;
+this tender Child of lowly birth
+shall be the joy of all the earth.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Tis Christ our God, who far on high
+had heard your sad and bitter cry;
+Himself will your Salvation be,
+Himself from sin will make you free.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Now let us all, with gladsome cheer,
+follow the shepherds, and draw near
+to see this wondrous Gift of God,
+who hath His own dear Son bestowed.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Glory to God in highest heav'n,
+who unto us His Son has giv'n,
+while angels sing, with pious mirth,
+a glad New Year to all the earth.</lines>
+		</verse>
+	</lyrics>
+</song>

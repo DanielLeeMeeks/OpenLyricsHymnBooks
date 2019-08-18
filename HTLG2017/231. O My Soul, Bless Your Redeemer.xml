@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:48+04:00">
+	<properties>
+		<titles>
+			<title>O My Soul, Bless Your Redeemer</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5040902</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="231"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 103</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O my soul, bless your Redeemer;
+all within me bless God's Name;
+bless the Savior, and forget not
+all God's mercies to proclaim.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God forgives all your transgressions,
+all diseases gently heals;
+God redeems you from destruction,
+and with you so kindly deals.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Far as east from west is distant,
+God has put away our sin;
+like the pity of a father
+has the Lord's compassion been.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>As it was without beginning,
+so it lasts without an end;
+to their children's children ever
+shall God's righteousness extend.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Unto such as keep God's cov’nant
+and are steadfast in God's way;
+unto those who still remember
+the commandments and obey.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Bless your Maker, all you creatures,
+ever under God's control,
+all throughout God's vast dominion;
+bless the Lord of all, my soul!</lines>
+		</verse>
+	</lyrics>
+</song>

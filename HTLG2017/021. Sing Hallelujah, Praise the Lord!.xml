@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:46+04:00">
+	<properties>
+		<titles>
+			<title>Sing Hallelujah, Praise the Lord!</title>
+		</titles>
+		<authors>
+			<author>John Swertner (1789)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6077895</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="21"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sing hallelujah, praise the Lord!
+Sing with a cheerful voice;
+exalt our God with one accord,
+and in His Name rejoice.
+Ne’er cease to sing, O ransomed host,
+praise Father, Son and Holy Ghost,
+until in realms of endless light
+your praises shall unite.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There we to all eternity
+shall join th'angelic lays
+and sing in perfect harmony
+to God our Savior’s praise;
+He has redeemed us by His blood,
+and made us kings and priests to God;
+for us, for us, the Lamb was slain!
+Praise ye the Lord! Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

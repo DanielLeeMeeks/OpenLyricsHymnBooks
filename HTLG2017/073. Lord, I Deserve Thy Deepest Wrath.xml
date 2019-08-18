@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:02+04:00">
+	<properties>
+		<titles>
+			<title>Lord, I Deserve Thy Deepest Wrath</title>
+		</titles>
+		<authors>
+			<author>Basil Manly</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="73"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, I deserve Thy deepest wrath,
+ungrateful, faithless I have been;
+no terrors have my soul deterred,
+nor goodness wooed me from my sin.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My heart is vile, my mind depraved,
+my flesh rebels against Thy will;
+I am polluted in Thy sight,
+yet, Lord, have mercy on me still!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Without defense to Thee I look,
+to Thee the only Savior fly;
+without a hope, without a friend,
+in deep distress to Thee I cry.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Speak peace to me, my sins forgive,
+dwell Thou within my heart, O God;
+the guilt and pow’r of sin remove,
+and fit me for Thy blest abode.</lines>
+		</verse>
+	</lyrics>
+</song>

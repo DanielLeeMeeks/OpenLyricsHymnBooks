@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:04+04:00">
+	<properties>
+		<titles>
+			<title>Depth of Mercy</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1740)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1377456</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="81"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Depth of mercy! Can there be
+mercy still reserved for me?
+Can my God His wrath forbear?
+Me, the chief of sinners, spare?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I have long withstood His grace:
+long provoked Him to His face;
+would not hearken to His calls;
+grieved Him by a thousand falls.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I my Master have denied,
+I afresh have crucified,
+oft profaned His hallowed name,
+put Him to an open shame.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There for me the Savior stands,
+shows His wounds and spreads His hands:
+God is love! I know, I feel;
+Jesus weeps, but loves me still!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Now incline me to repent!
+Let me now my fall lament!
+Now my foul revolt deplore!
+Weep, believe, and sin no more.</lines>
+		</verse>
+	</lyrics>
+</song>

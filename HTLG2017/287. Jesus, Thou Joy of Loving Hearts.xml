@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:04+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Thou Joy of Loving Hearts</title>
+		</titles>
+		<authors>
+			<author>Bernard of Clairvaux, 12th cent.</author>
+			<author>Ray Palmer (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1403966</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="287"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Thou Joy of loving hearts,
+Thou Fount of life, Thou Light of men,
+from the best bliss that earth imparts,
+we turn unfilled to Thee again.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy truth unchanged hath ever stood;
+Thou savest those that on Thee call;
+to them that seek Thee, Thou art good,
+to them that find Thee, all in all.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We taste Thee, O Thou living Bread,
+and long to feast upon Thee still;
+we drink of Thee, the Fountain-head,
+and thirst our souls from Thee to fill.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Our restless spirits yearn for Thee
+where'er our changeful lot is cast;
+glad, when Thy gracious smile we see,
+blest, when our faith can hold Thee fast.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O Jesus, ever with us stay;
+make all our moments calm and bright!
+chase the dark night of sin away,
+shed o'er the world Thy holy light.</lines>
+		</verse>
+	</lyrics>
+</song>

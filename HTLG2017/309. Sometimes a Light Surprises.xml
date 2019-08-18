@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:11+04:00">
+	<properties>
+		<titles>
+			<title>Sometimes a Light Surprises</title>
+		</titles>
+		<authors>
+			<author>William Cowper (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3503922</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="309"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sometimes a light surprises
+the Christian while he sings;
+it is the Lord who rises
+with healing in His wings;
+when comforts are declining,
+He grants the soul again
+a season of clear shining,
+to cheer it after rain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In holy contemplation,
+we sweetly then pursue
+the theme of God’s salvation,
+and find it ever new.
+Set free from present sorrow,
+we cheerfully can say,
+“E'en let the unknown morrow
+bring with it what it may.”</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"It can bring with it nothing,
+but He will bear us through;
+who gives the lilies clothing
+will clothe His people, too;
+beneath the spreading heavens
+no creature but is fed;
+and He who feeds the ravens
+will give His children bread."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Though vine nor fig tree neither
+their wonted fruit should bear,
+though all the field should wither,
+nor flocks nor herds be there,
+yet God the same abiding,
+His praise shall tune my voice;
+for while in Him confiding,
+I cannot but rejoice.</lines>
+		</verse>
+	</lyrics>
+</song>

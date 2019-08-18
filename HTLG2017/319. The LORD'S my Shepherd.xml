@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:14+04:00">
+	<properties>
+		<titles>
+			<title>The LORD'S my Shepherd</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3196731</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="319"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The LORD's my Shepherd, I'll not want.
+He makes me down to lie
+in pastures green; He leadeth me
+the quiet waters by.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My soul He doth restore again;
+and me to walk doth make
+within the paths of righteousness,
+e'en for His own name's sake.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Yea, though I walk through death's dark vale,
+yet will I fear none ill;
+for Thou art with me, and Thy rod
+and staff me comfort still.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My table Thou hast furnishèd
+in presence of my foes;
+my head Thou dost with oil anoint,
+and my cup overflows.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Goodness and mercy all my life
+shall surely follow me;
+and in God's house for evermore
+my dwelling place shall be.</lines>
+		</verse>
+	</lyrics>
+</song>

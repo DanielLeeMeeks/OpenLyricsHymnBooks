@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:21+04:00">
+	<properties>
+		<titles>
+			<title>Behold, the Great Creator</title>
+		</titles>
+		<authors>
+			<author>Thomas Pestel</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3244126</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="137"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Behold, the great Creator makes
+Himself a house of clay,
+a robe of virgin flesh He takes
+which He will wear for aye.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hark, hark, the wise eternal Word
+like a weak infant cries!
+In form of servant is the Lord,
+and God in cradle lies.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>This wonder all the world amazed,
+it shook the starry frame;
+squadrons of spirits stood and gazed,
+then down in troops they came.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Glad shepherds ran to view this sight;
+a choir of angels sings,
+and eastern sages with delight
+adore this King of kings.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Join then, all hearts that are not stone,
+and all our voices prove,
+to celebrate this holy One,
+the God of peace and love.</lines>
+		</verse>
+	</lyrics>
+</song>

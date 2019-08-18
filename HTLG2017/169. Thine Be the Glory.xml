@@ -1,0 +1,46 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:30+04:00">
+	<properties>
+		<titles>
+			<title>Thine Be the Glory</title>
+		</titles>
+		<authors>
+			<author>Edmond Louis Budry (1884)</author>
+			<author>R. Birch Hoyle (1923)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5785391</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="169"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thine is the glory, risen, conqu'ring Son;
+endless is the vict'ry Thou o’er death hast won.
+Angels in bright raiment rolled the stone away,
+kept the folded grave-clothes where Thy body lay.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Thine be the glory, risen, conqu'ring Son;
+endless is the vict'ry Thou o’er death hast won.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lo, Jesus meets us, risen from the tomb.
+Lovingly He greets us, scatters fear and gloom;
+let His church with gladness hymns of triumph sing,
+for the Lord now liveth; death hath lost its sting. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>No more we doubt Thee, glorious Prince of life!!
+Life is nought without Thee; aid us in our strife;
+make us more than conqu'rors, through Thy deathless love;
+bring us safe through Jordan to Thy home above. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,72 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:10+04:00">
+	<properties>
+		<titles>
+			<title>Thou Hidden Love of God</title>
+		</titles>
+		<authors>
+			<author>Gerhard Tersteegen (1729)</author>
+			<author>John Wesley (1739)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4531065</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="306"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thou hidden Love of God, whose height,
+whose depth unfathomed, no man knows,
+I see from far Thy beauteous light,
+and inly sigh for Thy repose;
+my heart is pained, nor can it be
+at rest till it finds rest in Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>'Tis mercy all that Thou hast brought
+my mind to seek its peace in Thee;
+yet, while I seek, but find Thee not,
+no peace my wand'ring soul shall see.
+O when shall all my wand'rings end,
+and all my steps to Thee-ward tend?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Is there a thing beneath the sun
+that strives with Thee my heart to share?
+Ah! tear it thence, and reign alone,
+the Lord of ev'ry motion there;
+then shall my heart from earth be free,
+when it has found repose in Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O hide this self from me, that I
+no more, but Christ in me, may live;
+my vile affections crucify,
+nor let one darling lust survive;
+in all things nothing may I see,
+nothing desire, or seek, but Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O Love, Thy sov'reign aid impart
+to save me from low-thoughted care;
+chase this self-will from all my heart,
+from all its hidden mazes there;
+make me Thy duteous child, that I
+may ceaseless "Abba, Father," cry.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Each moment draw from earth away
+my heart, that lowly waits Thy call;
+speak to my inmost soul, and say
+"I am Thy Love, Thy God, Thy all."
+To feel Thy pow'r, to hear Thy voice,
+to taste Thy love, be all my choice!</lines>
+		</verse>
+	</lyrics>
+</song>

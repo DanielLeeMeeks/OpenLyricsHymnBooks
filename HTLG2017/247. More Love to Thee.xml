@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:52+04:00">
+	<properties>
+		<titles>
+			<title>More Love to Thee</title>
+		</titles>
+		<authors>
+			<author>Elizabeth P. Prentiss (1856)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5158564</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="247"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>More love to Thee, O Christ,
+more love to Thee!
+Hear Thou the pray'r I make
+on bended knee.
+This is my earnest plea:
+More love, O Christ, to Thee;
+more love to Thee,
+more love to Thee!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Once earthly joy I craved,
+sought peace and rest;
+Now Thee alone I seek;
+give what is best.
+This all my pray'r shall be:
+More love, O Christ, to Thee;
+more love to Thee,
+more love to Thee!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let sorrow do its work,
+come grief and pain;
+sweet are Thy messengers,
+sweet their refrain,
+when they can sing with me:
+More love, O Christ, to Thee;
+more love to Thee,
+more love to Thee!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then shall my latest breath
+whisper Thy praise;
+this be the parting cry
+my heart shall raise;
+this still its pray'r shall be:
+More love, O Christ, to Thee;
+more love to Thee,
+more love to Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

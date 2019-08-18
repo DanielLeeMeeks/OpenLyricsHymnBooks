@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:19+04:00">
+	<properties>
+		<titles>
+			<title>Glorious Things of Thee Are Spoken</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6190301</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="336"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Glorious things of thee are spoken,
+Zion, city of our God.
+He whose Word cannot be broken
+formed thee for His own abode.
+On the Rock of Ages founded,
+what can shake thy sure repose?
+With salvation's walls surrounded,
+thou may'st smile at all thy foes.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>See, the streams of living waters,
+springing from eternal love,
+well supply thy sons and daughters
+and all fear of want remove.
+Who can faint while such a river
+ever flows their thirst to assuage?
+Grace, which like the Lord, the Giver,
+never fails from age to age.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Round each habitation hov'ring,
+see the cloud and fire appear
+for a glory and a cov'ring,
+showing that the Lord is near.
+Thus deriving from their banner
+light by night and shade by day,
+safe they feed upon the manna
+which God gives them when on their way.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Savior, since of Zion's city
+I through grace a member am,
+let the world deride or pity,
+I will glory in Thy name.
+Fading are the world's best pleasures,
+all its boasted pomp and show;
+solid joys and lasting treasures
+none but Zion's children know.</lines>
+		</verse>
+	</lyrics>
+</song>

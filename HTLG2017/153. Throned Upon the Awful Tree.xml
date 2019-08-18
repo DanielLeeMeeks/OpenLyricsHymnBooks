@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:25+04:00">
+	<properties>
+		<titles>
+			<title>Throned Upon the Awful Tree</title>
+		</titles>
+		<authors>
+			<author>John Ellerton (1875)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5166697</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="153"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Throned upon the awful tree,
+King of grief, I watch with Thee;
+darkness veils Thine anguished face,
+none its lines of woe can trace,
+none can tell what pangs unknown
+hold Thee silent and alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Silent through those three dread hours,
+wrestling with the evil pow'rs,
+left alone with human sin,
+gloom around Thee and within,
+till th'appointed time is nigh,
+till the Lamb of God may die.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Hark that cry that peals aloud
+upward through the whelming cloud!
+Thou, the Father’s only Son,
+Thou, His own Anointed One.
+Thou dost ask Him--can it be?
+“Why hast Thou forsaken Me?”</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, should fear and anguish roll
+darkly o’er my sinful soul,
+Thou, who once wast thus bereft
+that Thine own might ne’er be left--
+teach me by that bitter cry
+in the gloom to know Thee nigh.</lines>
+		</verse>
+	</lyrics>
+</song>

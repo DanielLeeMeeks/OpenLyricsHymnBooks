@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:31+04:00">
+	<properties>
+		<titles>
+			<title>The Strife Is O'er</title>
+		</titles>
+		<authors>
+			<author>Francis Pott (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4873792</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="172"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Alleluia, alleluia, alleluia!</lines>
+		</verse>
+		<verse name="v1">
+			<lines>The strife is o'er, the battle done;
+the victory of life is won;
+the song of triumph has begun:
+Alleluia! [Refrain]</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The pow'rs of death have done their worst,
+but Christ their legions hath dispersed;
+let shout of holy joy outburst:
+Alleluia! [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The three sad days are quickly sped;
+He rises glorious from the dead;
+all glory to our risen Head:
+Alleluia! [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He closed the yawning gates of hell;
+the bars of heav'n's high portals fell;
+let hymns of praise His triumph tell.
+Alleluia! [Refrain]</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Lord! by the stripes which wounded Thee,
+from death's dread sting Thy servants free,
+that we may live, and sing to Thee:
+Alleluia! [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

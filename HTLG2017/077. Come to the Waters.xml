@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:03+04:00">
+	<properties>
+		<titles>
+			<title>Come to the Waters</title>
+		</titles>
+		<authors>
+			<author>James Montgomery Boice (2000)</author>
+		</authors>
+		<copyright>© 2000 Linda M. Boice and Paul S. Jones</copyright>
+		<ccliNo>4669157</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="77"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Revelation 22</comment>
+			<comment>Copyright owner has given permission for this hymn to be displayed</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come to the waters, whoever is thirsty;
+drink from the Fountain that never runs dry.
+Jesus, the Living One, offers you mercy,
+life more abundant in boundless supply.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come to the River that flows through the city,
+forth from the throne of the Father and Son.
+Jesus the Savior says, "Come and drink deeply."
+Drink from the pure, inexhaustible One.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come to the Fountain without any money;
+buy what is given without any cost.
+Jesus, the gracious One, welcomes the weary;
+Jesus, the selfless One died for the lost.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come to the Well of unmerited favor;
+stretch out your hand; fill your cup to the brim.
+Jesus is such a compassionate Savior.
+Draw from the grace that flows freely from Him.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Come to the Savior, the God of salvation.
+God has provided an end to sin's strife.
+Why will you suffer the Law's condemnation?
+Take the free gift of the water of life.</lines>
+		</verse>
+	</lyrics>
+</song>

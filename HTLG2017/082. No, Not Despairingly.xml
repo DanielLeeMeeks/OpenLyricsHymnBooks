@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:04+04:00">
+	<properties>
+		<titles>
+			<title>No, Not Despairingly</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1866)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>86872</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="82"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>No, not despairingly
+come I to Thee;
+no, not distrustingly
+bend I the knee;
+sin hath gone over me,
+yet is this still my plea,
+Jesus hath died.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ah! Mine iniquity
+crimson has been,
+infinite, infinite
+sin upon sin;
+sin of not loving Thee,
+sin of not trusting Thee,
+infinite sin.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord, I confess to Thee
+sadly my sin;
+all I am, tell to Thee,
+all I have been;
+purge Thou my sin away,
+wash Thou my soul this day;
+Lord, make me clean.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Faithful and just art Thou,
+forgiving all;
+loving and kind art Thou
+when poor ones call;
+Lord, let the cleansing blood,
+blood of the Lamb of God,
+pass o'er my soul.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then all is peace and light
+this soul within;
+thus shall I walk with Thee,
+the loved Unseen;
+leaning on Thee, my God,
+guided along the road,
+nothing between.</lines>
+		</verse>
+	</lyrics>
+</song>

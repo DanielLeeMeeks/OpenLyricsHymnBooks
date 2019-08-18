@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:03+04:00">
+	<properties>
+		<titles>
+			<title>Father, We Thank Thee</title>
+		</titles>
+		<authors>
+			<author>Bland Tucker (1941)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="283"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>© 1943, 1961, 1981 The Church Pension Fund</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Father, we thank Thee who hast planted
+Thy holy Name within our hearts.
+Knowledge and faith and life immortal
+Jesus Thy Son to us imparts.
+Thou, Lord, didst make all for Thy pleasure,
+didst give man food for all his days,
+giving in Christ the Bread eternal;
+Thine is the pow'r, be Thine the praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Watch o'er Thy church, O Lord, in mercy,
+save it from evil, guard it still.
+Perfect it in Thy love, unite it,
+cleansed and conformed unto Thy will.
+As grain, once scattered on the hillsides,
+was in this broken bread made one,
+so from all lands Thy church be gathered
+into Thy kingdom by Thy Son.</lines>
+		</verse>
+	</lyrics>
+</song>

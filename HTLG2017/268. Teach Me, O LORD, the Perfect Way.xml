@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:59+04:00">
+	<properties>
+		<titles>
+			<title>Teach Me, O LORD, the Perfect Way</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7130625</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="268"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 119:33-37</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Teach me, O LORD, the perfect way
+of Thy precepts divine,
+and to observe it to the end
+I shall my heart incline.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Give understanding unto me,
+that I Thy law obey;
+with my whole heart shall I observe
+Thy statutes night and day.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In Thy law’s path make me to go;
+delight therein I find.
+Unto Thy truth, and not to greed,
+let my heart be inclined.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Turn Thou away my sight and eyes
+from viewing vanity;
+and in Thy good and holy way
+be pleased to quicken me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Confirm to me Thy gracious Word,
+which I did gladly hear,
+to me Thy servant, LORD, who am
+devoted to Thy fear.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Turn Thou away my feared reproach;
+for good Thy judgments be.
+Lo, for Thy precepts I have longed;
+in Thy truth quicken me.</lines>
+		</verse>
+	</lyrics>
+</song>

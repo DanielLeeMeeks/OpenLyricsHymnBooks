@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:46+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, My Highest Treasure</title>
+		</titles>
+		<authors>
+			<author>Salomon Liscovius (1672)</author>
+			<author>Frederick William Foster (1789)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="225"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, my highest treasure,
+in Thy communion blest
+I find unfailing pleasure,
+true happiness and rest;
+myself a willing off'ring
+I give to Thee alone,
+because by death and suff'ring
+Thou didst for me atone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O Joy, all joys excelling,
+the Bread of Life Thou art,
+Thou cam'st to make Thy dwelling
+in my unworthy heart.
+My spirit’s hungry craving
+Thou canst forever still;
+from deepest anguish saving,
+with bliss my cup canst fill.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O let my eyes be lightened
+by sight of Thy dear face;
+my life below be brightened
+by tasting of Thy grace;
+without Thee, mighty Savior,
+to live is nought but pain;
+to have Thy love and favor
+is happiness and gain.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Earth’s glory to inherit
+is not what I desire;
+to heav'n aspires my spirit,
+glowing with nobler fire.
+Where Christ Himself appeareth
+in brightest majesty,
+for me a place prepareth there,
+there, there I long to be.</lines>
+		</verse>
+	</lyrics>
+</song>

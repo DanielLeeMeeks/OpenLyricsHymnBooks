@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:13+04:00">
+	<properties>
+		<titles>
+			<title>Not What I Am, O Lord</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3503788</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="316"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Not what I am, O Lord, but what Thou art,
+that, that alone can be my soul’s true rest;
+Thy love, not mine, bids fear and doubt depart,
+and stills the tempest of my throbbing breast.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy Name is Love, I hear it from yon cross;
+Thy Name is Love, I hear it from yon tomb;
+all meaner love is perishable dross,
+but this shall light me through time’s thickest gloom.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Girt with the love of God on ev'ry side,
+breathing that love as heav’ns own healing air,
+I work or wait, still following my Guide,
+braving each foe, escaping ev'ry snare.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>’Tis what I know of Thee, my Lord and God,
+that fills my soul with peace, my lips with song:
+Thou art my Health, my Joy, my Staff and Rod;
+leaning on Thee, in weakness I am strong.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>More of Thyself, O show me hour by hour;
+more of Thy glory, O my God and Lord;
+more of Thyself, in all Thy grace and pow'r;
+more of Thy love and truth, incarnate Word!</lines>
+		</verse>
+	</lyrics>
+</song>

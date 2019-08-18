@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:01+04:00">
+	<properties>
+		<titles>
+			<title>Come, My Soul, Thy Suit Prepare</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4223043</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="276"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, my soul, thy suit prepare,
+Jesus loves to answer pray'r.
+He Himself has bid thee pray,
+rise and ask without delay.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou art coming to a King,
+large petitions with thee bring,
+for his grace and pow'r are such,
+none can ever ask too much.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>With my burden I begin,
+Lord, remove this load of sin!
+Let Thy blood, for sinners spilt,
+set my conscience free from guilt.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord! I come to Thee for rest,
+take possession of my breast;
+there Thy blood-bought right maintain,
+and without a rival reign.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>While I am a pilgrim here,
+let Thy love my spirit cheer;
+as my Guide, my Guard, my Friend,
+lead me to my journey’s end.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Show me what I have to do;
+ev'ry hour my strength renew;
+let me live a life of faith;
+let me die Thy people's death.</lines>
+		</verse>
+	</lyrics>
+</song>

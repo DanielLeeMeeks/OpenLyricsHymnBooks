@@ -1,0 +1,94 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:18+04:00">
+	<properties>
+		<titles>
+			<title>All My Heart This Night Rejoices</title>
+		</titles>
+		<authors>
+			<author>Paul Gerhardt (1953)</author>
+			<author>Catherine Winkworth (1858, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6599995</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="130"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All my heart this night rejoices
+as I hear
+far and near
+sweetest angel voices.
+"Christ is born," their choirs are singing
+till the air
+ev'rywhere
+now with joy is ringing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Forth today the Conqu'ror goeth,
+who the foe,
+sin and woe,
+death and hell, o'erthroweth.
+God is man, man to deliver;
+His dear Son
+now is one
+with our blood forever.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Shall we still dread God's displeasure,
+who, to save,
+freely gave
+His most cherished Treasure?
+To redeem us, He hath given
+His own Son
+from the throne
+of His might in heaven.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He becomes the Lamb that taketh
+sin away
+and for aye
+full atonement maketh.
+For our life His own He tenders;
+and our race,
+by His grace,
+fit for glory renders.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Hark! a voice from yonder manger,
+soft and sweet,
+doth entreat,
+"Flee from woe and danger;
+brethren, from all ills that grieve you
+you are freed;
+all you need
+I will surely give you."</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Come, then, banish all your sadness,
+one and all,
+great and small;
+come with songs of gladness.
+Love Him who with love is glowing;
+hail the star,
+near and far
+light and joy bestowing.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Dearest Lord, Thee will I cherish.
+Though my breath
+fail in death,
+yet I shall not perish,
+but with Thee abide forever
+there on high,
+in that joy
+which can vanish never.</lines>
+		</verse>
+	</lyrics>
+</song>

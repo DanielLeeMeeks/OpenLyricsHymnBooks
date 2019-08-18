@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:16+04:00">
+	<properties>
+		<titles>
+			<title>Once in Royal David's City</title>
+		</titles>
+		<authors>
+			<author>Cecil F. Alexander (1848)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2138271</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="120"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Once in royal David’s city
+stood a lowly cattle shed,
+where a mother laid her baby
+in a manger for His bed:
+Mary was that mother mild,
+Jesus Christ, her little child.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He came down to earth from heaven
+who is God and Lord of all,
+and His shelter was a stable,
+and His cradle was a stall:
+with the poor, and meek, and lowly
+lived on earth our Savior holy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And our eyes at last shall see Him,
+through His own redeeming love;
+for that child so dear and gentle,
+is our Lord in heav'n above,
+and He leads His children on
+to the place where He is gone.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Not in that poor lowly stable,
+with the oxen standing by,
+we shall see Him, but in heaven,
+set at God’s right hand on high;
+when like stars His children crowned
+all in white shall wait around.</lines>
+		</verse>
+	</lyrics>
+</song>

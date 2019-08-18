@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:44+04:00">
+	<properties>
+		<titles>
+			<title>Not What These Hands Have Done</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1230579</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="217"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternative tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Not what these hands have done
+can save this guilty soul;
+not what this toiling flesh has borne
+can make my spirit whole.
+Not what I feel or do
+can give me peace with God;
+not all my pray'rs and sighs and tears
+can bear my awful load.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy work alone, O Christ,
+can ease this weight of sin;
+Thy blood alone, O Lamb of God,
+can give me peace within.
+Thy love to me, O God, not mine,
+O Lord, to Thee,
+can rid me of the dark unrest,
+and set my spirit free.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy grace alone, O God,
+to me can pardon speak;
+Thy pow'r alone, O Son of God,
+can this sore bondage break.
+I bless the Christ of God;
+I rest on love divine;
+and with unfalt'ring lip and heart,
+I call this Savior mine.</lines>
+		</verse>
+	</lyrics>
+</song>

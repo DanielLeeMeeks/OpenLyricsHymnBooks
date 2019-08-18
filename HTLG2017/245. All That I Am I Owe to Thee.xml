@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:52+04:00">
+	<properties>
+		<titles>
+			<title>All That I Am I Owe to Thee</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>315794</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="245"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 139:14-24</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All that I am I owe to Thee;
+Thy wisdom, Lord, has fashioned me.
+I give my Maker thankful praise,
+whose wondrous works my soul amaze.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ere into being I was brought,
+Thine eye did see, and in Thy thought
+my life in all its perfect plan
+was ordered ere my days began.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy thoughts, O God, how manifold,
+more precious unto me than gold!
+I muse on their infinity,
+awaking I am still with Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The wicked Thou wilt surely slay;
+from me let sinners turn away.
+They speak against the Name divine;
+I count God's enemies as mine.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Search me, O God, my heart discern;
+try me, my inmost thought to learn;
+and lead me, if in sin I stray,
+to choose the everlasting way.</lines>
+		</verse>
+	</lyrics>
+</song>

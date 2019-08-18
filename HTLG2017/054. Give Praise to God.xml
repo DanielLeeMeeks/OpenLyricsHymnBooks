@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:56+04:00">
+	<properties>
+		<titles>
+			<title>Give Praise to God</title>
+		</titles>
+		<authors>
+			<author>James Montgomery Boice (1999)</author>
+		</authors>
+		<copyright>© 1999 Linda M. Boice and Paul S. Jones</copyright>
+		<ccliNo>4956884</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="54"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Romans 11:33-36</comment>
+			<comment>Copyright owner has given permission for the hymn to be displayed</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Give praise to God who reigns above
+for perfect knowledge, wisdom, love;
+His judgments are divine, devout,
+His paths beyond all tracing out.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Come, lift our voice to heav'n's high throne,
+and glory give to God alone!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No one can counsel God all-wise
+or truths unveil to His sharp eyes;
+He marks our paths behind, before;
+He is our steadfast Counselor. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Nothing exists that God might need,
+for all things good from Him proceed.
+We praise Him as our Lord, and yet
+we never place God in our debt. [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Creation, life, salvation too,
+and all things else both good and true,
+come from and through our God always,
+and fill our hearts with grateful praise. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

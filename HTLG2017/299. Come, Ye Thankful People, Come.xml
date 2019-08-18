@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:08+04:00">
+	<properties>
+		<titles>
+			<title>Come, Ye Thankful People, Come</title>
+		</titles>
+		<authors>
+			<author>Henry Alford (1844)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1039093</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Commission</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="299"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, ye thankful people, come;
+raise the song of harvest home.
+All is safely gathered in
+ere the winter storms begin.
+God, our Maker, doth provide
+for our wants to be supplied;
+come to God's own temple, come,
+raise the song of harvest home.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All the world is God's own field,
+fruit unto His praise to yield.
+wheat and tares together sown,
+unto joy or sorrow grown.
+First the blade, and then the ear,
+then the full corn shall appear,
+Lord of harvest, grant that we
+wholesome grain and pure may be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For the Lord our God shall come,
+and shall take His harvest home;
+from His field shall in that day
+all offenses purge away,
+give His angels charge at last
+in the fire the tares to cast,
+but the fruitful ears to store
+in His garner evermore.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Even so, Lord, quickly come
+to Thy final harvest home;
+gather Thou Thy people in,
+free from sorrow, free from sin,
+there forever purified,
+in Thy presence to abide.
+Come, with all Thine angels, come,
+raise the glorious harvest home.</lines>
+		</verse>
+	</lyrics>
+</song>

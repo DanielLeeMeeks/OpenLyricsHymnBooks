@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:01+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Thy Boundless Love to Me</title>
+		</titles>
+		<authors>
+			<author>Paul Gerhardt (1653)</author>
+			<author>John Wesley (1739, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>281842</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="71"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Thy boundless love to me,
+no thought can reach, no tongue declare;
+O knit my thankful heart to Thee,
+and reign without a rival there.
+Thine wholly, Thine alone, I am;
+be Thou my Rod and Staff and Guide.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O grant that nothing in my soul
+may dwell, but Thy pure love alone!
+O may Thy love possess my whole,
+my Joy, my Treasure, and my Crown.
+All coldness from my heart remove;
+my ev'ry act, word, thought, be love.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O love, how cheering is thy ray!
+All pain before thy presence flies;
+care, anguish, sorrow, melt away,
+where'er thy healing beams arise.
+O Jesus, nothing may I see,
+nothing desire or seek, but Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>This love unwearied I pursue
+and dauntlessly to Thee aspire.
+O may thy love my hope renew,
+burn in my soul like heav'nly fire.
+And day and night, be all my care
+to guard this sacred treasure there.</lines>
+		</verse>
+	</lyrics>
+</song>

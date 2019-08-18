@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:21+04:00">
+	<properties>
+		<titles>
+			<title>All Glory, Laud, and Honor</title>
+		</titles>
+		<authors>
+			<author>Theodulph of Orleans (c. 820)</author>
+			<author>John Mason Neale (1854)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>29509</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Earthly Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="140"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All glory, laud, and honor
+to Thee, Redeemer, King,
+to whom the lips of children
+made sweet hosannas ring:
+Thou art the King of Israel
+Thou David’s royal Son,
+who in the Lord’s name comest,
+the King and blessed One.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The people of the Hebrews
+with palms before Thee went;
+our praise and prayer and anthems
+before Thee we present.
+To Thee, before Thy passion,
+they sang their hymns of praise;
+to Thee, now high exalted,
+our melody we raise.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thou didst accept their praises;
+accept the pray'rs we bring,
+who in all good delightest,
+Thou good and gracious King!
+The company of angels
+are praising Thee on high,
+and we with all creation
+in chorus make reply.</lines>
+		</verse>
+	</lyrics>
+</song>

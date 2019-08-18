@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:05+04:00">
+	<properties>
+		<titles>
+			<title>I Lay My Sins on Jesus</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1848)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4645133</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="83"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I lay my sins on Jesus,
+the spotless Lamb of God;
+He bears them all, and frees us
+from the accursed load;
+I bring my guilt to Jesus,
+to wash my crimson stains
+white in His blood most precious,
+till not a spot remains.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I lay my wants on Jesus;
+all fullness dwells in Him;
+He heals all my diseases,
+He doth my soul redeem;
+I lay my griefs on Jesus,
+my burdens and my cares;
+He from them all releases,
+He all my sorrows shares.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I rest my soul on Jesus,
+this weary soul of mine;
+His right hand me embraces,
+I on his breast recline.
+I love the Name of Jesus,
+Immanuel, Christ, the Lord;
+like fragrance on the breezes
+His Name abroad is poured.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I long to be like Jesus,
+meek, loving, lowly, mild;
+I long to be like Jesus,
+the Father's holy Child;
+I long to be with Jesus,
+amid the heav'nly throng,
+to sing with saints His praises,
+to learn the angels' song.</lines>
+		</verse>
+	</lyrics>
+</song>

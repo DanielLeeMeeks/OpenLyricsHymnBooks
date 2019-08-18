@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:35+04:00">
+	<properties>
+		<titles>
+			<title>Our Great High Priest Is Sitting</title>
+		</titles>
+		<authors>
+			<author>A. P. Cecil, 1841-1889</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>965065</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="186"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Our great High Priest is sitting
+at God's right hand above,
+for us His hands uplifting
+in sympathy and love;
+whilst here below, in weakness,
+we onward speed our way,
+in sorrow oft and sickness,
+we sigh, and groan, and pray.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Through manifold temptation,
+my soul holds on its course;
+Christ's mighty intercession
+alone is my resource;
+my gracious High Priest's pleadings,
+who on the cross did bleed,
+bring own God's grace and blessings
+and help in hour of need.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Twas God's most gracious favor
+that gave His Son to die,
+to live our Intercessor,
+to plead for us on high.
+O Jesus, blessed Savior,
+who soon for us will come,
+redemption's work completed,
+our battle fought, and won.</lines>
+		</verse>
+	</lyrics>
+</song>

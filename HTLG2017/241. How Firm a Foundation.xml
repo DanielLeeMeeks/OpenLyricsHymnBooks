@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:51+04:00">
+	<properties>
+		<titles>
+			<title>How Firm a Foundation</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6472799</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God's Word</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="241"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How firm a foundation, ye saints of the Lord,
+is laid for your faith in His excellent Word!
+What more can He say than to you He hath said,
+who unto the Savior for refuge have fled?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"In every condition, in sickness, in health,
+in poverty's vale, or abounding in wealth,
+at home and abroad, on the land, on the sea,
+as days may demand, shall thy strength ever be."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Fear not, I am with thee; O be not dismayed,
+for I am thy God and will still give thee aid.
+I'll strengthen thee, help thee, and cause thee to stand,
+upheld by My righteous, omnipotent hand."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>"When through the deep waters I call thee to go,
+the rivers of sorrow shall not overflow;
+for I will be with thee, thy troubles to bless,
+and sanctify to thee thy deepest distress."</lines>
+		</verse>
+		<verse name="v5">
+			<lines>"When through fiery trials thy pathway shall lie,
+My grace, all-sufficient, shall be thy supply.
+The flame shall not hurt thee; I only design
+thy dross to consume, and thy gold to refine."</lines>
+		</verse>
+		<verse name="v6">
+			<lines>"The soul that on Jesus hath leaned for repose
+I will not, I will not desert to his foes;
+that soul, though all hell should endeavor to shake,
+I'll never, no never, no never forsake!"</lines>
+		</verse>
+	</lyrics>
+</song>

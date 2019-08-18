@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:57+04:00">
+	<properties>
+		<titles>
+			<title>Praise, My Soul, the King of Heaven</title>
+		</titles>
+		<authors>
+			<author>Henry Francis Lyte (1834)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2430766</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="58"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise, my soul, the King of Heaven;
+to His feet thy tribute bring.
+Ransomed, healed, restored, forgiven,
+evermore His praises sing:
+Alleluia! Alleluia!
+Praise the everlasting King.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Praise Him for His grace and favor
+to our fathers in distress.
+Praise Him still the same as ever,
+slow to chide, and swift to bless.
+Alleluia! Alleluia!
+Praise the everlasting King.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Fatherlike He tends and spares us;
+well our feeble frame He knows.
+In His hands He gently bears us,
+rescues us from all our foes.
+Alleluia! Alleluia!
+Praise the everlasting King.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Frail as summer's flow'r we flourish,
+blows the wind and it is gone;
+but while mortals rise and perish,
+God endures unchanging on.
+Alleluia! Alleluia!
+Praise the everlasting King.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Angels, help us to adore Him;
+ye behold Him face to face;
+saints triumphant, bow down before Him,
+gathered in from ev'ry race.
+Alleluia! Alleluia!
+Praise the everlasting King.</lines>
+		</verse>
+	</lyrics>
+</song>

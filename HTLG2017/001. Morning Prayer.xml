@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:40+04:00">
+	<properties>
+		<titles>
+			<title>Morning Prayer</title>
+		</titles>
+		<authors>
+			<author>Thomas Ken (1674, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7066456</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="1"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Awake, my soul, and with the sun
+thy daily stage of duty run;
+shake off dull sloth, and early rise
+to pay thy morning sacrifice.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, I my vows to Thee renew.
+Disperse my sins as morning dew;
+guard my first springs of thought and will,
+and with Thyself my spirit fill.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Direct, control, suggest, this day,
+all I design or do or say,
+that all my pow'rs, with all their might,
+in Thy sole glory may unite.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Praise God, from whom all blessings flow;
+praise Him all creatures here below;
+praise Him above, ye heav'enly host;
+praise Father, Son, and Holy Ghost.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:34+04:00">
+	<properties>
+		<titles>
+			<title>Hail, Thou Once Despised Jesus!</title>
+		</titles>
+		<authors>
+			<author>John Bakewell (1757)</author>
+			<author>Augustus M. Toplady (1776)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2872908</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="181"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hail, thou once despisèd Jesus!
+Hail, Thou Galilean king!
+Thou didst suffer to release us;
+Thou didst free salvation bring.
+Hail, Thou universal Savior,
+bearer of our sin and shame!
+By Thy merit we find favor;
+life is given through Thy name.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Paschal Lamb, by God appointed,
+all our sins on Thee were laid;
+by almighty Love anointed,
+Thou hast full atonement made:
+all Thy people are forgiven
+through the virtue of Thy blood;
+opened is the gate of heaven;
+peace is made 'twit man and God.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus, hail, enthroned in glory,
+there forever to abide!
+All the heav'nly host adore Thee,
+seated at Thy Father's side.
+There for sinners Thou art pleading;
+there Thou dost our place prepare;
+ever for us interceding,
+till in glory we appear.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Worship, honor, pow'r, and blessing
+Thou art worthy to receive;
+highest praises, without ceasing,
+meet it is for us to give.
+Help, ye bright angelic spirits,
+bring your sweetest, noblest lays;
+help to sing our Savior's merits;;
+help to chant Immanuel's praise!</lines>
+		</verse>
+	</lyrics>
+</song>

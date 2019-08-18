@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:41+04:00">
+	<properties>
+		<titles>
+			<title>Arise, My Soul, Arise</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1742)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2570138</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="206"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Arise, my soul, arise;
+shake off thy guilty fears;
+the bleeding Sacrifice
+in my behalf appears:
+before the throne my Surety stands,
+before the throne my Surety stands:
+my name is written on His hands.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He ever lives above,
+for me to intercede,
+His all-redeeming love,
+His precious blood to plead;
+His blood atoned for all our race,
+His blood atoned for all our race,
+and sprinkles now the throne of grace.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Five bleeding wounds He bears,
+received on Calvary;
+they pour effectual pray'rs,
+they strongly plead for me:
+"Forgive him, O forgive," they cry,
+"Forgive him, O forgive," they cry,
+"Nor let that ransomed sinner die!"</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The Father hears Him pray,
+His dear anointed One;
+He cannot turn away
+the presence of his Son;
+His Spirit answers to the blood,
+His Spirit answers to the blood,
+and tells me I am born of God.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>My God is reconciled;
+His pard'ning voice I hear;
+He owns me for His child;
+I can no longer fear;
+with confidence I now draw nigh,
+with confidence I now draw nigh,
+and, "Father, Abba, Father," cry.</lines>
+		</verse>
+	</lyrics>
+</song>

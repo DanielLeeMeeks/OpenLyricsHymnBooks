@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:16+04:00">
+	<properties>
+		<titles>
+			<title>On Christmas Night All Christians Sing</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4918619</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="121"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>On Christmas night all Christians sing
+to hear the news the angels bring;
+on Christmas night all Christians sing
+to hear the news the angels bring:
+news of great joy, news of great mirth,
+news of our merciful King’s birth.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Then why should we on earth be sad,
+since our Redeemer made us glad?
+Then why should we on earth be sad,
+since our Redeemer made us glad,
+when from our sin He set us free,
+all for to gain our liberty?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When sin departs before His grace,
+then life and health come in its place;
+when sin departs before His grace,
+then life and health come in its place;
+angels and men with joy may sing,
+all for to see the newborn King.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>All out of darkness we have light,
+which made the angels sing this night;
+all out of darkness we have light,
+which made the angels sing this night:
+“Glory to God and peace to men
+now and forevermore. Amen.”</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:14+04:00">
+	<properties>
+		<titles>
+			<title>My Shepherd Will Supply My Need</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5602711</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="320"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My Shepherd will supply my need,
+Jehovah is His Name;
+in pastures fresh He makes me feed,
+beside the living stream.
+He brings my wand'ring spirit back
+when I forsake His ways;
+and leads me, for His mercy's sake,
+in paths of truth and grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When I walk thro' the shades of death,
+Thy presence is my stay;
+a word of Thy supporting breath
+drives all my fears away.
+Thy hand, in sight of all my foes,
+doth still my table spread,
+my cup with blessings overflows,
+Thine oil anoints my head.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The sure provisions of my God
+attend me all my days;
+O may Thy house be mine abode,
+and all my work be praise!
+There would I find a settled rest,
+while others go and come;
+no more a stranger or a guest,
+but like a child at home.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:09+04:00">
+	<properties>
+		<titles>
+			<title>Wake, Awake, for Night Is Flying</title>
+		</titles>
+		<authors>
+			<author>Philipp Nicolai (1599)</author>
+			<author>Catherine Winkworth (1858, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5279319</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="97"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Wake, awake, for night is flying,
+the watchmen on the heights are crying;
+awake, Jerusalem, at last.
+Midnight hears the welcome voices,
+and at the thrilling cry rejoices:
+"Come forth, you maidens! Night is past.
+The Bridegroom comes! Awake;
+your lamps with gladness take!"
+Alleluia!
+Prepare yourselves to meet the Lord,
+whose light has stirred the waiting guard.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Zion hears the watchmen singing,
+and in her heart new joy is springing.
+She wakes, she rises from her gloom,
+for her Lord comes down all-glorious,
+and strong in grace, in truth victorious.
+Her star is ris'n; her light is come.
+O, come, you Blessed One,
+Lord Jesus, God's own Son.
+Sing hosanna!
+We go until the halls we view
+where You have bid us dine with You.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now let all the heav'ns adore You,
+and saints and angels sing before You.
+The harps and cymbals all unite.
+Of one pearl each shining portal,
+where, dwelling with the choir immortal,
+we gather round your dazzling light.
+No eye has seen, no ear
+has yet been trained to hear
+what joy is ours!
+Crescendos rise; Your halls resound;
+hosannas blend in cosmic sound.</lines>
+		</verse>
+	</lyrics>
+</song>

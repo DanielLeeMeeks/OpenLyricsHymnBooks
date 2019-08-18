@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:00+04:00">
+	<properties>
+		<titles>
+			<title>When Morning Gilds the Skies</title>
+		</titles>
+		<authors>
+			<author>Edward Caswall (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1707349</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="68"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When morning gilds the skies,
+my heart awaking cries,
+may Jesus Christ be praised!
+Alike at work and prayer
+to Jesus I repair,
+may Jesus Christ be praised!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Does sadness fill my mind?
+A solace here I find,
+may Jesus Christ be praised!
+Or fades my earthly bliss?
+My comfort still is this,
+may Jesus Christ be praised!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The night becomes as day
+when from the heart we say,
+may Jesus Christ be praised!
+The pow'rs of darkness fear
+when this sweet song they hear,
+may Jesus Christ be praised!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Let earth's wide circle round
+in joyful notes resound,
+may Jesus Christ be praised!
+Let air and sea and sky
+from depth to height reply,
+may Jesus Christ be praised!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Be this, while life is mine,
+my canticle divine,
+may Jesus Christ be praised!
+Be this th'eternal song
+through all the ages long,
+may Jesus Christ be praised!</lines>
+		</verse>
+	</lyrics>
+</song>

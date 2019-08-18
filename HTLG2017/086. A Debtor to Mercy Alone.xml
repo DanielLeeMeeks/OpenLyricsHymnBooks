@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:06+04:00">
+	<properties>
+		<titles>
+			<title>A Debtor to Mercy Alone</title>
+		</titles>
+		<authors>
+			<author>Augustus M. Toplady (1771, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2943095</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="86"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A debtor to mercy alone,
+of covenant mercy I sing;
+nor fear, with Your righteousness on,
+my person and off'ring to bring.
+The terrors of law and of God
+with me can have nothing to do;
+my Savior's obedience and blood
+hide all my transgressions from view.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The work which His goodness began,
+the arm of His strength will complete;
+His promise is yea and amen,
+and never was forfeited yet.
+Things future, nor things that are now,
+nor all things below or above,
+can make Him His purpose forgo,
+or sever my soul from His love.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>My name from the palms of His hands
+eternity will not erase;
+impressed on His heart it remains,
+in marks of indelible grace.
+Yes, I to the end shall endure,
+as sure as the earnest is giv'n;
+more happy, but not more secure,
+the glorified spirits in heav'n.</lines>
+		</verse>
+	</lyrics>
+</song>

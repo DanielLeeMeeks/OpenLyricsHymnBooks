@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:45+04:00">
+	<properties>
+		<titles>
+			<title>All People That On Earth do Dwell</title>
+		</titles>
+		<authors>
+			<author>Thomas Ken (1674)</author>
+			<author>William Kethe (1561)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4639235</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="17"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 100</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All people that on earth do dwell,
+sing to the LORD with cheerful voice;
+Him serve with mirth, His praise forth tell;
+come ye before Him and rejoice.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Know that the LORD is God indeed;
+without our aid He did us make;
+we are His flock, He doth us feed,
+and for His sheep He doth us take.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O enter then His gates with praise,
+approach with joy His courts unto;
+praise, laud, and bless His name always,
+for it is seemly so to do.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Because the LORD our God is good,
+His mercy is forever sure;
+His truth at all times firmly stood
+and shall from age to age endure.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Praise God from whom all blessings flow;
+praise Him, all creatures here below;
+praise Him above, ye heav'nly host;
+praise Father, Son, and Holy Ghost!</lines>
+		</verse>
+	</lyrics>
+</song>

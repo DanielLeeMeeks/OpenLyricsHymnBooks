@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:18+04:00">
+	<properties>
+		<titles>
+			<title>In the Bleak Midwinter</title>
+		</titles>
+		<authors>
+			<author>Christina Rossetti (1872, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6349853</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="129"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>In the bleak midwinter, frosty wind made moan,
+earth stood hard as iron, water like a stone;
+snow had fallen, snow on snow, snow on snow,
+in the bleak midwinter, long ago.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Heaven cannot hold Him, nor earth sustain;
+heav'n and earth shall flee away when He comes to reign:
+in the bleak midwinter a stable place sufficed
+the Lord God Almighty, Jesus Christ.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Angels and archangels may have gathered there,
+cherubim and seraphim thronged the air;
+but His mother only, in her maiden bliss,
+worshiped the Beloved with a kiss.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>What can I give Him, poor as I am?
+If I were a shepherd, I would bring a lamb;
+if I were a wise man, I would do my part;
+yet what I can I give Him: give my heart.</lines>
+		</verse>
+	</lyrics>
+</song>

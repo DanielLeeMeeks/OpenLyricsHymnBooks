@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:43+04:00">
+	<properties>
+		<titles>
+			<title>It Is Well with My Soul</title>
+		</titles>
+		<authors>
+			<author>Horatio G. Spafford (1876)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5875665</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="214"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>When peace like a river attendeth my way,
+when sorrows like sea billows roll,
+whatever my lot, Thou hast taught me to say,
+"It is well, it is well with my soul."</lines>
+		</verse>
+		<verse name="c">
+		<lines>It is well with my soul;
+it is well, it is well with my soul!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though Satan should buffet, though trials should come,
+let this blest assurance control:
+that Christ has regarded my helpless estate,
+and has shed his own blood for my soul. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>My sin--oh, the bliss of this glorious thought!
+My sin, not in part, but the whole,
+is nailed to the cross, and I bear it no more;
+praise the Lord, praise the Lord, O my soul! [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>And Lord, haste the day when my faith shall be sight,
+the clouds be rolled back as a scroll;
+the trump shall resound and the Lord shall descend;
+even so, it is well with my soul. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

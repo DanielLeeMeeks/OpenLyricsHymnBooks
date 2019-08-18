@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:50+04:00">
+	<properties>
+		<titles>
+			<title>How Marvelous God's Greatness</title>
+		</titles>
+		<authors>
+			<author>Chalres Venn Pilcher (1958)</author>
+			<author>Valdimar Briem (1886)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="34"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How marvelous God's greatness!
+How glorious His might!
+To this the world bears witness
+in wonders day and night -
+in form of flow'r and snowflake,
+in morn's resplendent birth,
+in afterglow at even,
+in sky and sea and earth.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Each tiny flow'ret whispers
+the great Llife-giver's Name;
+the mighty mountain masses
+His majesty proclaim;
+the hollow vales are hymning
+God's shelter for His own;
+the snow-capped peaks are pointing
+to God's almighty throne.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The ocean's vast abysses
+in one grand psalm record
+the deep mysterious counsels
+and mercies of the Lord;
+the icy waves of winter
+are thund'ring on the strand;
+and grief's chill stream is guided
+by God's all-gracious hand.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The starry hosts are singing
+thro' all the light-strewn sky
+of God's eternal temple
+and palace courts on high;
+when in these outer chambers
+such glory gilds the night,
+O, what transcendent brightness
+is God's eternal light!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:49+04:00">
+	<properties>
+		<titles>
+			<title>O Praise Ye the LORD</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7031866</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="32"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 149</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O praise ye the LORD
+and sing a new song,
+amid all the saints
+His praises prolong;
+the praise of their Maker
+His people shall sing,
+and children of Zion
+rejoice in their King.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>With timbrel and harp
+and joyful acclaim,
+with gladness and mirth,
+sing praise to His Name;
+for God in His people
+His pleasure doth seek,
+with robes of salvation
+He clotheth the meek.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In glory exult,
+ye saints of the LORD;
+with songs in the night
+high praises accord;
+go forth in His service,
+be strong in His might
+to conquer all evil
+and stand for the right.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For this is His word:
+His saints shall not fail,
+but over the earth
+their pow'r shall prevail;
+all kingdoms and nations
+shall yield to their sway.
+to God give the glory
+and praise Him for aye.</lines>
+		</verse>
+	</lyrics>
+</song>

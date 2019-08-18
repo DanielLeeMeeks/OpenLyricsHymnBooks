@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:39+04:00">
+	<properties>
+		<titles>
+			<title>Come, Holy Spirit, Heavenly Dove</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3858378</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Holy Spirit</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="200"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tun</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Holy Spirit, heav'nly Dove,
+with all Thy quickening powers;
+kindle a flame of sacred love
+in these cold hearts of ours.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O raise our thoughts from things below,
+from vanities and toys,
+then shall we with fresh courage to
+to reach eternal joys.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Awake our souls to joyful songs;
+let pure devotion rise,
+till praise employs our thankful tongues,
+and doubt forever dies.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come, Holy Spirit, heav'nly Dove,
+with all Thy quickening powers;
+come, shed abroad a Savior's love,
+and that shall kindle ours.</lines>
+		</verse>
+	</lyrics>
+</song>

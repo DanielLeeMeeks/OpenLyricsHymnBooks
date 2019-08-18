@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:53+04:00">
+	<properties>
+		<titles>
+			<title>May the Mind of Christ, My Savior</title>
+		</titles>
+		<authors>
+			<author>Kate B. Wilkinson (1925)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1039031</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="250"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>May the mind of Christ, my Savior,
+live in me from day to day,
+by His love and pow'r controlling
+all I do and say.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>May the Word of God dwell richly
+in my heart from hour to hour,
+so that all may see I triumph
+only through His pow'r.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>May the peace of God, my Father,
+rule my life in ev'rything,
+that I may be calm to comfort
+sick and sorrowing.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>May the love of Jesus fill me
+as the waters fill the sea.
+Him exalting, self abasing:
+this is victory.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>May I run the race before me,
+strong and brave to face the foe,
+looking only unto Jesus
+as I onward go.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>May His beauty rest upon me
+as I seek the lost to win,
+and may they forget the channel,
+seeing only Him.</lines>
+		</verse>
+	</lyrics>
+</song>

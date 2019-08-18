@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:15+04:00">
+	<properties>
+		<titles>
+			<title>How Bright Appears the Morning Star</title>
+		</titles>
+		<authors>
+			<author>Philipp Nicolai (1599)</author>
+			<author>William Mercer (1859)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="118"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How bright appears the Morning Star,
+with mercy beaming from afar;
+the host of heav'en rejoices.
+O Righteous Branch, O Jesse’s Rod,
+the Son of Man and Son of God,
+we too will lift our voices:
+Jesus, Jesus, holy, holy, yet most lowly,
+come, draw near us;
+great Emmanuel, come and hear us.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though circled by the hosts on high,
+He deigned to cast a pitying eye
+upon His helpless creature.
+The whole creation’s Head and Lord,
+by highest seraphim adored,
+assumed our very nature;
+Jesus, grant us, through Your merit,
+to inherit Your salvation.
+Hear, O hear our supplication!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Rejoice, O heav'ns, and earth, reply;
+with praise, O sinners, fill the sky
+for this, His incarnation.
+Incarnate God, put forth Your pow'r;
+ride on, ride on, great Conqueror,
+till all know Your salvation.
+Amen, amen! Alleluia, alleluia!
+Praise be given
+evermore by earth and heaven.</lines>
+		</verse>
+	</lyrics>
+</song>

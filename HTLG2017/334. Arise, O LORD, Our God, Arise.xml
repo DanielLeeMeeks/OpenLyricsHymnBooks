@@ -1,0 +1,40 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:18+04:00">
+	<properties>
+		<titles>
+			<title>Arise, O LORD, Our God, Arise</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3478040</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="334"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 132</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Arise, O LORD, our God, arise,
+and enter now into Thy rest:
+O let this house be Thine abode,
+forever with Thy presence blest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy gracious cov'nant, LORD, fulfill,
+turn not away from us Thy face;
+establish Thou Messiah's throne
+and let Him reign within this place.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thy Zion Thou hast chosen, LORD,
+and Thou hast said, "I love her well,
+this is My constant resting place,
+and here will I delight to dwell."</lines>
+		</verse>
+	</lyrics>
+</song>

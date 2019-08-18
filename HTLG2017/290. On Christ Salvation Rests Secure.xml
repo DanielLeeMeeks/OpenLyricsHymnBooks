@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:05+04:00">
+	<properties>
+		<titles>
+			<title>On Christ Salvation Rests Secure</title>
+		</titles>
+		<authors>
+			<author>Samuel Medley (1785)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Church</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="290"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>On Christ salvation rests secure;
+the Rock of Ages must endure;
+nor can that faith be overthrown
+which rests upon the "Living Stone."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No other hope shall intervene;
+to Him we look, on Him we lean;
+other foundations we disown
+and build on Christ the "Living Stone."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In Him, it is ordained to raise
+a temple to Jehovah's praise
+composed of all the saints, who own
+no Savior but the "Living Stone."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>View the vast building, see it rise;
+the work how great! the plan how wise!
+O wondrous fabric, pow'r unknown
+that rests it on the "Living Stone."</lines>
+		</verse>
+		<verse name="v5">
+			<lines>But most adore His precious name;
+His glory and His grace proclaim;
+for us, condemned, despised, undone,
+He gave Himself, the "Living Stone."</lines>
+		</verse>
+	</lyrics>
+</song>

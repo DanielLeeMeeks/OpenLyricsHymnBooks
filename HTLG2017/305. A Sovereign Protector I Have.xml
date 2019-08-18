@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:10+04:00">
+	<properties>
+		<titles>
+			<title>A Sovereign Protector I Have</title>
+		</titles>
+		<authors>
+			<author>Augustus M. Toplady (1774)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3366145</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="305"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 46</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A sov'reign Protector I have,
+unseen, yet forever at hand,
+unchangeably faithful to save,
+almighty to rule and command.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He smiles, and my comforts abound;
+His grace as the dew shall descend;
+and walls of salvation surround
+the soul He delights to defend.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Inspirer and hearer of pray'r,
+Thou Shepherd and Guardian of Thine,
+my all to Thy covenant care
+I sleeping and waking resign.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>If Thou art my Shield and my Sun,
+the night is no darkness to me;
+and fast as my moments roll on,
+they bring me but nearer to Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Kind Author and Ground of my hope,
+Thee, Thee, for my God I avow;
+my glad Ebenezer set up,
+and own Thou hast helped me till now.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>I muse on the years that are past,
+wherein my defense Thou hast proved;
+nor wilt Thou relinquish at last
+a sinner so signally loved!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,30 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:18+04:00">
+	<properties>
+		<titles>
+			<title>Then I looked, and behold, on Mount Zion stood the Lamb</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="335"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not scrap this song.</comment>
+			<comment>Reading of Revelation 14:1-3</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

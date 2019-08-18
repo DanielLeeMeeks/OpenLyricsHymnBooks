@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:02+04:00">
+	<properties>
+		<titles>
+			<title>Thy Broken Body, Gracious Lord</title>
+		</titles>
+		<authors>
+			<author>Samuel P. Tregelles (1838)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="278"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thy broken body, gracious Lord,
+is shadowed by this broken bread;
+the wine which in this cup is poured
+points to the blood which Thou hast shed.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>And while we meet together thus,
+we show that we are one in Thee;
+Thy precious blood was shed for us,
+Thy death, O Lord, hast set us free!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Brethren in Thee, in union sweet,
+forever be Thy grace adored!
+'Tis in Thy Name that now we meet,
+and Thou art with us, gracious Lord.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>We have one hope that Thou wilt come,
+Thee in the air we wait to see,
+when Thou wilt give Thy saints a home,
+and we shall ever reign with Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

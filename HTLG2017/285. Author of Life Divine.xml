@@ -1,0 +1,39 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:04+04:00">
+	<properties>
+		<titles>
+			<title>Author of Life Divine</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1745)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3101953</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="285"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Author of life divine,
+who hast a table spread,
+furnished with mystic wine
+and everlasting bread,
+preserve the life Thyself hast giv'n,
+and feed and train us up for heav'n.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Our needy souls sustain
+with fresh supplies of love,
+till all Thy life we gain
+and all Thy fullness prove,
+and strengthened by Thy perfect grace,
+behold without a veil Thy face.</lines>
+		</verse>
+	</lyrics>
+</song>

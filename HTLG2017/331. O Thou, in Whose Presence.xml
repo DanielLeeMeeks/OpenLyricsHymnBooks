@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:17+04:00">
+	<properties>
+		<titles>
+			<title>O Thou, in Whose Presence</title>
+		</titles>
+		<authors>
+			<author>Joseph Swain (1791)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6325183</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="331"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Thou, in whose presence my soul takes delight,
+on whom in affliction I call,
+my Comfort by day and my Song in the night,
+my Hope, my Salvation, my All.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where dost Thou, dear Shepherd, resort with Thy sheep,
+to feed them in pastures of love?
+Say, why in the valley of death should I weep,
+or alone in this wilderness rove?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O why should I wander, an alien from Thee,
+or cry in the desert for bread?
+Thy foes will rejoice when my sorrows they see,
+and smile at the tears I have shed.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He looks! and ten thousands of angels rejoice,
+and myriads wait for His word;
+He speaks! and eternity, filled with His voice,
+Re-echoes the praise of the Lord.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Dear Shepherd! I hear, and will follow Thy call;
+I know the sweet sound of Thy voice;
+restore and defend me, for Thou art my All,
+And in Thee I will ever rejoice.</lines>
+		</verse>
+	</lyrics>
+</song>

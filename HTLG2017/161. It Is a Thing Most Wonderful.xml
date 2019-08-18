@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:28+04:00">
+	<properties>
+		<titles>
+			<title>It Is a Thing Most Wonderful</title>
+		</titles>
+		<authors>
+			<author>William Walsham How (1883)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5099733</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="161"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>It is a thing most wonderful,
+almost too wonderful to be,
+that God's own Son should come from heav'n,
+and die to save a child like me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>And yet I know that it is true:
+He chose a poor and humble lot,
+and wept and toiled and mourned and died
+for love of those who loved Him not.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I cannot tell how He could love
+a child so weak and full of sin;
+His love must be most wonderful
+if He could die my love to win.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I sometimes think about the cross,
+and shut my eyes, and try to see
+the cruel nails and crown of thorns,
+and Jesus crucified for me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>But even could I see Him die,
+I could but see a little part
+of that great love which, like a fire,
+is always burning in His heart.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>It is most wonderful to know
+His love for me so free and sure;
+but 'tis more wonderful to see
+my love for him so faint and poor.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>And yet I want to love Thee, Lord;
+O light the flame within my heart,
+and I will love Thee more and more,
+until I see Thee as Thou art.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:23+04:00">
+	<properties>
+		<titles>
+			<title>His Be the Victor's Name</title>
+		</titles>
+		<authors>
+			<author>Samuel Whitelock Gandy (1838)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4779793</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="145"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>His be the Victor’s name,
+who fought the fight alone;
+triumphant saints no honor claim;
+His conquest was their own.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>By weakness and defeat
+He won a glorious crown,
+trod all our foes beneath His feet
+by being trodden down.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He Satan’s pow'r laid low;
+made sin, He sin o’erthrew;
+bowed to the grave, destroyed it so,
+and death, by dying, slew.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Bless, bless the Conqu'ror slain,
+slain in His victory;
+who lived, who died, who lives again —
+For thee, His church, for thee!</lines>
+		</verse>
+	</lyrics>
+</song>

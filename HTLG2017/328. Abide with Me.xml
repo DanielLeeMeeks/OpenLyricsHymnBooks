@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:16+04:00">
+	<properties>
+		<titles>
+			<title>Abide with Me</title>
+		</titles>
+		<authors>
+			<author>Henry Francis Lyte (1847)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>43190</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="328"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Abide with me: fast falls the eventide;
+the darkness deepens; Lord, with me abide.
+When other helpers fail and comforts flee,
+Help of the helpless, O abide with me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Swift to its close ebbs out life's little day;
+earth's joys grow dim; its glories pass away.
+Change and decay in all around I see.
+O Thou who changest not, abide with me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I need Thy presence ev'ry passing hour;
+what but Thy grace can foil the tempter's pow'r?
+Who like Thyself my Guide and Stay can be?
+Through cloud and sunshine, O abide with me.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I fear no foe, with Thee at hand to bless;
+ills have no weight, and tears no bitterness.
+Where is death's sting? Where, grave, thy victory?
+I triumph still, if Thou abide with me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Hold Thou Thy cross before my closing eyes;
+shine through the gloom and point me to the skies.
+Heav'n's morning breaks, and earth's vain shadows flee.
+In life, in death, O Lord, abide with me.</lines>
+		</verse>
+	</lyrics>
+</song>

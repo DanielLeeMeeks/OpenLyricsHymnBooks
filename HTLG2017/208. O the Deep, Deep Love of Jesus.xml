@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:41+04:00">
+	<properties>
+		<titles>
+			<title>O the Deep, Deep Love of Jesus</title>
+		</titles>
+		<authors>
+			<author>S. Trevor Francis (c. 1890)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7047129</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="208"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O the deep, deep love of Jesus,
+vast, unmeasured, boundless, free,
+rolling as a mighty ocean
+in its fullness over me.
+Underneath me, all around me,
+is the current of Thy love;
+leading onward, leading homeward
+to my glorious rest above.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O the deep, deep love of Jesus,
+spread His praise from shore to shore!
+How He loveth, ever loveth,
+changeth never, nevermore!
+How He watcheth o'er His loved ones,
+died to call them all His own;
+how for them He intercedeth,
+watcheth o'er them from the throne.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O the deep, deep love of Jesus,
+love of ev'ry love the best;
+'tis an ocean vast of blessing,
+'tis a haven sweet of rest.
+O the deep, deep love of Jesus,
+'tis heav'n of heav'ns to me;
+and it lifts me up to glory,
+for it lifts me up to Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

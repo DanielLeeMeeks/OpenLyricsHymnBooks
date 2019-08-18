@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:11+04:00">
+	<properties>
+		<titles>
+			<title>Call Jehovah Thy Salvation</title>
+		</titles>
+		<authors>
+			<author>James Montgomery (1822)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2764463</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="311"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 91</comment>
+			<comment>alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Call Jehovah thy salvation,
+rest beneath th'Almighty's shade;
+in His secret habitation
+dwell, and never be dismayed.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>There no tumult shall alarm thee,
+thou shalt dread no hidden snare;
+guile nor violence can harm thee,
+in eternal safeguard there.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>From the sword at noonday wasting,
+from the noisome pestilence,
+in the depth of midnight blasting,
+God shall be thy sure defense.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fear not thou the deadly quiver,
+when a thousand feel the blow;
+mercy shall thy soul deliver,
+though ten thousand be laid low.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Only with thine eyes the anguish
+of the wicked thou shalt see,
+when by slow disease they languish,
+when they perish suddenly.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Thee though winds and waves be swelling,
+God, then hope, shall bear through all;
+plague shall not come nigh thy dwelling,
+thee no evil shall befall.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:51+04:00">
+	<properties>
+		<titles>
+			<title>Take My Life</title>
+		</titles>
+		<authors>
+			<author>Frances R. Havergal (1874)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1390</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="243"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Take my life, and let it be
+consecrated, Lord, to Thee.
+Take my moments and my days,
+let them flow in endless praise,
+let them flow in endless praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Take my hands, and let them move
+at the impulse of Thy love.
+Take my feet, and let them be
+swift and beautiful for Thee,
+swift and beautiful for Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Take my voice and let me sing
+always, only for my King.
+Take my lips, and let them be
+filled with messages from Thee,
+filled with messages from Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Take my silver and my gold;
+not a mite would I withhold.
+Take my intellect, and use
+ev'ry pow'r as Thou shalt choose,
+ev'ry pow'r as Thou shalt choose.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Take my will and make it Thine;
+it shall be no longer mine.
+Take my heart, it is Thine own;
+it shall be Thy royal throne,
+it shall be Thy royal throne.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Take my love, my Lord, I pour
+at Thy feet its treasure store;
+take myself, and I will be
+ever, only, all for Thee,
+ever, only, all for Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

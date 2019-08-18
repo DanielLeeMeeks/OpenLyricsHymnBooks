@@ -1,0 +1,36 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:41+04:00">
+	<properties>
+		<titles>
+			<title>Holy Trinity, Thanks and Praise to Thee</title>
+		</titles>
+		<authors>
+			<author>Lorenz T. Nyberg (1754)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="4"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy Trinity, thanks and praise to Thee,
+that our life and whole salvation
+flow from Christ’s blest incarnation
+and His death for us on the shameful cross.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Had we angels’ tongues, with seraphic songs,
+bowing hearts and knees before Thee,
+Triune God, we would adore Thee
+In the highest strain for the Lamb once slain.</lines>
+		</verse>
+	</lyrics>
+</song>

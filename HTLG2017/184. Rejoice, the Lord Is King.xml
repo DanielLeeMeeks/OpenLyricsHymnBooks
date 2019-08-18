@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:35+04:00">
+	<properties>
+		<titles>
+			<title>Rejoice, the Lord Is King</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1744, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>36592</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="184"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rejoice! the Lord is King!
+Your Lord and King adore.
+Rejoice, give thanks and sing
+and triumph evermore:
+lift up your heart! Lift up your voice;
+rejoice, again I say, rejoice!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus, the Savior reigns,
+the God of truth and love;
+when He had purged our stains,
+He took His seat above:
+lift up your heart! Lift up your voice;
+rejoice, again I say, rejoice!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>His Kingdom cannot fail,
+He rules o'er earth and heav'n;
+the keys of death and hell
+are to our Jesus giv'n:
+lift up your heart! Lift up your voice;
+rejoice, again I say, rejoice!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Rejoice in glorious hope,
+for Christ the Judge shall come
+to gather all His saints
+to their eternal home:
+lift up your heart! Lift up your voice;
+rejoice, again I say, rejoice!</lines>
+		</verse>
+	</lyrics>
+</song>

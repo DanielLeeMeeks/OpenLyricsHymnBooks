@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:46+04:00">
+	<properties>
+		<titles>
+			<title>Ask Ye What Great Thing I Know</title>
+		</titles>
+		<authors>
+			<author>Johann C. Schwedler (1741)</author>
+			<author>Benjamin Hall Kennedy (1863)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3512573</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="226"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ask ye what great thing I know
+that delights and stirs me so?
+What the high reward I win?
+Whose the name I glory in?
+Jesus Christ, the Crucified.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Who defeats my fiercest foes?
+Who consoles my saddest woes?
+Who revives my waiting heart,
+healing all its hidden smart?
+Jesus Christ, the Crucified.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Who is life in life to me?
+Who the death of death will be?
+Who will place me on His right
+with the countless hosts of light?
+Jesus Christ, the Crucified.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>This is that great thing I know;
+this delights and stirs me so:
+faith in Him who died to save,
+Him who triumphed o'er the grave,
+Jesus Christ, the Crucified.</lines>
+		</verse>
+	</lyrics>
+</song>

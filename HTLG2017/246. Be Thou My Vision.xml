@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:52+04:00">
+	<properties>
+		<titles>
+			<title>Be Thou My Vision</title>
+		</titles>
+		<authors>
+			<author>Mary Elizabeth Byrne (1905)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7056332</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="246"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Be Thou my Vision, O Lord of my heart;
+be all else but naught to me, save that Thou art;
+be Thou my best thought in the day and the night,
+both waking and sleeping, Thy presence my light.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Be Thou my Wisdom, and Thou my true Word;
+be Thou ever with me, and I with Thee, Lord;
+be Thou my great Father, and I Thy true son;
+be Thou in me dwelling, and I with Thee one.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Be Thou my Breastplate, my Sword for the fight;
+be Thou my whole Armor, be Thou my true Might;
+be Thou my soul’s Shelter, be Thou my strong Tow’r,
+O raise Thou me heav’nward, great Pow’r of my pow’r.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Riches I heed not, nor man's empty praise;
+be Thou mine inheritance, now and always;
+be Thou and Thou only the first in my heart,
+O high King of heaven, my Treasure Thou art.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>High King of heaven, Thou heaven's bright Sun,
+O grant me its joys, after vict'ry is won;
+Great Heart of my own heart, whatever befall,
+still be Thou my vision, O Ruler of all.</lines>
+		</verse>
+	</lyrics>
+</song>

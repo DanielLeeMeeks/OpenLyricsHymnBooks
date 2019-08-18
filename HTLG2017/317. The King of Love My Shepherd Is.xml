@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:13+04:00">
+	<properties>
+		<titles>
+			<title>The King of Love My Shepherd Is</title>
+		</titles>
+		<authors>
+			<author>Henry W. Baker (1868)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3705397</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="317"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 23</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The King of love my Shepherd is,
+whose goodness faileth never;
+I nothing lack if I am His
+and He is mine forever.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where streams of living water flow
+my ransomed soul He leadeth,
+and, where the verdant pastures grow,
+with food celestial feedeth.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Perverse and foolish oft I strayed,
+but yet in love He sought me.
+And on His shoulder gently laid,
+and home rejoicing brought me.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>In death's dark vale I fear no ill
+with Thee, dear Lord beside me;
+Thy rod and staff my comfort still,
+Thy cross before to guide me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thou spread'st a table in my sight;
+Thy unction grace bestoweth;
+and O what transport of delight
+from Thy pure chalice floweth!</lines>
+		</verse>
+		<verse name="v6">
+			<lines>And so through all the length of days,
+Thy goodness faileth never;
+Good Shepherd, may I sing Thy praise
+within Thy house forever.</lines>
+		</verse>
+	</lyrics>
+</song>

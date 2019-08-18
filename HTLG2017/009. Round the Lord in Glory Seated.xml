@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:42+04:00">
+	<properties>
+		<titles>
+			<title>Round the Lord in Glory Seated</title>
+		</titles>
+		<authors>
+			<author>Richard Mant (1837)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7077906</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="9"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Round the Lord in glory seated,
+cherubim and seraphim
+filled his temple, and repeated
+each to each th'alternate hymn:
+"Lord, Thy glory fills the heaven,
+earth is with its fullness stored;
+unto Thee be glory given,
+Holy, holy, holy, Lord."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Heav'n is still with glory ringing;
+earth takes up the angels' cry,
+"Holy, holy, holy," singing,
+"Lord of hosts, the Lord Most High!"
+"Lord, Thy glory fills the heaven,
+earth is with its fullness stored;
+unto Thee be glory given,
+Holy, holy, holy, Lord."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>With His seraph-train before Him,
+With His holy Church below,
+thus conspire we to adore Him,
+bid we thus our anthem flow:
+"Lord, Thy glory fills the heaven,
+earth is with its fullness stored;
+unto Thee be glory given,
+Holy, holy, holy, Lord."</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thus Thy glorious name confessing,
+with Thine angel hosts we cry,
+"Holy, holy, holy," blessing
+Thee, the Lord of Hosts Most High.
+"Lord, Thy glory fills the heaven,
+earth is with its fullness stored;
+unto Thee be glory given,
+Holy, holy, holy, Lord."</lines>
+		</verse>
+	</lyrics>
+</song>

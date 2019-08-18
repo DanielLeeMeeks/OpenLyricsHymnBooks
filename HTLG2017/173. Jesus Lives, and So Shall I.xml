@@ -1,0 +1,72 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:31+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Lives, and So Shall I</title>
+		</titles>
+		<authors>
+			<author>Christian F. Gellert (1757)</author>
+			<author>John Dunmore Lang (1826)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7001502</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="173"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus lives, and so shall I;
+Death, thy sting is gone forever!
+He who deigned for me to die
+lives, the bands of death to sever.
+He shall raise me with the just:
+Jesus is my Hope and Trust.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus lives, and reigns supreme,
+and, His kingdom still remaining,
+I shall also be with Him,
+ever living, ever reigning.
+God has promised: be it must:
+Jesus is my Hope and Trust.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus lives, and God extends
+grace to each returning sinner;
+rebels He receives as friends
+and exalts to highest honor.
+God is True as He is Just;
+Jesus is my Hope and Trust.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus lives, and by His grace,
+vict'ry o'er my passions giving,
+I will cleanse my heart and ways,
+ever to His glory living.
+Me He raises from the dust;
+Jesus is my Hope and Trust.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus lives! I know full well
+nought from Him my heart can sever,
+life nor death nor pow'rs of hell,
+joy nor grief, henceforth forever.
+None of all His saints is lost;
+Jesus is my Hope and Trust.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Jesus lives, and death is now
+but my entrance into glory.
+Courage, then, my soul, for thou
+hast a crown of life before thee;
+thou shalt find thy hopes were just;
+Jesus is the Christian's Trust.</lines>
+		</verse>
+	</lyrics>
+</song>

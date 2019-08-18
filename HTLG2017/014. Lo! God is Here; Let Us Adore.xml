@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:44+04:00">
+	<properties>
+		<titles>
+			<title>Lo! God is Here; Let Us Adore</title>
+		</titles>
+		<authors>
+			<author>John Wesley (1739)</author>
+			<author>Gerhard Tersteegen (1729)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2414490</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="14"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lo, God is here! let us adore,
+and own how dreadful is this place;
+let all within us feel His pow'r,
+and humbly bow before His face.
+Who knows His pow'r, His grace who proves,
+serve Him with awe, with rev'rence love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lo, God is here, whom day and night
+united choirs of angels praise;
+to Him, enthroned above all height,
+the host of heav'n their anthems raise.
+Disdain not, Lord, our meaner song,
+who praise Thee with a stamm'ring tongue.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Almighty Father, may our praise
+Thy courts with grateful fragrance fill;
+still may we stand before Thy face,
+still hear and do Thy sov'reign will.
+To God whom earth and heav'n adore,
+be praise and glory evermore.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:17+04:00">
+	<properties>
+		<titles>
+			<title>Infant Holy, Infant Lowly</title>
+		</titles>
+		<authors>
+			<author>Edith M. G. Reed (1921)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>162538</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="126"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Infant holy, infant lowly,
+for His bed a cattle stall;
+oxen lowing, little knowing
+Christ the Babe is Lord of all.
+Swift are winging angels singing,
+noels ringing, tidings bringing:
+Christ the Babe is Lord of all,
+Christ the Babe is Lord of all.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Flocks were sleeping, shepherds keeping
+vigil till the morning new
+saw the glory, heard the story,
+tidings of the gospel true.
+Thus rejoicing, free from sorrow,
+praises voicing, greet the morrow:
+Christ the Babe was born for you.
+Christ the Babe was born for you.</lines>
+		</verse>
+	</lyrics>
+</song>

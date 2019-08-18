@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:03+04:00">
+	<properties>
+		<titles>
+			<title>Amidst Us Our Beloved Stands</title>
+		</titles>
+		<authors>
+			<author>Charles H. Spurgeon (1866)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="282"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Amidst us our Beloved stands,
+and bids us view His pierced hands;
+points to the wounded feet and side,
+blest emblems of the Crucified.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What food luxurious loads the board,
+when, at His table, sits the Lord!
+The cup how rich, the bread how sweet,
+when Jesus deigns the guests to meet!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>If now, with eyes defiled and dim,
+we see the signs, but see not Him;
+O may His love the scales displace,
+and bid us see Him face to face!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Our former transports we recount,
+when with Him in the holy mount:
+these cause our souls to thirst anew
+His marred but lovely face to view.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:51+04:00">
+	<properties>
+		<titles>
+			<title>Thy Word Sheds Light Upon My Path</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God's Word</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="242"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 119:105-112</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thy Word sheds light upon my path;
+a shining light, it guides my feet;
+Thy righteous judgments to observe,
+my solemn vow I now repeat.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In my distress I plead with Thee,
+send help according to Thy Word;
+accept my sacrifice of praise
+and make me know Thy judgments, LORD.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In danger oft and nigh to death,
+Thy law remembered is my aid.
+The wicked seek my overthrow,
+yet from Thy truth I have not strayed.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thy precepts are my heritage,
+for daily they my heart rejoice;
+to keep Thy statutes faithfully
+shall ever be my willing choice.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:23+04:00">
+	<properties>
+		<titles>
+			<title>'Tis Finished! The Messiah Dies</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1762)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1265379</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="146"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>'Tis finished! The Messiah dies -
+cut off for sins, but not His own;
+accomplished is the sacrifice -
+the great redeeming work is done.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The veil is rent; in Christ alone
+the living way to heav'n is seen;
+the middle wall is broken down,
+and all mankind may enter in.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>'Tis finished! All my guilt and pain,
+I want no sacrifice beside;
+for me, for me the Lamb is slain,
+'tis finished! I am justified.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The reign of sin and death is o'er;
+all grace is now to sinners giv'n;
+and lo! I plead th'atoning blood,
+and in Thy right I claim my heaven.</lines>
+		</verse>
+	</lyrics>
+</song>

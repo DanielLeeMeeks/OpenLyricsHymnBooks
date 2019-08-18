@@ -1,0 +1,95 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:09+04:00">
+	<properties>
+		<titles>
+			<title>Hail to the Lord's Anointed</title>
+		</titles>
+		<authors>
+			<author>James Montgomery (1822)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1330785</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="98"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 72</comment>
+			<comment>Alternative tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hail to the Lord's Anointed,
+great David's greater Son!
+Hail, in the time appointed,
+His reign on earth begun!
+He comes to break oppression,
+to set the captive free,
+to take away transgression,
+and rule in equity.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He comes with succor speedy
+to those who suffer wrong;
+to help the poor and needy,
+and bid the weak be strong;
+to give them songs for sighing,
+their darkness turn to light,
+whose souls, condemned and dying,
+are precious in His sight.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He shall come down like showers
+upon the fruitful earth;
+and love, joy, hope, like flowers,
+spring in His path to birth;
+Before Him on the mountains
+shall peace, the herald, go,
+and righteousness, in fountains,
+from hill to valley flow.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Arabia's desert ranger
+to Him shall bow the knee,
+the Ethiopian stranger
+His glory come to see;
+with offerings of devotion,
+ships from the isles shall meet,
+to pour the wealth of ocean
+in tribute at His feet.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Kings shall fall down before Him,
+and gold and incense bring;
+all nations shall adore Him,
+His praise all people sing;
+for He shall have dominion
+o'er river, sea, and shore,
+far as the eagle's pinion
+or dove's light wing can soar.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>For Him shall pray'r unceasing,
+and daily vows ascend;
+His kingdom still increasing,
+a kingdom without end;
+the mountain dews shall nourish
+a seed in weakness sown,
+whose fruit shall spread and flourish,
+and shake like Lebanon.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>O'er every foe victorious,
+He on His throne shall rest,
+from age to age more glorious,
+all-blessing and all-blessed;
+the tide of time shall never
+His covenant remove;
+His name shall stand forever -
+that name to us is Love.</lines>
+		</verse>
+	</lyrics>
+</song>

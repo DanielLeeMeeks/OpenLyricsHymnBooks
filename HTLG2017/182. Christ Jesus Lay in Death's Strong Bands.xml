@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:34+04:00">
+	<properties>
+		<titles>
+			<title>Christ Jesus Lay in Death's Strong Bands</title>
+		</titles>
+		<authors>
+			<author>Martin Luther (1524)</author>
+			<author>Richard Massie (1854, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4031761</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="182"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ Jesus lay in death’s strong bands,
+for our offenses given;
+but now at God’s right hand He stands
+and brings us light from heaven.
+Therefore let us joyful be
+and sing to God right thankfully
+loud songs of hallelujah.
+Hallelujah!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It was a strange and dreadful strife
+when life and death contended;
+the victory remained with life,
+the reign of death was ended.
+Holy Scripture plainly saith
+that death is swallowed up by death;
+his sting is lost forever.
+Hallelujah!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Here the true Paschal Lamb we see,
+whom God so freely gave us;
+He died on the accursed tree -
+so strong His love to save us.
+See, His blood doth mark our door;
+faith points to it, death passes o'er,
+and Satan cannot harm us.
+Hallelujah!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>So let us keep the festival
+whereto the Lord invites us;
+Christ is Himself the Joy of all,
+the Sun that warms and lights us.
+By His grace He doth impart
+eternal sunshine to the heart;
+the night of sin is ended.
+Hallelujah!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:49+04:00">
+	<properties>
+		<titles>
+			<title>Jesus! What a Friend for Sinners!</title>
+		</titles>
+		<authors>
+			<author>J. Wilbur Chapman (1910)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4829148</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="233"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus! what a Friend for sinners!
+Jesus! Lover of my soul;
+friends may fail me, foes assail me,
+He, my Savior makes me whole.
+Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus! what a Strength in weakness!
+Let me hide myself in Him;
+tempted, tried, and sometimes failing,
+He, my Strength, my vict'ry wins.
+Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus! what a Help in sorrow!
+While the billows o'er me roll,
+even when my heart is breaking,
+He, my Comfort, helps my soul.
+Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus! what a Guide and Keeper!
+While the tempest still is high,
+storms about me, night o'er takes me,
+He, my Pilot hears my cry.
+Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus! I do now receive Him,
+more than all in Him I find;
+He hath granted me forgiveness,
+I am His, and He is mine.
+Hallelujah! what a Savior!
+Hallelujah! what a Friend!
+Saving, helping, keeping, loving,
+He is with me to the end.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:38+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, the Name High Over All</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1749)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1036577</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="195"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, the Name high over all,
+in hell or earth or sky;
+angels and mortals prostrate fall,
+and devils fear and fly.
+Jesus, the Name to sinners dear,
+the Name to sinners giv'n;
+it scatters all their guilty fear,
+it turns their hell to heav'n.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O that the world might taste and see
+the riches of His grace!
+The arms of love that compass me
+would all the world embrace.
+Thee I shall constantly proclaim,
+though earth and hell oppose;
+bold to confess Thy glorious Name
+before a world of foes.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>His only righteousness I show,
+His saving truth proclaim;
+'tis all my business here below
+to cry, "Behold the Lamb!"
+Happy, if with my latest breath
+I may but gasp His Name,
+preach Him to all, and cry in death,
+"Behold, behold the Lamb!"</lines>
+		</verse>
+	</lyrics>
+</song>

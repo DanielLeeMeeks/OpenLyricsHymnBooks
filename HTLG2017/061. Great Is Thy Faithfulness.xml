@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:58+04:00">
+	<properties>
+		<titles>
+			<title>Great Is Thy Faithfulness</title>
+		</titles>
+		<authors>
+			<author>Thomas O. Chisholm (1923)</author>
+		</authors>
+		<copyright>© 1921. Renewal 1951 Hope Publishing Compan</copyright>
+		<ccliNo>18723</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="61"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Great is Thy faithfulness, O God my Father;
+there is no shadow of turning with Thee;
+Thou changest not, Thy compassions, they fail not;
+as Thou hast been Thou forever wilt be.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Great is Thy faithfulness!
+Great is Thy faithfulness!
+Morning by morning new mercies I see;
+all I have needed Thy hand hath provided:
+great is Thy faithfulness, Lord, unto me!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Summer and winter, and springtime and harvest;
+sun, moon, and stars in their courses above
+join with all nature in manifold witness,
+to Thy great faithfulness, mercy, and love. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Pardon for sin and a peace that endureth,
+Thine own dear presence to cheer and to guide;
+strength for today and bright hope for tomorrow:
+blessings all mine, with ten thousand beside! [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

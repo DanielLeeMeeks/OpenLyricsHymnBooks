@@ -1,0 +1,67 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:52+04:00">
+	<properties>
+		<titles>
+			<title>My God, How Wonderful Thou Art</title>
+		</titles>
+		<authors>
+			<author>Frederich W. Faber (1848)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="40"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 113</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My God, how wonderful Thou art,
+Thy majesty how bright,
+How beautiful Thy mercy seat,
+in depths of burning light!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>How dread are Thine eternal years,
+O everlasting LORD;
+by prostrate spirits, day and night,
+incessantly adored.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>How wonderful, how beautiful,
+the sight of Thee must be,
+Thine endless wisdom, boundless pow'r,
+and awesome purity.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O how I fear Thee, Living God,
+with deepest, tend'rest fears,
+and worship Thee with trembling hope,
+and penitential tears.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Yet I may love Thee too, O LORD,
+Almighty as Thou art;
+for Thou hast stooped to ask of me
+the love of my poor heart.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>No earthly father loves like Thee,
+no mother e’er so mild,
+bears and forbears, as Thou hast done
+with me, Thy sinful child.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Father of Jesus, love's reward,
+what rapture will it be,
+prostrate before Thy throne to lie,
+and ever gaze on Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

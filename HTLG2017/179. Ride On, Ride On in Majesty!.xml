@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:33+04:00">
+	<properties>
+		<titles>
+			<title>Ride On, Ride On in Majesty!</title>
+		</titles>
+		<authors>
+			<author>Henry Hart Milman (1827)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2262611</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="179"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ride on, ride on in majesty!
+Hear all the tribes hosanna cry;
+O Savior meek, pursue Your road
+with palms and scattered garments stroked.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ride on, ride on in majesty!
+In lowly pomp ride on to die.
+O Christ, Your triumphs now begin
+o’er captive death and conquered sin.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ride on, ride on in majesty!
+The hosts of angels in the sky
+look down with sad and wond'ring eyes
+to see th'approaching Sacrifice.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Ride on, ride on in majesty!
+Your last and fiercest strife is nigh.
+The Father on His sapphire throne
+awaits His own anointed Son.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Ride on, ride on in majesty!
+In lowly pomp ride on to die,
+bow Your meek head to mortal pain,
+then take, O Christ, Your pow'r and reign.</lines>
+		</verse>
+	</lyrics>
+</song>

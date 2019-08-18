@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:09+04:00">
+	<properties>
+		<titles>
+			<title>Christ, Whose Glory Fills the Skies</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1740)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5196526</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="304"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ, whose glory fills the skies,
+Christ, the true and only Light,
+Sun of righteousness, arise,
+triumph o'er the shade of night;
+Day-spring from on high, be near;
+Day-star, in my heart appear.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Dark and cheerless is the morn
+unaccompanied by Thee;
+joyless is the day's return,
+till Thy mercy's beams I see,
+till they inward light impart,
+glad my eyes, and warm my heart.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Visit then this soul of mine,
+pierce the gloom of sin and grief;
+fill me, radiancy divine,
+scatter all my unbelief;
+more and more Thyself display,
+shining to the perfect day.</lines>
+		</verse>
+	</lyrics>
+</song>

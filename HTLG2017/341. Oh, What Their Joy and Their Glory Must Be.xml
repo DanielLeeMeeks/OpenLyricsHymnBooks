@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:20+04:00">
+	<properties>
+		<titles>
+			<title>Oh, What Their Joy and Their Glory Must Be</title>
+		</titles>
+		<authors>
+			<author>Peter Abelard, 12th cent.</author>
+			<author>John Mason Neale (1854)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="341"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Oh, what their joy and their glory must be,
+those endless Sabbaths the blessed ones see!
+Crowns for the valiant, to weary ones rest;
+God shall be all, and in all, ever blest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In new Jerusalem joy shall be found,
+blessings of peace shall forever abound;
+wish and fulfillment are not severed there,
+nor the things prayed for come short of the pray'r.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We, where no troubles distraction can bring,
+safely the anthems of Zion shall sing;
+while for Your grace, Lord, their voices of praise
+Your blessed people shall evermore raise.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Now let us worship our Lord and our King,
+joyfully raising our voices to sing:
+Praise to the Father, and praise to the Son,
+praise to the Spirit, to God, Three in One.</lines>
+		</verse>
+	</lyrics>
+</song>

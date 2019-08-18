@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:45+04:00">
+	<properties>
+		<titles>
+			<title>Angel Voices, Ever Singing</title>
+		</titles>
+		<authors>
+			<author>Francis Pott (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="16"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Angel voices ever singing
+round Thy throne of light,
+angel harps, forever ringing,
+rest not day nor night;
+thousands only live to bless Thee
+and confess thee Lord of might.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou who art beyond the farthest
+mortal eye can scan,
+can it be that Thou regardest
+songs of sinful man?
+Can we feel that Thou art near us
+and wilt hear us? Yea, we can.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Yea, we know Thy love rejoices
+o'er each work of Thine;
+Thou didst ears and hands and voices
+for Thy praise combine;
+craftsman's art and music's measure
+for Thy pleasure all combine.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Here, great God, today we offer
+of Thine own to Thee;
+and for Thine acceptance proffer,
+all unworthily,
+hearts and minds and hands and voices
+in our choicest melody.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Honor, glory, might, and merit
+Thine shall ever be,
+Father, Son, and Holy Spirit,
+blessed Trinity:
+of the best that Thou hast given
+earth and heaven render Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

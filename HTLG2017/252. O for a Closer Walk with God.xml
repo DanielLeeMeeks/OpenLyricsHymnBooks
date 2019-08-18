@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:54+04:00">
+	<properties>
+		<titles>
+			<title>O for a Closer Walk with God</title>
+		</titles>
+		<authors>
+			<author>William Cowper (1769)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3627437</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="252"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O for a closer walk with God,
+a calm and heav'nly frame,
+a light to shine upon the road
+that leads me to the Lamb!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where is the blessedness I knew
+when first I sought the Lord?
+Where is the soul-refreshing view
+of Jesus and His Word?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>What peaceful hours I once enjoyed!
+How sweet their mem'ry still!
+But they have left an aching void
+the world can never fill.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Return, O holy Dove, return,
+sweet messenger of rest;
+I hate the sins that made Thee mourn,
+and drove Thee from my breast.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>The dearest idol I have known,
+whate'er that idol be,
+help me to tear it from Thy throne
+and worship only Thee.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>So shall my walk be close with God,
+calm and serene my frame;
+so purer light shall mark the road
+that leads me to the Lamb.</lines>
+		</verse>
+	</lyrics>
+</song>

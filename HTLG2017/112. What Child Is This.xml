@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:13+04:00">
+	<properties>
+		<titles>
+			<title>What Child Is This</title>
+		</titles>
+		<authors>
+			<author>William Chatterton Dix (1865)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>30983</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="112"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What Child is this who, laid to rest,
+on Mary's lap is sleeping?
+Whom angels greet with anthems sweet
+while shepherds watch are keeping?
+This, this is Christ the King,
+whom shepherds guard and angels sing;
+haste, haste to bring Him laud,
+the Babe, the Son of Mary.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Why lies He in such low estate
+where ox and lamb are feeding?
+Good Christian, fear: for sinners here
+the silent Word is pleading.
+Nails, spear, shall pierce Him through;
+the cross be borne for me, for you.
+Hail, hail the Word made flesh,
+the Babe, the Son of Mary.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>So bring Him incense, gold, and myrrh;
+come, peasant, king, to own Him.
+The King of kings salvation brings;
+let loving hearts enthrone Him.
+Raise, raise the song on high.
+The virgin sings her lullaby.
+Joy, joy, for Christ is born,
+the Babe, the Son of Mary!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:36+04:00">
+	<properties>
+		<titles>
+			<title>The Head That Once Was Crowned with Thorns</title>
+		</titles>
+		<authors>
+			<author>Thomas Kelly (1820)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>70699</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="189"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The head that once was crowned with thorns
+is crowned with glory now;
+a royal diadem adorns
+the mighty Victor's brow.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The highest place that heav'n affords
+is His, is His by right,
+the King of kings and Lord of lords,
+and heav'n's eternal Light.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The joy of all who dwell above,
+the joy of all below,
+to whom He manifests His love,
+and grants His name to know.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To them the cross with all its shame,
+with all its grace, is giv'n,
+their name, an everlasting name,
+their joy, the joy of heav'n.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>They suffer with their Lord below,
+they reign with Him above,
+their profit and their joy to know
+the myst'ry of His love.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>The cross He bore is life and health,
+though shame and death to Him:
+His people's Hope, His people's Wealth,
+their everlasting Theme!</lines>
+		</verse>
+	</lyrics>
+</song>

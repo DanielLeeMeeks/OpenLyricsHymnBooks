@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:06+04:00">
+	<properties>
+		<titles>
+			<title>Built on the Rock</title>
+		</titles>
+		<authors>
+			<author>Nikolai F. S. Grundtvig (1837)</author>
+			<author>Carl Doving (1909)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>105571</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Church</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="292"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Built on the Rock, the church shall stand
+even when steeples are falling;
+Christ builds His church in ev'ry land;
+bells still are chiming and calling,
+calling the young and old to rest,
+calling the souls of those distressed,
+longing for life everlasting.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not in a temple made with hands
+God the Almighty is dwelling;
+high in the heav'ns His temple stands,
+all earthly temples excelling.
+Yet He who dwells in heaven above
+chooses to live with us in love,
+making our body His temple.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We are God's house of living stones,
+built for His own habitation;
+He fills our hearts, His humble thrones,
+granting us life and salvation.
+Yet to the place, an earthly frame,
+we come with thanks to praise His name;
+God grants His people true blessing.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thro' all the passing years, O Lord,
+grant that, when church bells are ringing,
+many may come to hear God's Word
+where He the promise is bringing:
+"I know My own, My own know Me,
+you, not the world, My face shall see;
+My peace I leave with you. Amen."</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,81 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:22+04:00">
+	<properties>
+		<titles>
+			<title>My Song Is Love Unknown</title>
+		</titles>
+		<authors>
+			<author>Samuel Crossman (1664)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6006677</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="142"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternative tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My song is love unknown,
+my Savior’s love to me;
+love to the loveless shown,
+that they might lovely be.
+O who am I, that for my sake,
+my Lord should take frail flesh and die?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He came from His blest throne
+salvation to bestow;
+but man made strange, and none
+the longed-for Christ would know.
+But oh, my Friend, my Friend indeed,
+who at my need His life did spend!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sometimes they strew His way
+and His sweet praises sing;
+resounding all the way
+hosannas to their King.
+Then “Crucify!” is all their breath,
+and for His death they thirst and cry.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Why, what hath my Lord done?
+What makes this rage and spite?
+He made the lame to run,
+He gave the blind their sight.
+Sweet injuries! Yet they at these
+themselves displease,
+and 'gainst Him rise.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>They rise, and needs will have
+my dear Lord made away;
+a murderer they save,
+the Prince of Life they slay.
+Yet cheerful He to suffering goes,
+that He His foes from thence might free.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>In life, no house, no home
+my Lord on earth might have;
+in death, no friendly tomb
+but what a stranger gave.
+What may I say? Heav'n was His home,
+but mine the tomb wherein He lay.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Here might I stay and sing,
+no story so divine;
+never was love, dear King,
+never was grief like Thine.
+This is my Friend, in whose sweet praise
+I all my days could gladly spend.</lines>
+		</verse>
+	</lyrics>
+</song>

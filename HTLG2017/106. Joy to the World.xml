@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:11+04:00">
+	<properties>
+		<titles>
+			<title>Joy to the World</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5607039</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="106"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 98</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Joy to the world, the Lord is come!
+Let earth receive her King!
+Let ev'ry heart prepare Him room,
+and heav'n and nature sing,
+and heav'n and nature sing,
+and heav'n, and heav'n and nature sing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Joy to the earth, the Savior reigns!
+Let men their songs employ,
+while fields and floods, rocks, hills, and plains
+repeat the sounding joy,
+repeat the sounding joy,
+repeat, repeat the sounding joy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>No more let sins and sorrows grow,
+nor thorns infest the ground;
+He comes to make His blessings flow
+far as the curse is found,
+far as the curse is found,
+far as, far as the curse is found.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He rules the world with truth and grace,
+and makes the nations prove
+the glories of His righteousness
+and wonders of His love,
+and wonders of His love,
+and wonders, wonders of His love.</lines>
+		</verse>
+	</lyrics>
+</song>

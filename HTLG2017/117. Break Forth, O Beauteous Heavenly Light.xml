@@ -1,0 +1,45 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:15+04:00">
+	<properties>
+		<titles>
+			<title>Break Forth, O Beauteous Heavenly Light</title>
+		</titles>
+		<authors>
+			<author>Johann Rist (1641)</author>
+			<author>John Troutbeck (1873)</author>
+			<author>A. T. Russell (1851)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>965986</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="117"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Break forth, O beauteous heav'nly light,
+and usher in the morning;
+O shepherds, shrink not with affright,
+but hear the angel's warning.
+This Child, now weak in infancy,
+our confidence and joy shall be;
+the pow'r of Satan breaking,
+our peace eternal making.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Break forth, O beauteous heav'nly light,
+to herald our salvation;
+He stoops to earth–the God of might,
+our hope and expectation.
+He comes in human flesh to dwell,
+our God with us, Immanuel;
+the night of darkness ending,
+our fallen race befriending.</lines>
+		</verse>
+	</lyrics>
+</song>

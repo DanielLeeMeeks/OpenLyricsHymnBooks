@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:20+04:00">
+	<properties>
+		<titles>
+			<title>God Rest You Merry, Gentlemen</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>39441</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="135"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God rest you merry, gentlemen,
+let nothing you dismay,
+remember Christ our Savior
+was born on Christmas Day
+To save us all from Satan's pow'r
+when we were gone astray.
+O tidings of comfort and joy,
+comfort and joy;
+O tidings of comfort and joy.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>From God our heav'nly Father
+a blessed angel came
+and unto certain shepherds
+brought tidings of the same;
+how that in Bethlehem was born
+the son of God by name.
+O tidings of comfort and joy,
+comfort and joy;
+O tidings of comfort and joy.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Fear not," then said the angel,
+"Let nothing you affright;
+this day is born a Savior
+of a pure virgin bright,
+to free all those who trust in Him
+from Satan's pow'r and might."
+O tidings of comfort and joy,
+comfort and joy;
+O tidings of comfort and joy.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Now to the Lord sing praises
+all you within this place,
+and with true love and brotherhood
+each other new embrace;
+this holy tide of Christmas
+all other doth deface.
+O tidings of comfort and joy,
+comfort and joy;
+O tidings of comfort and joy.</lines>
+		</verse>
+	</lyrics>
+</song>

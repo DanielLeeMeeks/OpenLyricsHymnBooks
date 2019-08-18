@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:47+04:00">
+	<properties>
+		<titles>
+			<title>Thee We Adore, Eternal Lord!</title>
+		</titles>
+		<authors>
+			<author>Thomas Cotterill (1815)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>604780</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="23"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Thee we adore, eternal Lord!
+We praise Thy Name with one accord,
+Thy saints, who here Thy goodness see,
+through all the world do worship Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To Thee aloud all angels cry,
+the heav'ns and all the pow'rs on high:
+Thee, holy, holy, holy King,
+Lord God of hosts, they ever sing.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Th'apostles join the glorious throng;
+the prophets swell th'immortal song;
+the martyrs' noble army raise
+eternal anthems to Thy praise.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>From day to day, O Lord, do we
+highly exalt and honor Thee!
+Thy Name we worship and adore,
+world without end, for evermore!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Vouchsafe, O Lord, we humbly pray,
+to keep us safe from sin this day;
+have mercy, Lord, we trust in Thee;
+O let us ne'er confounded be!</lines>
+		</verse>
+	</lyrics>
+</song>

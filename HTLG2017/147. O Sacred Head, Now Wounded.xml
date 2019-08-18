@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:24+04:00">
+	<properties>
+		<titles>
+			<title>O Sacred Head, Now Wounded</title>
+		</titles>
+		<authors>
+			<author>Bernard of Clairvaux, 12th cent.</author>
+			<author>Paul Gerhardt (1656)</author>
+			<author>James W. Alexander (1830)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4224059</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="147"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O sacred Head, now wounded,
+with grief and shame weighed down,
+now scornfully surrounded
+with thorns, Thine only crown.
+O sacred Head, what glory,
+what bliss till now was Thine!
+Yet, though despised and gory,
+I joy to call Thee mine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What Thou, my Lord, hast suffered
+was all for sinners' gain;
+mine, mine was the transgression,
+but Thine the deadly pain.
+Lo, here I fall, my Savior!
+'Tis I deserve Thy place;
+look on me with Thy favor,
+vouchsafe to me Thy grace.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>What language shall I borrow
+to thank Thee, dearest Friend,
+for this, Thy dying sorrow,
+Thy pity without end?
+O make me Thine forever!
+And should I fainting be,
+Lord, let me never, never,
+outlive my love for Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Be near when I am dying,
+O show Thy cross to me!
+And, for my succor flying,
+come, Lord, to set me free.
+These eyes, new faith receiving,
+from Thee shall never move;
+for he who dies believing
+dies safely in Thy love.</lines>
+		</verse>
+	</lyrics>
+</song>

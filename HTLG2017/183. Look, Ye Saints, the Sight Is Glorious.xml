@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:34+04:00">
+	<properties>
+		<titles>
+			<title>Look, Ye Saints, the Sight Is Glorious</title>
+		</titles>
+		<authors>
+			<author>Thomas Kelly (1809)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3811896</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="183"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Look, ye saints, the sight is glorious:
+see the Man of Sorrows now;
+from the fight returned victorious,
+ev'ry knee to Him shall bow.
+Crown Him! Crown Him!
+Crowns become the Victor's brow.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Crown the Savior, angels, crown Him;
+rich the trophies Jesus brings;
+in the seat of pow'r enthrone Him,
+while the vault of heaven rings:
+Crown Him! Crown Him!
+Crown the Savior King of kings!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sinners in derision crowned Him,
+mocking thus the Savior's claim;
+saints and angels crowd around Him,
+sing His title, praise His name.
+Crown Him! Crown Him!
+Spread abroad the Victor's fame!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hark, those bursts of acclamation!
+Hark! those loud triumphant chords!
+Jesus takes the highest station;
+O what joy the sight affords!
+Crown Him! Crown Him!
+King of kings, and Lord of lords!</lines>
+		</verse>
+	</lyrics>
+</song>

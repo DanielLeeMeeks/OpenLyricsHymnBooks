@@ -1,0 +1,41 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:59+04:00">
+	<properties>
+		<titles>
+			<title>Praise Ye the Father</title>
+		</titles>
+		<authors>
+			<author>Elizabeth Rundle Charles (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>143148</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="63"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise ye the Father for His loving-kindness,
+tenderly caring for His erring children;
+praise Him, ye angels; praise Him in the heavens;
+praise to the Savior!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Praise ye the Savior for His deep compassion,
+graciously caring for His chosen people;
+young men and maidens, ye old men and children,
+praise to the Savior!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Praise ye the Spirit, Comforter of Israel,
+sent from the Father and the Son to bless us;
+praise to the Father, Son, and Holy Spirit!
+Praise to the triune God!</lines>
+		</verse>
+	</lyrics>
+</song>

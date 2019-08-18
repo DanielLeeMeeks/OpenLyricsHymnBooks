@@ -1,0 +1,29 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:24+04:00">
+	<properties>
+		<titles>
+			<title>He Himself bore our sins in His body on the tree</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>872749</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="148"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not scrap this song.</comment>
+			<comment>Reading of 1 Peter 2:24</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

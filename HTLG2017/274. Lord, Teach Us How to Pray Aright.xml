@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:01+04:00">
+	<properties>
+		<titles>
+			<title>Lord, Teach Us How to Pray Aright</title>
+		</titles>
+		<authors>
+			<author>James Montgomery (1823)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2321167</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="274"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, teach us how to pray aright
+with rev'rence and with fear.
+though dust and ashes in your sight,
+we may, we must draw near.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We perish if we cease from pray'r;
+Oh, grant us pow'r to pray.
+and when to meet thee we prepare,
+Lord, meet us on our way.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Give deep humility; the sense
+of godly sorrow give;
+a strong desire with confidence,
+to hear your voice and live;</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Faith in the only sacrifice
+that can for sin atone;
+to cast our hopes, to fix our eyes
+on Christ, on Christ alone.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Give these, and then your will be done;
+thus strengthened with all might,
+we, through your Spirit and your Son,
+shall pray, and pray aright.</lines>
+		</verse>
+	</lyrics>
+</song>

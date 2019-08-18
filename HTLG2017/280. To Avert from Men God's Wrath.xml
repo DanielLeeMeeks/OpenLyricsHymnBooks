@@ -1,0 +1,58 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:02+04:00">
+	<properties>
+		<titles>
+			<title>To Avert from Men God's Wrath</title>
+		</titles>
+		<authors>
+			<author>John Hus (1410)</author>
+			<author>Martin Luther (1524)</author>
+			<author>Christian Ignatius La Trobe (1789)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="280"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>To avert from men God’s wrath,
+Jesus suffered in our stead;
+by an ignominious death
+He a full atonement made;
+and by His most precious blood
+brought us, sinners, nigh to God.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Christ bids each afflicted soul,
+"Come that I may soothe your grief.
+No one who is strong and whole
+needs a doctor for relief;
+therefore have no fear, draw nigh,
+that your want I may supply."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>But examine first your case,
+whether you be in the faith;
+do you long for pard’ning grace?
+Is your only hope His death?
+Then, how e’er your soul’s oppressed,
+come, you are a worthy guest.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>They who Jesus’ mercy knows
+are from wrath and envy freed;
+love unto our neighbor shows
+that we are His flock indeed;
+thus we may in all our ways
+show forth our Redeemer’s praise.</lines>
+		</verse>
+	</lyrics>
+</song>

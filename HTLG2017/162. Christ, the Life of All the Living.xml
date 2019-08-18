@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:28+04:00">
+	<properties>
+		<titles>
+			<title>Christ, the Life of All the Living</title>
+		</titles>
+		<authors>
+			<author>Ernst C. Homburg (1659)</author>
+			<author>Catherine Winkworth (1863, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="162"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ, the life of all the living,
+Christ, the death of death, our foe;
+who Thyself for me once giving
+to the darkest depths of woe,
+patiently didst yield Thy breath
+but to save my soul from death;
+praise and glory ever be,
+blessed Jesus, unto Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou, O Christ, hast taken on Thee
+bitter strokes, a cruel rod;
+pain and scorn were heaped upon Thee,
+0 Thou sinless Son of God;
+only thus for me to win,
+rescue from the bonds of sin;
+praise and glory ever be,
+blessed Jesus, unto Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thou didst bear the smiting only
+that it might not fall on me;
+stoniest falsely charged and lonely
+that I might be safe and free;
+comfortless that I might know
+comfort from Thy boundless woe;
+praise and glory ever be,
+blessed Jesus, unto Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then for all that wrought our pardon,
+for the sorrows deep and sore,
+for The anguish in the garden,
+I will thank Thee evermore,
+thank Thee with my latest breath
+for Thy sad and cruel death,
+for that last and bitter cry,
+praise Thee evermore on high.</lines>
+		</verse>
+	</lyrics>
+</song>

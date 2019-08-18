@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:40+04:00">
+	<properties>
+		<titles>
+			<title>Join All the Glorious Names</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2873062</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="203"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Join all the glorious names
+of wisdom, love, and pow'r,
+that ever mortals knew,
+that angels ever bore;
+all are too mean to speak His worth,
+too mean to set my Savior forth.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Great Prophet of my God,
+my tongue would bless Thy Name;
+by Thee the joyful news
+of our salvation came -
+the joyful news of sins forgiv'n,
+of hell subdued, and peace with heav'n.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Jesus, my great High Priest,
+offered His blood and died;
+my guilty conscience seeks
+no sacrifice beside:
+His pow'rful blood did once atone,
+and now it pleads before the throne.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My dear Almighty Lord,
+my Conqueror and King,
+Thy sceptre and Thy sword,
+Thy reigning grace I sing;
+Thine is the pow'r; behold I sit,
+in willing bonds, beneath Thy feet.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Now let my soul arise,
+and tread the tempter down;
+my Captain leads me forth
+to conquest and a crown.
+A feeble saint shall win the day,
+though death and hell obstruct the way.</lines>
+		</verse>
+	</lyrics>
+</song>

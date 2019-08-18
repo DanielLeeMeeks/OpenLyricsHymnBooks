@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:05+04:00">
+	<properties>
+		<titles>
+			<title>Christ Is Made the Sure Foundation</title>
+		</titles>
+		<authors>
+			<author>John Mason Neale (1851)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3602548</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Church</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="289"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ is made the sure foundation,
+Christ the head and cornerstone,
+chosen of the Lord, and precious,
+binding all the church in one,
+Holy Zion's help for ever,
+and her confidence alone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All that dedicated city,
+dearly loved of God on high,
+in exultant jubilation
+pours perpetual melody;
+God the One in Three adoring
+in glad hymns eternally.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To this temple, where we call You,
+come, O Lord of Hosts, today:
+with accustomed lovingkindness,
+hear Your servants as they pray;
+and Your fullest benediction
+shed within its walls alway.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord, here grant to all Your servants
+what they ask of You to gain,
+what they gain from You, forever
+with the blessed to retain,
+and hereafter in Your glory
+evermore with You to reign.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Praise and honor to the Father,
+praise and honor to the Son,
+praise and honor to the Spirit,
+ever Three, and ever One,
+one in might, and one in glory,
+while unending ages run.</lines>
+		</verse>
+	</lyrics>
+</song>

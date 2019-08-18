@@ -1,0 +1,27 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:44+04:00">
+	<properties>
+		<titles>
+			<title>Praise God, From Whom All Blessings Flow</title>
+		</titles>
+		<authors>
+			<author>Thomas Ken (1674)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>56204</ccliNo>
+		<released></released>
+		<key></key>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="13"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>Praise God, from whom all blessings flow;
+Praise Him all creatures here below;
+Praise Him above, ye heav'nly host;
+Praise Father, Son, and Holy Ghost!
+Amen.</lines>
+		</verse>
+	</lyrics>
+</song>

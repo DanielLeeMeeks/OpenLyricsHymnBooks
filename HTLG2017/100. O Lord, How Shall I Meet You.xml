@@ -1,0 +1,75 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:10+04:00">
+	<properties>
+		<titles>
+			<title>O Lord, How Shall I Meet You</title>
+		</titles>
+		<authors>
+			<author>Paul Gerhardt (1853)</author>
+			<author>Catherine Winkworth (1863, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2402804</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="100"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Lord, how shall I meet You,
+how welcome You aright?
+Your people long to greet You,
+my Hope, my heart’s Delight!
+O, kindle, Lord most holy,
+Your lamp within my breast
+to do in spirit lowly
+all that may please You best.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Love caused Your incarnation;
+love brought You down to me.
+Your thirst for my salvation
+procured my liberty.
+O, love beyond all telling,
+that led You to embrace
+in love, all love excelling,
+our lost and fallen race.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Rejoice, then, you sad-hearted,
+who sit in deepest gloom,
+who mourn your joys departed
+and tremble at your doom.
+Despair not; He is near you,
+there, standing at the door,
+who best can help and cheer you
+and bids you weep no more.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Sin's debt, that fearful burden,
+let not your soul distress;
+your guilt the Lord will pardon
+and cover by His grace.
+He comes, former procuring
+the peace of sin forgiv'n,
+for all God's ons securing
+their heritage in heav'n.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>He comes to judge the nations,
+a terror to His foes,
+a light of consolations
+and blessed hope to those
+who love the Lord's appearing.
+O glorious Sun, now come,
+send forth Your beams most cheering
+and guide us safely home.</lines>
+		</verse>
+	</lyrics>
+</song>

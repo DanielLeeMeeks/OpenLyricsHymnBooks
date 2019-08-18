@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:49+04:00">
+	<properties>
+		<titles>
+			<title>My God, I Love Thee</title>
+		</titles>
+		<authors>
+			<author>Francis Xavier, 16th cent.</author>
+			<author>Edward Caswall (1849)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>46582</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="234"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My God, I love Thee; not because
+I hope for heav'n thereby,
+nor yet for fear that loving not
+I might forever die;
+but for that Thou didst all mankind
+upon the cross embrace;
+for us didst bear the nails and spear,
+and manifold disgrace;</lines>
+		</verse>
+		<verse name="v2">
+			<lines>And griefs and torments numberless,
+and sweat of agony;
+e'en death itself, and all for man,
+who was Thine enemy.
+Then why, most loving Jesus Christ,
+should I not love Thee well?
+Not for the sake of winning heav'n,
+nor any fear of hell;</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Not with the hope of gaining aught,
+nor seeking a reward,
+but as Thyself hast loved me,
+O ever-loving Lord!
+E'en so I love Thee, and will love,
+and in Thy praise will sing,
+solely because Thou art my God
+and my eternal King!</lines>
+		</verse>
+	</lyrics>
+</song>

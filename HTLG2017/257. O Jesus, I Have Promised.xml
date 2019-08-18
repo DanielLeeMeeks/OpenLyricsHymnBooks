@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:55+04:00">
+	<properties>
+		<titles>
+			<title>O Jesus, I Have Promised</title>
+		</titles>
+		<authors>
+			<author>John E. Bode (1866)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3715095</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="257"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Jesus, I have promised
+to serve Thee to the end;
+be Thou forever near me,
+my Master and my Friend;
+I shall not fear the battle
+if Thou art by my side,
+nor wander from the pathway
+if Thou wilt be my guide.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O let me feel Thee near me,
+the world is ever near;
+I see the sights that dazzle,
+the tempting sounds I hear;
+my foes are ever near me,
+around me and within;
+but, Jesus, draw Thou nearer,
+and shield my soul from sin.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O let me hear Thee speaking
+in accents clear and still,
+above the storms of passion,
+the murmurs of self-will;
+O speak to reassure me,
+to hasten or control;
+O speak, and make me listen,
+Thou Guardian of my soul.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O Jesus, Thou hast promised
+to all who follow Thee,
+that where Thou art in glory,
+there shall Thy servant be;
+and, Jesus, I have promised
+to serve Thee to the end;
+O give me grace to follow,
+my Master and my Friend.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:19+04:00">
+	<properties>
+		<titles>
+			<title>O Come, All Ye Faithful</title>
+		</titles>
+		<authors>
+			<author>John Francis Wade (1743)</author>
+			<author>Frederick Oakeley (1841)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7031866</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="131"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O come, all ye faithful, joyful and triumphant,
+O come ye, O come ye to Bethlehem!
+Come, and behold Him, born the King of angels!</lines>
+		</verse>
+		<verse name="c">
+		<lines>O come, let us adore Him;
+O come, let us adore Him;
+O come, let us adore Him, Christ, the Lord!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sing, choirs of angels; sing in exultation;
+sing, all ye citizens of heav'n above!
+Glory to God, all glory in the highest![Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Yea, Lord, we greet Thee, born this happy morning;
+Jesus, to Thee be all glory giv'n!
+Word of the Father, now in flesh appearing! [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

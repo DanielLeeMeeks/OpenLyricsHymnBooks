@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:08+04:00">
+	<properties>
+		<titles>
+			<title>On Jordan's Banks the Baptist's Cry</title>
+		</titles>
+		<authors>
+			<author>Charles Coffin (1726)</author>
+			<author>John Chandler (1837)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>277904</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="95"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>On Jordan's bank the Baptist's cry
+announces that the Lord is nigh;
+awake and hearken, for he brings
+glad tidings from the King of kings.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Then cleansed be every breast from sin;
+make straight the way for God within;
+prepare we in our hearts a home,
+where such a mighty Guest may come.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For Thou art our salvation, Lord,
+our Refuge and our great Reward;
+without Thy grace we waste away,
+like flow'rs that wither and decay.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To heal the sick stretch out Thine hand,
+and bid the fallen sinner stand;
+shine forth, and let Thy light restore
+earth's own true loveliness once more.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>All praise, Eternal Son, to Thee
+whose Advent sets Thy people free;
+whom with the Father we adore,
+and Holy Ghost for evermore.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:55+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Calls Us o'er the Tumult</title>
+		</titles>
+		<authors>
+			<author>Cecil F. Alexander (1852)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2151423</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="256"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus calls us; o'er the tumult
+of our life's wild, restless sea;
+day by day His sweet voice soundeth,
+saying, "Christian, follow me."
+Jesus calls us from the worship
+of the vain world's golden store,
+from each idol that would keep us,
+saying, "Christian, love me more."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In our joys and in our sorrows,
+days of toil and hours of ease,
+still He calls, in cares and pleasures,
+"Christian, love me more than these."
+Jesus calls us-- by Thy mercies,
+Savior, may we hear Thy call;
+give our hearts to Thine obedience,
+serve and love Thee best of all.</lines>
+		</verse>
+	</lyrics>
+</song>

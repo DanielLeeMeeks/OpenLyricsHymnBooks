@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:50+04:00">
+	<properties>
+		<titles>
+			<title>That Man Is Blest Who, Fearing God</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God's Word</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="238"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 1</comment>
+			<comment>Suggested tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>That man is blest who, fearing God,
+from sin restrains his feet,
+who will not stand with wicked men,
+who shuns the scorners' seat.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Yea, blest is he who makes God's law
+his portion and delight,
+and meditates upon that law
+with gladness day and night.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>That man is nourished like a tree
+set by the rivers' side;
+its leaf is green, its fruit is sure,
+and thus his works abide.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The wicked like the driven chaff
+are swept from off the land;
+they shall not gather with the just,
+nor in the judgment stand.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>The LORD will guard the righteous well,
+their way to Him is known;
+the way of sinners, far from God,
+shall surely be o'erthrown.</lines>
+		</verse>
+	</lyrics>
+</song>

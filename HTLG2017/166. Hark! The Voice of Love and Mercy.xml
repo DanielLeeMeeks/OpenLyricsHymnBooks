@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:29+04:00">
+	<properties>
+		<titles>
+			<title>Hark! The Voice of Love and Mercy</title>
+		</titles>
+		<authors>
+			<author>Jonathan Evans (1784)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1041201</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="166"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hark! the voice of love and mercy
+sounds aloud from Calvary;
+see, it rends the rocks asunder,
+shakes the earth, and veils the sky:
+"It is finished!
+It is finished!
+It is finished!"
+Hear the dying Savior cry;
+hear the dying Savior cry.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"It is finished!" O what pleasure
+do these precious words afford;
+heav'nly blessings, without measure,
+flow to us from Christ the Lord:
+"It is finished!
+It is finished!
+It is finished!"
+Saints, the dying words record;
+saints, the dying words record.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Finished all the types and shadows
+of the ceremonial law;
+finished all that God had promised;
+death and hell no more shall awe:
+"It is finished!
+It is finished!
+It is finished!"
+Saints, from hence your comfort draw;
+saints, from hence your comfort draw.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Tune your harps anew, ye seraphs,
+join to sing the glorious theme;
+all in earth, and all in heaven,
+join to praise Emmanuel's Name:
+Alleluia!
+Alleluia!
+Alleluia!
+Glory to the bleeding Lamb!
+Glory to the bleeding Lamb!</lines>
+		</verse>
+	</lyrics>
+</song>

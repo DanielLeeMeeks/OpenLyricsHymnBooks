@@ -1,0 +1,41 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:59+04:00">
+	<properties>
+		<titles>
+			<title>We Praise Thee, O God, Our Redeemer</title>
+		</titles>
+		<authors>
+			<author>Julia Cady Cory (1902)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4708207</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="65"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We praise Thee, O God, our Redeemer, Creator;
+in grateful devotion our tribute we bring;
+we lay it before Thee, we kneel and adore Thee,
+we bless Thy holy Name, glad praises we sing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We worship Thee, God of our fathers, we bless Thee;
+through life's storm and tempest our Guide hast Thou been;
+when perils o'ertake us, escape Thou wilt make us,
+and with Thy help, O Lord, our battles we win.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>With voices united our praises we offer,
+to Thee, great Jehovah, glad anthems we raise;
+Thy strong arm will guide us, our God is beside us,
+to Thee, our great Redeemer, forever be praise.</lines>
+		</verse>
+	</lyrics>
+</song>

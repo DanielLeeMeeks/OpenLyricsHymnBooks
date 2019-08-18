@@ -1,0 +1,68 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:07+04:00">
+	<properties>
+		<titles>
+			<title>Savior of the Nations, Come</title>
+		</titles>
+		<authors>
+			<author>Ambrose of Milan, 4th cent</author>
+			<author>Martin Luther</author>
+			<author>William M. Reynolds (1880, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="92"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior of the nations, come,
+virgin's Son, make here Thy home!
+Marvel now, O heav'n and earth,
+that the Lord chose such a birth.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Not by human flesh and blood,
+but the Spirit of our God,
+was the Word of God made flesh--
+woman's Offspring, pure and fresh.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Wondrous birth! O wondrous Child
+Of the Virgin undefiled!
+Though by all the world disowned,
+still to be in heav'n enthroned.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>From the Father forth He came
+and returneth to the same,
+captive leading death and hell--
+high the song of triumph swell!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thou the Father's only Son,
+hast o'er sin the vict'ry won.
+Boundless shall Thy kingdom be;
+when shall we its glories see?</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Brightly doth Thy manger shine,
+glorious is its light divine.
+Let not sin o'ercloud this light;
+ever be our faith thus bright.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Praise to God the Father sing,
+Praise to God the Son, our King,
+Praise to God the Spirit be
+Ever and eternally.</lines>
+		</verse>
+	</lyrics>
+</song>

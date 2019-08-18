@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:25+04:00">
+	<properties>
+		<titles>
+			<title>"Man of Sorrows," What a Name</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss (1875)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6545578</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="151"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>"Man of Sorrows," what a name
+for the Son of God who came
+ruined sinners to reclaim!
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bearing shame and scoffing rude,
+in my place condemned He stood,
+sealed my pardon with His blood;
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Guilty, vile, and helpless we;
+spotless Lamb of God was He;
+full atonement, can it be?
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lifted up was He to die,
+"It is finished," was His cry;
+now in heav'n exalted high'
+Hallelujah! what a Savior!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>When He comes, our glorious King,
+all His ransomed home to bring,
+then anew this song we'll sing:
+Hallelujah! what a Savior!</lines>
+		</verse>
+	</lyrics>
+</song>

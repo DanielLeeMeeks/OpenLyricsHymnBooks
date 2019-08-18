@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:57+04:00">
+	<properties>
+		<titles>
+			<title>To God the Only Wise</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4808475</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="59"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>To God the only wise,
+our Savior and our King,
+let all the saints below the skies
+their humble praises bring.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>’Tis His almighty love,
+His counsel and His care,
+preserves us safe from sin and death,
+and ev'ry hurtful snare.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He will present our souls
+unblemished and complete,
+before the glory of His face,
+with joys divinely great.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Then all the chosen seed
+shall meet around the throne,
+shall bless the conduct of His grace,
+And make His wonders known.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>To our Redeemer God
+wisdom and pow'r belongs,
+immortal crowns of majesty,
+and everlasting songs.</lines>
+		</verse>
+	</lyrics>
+</song>

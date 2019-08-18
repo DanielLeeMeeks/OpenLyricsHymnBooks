@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:25+04:00">
+	<properties>
+		<titles>
+			<title>The Perfect Righteousness of God</title>
+		</titles>
+		<authors>
+			<author>Albert Midlane (1861)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="152"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The perfect righteousness of God
+is witnessed in the Savior's blood;
+'tis the cross of Christ we trace
+His righteousness, yet wondrous grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God could not pass the sinner by;
+justice demands that he should die;
+but in the cross of Christ we see
+how God can save, yet righteous be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The judgment fell on Jesus' head;
+'twas in His blood sin's debt was paid;
+stern Justice can demand no more,
+and Mercy can dispense her store.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The sinner who believes is free,
+can say, "The Savior died for me";
+can point to the atoning blood
+and say, "This made my peace with God."</lines>
+		</verse>
+	</lyrics>
+</song>

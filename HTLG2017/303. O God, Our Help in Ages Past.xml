@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:09+04:00">
+	<properties>
+		<titles>
+			<title>O God, Our Help in Ages Past</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>43152</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="303"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 90</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Our God, our Help in ages past,
+our Hope for years to come,
+our Shelter from the stormy blast,
+and our eternal Home.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Under the shadow of Thy throne
+Thy saints have dwelt secure;
+sufficient is Thine arm alone,
+and our defense is sure.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Before the hills in order stood
+or earth received its frame,
+from everlasting Thou art God,
+to endless years the same.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>A thousand ages in Thy sight
+are like an ev'ning gone,
+short as the watch that ends the night
+before the rising sun.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Time, like an ever-rolling stream,
+bears all its sons away;
+they fly forgotten, as a dream
+dies at the op'ning day.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Our God, our Help in ages past,
+our Hope for years to come,
+be Thou our Guide while life shall last,
+and our eternal Home!</lines>
+		</verse>
+	</lyrics>
+</song>

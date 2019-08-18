@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:51+04:00">
+	<properties>
+		<titles>
+			<title>Let Us, with a Gladsome Mind</title>
+		</titles>
+		<authors>
+			<author>John Milton (1623, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5070518</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="37"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Let us, with a gladsome mind,
+praise the LORD, for He is kind:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let us blaze His Name abroad,
+for of gods He is the God:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He with all-commanding might
+filled the new-made world with light:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>All things living He doth feed;
+His full hand supplies their need:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>He His chosen race did bless
+in the wasteful wilderness:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>He hath with a pious eye
+looks upon our misery:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Let us therefore warble forth
+His high majesty and worth:
+for His mercies shall endure,
+ever faithful, ever sure.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:12+04:00">
+	<properties>
+		<titles>
+			<title>Of the Father's Love Begotten</title>
+		</titles>
+		<authors>
+			<author>Marcus Aurelius C. Prudentius, 4th cent.</author>
+			<author>John Mason Neale (1851)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7013699</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="108"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Of the Father’s love begotten
+ere the worlds began to be,
+He is Alpha and Omega;
+He the source, the ending He,
+of the things that are, that have been,
+and that future years shall see
+evermore and evermore!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O that birth forever blessed,
+when a virgin, full of grace,
+by the Holy Ghost conceiving,
+bore the Savior of our race;
+and the Babe, the world’s Redeemer,
+first revealed his sacred face,
+evermore and evermore!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O ye heights of heaven adore Him,
+angel hosts, His praises sing,
+pow'ers, dominions, bow before Him,
+and extol our God and King;
+let no tongue on earth be silent,
+ev'ery voice in concert ring
+evermore and evermore!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Christ, to Thee with God the Father
+and, O Holy Ghost, to Thee,
+hymn and chant and high thanksgiving
+and unwearied praises be:
+honor, glory, and dominion,
+and eternal victory
+evermore and evermore!</lines>
+		</verse>
+	</lyrics>
+</song>

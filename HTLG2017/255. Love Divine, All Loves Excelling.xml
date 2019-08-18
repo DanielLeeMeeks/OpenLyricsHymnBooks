@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:55+04:00">
+	<properties>
+		<titles>
+			<title>Love Divine, All Loves Excelling</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1747, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2764360</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="255"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Love divine, all loves excelling,
+joy of heav'n, to earth come down,
+fix in us Thy humble dwelling;
+all Thy faithful mercies crown.
+Jesus, Thou art all compassion;
+pure, unbounded love Thou art;
+visit us with Thy salvation;
+enter ev'ry trembling heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Breathe, O breathe Thy loving Spirit
+into ev'ry troubled breast!
+Let us all in Thee inherit;
+let us find the promised rest.
+Take away the love of sinning;
+Alpha and Omega be;
+end of faith, as its beginning,
+set our hearts at liberty.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come, Almighty, to deliver;
+let us all Thy life receive;
+suddenly return and never,
+nevermore Thy temples leave.
+Thee we would be always blessing,
+serve Thee as Thy hosts above,
+pray and praise Thee without ceasing,
+glory in Thy perfect love.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Finish then Thy new creation;
+pure and spotless let us be.
+Let us see Thy great salvation
+perfectly restored in Thee.
+Changed from glory into glory,
+till in heav'n we take our place,
+till we cast our crowns before Thee,
+lost in wonder, love, and praise.</lines>
+		</verse>
+	</lyrics>
+</song>

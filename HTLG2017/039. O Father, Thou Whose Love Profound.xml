@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:51+04:00">
+	<properties>
+		<titles>
+			<title>O Father, Thou Whose Love Profound</title>
+		</titles>
+		<authors>
+			<author>Edward Cooper (1805)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="39"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Father, Thou whose love profound
+a ransom for our souls hath found,
+before Thy throne we sinners bend;
+to us Thy pardoning love extend.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Almighty Son, Incarnate Word,
+our Prophet, Priest, Redeemer, Lord,
+before Thy throne we sinners bend;
+to us Thy saving grace extend.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Eternal Spirit, by whose breath
+the soul is raised from sin and death,
+before Thy throne we sinners bend;
+to us Thy quickening pow'r extend.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jehovah! Father, Spirit, Son,
+mysterious Godhead, Three in One,
+before Thy throne we sinners bend;
+grace, pardon, life, to us extend.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:42+04:00">
+	<properties>
+		<titles>
+			<title>Amazing Grace</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4755360</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="211"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Amazing grace! how sweet the sound
+that saved a wretch like me!
+I once was lost, but now am found,
+was blind, but now I see.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>'Twas grace that taught my heart to fear,
+and grace my fears relieved;
+how precious did that grace appear
+the hour I first believed!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Through many dangers, toils, and snares
+I have already come;
+'tis grace hath brought me safe thus far,
+and grace will lead me home.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The Lord has promised good to me,
+His Word my hope secures;
+He will my Shield and Portion be
+as long as life endures.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>The earth shall soon dissolve like snow;
+the sun forbear to shine;
+but God, who called me here below,
+will be forever mine.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>When we've been there ten thousand years,
+bright shining as the sun,
+we've no less days to sing God's praise
+than when we'd first begun.</lines>
+		</verse>
+	</lyrics>
+</song>

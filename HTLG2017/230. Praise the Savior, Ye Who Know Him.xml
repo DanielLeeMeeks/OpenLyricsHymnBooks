@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:48+04:00">
+	<properties>
+		<titles>
+			<title>Praise the Savior, Ye Who Know Him</title>
+		</titles>
+		<authors>
+			<author>Thomas Kelly (1806)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="230"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Praise the Savior, ye who know Him!
+Who can tell how much we owe Him?
+Gladly let us render to Him
+all we are and have.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesus is the name that charms us;
+He for conflict fits and arms us;
+nothing moves and nothing harms us
+while we trust in Him.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Trust in Him, ye saints, forever;
+He is faithful, changing never;
+neither force nor guile can sever
+those He loves from Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Keep us, Lord, O keep us cleaving
+to Thyself, and still believing,
+till the hour of our receiving
+promised joys with Thee.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Then we shall be where we would be,
+then we shall be what we should be;
+things that are not now, nor could be,
+soon shall be our own.</lines>
+		</verse>
+	</lyrics>
+</song>

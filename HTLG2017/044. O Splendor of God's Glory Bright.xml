@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:53+04:00">
+	<properties>
+		<titles>
+			<title>O Splendor of God's Glory Bright</title>
+		</titles>
+		<authors>
+			<author>Ambrose of Milan, 4th cent.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="44"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Splendor of God's glory bright,
+from Light eternal bringing light,
+O Light of light, light's living Spring,
+true Day, all days illumining.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come, very Sun of heaven's love,
+in lasting radiance from above,
+and pour the Holy Spirit's ray
+on all we think or do today.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And now to Thee or pray'r ascend,
+O Father, glorious without end;
+we plead with sovereign grace for pow'r
+to conquer in temptation's hour.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Confirm or will to do the right,
+and keep our hearts from envy's blight;
+let faith her eager fires renew,
+and hate the false, and love the true.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O joyful be the passing day
+with thoughts as pure as morning's ray,
+with faith like noontide shining bright
+our souls unshadowed by the night.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Dawn's glory gilds the earth and skies,
+let Him, our perfect Morn, arise,
+the Word in God the Father one,
+the Father imaged in the Son.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:29+04:00">
+	<properties>
+		<titles>
+			<title>Sing, My Tongue, the Glorious Battle</title>
+		</titles>
+		<authors>
+			<author>Venantius Honorius Clementianus Fortunatus, 6th cent.</author>
+			<author>John Mason Neale, 19th cent.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1885412</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="165"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sing, my tongue, the glorious battle;
+sing the ending of the fray.
+Now above the cross, the trophy,
+sound the loud triumphant lay:
+tell how Christ, the world's Redeemer,
+as a victim won the day.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tell how, when at length the fullness
+of th'appointed time was come,
+He, the Word, was born of woman,
+left for us His Father's home,
+blazed the path of true obedience,
+shone as light amidst the gloom.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thus, with thirty years accomplished,
+He went forth from Nazareth,
+destined, dedicated, willing,
+did His work, and met His death;
+like a lamb He humbly yielded
+on the cross His dying breath.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Faithful cross, true sign of triumph,
+be for all the noblest tree;
+none in foliage, none in blossom,
+none in fruit your equal be;
+symbol of the world's redemption,
+for the weight that hung on thee!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Unto God be praise and glory:
+to the Father and the Son,
+to th'eternal Spirit honor
+now and evermore be done;
+praise and glory in the highest,
+while the timeless ages run.</lines>
+		</verse>
+	</lyrics>
+</song>

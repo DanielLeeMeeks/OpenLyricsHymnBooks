@@ -1,0 +1,90 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:18+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Priceless Treasure</title>
+		</titles>
+		<authors>
+			<author>Johann Franck (1653)</author>
+			<author>Catherine Winkworth (1869, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5264898</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="332"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, priceless Treasure,
+source of purest pleasure,
+truest Friend to me;
+Long my heart hath panted
+till it well nigh fainted,
+thirsting after Thee.
+Thine I am, O spotless Lamb,
+I will suffer nought to hid Thee,
+ask for nought beside Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>In thine arms I rest me,
+foes who would oppress me
+cannot reach me here;
+though the earth be shaking,
+every heart be quaking,
+Jesus calms my fear;
+sin and hell in conflict fell
+with their heaviest storms assail me.
+Jesus will not fail me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Satan, I defy thee;
+death, I need not fly thee;
+fear, I bid thee cease!
+Rage, O world, thy noises
+cannot drown our voices
+singing still of peace;
+for God's pow'r guards every hour;
+earth and all the depths adore Him,
+silent bow before Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Wealth, I will not heed thee;
+wherefore should I need thee?
+Jesus is my joy;
+honors, ye may glisten,
+but I will not listen,
+ye the soul destroy;
+want or loss or shame or cross
+ne'er to leave my Lord shall move me,
+since He deigns to love me.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Farewell, thou who choosest
+earth, and heaven refuses,
+thou wilt tempt in vain;
+hence, ye sins, nor blind me,
+get ye far behind me,
+come not forth again:
+past your hour, O pomp and power;
+godless life, thy bonds I sever,
+leave thee now for ever!</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Hence, all thoughts sadness,
+for the Lord of gladness,
+Jesus, enters in;
+those who love the Father,
+though the storms may gather,
+still have peace within;
+yea, whate'er I here must bear,
+Thou art still my purest pleasure,
+Jesus, priceless Treasure!</lines>
+		</verse>
+	</lyrics>
+</song>

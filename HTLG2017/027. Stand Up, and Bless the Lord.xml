@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:48+04:00">
+	<properties>
+		<titles>
+			<title>Stand Up, and Bless the Lord</title>
+		</titles>
+		<authors>
+			<author>James Montgomery (1824)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2400600</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="27"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Stand up, and bless the Lord,
+ye people of His choice;
+stand up, and bless the Lord your God
+with heart, and soul, and voice.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tho' high above all praise,
+above all blessing high,
+who would not fear His holy Name,
+and laud and magnify?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O for the living flame,
+from His own altar brought,
+to touch our lips, our mind inspire,
+and wing to heav'n our thought!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>There, with benign regard,
+our hymns He deigns to hear;
+though unrevealed to mortal sense,
+the spirit feels Him near.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>God is our strength and song,
+and His salvation ours;
+then be His love in Christ proclaimed
+with all our ransomed pow'rs.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Stand up and bless the Lord,
+the Lord your God adore;
+stand up, and bless His glorious Name
+henceforth for evermore.</lines>
+		</verse>
+	</lyrics>
+</song>

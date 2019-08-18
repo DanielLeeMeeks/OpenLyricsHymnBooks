@@ -1,0 +1,83 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:42+04:00">
+	<properties>
+		<titles>
+			<title>The God of Abraham Praise</title>
+		</titles>
+		<authors>
+			<author>Moses Maimonides, 12th cent.</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4551894</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="7"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The God of Abr'ham praise,
+who reigns enthroned above,
+Ancient of eternal days,
+and God of love!
+Jehovah, great I AM,
+by earth and heav'n confessed
+I bow and bless the sacred Name
+forever blest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The God of Abr'ham praise,
+at whose supreme command
+from earth I rise, and seek the joys
+at His right hand.
+I all on earth forsake,
+its wisdom, fame, and pow'r,
+and Him my only Portion make,
+my Shield and Tow'r.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He by Himself hath sworn,
+I on His oath depend;
+I shall, on eagles' wings upborne,
+to heaven ascend,
+I shall behold His face,
+I shall His pow'r adore,
+and sign the wonders of His grace
+forevermore.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He keeps His own secure,
+He guards them by His side,
+arrays in garments, white and pure,
+His spotless bride:
+with streams of sacred bliss,
+with gross of living joys -
+with all the fruits of paradise
+He still supplies.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Before the great Three-One
+they all exulting stand;
+and tell the wonders He hath done,
+through all their land:
+the list'ning spheres attend,
+and swell the growing fame;
+and sing, in songs which never end,
+the wondrous Name.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>The whole triumphant host
+gives thanks to God on high;
+"Hail, Father, Son, and Holy Ghost"
+they ever cry.
+Hail, Abr'ham's God and mine!
+I join the heavenly lays;
+all might and majesty are Thine,
+and endless praise.</lines>
+		</verse>
+	</lyrics>
+</song>

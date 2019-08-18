@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:12+04:00">
+	<properties>
+		<titles>
+			<title>Rejoice, Believer, in the Lord</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2314071</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="312"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Rejoice, believer, in the Lord,
+who makes your cause His own;
+the hope that's built upon His Word
+can ne'er be overthrown.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Though many foes beset your road,
+and feeble is your arm,
+your life is hid with Christ in God
+beyond the reach of harm.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Weak as you are, you shall not faint
+or fainting, shall not die!
+Jesus, the strength of ev'ry saint,
+will aid you from on high.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thou sometimes unperceived by sense,
+faith sees Him always near!
+a Guide, a Glory, a Defense;
+then what have you to fear?</lines>
+		</verse>
+		<verse name="v5">
+			<lines>As surely as He overcame
+and triumphed once for you,
+so surely you that love His name
+shall in Him triumph too.</lines>
+		</verse>
+	</lyrics>
+</song>

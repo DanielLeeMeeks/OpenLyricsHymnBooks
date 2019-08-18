@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:39+04:00">
+	<properties>
+		<titles>
+			<title>Spirt of God, Descend upon My Heart</title>
+		</titles>
+		<authors>
+			<author>George Croly (1867)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Holy Spirit</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="199"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Spirit of God, descend upon my heart,
+wean it from earth, through all its pulses move.
+Stoop to my weakness, mighty as Thou art,
+and make me love Thee as I ought to love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I ask no dream, no prophet ecstasies,
+no sudden rending of the veil of clay,
+no angel visitant, no op'ning skies,
+but take the dimness of my soul away.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Hast Thou not bid us love Thee, God and King;
+all, all Thine own--soul, heart, and strength, and mind?
+I see Thy cross; there teach my heart to cling.
+O let me seek Thee and O let me find!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Teach me to feel that Thou art always nigh.
+Teach me the struggles of the soul to bear,
+to check the rising doubt, the rebel sigh.
+Teach me the patience of unanswered prayer.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Teach me to love Thee as Thine angels love,
+one holy passion filling all my frame;
+the baptism of the heav'n-descended Dove,
+my heart an altar, and Thy love its flame.</lines>
+		</verse>
+	</lyrics>
+</song>

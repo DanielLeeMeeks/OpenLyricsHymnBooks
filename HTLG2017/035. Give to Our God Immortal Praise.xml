@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:50+04:00">
+	<properties>
+		<titles>
+			<title>Give to Our God Immortal Praise</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3108918</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="35"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 136</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Give to our God immortal praise;
+mercy and truth are all His ways;
+wonders of grace to God belong,
+repeat His mercies in your song.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Give to the Lord of lords renown,
+the King of kings with glory crown;
+His mercies ever shall endure,
+when lords and kings are known no more.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He built the earth, He spread the sky,
+and fixed the starry lights on high;
+wonders of grace to God belong;
+repeat His mercies in your song.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He fills the sun with morning light,
+He bids the moon direct the night;
+His mercies ever shall endure,
+when suns and moons shall shine no more.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>The Jews He freed from Pharaoh's hand
+and brought them to the promised land;
+wonders of grace to God belong,
+repeat His mercies in your song.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>He saw the Gentiles dead in sin
+and felt His pity move within;
+His mercies ever shall endure,
+when death and sin shall reign no more.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>He sent His Son with pow'r to save
+from guilt, and darkness, and the grave;
+wonders of grace to God belong,
+repeat His mercies in your song.</lines>
+		</verse>
+		<verse name="v8">
+			<lines>Through this vain world He guides our feet
+and leads us to His heav'nly seat;
+His mercies ever shall endure,
+when this vain world shall be no more.</lines>
+		</verse>
+	</lyrics>
+</song>

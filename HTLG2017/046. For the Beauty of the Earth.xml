@@ -1,0 +1,71 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:53+04:00">
+	<properties>
+		<titles>
+			<title>For the Beauty of the Earth</title>
+		</titles>
+		<authors>
+			<author>Folliott Sandford Pierpoint (1864, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>43200</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="46"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>For the beauty of the earth,
+for the glory of the skies,
+for the love which from our birth
+over and around us lies:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>For the wonder of each hour
+of the day and of the night;
+hill and vale, and tree and flow'r,
+sun and moon, and stars of light:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For the joy of human love,
+brother, sister, parent, child;
+friends on earth, and friends above,
+pleasures pure and undefiled:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For Thy church that evermore
+lifts her holy hands above,
+Off'ring up on every shore
+her pure sacrifice of love:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>For the joy of ear and eye,
+for the heart and mind's delight,
+for the mystic harmony
+linking sense and sound and sight:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>For Thyself, best gift divine,
+to our world so freely giv'n;
+for that great, great love of Thine,
+peace on earth and joy in heav'n:
+Lord of all, to Thee we raise
+this our hymn of grateful praise.</lines>
+		</verse>
+	</lyrics>
+</song>

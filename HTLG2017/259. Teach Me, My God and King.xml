@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:56+04:00">
+	<properties>
+		<titles>
+			<title>Teach Me, My God and King</title>
+		</titles>
+		<authors>
+			<author>George Herbert (1653)</author>
+			<author>John Wesley (1738)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2152996</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="259"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Recast by John Wesley</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Teach me, my God and King,
+in all things Thee to see,
+and what I do in anything,
+to do it as for Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To scorn the senses’ sway,
+while still to Thee I tend;
+in all I do be Thou the Way,
+in all be Thou the End.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>All may of Thee partake;
+nothing so small can be,
+but draws, when acted for Thy sake,
+greatness and worth from Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>If done t'obey Thy laws,
+e’en servile labors shine;
+hallowed is toil, if this the cause,
+the meanest work divine.</lines>
+		</verse>
+	</lyrics>
+</song>

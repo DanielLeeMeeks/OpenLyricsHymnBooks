@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:58+04:00">
+	<properties>
+		<titles>
+			<title>Savior, Like a Shepherd Lead Us</title>
+		</titles>
+		<authors>
+			<author>Dorothy A. Thrupp (1836)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>24078</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="267"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Savior, like a shepherd lead us,
+much we need Thy tender care;
+in Thy pleasant pastures feed us;
+for our use Thy folds prepare.
+Blessed Jesus, blessed Jesus,
+Thou hast bought us, Thine we are.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou has promised to receive us,
+poor and sinful though we be;
+Thou hast mercy to relieve us;
+grace to cleanse and pow'r to free.
+Blessed Jesus, blessed Jesus,
+early let us turn to Thee.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Early let us seek Thy favor,
+early let us do Thy will;
+do Thou, Lord, our only Savior,
+with Thy love our bosoms fill.
+Blessed Jesus, blessed Jesus,
+Thou hast loved us; love us still.</lines>
+		</verse>
+	</lyrics>
+</song>

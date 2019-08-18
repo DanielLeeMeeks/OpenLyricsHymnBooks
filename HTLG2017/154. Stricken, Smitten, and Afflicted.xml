@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:25+04:00">
+	<properties>
+		<titles>
+			<title>Stricken, Smitten, and Afflicted</title>
+		</titles>
+		<authors>
+			<author>Thomas Kelly (1804)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4571403</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="154"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Stricken, smitten, and afflicted,
+See Him dying on the tree!
+'Tis the Christ by man rejected;
+yes, my soul, 'tis He, 'tis He!
+'Tis the long-expected Prophet,
+David's Son, yet David's Lord;
+by His Son God now has spoken:
+'tis the true and faithful Word.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tell me, ye who hear Him groaning,
+was there ever grief like His?
+Friends thro' fear His cause disowning,
+foes insulting is distress;
+many hands were raised to wound Him,
+none would intervene to save;
+but the deepest stroke that pierced Him
+was the stroke that Justice gave.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ye who think of sin but lightly
+nor suppose the evil great
+here may view its nature rightly,
+here its guilt may estimate.
+Mark the sacrifice appointed,
+see who bears the awful load;
+'tis the Word, the Lord's Anointed,
+Son of Man and Son of God.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Here we have a firm foundation;
+here the refuge of the lost;
+Christ, the Rock of our salvation,
+His the Name of which we boast.
+Lamb of God, for sinners wounded,
+sacrifice to cancel guilt!
+None shall ever be confounded
+who on him their hope have built.</lines>
+		</verse>
+	</lyrics>
+</song>

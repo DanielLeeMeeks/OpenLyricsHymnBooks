@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:15+04:00">
+	<properties>
+		<titles>
+			<title>God Moves in a Mysterious Way</title>
+		</titles>
+		<authors>
+			<author>William Cowper (1774)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7100920</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="325"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God moves in a mysterious way
+His wonders to perform;
+He plants His footsteps in the sea
+and rides upon the storm.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Deep in unfathomable mines
+of never-failing skill;
+He treasures up his bright designs,
+and works His sov'reign will.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ye fearful saints, fresh courage take;
+the clouds you so much dread
+are big with mercy and shall break
+in blessings on your head.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Judge not the Lord by feeble sense,
+but trust Him for His grace;
+behind a frowning providence
+He hides a smiling face.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>His purposes will ripen fast,
+unfolding ev'ry hour;
+the bud may have a bitter taste,
+but sweet will be the flow'r.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Blind unbelief is sure to err,
+and scan His work in vain;
+God is His own interpreter,
+and He will make it plain.</lines>
+		</verse>
+	</lyrics>
+</song>

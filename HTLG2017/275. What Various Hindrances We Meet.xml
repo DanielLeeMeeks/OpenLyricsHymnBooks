@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:01+04:00">
+	<properties>
+		<titles>
+			<title>What Various Hindrances We Meet</title>
+		</titles>
+		<authors>
+			<author>William Cowper (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="275"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What various hindrances we meet
+in coming to the mercy seat!
+Yet who that knows the worth of pray'r
+but wishes to be often there!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Pray'r makes the darkened clouds withdraw;
+pray'r climbs the ladder Jacob saw;
+gives exercise to faith and love;
+brings ev'ry blessing from above.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Restraining pray'r, we cease to fight;
+pray'r makes the Christian’s armor bright;
+and Satan trembles when he sees
+the weakest saint upon his knees.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Have you no words? Ah, think again:
+words flow apace when you complain,
+and fill a fellow-creature’s ear
+with the sad tale of all your care.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Were half the breath thus vainly spent
+to heav’n in supplication sent,
+our cheerful song would oft’ner be,
+"Hear what the Lord hath done for me!"</lines>
+		</verse>
+	</lyrics>
+</song>

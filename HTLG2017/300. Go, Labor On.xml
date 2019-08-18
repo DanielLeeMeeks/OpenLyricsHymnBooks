@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:08+04:00">
+	<properties>
+		<titles>
+			<title>Go, Labor On</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1843)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3368507</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Commission</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="300"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Go, labor on; spend, and be spent,
+thy joy to do the Father's will;
+it is the way the Master went;
+should not the servant tread it still?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Go, labor on; 'tis not for naught;
+thine earthly loss is heav'nly gain;
+men heed thee, love thee, praise thee not;
+the Master praises--what are men?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Go labor on; enough while here
+if He shall praise thee, if He deign
+thy willing heart to mark and cheer;
+no toil for Him shall be in vain.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Go, labor on while it is day;
+the world's dark night is hast'ning on.
+Speed, speed thy work, cast sloth away;
+It is not thus that souls are won.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Toil on, faint not, keep watch and pray;
+be wise the erring soul to win;
+go forth into the world's highway,
+compel the wand'rer to come in.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Toil on, and in thy toil rejoice;
+for toil comes rest, for exile home;
+soon shall you hear the Bridegroom's voice,
+the midnight cry, "Behold, I come."</lines>
+		</verse>
+	</lyrics>
+</song>

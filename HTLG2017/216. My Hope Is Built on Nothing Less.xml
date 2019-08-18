@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:44+04:00">
+	<properties>
+		<titles>
+			<title>My Hope Is Built on Nothing Less</title>
+		</titles>
+		<authors>
+			<author>Edward Mote (1834)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6158927</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="216"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My hope is built on nothing less
+than Jesus' blood and righteousness;
+I dare not trust the sweetest frame,
+but wholly lean on Jesus' name.
+On Christ, the solid Rock, I stand;
+all other ground is sinking sand.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When darkness veils His lovely face,
+I rest on His unchanging grace;
+in ev'ry high and stormy gale
+my anchor holds within the veil.
+On Christ, the solid Rock, I stand;
+all other ground is sinking sand.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>His oath, His covenant, His blood
+support me in the 'whelming flood;
+when all around my soul gives way
+He then is all my hope and stay.
+On Christ, the solid Rock, I stand;
+all other ground is sinking sand.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When He shall come with trumpet sound,
+O may I then in Him be found,
+dressed in His righteousness alone,
+faultless to stand before the throne.
+On Christ, the solid Rock, I stand;
+all other ground is sinking sand.</lines>
+		</verse>
+	</lyrics>
+</song>

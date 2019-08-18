@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:43+04:00">
+	<properties>
+		<titles>
+			<title>A Good High Priest Is Come</title>
+		</titles>
+		<authors>
+			<author>John Cennick (1744)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2098404</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="215"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A good High Priest is come,
+supplying Aaron's place,
+and taking up his room,
+dispensing life and grace;
+the law by Aaron's priesthood came,
+but grace and truth by Jesus' name.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He once temptations knew
+of every sort and kind,
+that He might succor show
+to every tempted mind;
+in every point the Lamb was tried
+like us, and then for us He died.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He died, but lives again,
+and by the throne He stands,
+there shows how He was slain,
+opening His piercèd hands;
+our Priest abides and pleads the cause
+of us who have transgressed His laws.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>I other priests disclaim,
+and laws and off'rings too;
+none but the bleeding Lamb
+the mighty work can do;
+He shall have all the praise: for He
+has loved, and died, and lives for me.</lines>
+		</verse>
+	</lyrics>
+</song>

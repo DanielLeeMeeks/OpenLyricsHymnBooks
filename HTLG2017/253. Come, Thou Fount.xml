@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:54+04:00">
+	<properties>
+		<titles>
+			<title>Come, Thou Fount</title>
+		</titles>
+		<authors>
+			<author>Robert Robinson (1758)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4775010</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="253"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Thou Fount of ev'ry blessing,
+tune my heart to sing Thy grace;
+streams of mercy, never ceasing,
+call for songs of loudest praise.
+Teach me some melodious sonnet,
+sung by flaming tongues above.
+Praise the mount--I'm fixed upon it-
+mount of God's unchanging love.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Here I find my Ebenezer;
+hither by Thy help I've come;
+and I hope, by Thy good pleasure,
+safely to arrive at home.
+Jesus sought me when a stranger,
+wand'ring from the fold of God;
+He, to rescue me from danger,
+interposed His precious blood.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Oh, to grace how great a debtor
+daily I'm constrained to be!
+Let Thy goodness, like a fetter,
+bind my wand'ring heart to Thee;
+prone to wander, Lord, I feel it,
+prone to leave the God I love;
+here's my heart, O take and seal it;
+seal it for Thy courts above.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:08+04:00">
+	<properties>
+		<titles>
+			<title>Christ Is Coming! Let Creation</title>
+		</titles>
+		<authors>
+			<author>John R. MacDuff (1853)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>965405</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="96"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ is coming! Let creation
+from her groans and travail cease;
+let the glorious proclamation
+hope restore and faith increase;
+Christ is coming! Christ is coming!
+Come, Thou blessed Prince of Peace,
+come, Thou blessed Prince of Peace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Earth can now but tell the story
+Of Thy bitter cross and pain;
+she shall yet behold Thy glory,
+When Thou comest back to reign:
+Christ is coming! Christ is coming!
+Let each heart repeat the strain,
+let each heart repeat the strain.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Long Thine exiles have been pining,
+far from rest, and home, and Thee;
+but, in heav'nly vestures shining,
+they their loving Lord shall see:
+Christ is coming! Christ is coming!
+Haste the joyous jubilee,
+haste the joyous jubilee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>With that blessed hope before us,
+let no harp remain unstrung;
+let the mighty advent chorus
+onward roll from tongue to tongue:
+"Christ is coming! Christ is coming!
+Come, Lord Jesus, quickly come,
+come, Lord Jesus, quickly come!"</lines>
+		</verse>
+	</lyrics>
+</song>

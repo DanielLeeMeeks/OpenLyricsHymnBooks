@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:33+04:00">
+	<properties>
+		<titles>
+			<title>Alleluia! Sing to Jesus</title>
+		</titles>
+		<authors>
+			<author>William C. Dix (1866)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>670745</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="180"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Alleluia! Sing to Jesus;
+His the scepter, His the throne.
+Alleluia! His the triumph,
+His the victory alone.
+Hark! The songs of peaceful Zion
+thunder like a mighty flood;
+"Jesus out of ev'ry nation
+has redeemed us by His blood.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Alleluia! Not as orphans
+are we left in sorrow now.
+Alleluia! He is near us;
+faith believes, nor questions how.
+Though the cloud from sight received Him
+when the forty days were o'er,
+shall our hearts forget His promise,
+"I am with you evermore"?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Alleluia! Bread of heaven,
+here on earth our food, our stay.
+Alleluia! Here the sinful
+flee to You from day to day.
+Intercessor, Friend of sinners,
+earth's Redeemer, hear our plea
+where the songs of all the sinless
+sweep across the crystal sea.</lines>
+		</verse>
+	</lyrics>
+</song>

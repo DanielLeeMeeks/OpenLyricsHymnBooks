@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:55+04:00">
+	<properties>
+		<titles>
+			<title>The Heavens Declare Thy Glory, Lord</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5581636</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="51"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 19</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The heavens declare Thy glory, Lord,
+in ev'ry star Thy wisdom shines;
+but when our eyes behold Thy Word,
+we read Thy Name in fairer lines.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The rolling sun, the changing light,
+and nights and days Thy pow'r confess;
+but the blest volume Thou hast writ
+reveals Thy justice and Thy grace.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sun, moon, and stars convey Thy praise
+round the whole earth, and never stand:
+so when Thy truth began its race,
+it touched and glanced on ev'ry land.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Nor shall Thy spreading gospel rest
+till through the world Thy truth has run,
+till Christ has all the nations blest
+that see the light, or feel the sun.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Great Sun of Righteousness, arise,
+bless the dark world with heav'nly light;
+Thy gospel makes the simple wise;
+Thy laws are pure, Thy judgments right.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Thy noblest wonders here we view
+in souls renewed and sins forgiv'n;
+Lord, cleanse my sins, my soul renew,
+and make Thy Word my guide to heav'n.</lines>
+		</verse>
+	</lyrics>
+</song>

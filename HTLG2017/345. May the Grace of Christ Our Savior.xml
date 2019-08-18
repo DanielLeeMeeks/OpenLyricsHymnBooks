@@ -1,0 +1,31 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:21+04:00">
+	<properties>
+		<titles>
+			<title>May the Grace of Christ Our Savior</title>
+		</titles>
+		<authors>
+			<author>John Newton (1799)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1803315</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Benediction</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="345"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>May the grace of Christ our Savior
+and the Father's boundless love,
+with the Holy Spirit's favor,
+rest upon us from above.
+Thus may we abide in union
+with each other and the Lord,
+and possess in sweet communion,
+joys which earth cannot afford.</lines>
+		</verse>
+	</lyrics>
+</song>

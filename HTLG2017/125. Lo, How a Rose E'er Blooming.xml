@@ -1,0 +1,70 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:17+04:00">
+	<properties>
+		<titles>
+			<title>Lo, How a Rose E'er Blooming</title>
+		</titles>
+		<authors>
+			<author>Theodore Baker (1894)</author>
+			<author>Harriet Spaeth (1875)</author>
+			<author>John Mattes (1914, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2137289</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="125"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lo, how a rose e'er blooming
+from tender stem hath sprung,
+of Jesse's lineage coming,
+as men of old have sung.
+It came, a flower bright,
+amid the cold of winter,
+when half-spent was the night.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Isaiah 'twas foretold it,
+the rose I have in mind:
+with Mary we behold it,
+the virgin mother kind.
+To show God's love aright
+she bore to men a Savior,
+when half-spent was the night.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The shepherds heard the story,
+proclaimed by angels bright,
+how Christ, the Lord of glory,
+was born on earth this night.
+To Bethlehem they sped
+and in the manger found Him,
+as angel heralds said.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>This flow'r, whose fragrance tender
+with sweetness fills the air,
+dispels with glorious splendor
+the darkness ev'rywhere.
+True man, yet very God;
+from sin and death He saves us
+and lightens ev'ry load.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O Savior, child of Mary,
+who felt our human woe;
+O Savior, King of glory,
+who dost our weakness know,
+bring us at last, we pray,
+to the bright courts of heaven
+and to Thy endless day.</lines>
+		</verse>
+	</lyrics>
+</song>

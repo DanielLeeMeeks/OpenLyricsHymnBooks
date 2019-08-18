@@ -1,0 +1,42 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:26+04:00">
+	<properties>
+		<titles>
+			<title>What Wondrous Love Is This</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>197297</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="155"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What wondrous love is this, O my soul, O my soul!
+What wondrous love is this, O my soul!
+What wondrous love is this, that caused the Lord of bliss
+to bear the dreadful curse for my soul, for my soul,
+to bear the dreadful curse for my soul.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When I was sinking down, sinking down, sinking down,
+when I was sinking down, O my soul!
+When I was sinking down beneath God's righteous frown,
+Christ laid aside His crown for my soul, for my soul,
+Christ laid aside His crown for my soul.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To God and to the Lamb, I will sing, I will sing;
+to God and to the Lamb, I will sing.
+To God and to the Lamb who is the great "I AM,"
+while millions join the theme, I will sing, I will sing,
+while millions join the theme, I will sing.</lines>
+		</verse>
+	</lyrics>
+</song>

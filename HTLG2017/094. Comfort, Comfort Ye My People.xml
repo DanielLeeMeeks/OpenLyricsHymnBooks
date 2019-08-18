@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:08+04:00">
+	<properties>
+		<titles>
+			<title>Comfort, Comfort Ye My People</title>
+		</titles>
+		<authors>
+			<author>Johann Olearius</author>
+			<author>Catherine Winkworth (1863)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="94"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Comfort, comfort ye My people,
+speak ye peace, thus saith our God;
+comfort those who sit in darkness,
+mourning 'neath their sorrows' load.
+Speak ye to Jerusalem
+of the peace that waits for them!
+Tell her that her sins I cover
+and her warfare now is over.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Yea, her sins our God will pardon,
+blotting out each dark misdeed;
+all that well deserved His anger
+He no more will see nor heed.
+She hath suffered many a day,
+now her griefs have passed away;
+God will change her pining sadness
+into ever-springing gladness.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For Elijah's voice is crying
+in the desert far and near,
+bidding all men to repentance,
+since the kingdom now is here.
+O that warning cry obey,
+now prepare for God a way;
+let the valley rise to meet Him,
+and the hills bow down to greet Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Make ye straight what long was crooked,
+make the rougher places plain,
+let your hearts be true and humble,
+as befits His holy reign;
+for the glory of the LORD
+now o'er earth is shed abroad,
+and all flesh shall see the token
+that His Word is never broken.</lines>
+		</verse>
+	</lyrics>
+</song>

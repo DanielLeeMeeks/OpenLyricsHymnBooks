@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:48+04:00">
+	<properties>
+		<titles>
+			<title>O LORD, Our Lord, in All the Earth</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6092289</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="26"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 8</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O LORD, our Lord, in all the earth,
+how excellent Thy name!
+Thy glory Thou hast spread afar
+in all the starry frame.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>From lips of children, Thou, O LORD
+hast mighty strength ordained,
+that adversaries should be stilled
+and vengeful foes restrained.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When I regard the wondrous heav'ns,
+Thy handiwork on high,
+the moon and stars ordained by Thee,
+"O what is man?" I cry.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>O what is man, in Thy regard
+to hold so large a place,
+and what the son of man, that Thou
+dost visit him in grace.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>On man Thy wisdom hath bestowed
+a pow'r well nigh divine;
+with honor Thou hast crowned his head
+with glory like to Thine.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Thou hast subjected all to him,
+and lord of all is he,
+of flocks and herds, and beasts and birds,
+and all within the sea.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Thy mighty works and wondrous grace
+Thy glory, Lord, proclaim,
+O Lord, our Lord, in all the earth,
+How excellent Thy Name.</lines>
+		</verse>
+	</lyrics>
+</song>

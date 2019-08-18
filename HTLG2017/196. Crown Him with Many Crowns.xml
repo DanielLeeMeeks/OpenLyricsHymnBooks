@@ -1,0 +1,74 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:38+04:00">
+	<properties>
+		<titles>
+			<title>Crown Him with Many Crowns</title>
+		</titles>
+		<authors>
+			<author>Matthew Bridges (1851)</author>
+			<author>Godfrey Thring (1874)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>23938</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="196"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Crown Him with many crowns,
+the Lamb upon His throne;
+hark, how the heav'nly anthem drowns
+all music but its own!
+Awake, my soul, and sing
+of Him who died for thee,
+and hail Him as thy matchless King
+through all eternity.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Crown Him the Lord of love;
+behold His hands and side,
+rich wounds, yet visible above,
+in beauty glorified:
+no angel in the sky
+can fully bear that sight,
+but downward bends his burning eye
+at mysteries so bright.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Crown Him the Lord of life,
+who triumphed o'er the grave,
+and rose victorious in the strife
+for those He came to save.
+His glories now we sing,
+who died and rose on high,
+who died eternal life to bring,
+and lives that death may die.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Crown Him the Lord of heav'n!
+One with the Father known,
+one with the Spirit through Him giv'n
+from yonder glorious throne;
+to Thee be endless praise,
+for Thou for us hast died;
+be Thou, O Lord, through endless days
+adored and magnified.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Crown Him the Son of God,
+before the worlds began,
+and ye who tread where He hath trod,
+crown Him the Son of Man.
+All hail, Redeemer, hail;
+for Thou hast died for me;
+Thy praise and glory shall not fail
+throughout eternity!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:53+04:00">
+	<properties>
+		<titles>
+			<title>As Longs the Deer for Cooling Streams</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="43"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 42:1-7</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>As longs the deer for cooling streams
+in parched and barren ways,
+so longs my soul, O God, for Thee
+and Thy refreshing grace.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>For Thee, my God, the living God,
+my thirsty soul doth pine:
+O when shall I behold Thy face,
+Thou majesty divine?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Why restless, why cast down, my soul?
+Hope still, and thou shalt sing
+the praise of Him who is thy God,
+thy health’s eternal spring.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To Father, Son, and Holy Ghost,
+the God whom we adore,
+be glory as it was, is now,
+and shall be evermore.</lines>
+		</verse>
+	</lyrics>
+</song>

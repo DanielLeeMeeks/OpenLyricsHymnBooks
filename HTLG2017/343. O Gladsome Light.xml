@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:20+04:00">
+	<properties>
+		<titles>
+			<title>O Gladsome Light</title>
+		</titles>
+		<authors>
+			<author>Robert S. Bridges (1899)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Benediction</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="343"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O gladsome Light, O Grace
+of God the Father's face,
+th'eternal splendor wearing;
+celestial, holy, blest,
+our Savior Jesus Christ,
+joyful in Thine appearing.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Now, as day fadeth quite
+we see the evening light,
+our wonted hymn outpouring;
+Father of might unknown,
+Thee, His incarnate Son,
+and Holy Ghost adoring.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To Thee of right belongs
+all praise of holy songs,
+O Son of God, Life-giver;
+Thee, therefore, O Most High,
+the world does glorify
+and shall exalt forever.</lines>
+		</verse>
+	</lyrics>
+</song>

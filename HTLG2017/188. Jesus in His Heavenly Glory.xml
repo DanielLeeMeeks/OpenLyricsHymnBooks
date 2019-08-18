@@ -1,0 +1,48 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:35+04:00">
+	<properties>
+		<titles>
+			<title>Jesus in His Heavenly Glory</title>
+		</titles>
+		<authors>
+			<author>Robert C. Chapman (1871)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="188"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus in His heav'nly glory,
+sits with God upon the throne;
+noun more to be forsaken,
+His humiliation gone.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Never more shall God, Jehovah,
+smite the Shepherd with the sword;
+ne'er again shall cruel sinners
+set at nought our glorious Lord.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Dwelling in eternal sunshine
+of the countenance of God,
+Jesus fills all heaven with incense
+of HIs reconciling blood.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>On His heart our names are graven,
+on His shoulders we are borne;
+of our God beloved in Jesus,
+we can love Him in return.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:11+04:00">
+	<properties>
+		<titles>
+			<title>How Sweet the Name of Jesus Sounds</title>
+		</titles>
+		<authors>
+			<author>John Newton (1774)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1993644</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="310"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How sweet the Name of Jesus sounds
+in a believer's ear!
+It soothes his sorrows, heals his wounds,
+and drives away his fear.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>It makes the wounded spirit whole,
+and calms the troubled breast;
+'tis manna to the hungry soul,
+and to the weary rest.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Dear Name! the Rock on which I build,
+my Shield and Hiding Place,
+my never-failing Treas'ry filled
+with boundless stores of grace!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>By Thee my pray'rs acceptance gain,
+although with sin defiled;
+Satan accuses me in vain,
+and I am owned a child.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus! my Shepherd, Husband, Friend,
+my Prophet, Priest, and King;
+my Lord, my Life, my Way, my End,
+accept the praise I bring.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Weak is the effort of my heart,
+and cold my warmest thought;
+but when I see Thee as Thou art,
+I'll praise Thee as I ought!</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Till then I would Thy love proclaim
+with ev'ry fleeting breath;
+and may the music of Thy name
+refresh me soul in death.</lines>
+		</verse>
+	</lyrics>
+</song>

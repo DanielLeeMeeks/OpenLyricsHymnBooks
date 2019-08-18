@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:22+04:00">
+	<properties>
+		<titles>
+			<title>Go to Dark Gethsemane</title>
+		</titles>
+		<authors>
+			<author>James Montgomery (1825)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3915228</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="143"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Go to dark Gethsemane,
+all who feel the tempter's pow'r;
+your Redeemer's conflict see;
+watch with Him one bitter hour;
+turn not from His griefs away;
+learn of Jesus Christ to pray.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Follow to the judgment hall,
+view the Lord of life arraigned;
+Oh, the wormwood and the gall!
+Oh, the pangs His soul sustained!
+Shun not suff'ring, shame, or loss;
+learn from Him to bear the cross.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Calv'ry's mournful mountain climb;
+there, adoring at His feet,
+mark the miracle of time,
+God's own sacrifice complete.
+"It is finished!" hear Him cry;
+learn from Jesus Christ to die.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Early hasten to the tomb
+where they laid His breathless clay,
+all is solitude and gloom,
+who has taken Him away?
+Christ is ris'n! He meets our eyes.
+Savior, teach us so to rise.</lines>
+		</verse>
+	</lyrics>
+</song>

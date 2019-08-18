@@ -1,0 +1,86 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:06+04:00">
+	<properties>
+		<titles>
+			<title>God, Be Merciful to Me</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1189871</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="88"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 51</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God, be merciful to me,
+on Thy grace I rest my plea;
+plenteous in compassion Thou,
+blot out my transgressions now;
+wash me, make me pure within,
+cleanse, O cleanse me from my sin.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My transgressions I confess,
+grief and guilt my soul oppress;
+I have sinned against Thy grace
+and provoked thee to Thy face;
+I confess Thy judgment just,
+speechless, I Thy mercy trust.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I am evil, born in sin;
+Thou desirest truth within.
+Thou alone my Savior art,
+teach Thy wisdom to my heart;
+make me pure, Thy grace bestow,
+wash me whiter than the snow.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Broken, humbled to the dust
+by Thy wrath and judgment just,
+let my contrite heart rejoice
+and in gladness hear Thy voice;
+from my sins O hide Thy face,
+blot them out in boundless grace.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Gracious God, my heart renew,
+make my spirit right and true;
+cast me not away from Thee,
+let Thy Spirit dwell in me;
+Thy salvation's joy impart,
+steadfast make my willing heart.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Sinners then shall learn from me
+and return, O God, to Thee;
+Savior, all my guilt remove,
+and my tongue shall sing Thy love;
+touch my silent lips, O Lord,
+and my mouth shall praise accord.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Not the formal sacrifice
+hath acceptance in Thy eyes;
+broken hearts are in Thy sight
+more than sacrificial rite;
+contrite spirit, pleasing cries,
+Thou, O God, wilt not despise.</lines>
+		</verse>
+		<verse name="v8">
+			<lines>Prosper Zion in Thy grace
+and her broken walls replace;
+then our righteous sacrifice
+shall delight Thy holy eyes;
+free-will offerings, gladly made,
+on Thy altar shall be laid.</lines>
+		</verse>
+	</lyrics>
+</song>

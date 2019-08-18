@@ -1,0 +1,42 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:59+04:00">
+	<properties>
+		<titles>
+			<title>We Gather Together</title>
+		</titles>
+		<authors>
+			<author>Theodore Baker</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5252408</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="64"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We gather together to ask the Lord's blessing;
+He chastens and hastens His will to make known;
+the wicked oppressing now cease from distressing;
+sing praises to His Name, He forgets not His own.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Beside us to guide us, our God with us joining,
+ordaining, maintaining His kingdom divine;
+so from the beginning the fight we were winning:
+Thou, Lord wast at our side--the glory be Thine!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>We all do extol Thee, Thou leader in battle,
+and pray that Thou still our defender wilt be.
+Let Thy congregation escape tribulation;
+Thy name be ever praised; O Lord, make us free!</lines>
+		</verse>
+	</lyrics>
+</song>

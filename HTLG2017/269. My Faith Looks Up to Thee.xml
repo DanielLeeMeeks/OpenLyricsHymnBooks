@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:59+04:00">
+	<properties>
+		<titles>
+			<title>My Faith Looks Up to Thee</title>
+		</titles>
+		<authors>
+			<author>Ray Palmer (1830)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>43334</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="269"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My faith looks up to Thee,
+Thou Lamb of Calvary,
+Savior divine!
+Now hear me while I pray,
+take all my guilt away;
+O let me from this day
+be wholly Thine.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>May Thy rich grace impart
+strength to my fainting heart,
+my zeal inspire;
+as Thou hast died for me,
+O may my love to Thee
+pure, warm, and changeless be,
+a living fire.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>While life’s dark maze I tread,
+and griefs around me spread,
+be Thou my guide;
+bid darkness turn to day,
+wipe sorrow’s tears away,
+nor let me ever stray
+from Thee aside.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When ends life's transient dream,
+when death’s cold, sullen stream
+shall o'er me roll,
+blest Savior, then in love,
+fear and distrust remove;
+O bear me safe above,
+a ransomed soul.</lines>
+		</verse>
+	</lyrics>
+</song>

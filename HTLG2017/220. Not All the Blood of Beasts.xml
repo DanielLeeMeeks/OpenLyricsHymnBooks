@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:45+04:00">
+	<properties>
+		<titles>
+			<title>Not All the Blood of Beasts</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1709)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2312781</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="220"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Not all the blood of beasts
+on Jewish altars slain
+could give the guilty conscience peace
+or wash away the stain.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>But Christ, the heav'nly Lamb,
+takes all our sins away;
+a Sacrifice of nobler name
+and richer blood than they.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>My faith would lay her hand
+on that dear head of Thine,
+while like a penitent I stand,
+and there confess my sin.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>My soul looks back to see
+the burden Thou didst bear
+when hanging on the cursed tree;
+I know my guilt was there.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Believing, we rejoice
+to see the curse remove;
+we bless the Lamb with cheerful voice
+and sing His bleeding love.</lines>
+		</verse>
+	</lyrics>
+</song>

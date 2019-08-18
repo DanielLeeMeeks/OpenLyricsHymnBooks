@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:03+04:00">
+	<properties>
+		<titles>
+			<title>At the Lamb's High Feast We sing</title>
+		</titles>
+		<authors>
+			<author>Robert Campbell (1849)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2873402</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="284"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>At the Lamb's high feast we sing
+praise to our victorious King,
+who hath washed us in the tide
+flowing from His piercèd side;
+praise we Him whose love divine
+gives His sacred blood for wine,
+gives His body for the feast,
+Christ the Victim, Christ the Priest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Where the paschal blood is poured,
+death's dark angel sheathes his sword;
+Israel's hosts triumphant go
+through the wave that drowns the foe.
+Praise we Him, whose blood was shed,
+Paschal Victim, Paschal Bread;
+with sincerity and love
+eat we manna from above.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Mighty Victim from the sky,
+pow'rs of hell beneath Thee lie;
+death is conquered in the fight,
+Thou hast brought us life and light;
+hymns of glory and of praise,
+risen Lord, to Thee we raise;
+Holy Father, praise to Thee,
+with the Spirit, ever be.</lines>
+		</verse>
+	</lyrics>
+</song>

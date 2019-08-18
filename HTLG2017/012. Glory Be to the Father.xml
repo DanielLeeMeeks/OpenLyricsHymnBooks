@@ -1,0 +1,26 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:43+04:00">
+	<properties>
+		<titles>
+			<title>Glory Be to the Father</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>23426</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="12"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>Glory be to the Father
+and to the Son and to the Holy Ghost,
+as it was in the beginning,
+is now, and ever shall be,
+world without end. Amen, amen.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,77 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:15+04:00">
+	<properties>
+		<titles>
+			<title>What God Ordains Is Always Good</title>
+		</titles>
+		<authors>
+			<author>Samuel Rodigast (1675)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5084906</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="324"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What God ordains is always good:
+His will is just and holy.
+As He directs my life for me,
+I follow meek and lowly.
+My God indeed in ev'ry need
+knows well how He will shield me;
+to Him, then, I will yield me.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What God ordains is always good:
+He never will deceive me;
+He leads me in His righteous way,
+and never will He leave me.
+I take content what He has sent;
+His hand that sends me sadness
+will turn my tears to gladness.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>What God ordains is always good:
+His loving thought attends me;
+no poison can be in the cup
+that my Physician sends me.
+My God is true; each morning new
+I trust His grace unending,
+My life to Him commending.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>What God ordains is always good:
+He is my Friend and Father;
+He suffers naught to do me harm
+though many storms may gather.
+Now I may know both joy and woe;
+some day I shall see clearly
+that He has loved me dearly.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>What God ordains is always good:
+though I the cup am drinking
+which savors now of bitterness,
+I take it without shrinking.
+For after grief God gives relief,
+my heart with comfort filling
+and all my sorrow stilling.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>What God ordains is always good:
+this truth remains unshaken.
+Though sorrow, need, or death be mine,
+I shall not be forsaken.
+I fear no harm, for with His arm
+He shall embrace and shield me;
+so to my God I yield me.</lines>
+		</verse>
+	</lyrics>
+</song>

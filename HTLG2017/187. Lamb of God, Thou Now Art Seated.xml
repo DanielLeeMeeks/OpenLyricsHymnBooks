@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:35+04:00">
+	<properties>
+		<titles>
+			<title>Lamb of God, Thou Now Art Seated</title>
+		</titles>
+		<authors>
+			<author>James George Deck (1841, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="187"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lamb of God, Thou now art seated
+high beside Thy Father’s throne;
+all Thy gracious work completed,
+all Thy mighty vict'ry won:
+ev’ry knee in heav’n is bending
+to the Lamb for sinners slain;
+ev’ry voice and harp is swelling -
+Worthy is the Lamb to reign!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord, in all Thy pow’r and glory,
+still Thy thoughts and eyes are here;
+watching o’er Thy ransomed people,
+to Thy gracious heart so dear;
+Thou for them art interceding;
+everlasting is Thy love -
+and a blessed rest preparing
+in our Father’s house above.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lamb of God, Thy faithful promise
+says, “Behold, I quickly come;”
+and our hearts, to Thine responsive,
+cry, “Come, Lord, and take us home.”
+Oh, the rapture that awaits us,
+when we meet Thee in the air,
+and with Thee ascend in triumph,
+all Thy deepest joys to share.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lamb of God, when Thou in glory
+shalt to this sad earth return,
+all Thy foes shall quake before Thee,
+all who now despise Thee mourn;
+then shall we at Thine appearing,
+with Thee in Thy kingdom reign;
+Thine the praise, and Thine the glory,
+Lamb of God for sinners slain.</lines>
+		</verse>
+	</lyrics>
+</song>

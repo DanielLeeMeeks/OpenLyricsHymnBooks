@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:37+04:00">
+	<properties>
+		<titles>
+			<title>Lord, Enthroned in Heavenly Splendor</title>
+		</titles>
+		<authors>
+			<author>George H. Bourne (1874)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4739805</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="192"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, enthroned in heav'nly splendor,
+first-begotten from the dead,
+Thou alone, our strong Defender,
+liftest up Thy people's head.
+Hallelujah! Hallelujah!
+Jesus, true and living Bread!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Prince of Life, for us Thou livest,
+by Thy body souls are healed;
+Prince of Peace, Thy peace Thou livest,
+by Thy blood is pardon sealed.
+Hallelujah! Hallelujah!
+Word of God in flesh revealed.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Paschal Lamb! Thine off'ring finished
+once for all when Thou wast slain,
+in its fullness undiminished
+shall forevermore remain.
+Hallelujah! Hallelujah!
+Cleansing souls from ev'ry stain.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Great High Priest of our profession,
+through the oil Thou ent'redst in;
+by Thy mighty intercession
+grace and mercy Thou dost win.
+Hallelujah! Hallelujah!
+Only sacrifice for sin.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Life-imparting heav'nly Manna,
+stricken Rock, with streaming side,
+heav'n and earth with loud hosanna
+worship Thee, the Lamb who died.
+Hallelujah! Hallelujah!
+Ris'n, ascended, glorified!</lines>
+		</verse>
+	</lyrics>
+</song>

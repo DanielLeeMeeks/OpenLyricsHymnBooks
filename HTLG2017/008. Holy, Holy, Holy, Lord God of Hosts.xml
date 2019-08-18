@@ -1,0 +1,71 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:42+04:00">
+	<properties>
+		<titles>
+			<title>Holy, Holy, Holy, Lord God of Hosts</title>
+		</titles>
+		<authors>
+			<author>Christopher Wordsworth (1862)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2621348</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="8"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy, Holy, Holy, Lord
+God of hosts, Eternal King,
+by the heav'ns and earth adored!
+Angels and archangels sing,
+chanting everlastingly
+to the blessed Trinity.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Since by Thee were all things made,
+and in Thee do all things live,
+be to Thee all honor paid;
+praise to Thee let all things give,
+singing everlastingly
+To the blessed Trinity.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Thousands, tens of thousands stand,
+spirits blest before Thy throne,
+speeding thence at Thy command;
+and, when Thy command is done,
+singing everlastingly
+to the blessed Trinity.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Cherubim and seraphim
+veil their faces with their wings;
+eyes of angels are too dim
+to behold the King of kings,
+while they sing eternally
+to the blessed Trinity.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thee, apostles, prophets, Thee,
+Thee, the noble martyr band,
+praise with solemn jubilee,
+Thee, the Church in ev'ry land;
+singing everlastingly
+to the blessed Trinity.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Alleluia! Lord, to Thee,
+Father, Son, and Holy Ghost,
+Three in One, and One in Three,
+join we with the heav'enly host,
+singing everlastingly
+to the blessed Trinity.</lines>
+		</verse>
+	</lyrics>
+</song>

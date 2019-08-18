@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:50+04:00">
+	<properties>
+		<titles>
+			<title>O Lord of Heaven and Earth and Sea</title>
+		</titles>
+		<authors>
+			<author>Christopher Wordsworth (1863)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3286153</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="33"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Lord of heav'n and earth and sea,
+to Thee all praise and glory be;
+how shall we show our love to Thee
+who givest all?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The golden sunshine, vernal air,
+sweet flow'rs and fruits Thy love declare;
+when harvests ripen, Thou art there,
+who givest all.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For peaceful homes and healthful days,
+for all the blessings earth displays,
+we owe Thee thankfulness and praise,
+who givest all.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thou didst not spare Thine only Son,
+but gav'st Him for a world undone,
+and freely with that blessed One
+Thou givest all.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thou giv'st the Holy Spirit's dow'r,
+Spirit of life and love and pow'r,
+and dost His sev'nfold graces show'r
+upon us all.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>For souls redeemed, for sins forgiv'n,
+for means of grace and hopes of heav'n,
+Father, what can to thee be giv'n,
+who givest all?</lines>
+		</verse>
+	</lyrics>
+</song>

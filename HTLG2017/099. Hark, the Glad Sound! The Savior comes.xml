@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:09+04:00">
+	<properties>
+		<titles>
+			<title>Hark, the Glad Sound! The Savior comes</title>
+		</titles>
+		<authors>
+			<author>Philip Doddridge (1735)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2357306</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="99"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hark, the glad sound! The Savior comes,
+the Savior promised long!
+Let ev'ry heart prepare a throne,
+and ev'ry voice a song.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He comes the pris'ners to release,
+in Satan’s bondage held;
+the gates of brass before Him burst,
+the iron fetters yield.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He comes the broken heart to bind,
+the bleeding soul to cure,
+and with the treasures of His grace
+t'enrich the humbled poor.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Our glad Hosannas, Prince of Peace,
+Thy welcome shall proclaim;
+and heav'n’s eternal arches ring
+with Thy beloved Name.</lines>
+		</verse>
+	</lyrics>
+</song>

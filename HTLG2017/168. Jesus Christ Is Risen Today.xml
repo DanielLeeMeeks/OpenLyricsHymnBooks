@@ -1,0 +1,39 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:30+04:00">
+	<properties>
+		<titles>
+			<title>Jesus Christ Is Risen Today</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27965</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="168"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus Christ is ris'n today, Alleluia!
+our triumphant holy day, Alleluia!
+who did once upon the cross, Alleluia!
+suffer to redeem our loss. Alleluia!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hymns of praise then let us sing, Alleluia!
+unto Christ, our heav'nly King, Alleluia!
+who endured the cross and grave, Alleluia!
+sinners to redeem and save. Alleluia!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>But the pains which He endured, Alleluia!
+our salvation have procured, Alleluia!
+now above the sky He's King, Alleluia!
+where the angels ever sing. Alleluia!</lines>
+		</verse>
+	</lyrics>
+</song>

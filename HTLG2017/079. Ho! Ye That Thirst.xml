@@ -1,0 +1,73 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:03+04:00">
+	<properties>
+		<titles>
+			<title>Ho! Ye That Thirst</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="79"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Isaiah 55</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ho! ye that thirst, approach the spring
+where living waters flow:
+free to that sacred fountain all
+without a price may go.
+How long to streams of false delight
+will ye in crowds repair?
+How long your strength and substance waste
+on trifles light as air?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>My stores afford those rich supplies
+that health and pleasure give;
+incline your ear, and come to Me;
+the soul that hears shall live.
+With you a cov’nant I will make
+that ever shall endure;
+the hope which gladdened David’s heart
+My mercy hath made sure.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Behold He comes! your Leader comes,
+with might and honor crowned;
+a Witness who shall spread My Name
+to earth’s remotest bound.
+See! nations hasten to His call
+from ev’ry distant shore;
+isles, yet unknown, shall bow to Him,
+and Israel’s God adore.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Seek ye the LORD while yet His ear
+is open to your call;
+while offered mercy still is near,
+before His footstool fall.
+Let sinners quit their evil ways,
+their evil thoughts forego,
+and God, when they to Him return,
+returning grace will show.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>With joy and peace shall then be led
+the glad converted lands;
+the lofty mountains then shall sing,
+the forests clap their hands.
+Where briers grew ‘midst barren wilds,
+shall firs and myrtles spring;
+And nature, through its utmost bounds,
+eternal praises sing.</lines>
+		</verse>
+	</lyrics>
+</song>

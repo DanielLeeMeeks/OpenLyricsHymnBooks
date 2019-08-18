@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:05+04:00">
+	<properties>
+		<titles>
+			<title>Lord Jesus, Think on Me</title>
+		</titles>
+		<authors>
+			<author>Synesius of Cyrene (c. 410)</author>
+			<author>Allen W. Chatfield (1826)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4072957</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="85"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord Jesus, think on me,
+and purge away my sin;
+from earth-born passions set me free,
+and make me pure within.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lord Jesus, think on me,
+with care and woe oppressed,
+let me Thy loving servant be,
+and taste Thy promised rest.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord Jesus, think on me,
+nor let me go astray;
+through darkness and perplexity
+point Thou the heav'nly way.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Lord Jesus, think on me,
+that, when the flood is past,
+I may eternal brightness see,
+and share Thy joy at last.</lines>
+		</verse>
+	</lyrics>
+</song>

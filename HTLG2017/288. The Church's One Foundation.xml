@@ -1,0 +1,83 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:05+04:00">
+	<properties>
+		<titles>
+			<title>The Church's One Foundation</title>
+		</titles>
+		<authors>
+			<author>Samuel J. Stone (1866)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>55377</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Church</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="288"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The church's one Foundation
+is Jesus Christ her Lord;
+she is His new creation,
+by water and the Word;
+from heav'n He came and sought her
+to be His holy bride;
+with His own blood He bought her,
+and for her life He died.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Elect from ev'ry nation,
+yet one o'er all the earth,
+her charter of salvation,
+one Lord, one faith, one birth;
+one holy Name she blesses,
+partakes one holy food,
+and to one hope she presses,
+with ev'ry grace endued.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Tho' with a scornful wonder,
+men see her sore oppressed,
+by schisms rent asunder,
+by heresies distressed,
+yet saints their watch are keeping,
+their cry goes up, "How long?"
+And soon the night of weeping
+shall be the morn of song.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The church shall never perish!
+Her dear Lord, to defend,
+to guide, sustain, and cherish,
+is with her to the end;
+tho' there be those that hate her
+and false sons in her pale,
+against the foe or traitor
+she ever shall prevail.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>'Mid toil and tribulation,
+and tumult of her war,
+she waits the consummation
+of peace for evermore;
+till with the vision glorious
+her longing eyes are blest,
+and the great church victorious
+shall be the church at rest.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Yet she on earth hath union
+with God the Three in One,
+and mystic sweet communion
+with those whose rest is won.
+O happy ones and holy!
+Lord, give us grace that we,
+like them, the meek and lowly,
+on high may dwell with Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

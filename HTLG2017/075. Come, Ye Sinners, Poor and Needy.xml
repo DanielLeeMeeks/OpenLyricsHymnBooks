@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:02+04:00">
+	<properties>
+		<titles>
+			<title>Come, Ye Sinners, Poor and Needy</title>
+		</titles>
+		<authors>
+			<author>Joseph Hart (1759)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4582588</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="75"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternative tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, ye sinners, poor and needy,
+weak and wounded, sick and sore;
+Jesus ready stands to save you,
+full of pity, love and pow'r.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come, ye thirsty, come, and welcome,
+God's free bounty glorify;
+true belief and true repentance,
+ev'ry grace that brings you nigh.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Let not conscience let you linger,
+nor of fitness fondly dream;
+all the fitness He requireth
+is to feel your need of Him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come ye weary, heavy laden,
+lost and ruined by the fall;
+if you tarry till you're better,
+you will never come at all.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Lo! th'incarnate God, ascended,
+pleads the merit of His blood;
+venture on Him, venture wholly;
+let no other trust intrude.</lines>
+		</verse>
+	</lyrics>
+</song>

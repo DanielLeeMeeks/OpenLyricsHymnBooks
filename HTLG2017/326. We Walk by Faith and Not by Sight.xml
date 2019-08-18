@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:16+04:00">
+	<properties>
+		<titles>
+			<title>We Walk by Faith and Not by Sight</title>
+		</titles>
+		<authors>
+			<author>Henry Alford (1844)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5277524</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="326"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>We walk by faith, and not by sight;
+no gracious words we hear
+from Him who spoke as none e'er spoke,
+but we believe Him near.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>We may not touch His hands and side,
+nor follow where He trod;
+but in His promise we rejoice
+and cry, "My Lord and God!"</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Help then, O Lord, our unbelief;
+and may our faith abound
+to call on You when You are near
+and seek where You are found.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>That, when our life of faith is done,
+in realms of clearer light,
+may we behold You as You are,
+with full and endless sight.</lines>
+		</verse>
+	</lyrics>
+</song>

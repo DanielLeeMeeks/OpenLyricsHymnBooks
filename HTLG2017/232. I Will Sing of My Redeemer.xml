@@ -1,0 +1,52 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:48+04:00">
+	<properties>
+		<titles>
+			<title>I Will Sing of My Redeemer</title>
+		</titles>
+		<authors>
+			<author>Philip P. Bliss</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>69260</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="232"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I will sing of my Redeemer
+and His wondrous love to me;
+on the cruel cross He suffered,
+from the curse to set me free.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Sing, O sing of my Redeemer!
+with His blood He purchased me;
+on the cross He sealed my pardon,
+paid the debt, and made me free.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I will tell the wondrous story,
+how my lost estate to save,
+in His boundless love and mercy,
+He the ransom freely gave. [Refrain]
+I will praise my dear Redeemer,
+His triumphant pow'r I'll tell,
+how the victory He giveth
+over sin, and death, and hell. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I will sing of my Redeemer
+and His heav'nly love for me;
+He from death to life hath brought me,
+Son of God, with him to be. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

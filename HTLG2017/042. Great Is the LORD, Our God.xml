@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:52+04:00">
+	<properties>
+		<titles>
+			<title>Great Is the LORD, Our God</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4590587</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="42"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 48:1-8</comment>
+			<comment>Suggested Tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Great is the Lord, our God,
+and let His praise be great;
+He makes His churches His abode,
+His most delightful seat.
+These temples of His grace,
+how beautiful they stand,
+the honors of our native place
+and bulwarks of our land!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Oft have our fathers told,
+our eyes have often seen,
+how well our God secures the fold
+where His own sheep have been.
+In ev'ry new distress
+we’ll to His house repair,
+recall to mind His wondrous grace,
+and seek deliv'rance there.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Far as Thy Name is known,
+the world declares Thy praise;
+Thy saints, O LORD, before Thy throne,
+their sons of honor raise.
+With joy Thy people stand
+on Zion's chosen hill,
+proclaim the wonders of Thy hand,
+and councils of Thy will.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>How decent and how wise!
+How glorious to behold!
+Beyond the pomp that charms the eyes,
+and rites adorned with gold.
+The God we worship now
+will guide us till we die;
+will be our God while here below,
+and ours above the sky.</lines>
+		</verse>
+	</lyrics>
+</song>

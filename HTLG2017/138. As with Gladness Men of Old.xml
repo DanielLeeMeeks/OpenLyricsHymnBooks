@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:21+04:00">
+	<properties>
+		<titles>
+			<title>As with Gladness Men of Old</title>
+		</titles>
+		<authors>
+			<author>William C. Dix (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4691716</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Earthly Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="138"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>As with gladness men of old
+did the guiding star behold;
+as with joy they hailed its light,
+leading onward, beaming bright;
+so, most gracious God, may we
+evermore be led to Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>As with joyful steps they sped
+to that lowly cradle-bed,
+there to bend the knee before
+Him whom heav'n and earth adore;
+so may we with willing feet
+ever seek Thy mercy-seat.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>As they offered gifts most rare
+at that cradle rude and bare;
+so may we with holy joy,
+pure, and free from sin’s alloy,
+all our costliest treasures bring,
+Christ, to Thee, our heav'nly King.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Holy Jesus, ev'ry day
+keep us in the narrow way;
+and, when earthly things are past,
+bring our ransomed lives at last
+where they need no star to guide,
+where no clouds Thy glory hide.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>In that heav'nly country bright
+need they no created light;
+Thou its Light, its Joy, its Crown,
+Thou its Sun which goes not down;
+there for ever may we sing
+alleluias to our King.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:54+04:00">
+	<properties>
+		<titles>
+			<title>The Spacious Heavens Declare</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="49"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 19</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The spacious heav'ns declare
+the glory of our God,
+the firmament displays
+His handiwork abroad;
+day unto day proclaims His might,
+and night His wisdom tells to night.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Aloud they do not speak,
+they utter forth no word,
+nor into language break -
+their voice is never heard;
+yet through the world the truth they bear
+and their Creator's pow'r declare.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The clouds of heav'n are spread,
+a tent to hold the sun,
+and like a bridegroom fair
+comes forth the mighty one,
+rejoicing in his strength and grace
+to run his wondrous daily race.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>His daily going forth
+is from the end of heav'n;
+the firmament to him
+is for his circuit giv'n;
+his journey reaches to its ends,
+and ev'rywhere his heat extends.</lines>
+		</verse>
+	</lyrics>
+</song>

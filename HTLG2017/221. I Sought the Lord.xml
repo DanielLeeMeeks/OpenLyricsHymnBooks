@@ -1,0 +1,41 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:45+04:00">
+	<properties>
+		<titles>
+			<title>I Sought the Lord</title>
+		</titles>
+		<authors>
+			<author>Jean Ingelow (1878)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>564143</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="221"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I sought the Lord, and afterward I knew
+He moved my soul to seek Him, seeking me;
+it was not I that found, O Savior true;
+no, I was found of Thee.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou didst reach forth Thy hand and mine enfold;
+I walked and sank not on the storm-vexed sea;
+'twas not so much that I on Thee took hold,
+as Thou, dear Lord, on me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I find, I walk, I love, but O, the whole
+of love is but my answer, Lord, to Thee!
+For Thou wert long beforehand with my soul,
+always Thou lovedst me.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:53+04:00">
+	<properties>
+		<titles>
+			<title>All Things Bright and Beautiful</title>
+		</titles>
+		<authors>
+			<author>Cecil F. Alexander (1848)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1208343</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="45"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>All things bright and beautiful,
+all creatures great and small,
+all things wise and wonderful,
+the Lord God made them all.</lines>
+		</verse>
+		<verse name="v1">
+			<lines>Each little flow'r that opens,
+each little bird that sings,
+He made their glowing colors,
+He made their tiny wings. [Refrain]</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The purple-headed mountain,
+the river running by,
+the sunset and the morning
+that brightens up the sky. [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The cold wind in the winter,
+the pleasant summer sun,
+the ripe fruits in the garden:
+He made them ev'ry one. [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>He gave us eyes to see them,
+and lips that we might tell
+how great is God Almighty,
+who has made all things well. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

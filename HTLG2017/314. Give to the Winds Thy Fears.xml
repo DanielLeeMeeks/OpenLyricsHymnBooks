@@ -1,0 +1,74 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:12+04:00">
+	<properties>
+		<titles>
+			<title>Give to the Winds Thy Fears</title>
+		</titles>
+		<authors>
+			<author>Paul Gerhardt (1656)</author>
+			<author>John Wesley (1739)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="314"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Give to the winds thy fears,
+hope and be undismayed;
+God hears thy sighs and counts thy tears;
+God shall lift up thy head.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Through waves and clouds and storms,
+He gently clears the way;
+wait thou His time, so shall this night
+soon end in joyous day.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Still heavy is thy heart,
+still sink thy spirits down?
+Cast off the weight, let fear depart,
+and ev'ry care be gone.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>What though thou rules not,
+yet heav'n, and earth, and hell
+proclaim, God sitteth on the throne,
+and ruleth all things well.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Leave to His sov'reign sway
+to choose and to command.
+so shalt thou wond'ring own His way,
+how wise, how strong His hand!</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Far, far above thy thought
+His counsel shall appear,
+when fully He the work hath wrought,
+that caused thy needless fear.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Thou seest our weakness, Lord,
+our hearts are known to Thee;
+O lift Thou up the sinking heart,
+confirm the feeble knee.</lines>
+		</verse>
+		<verse name="v8">
+			<lines>Let us in life, in death,
+Thy steadfast truth declare,
+and publish with our latest breath
+Thy love and guardian care.</lines>
+		</verse>
+	</lyrics>
+</song>

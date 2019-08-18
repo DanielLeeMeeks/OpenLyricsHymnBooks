@@ -1,0 +1,65 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:19+04:00">
+	<properties>
+		<titles>
+			<title>See Amid the Winter's Snow</title>
+		</titles>
+		<authors>
+			<author>Edward Caswall (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6103161</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="132"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>See, amid the winter's snow,
+born for us on earth below,
+see the tender Lamb appears,
+promised from eternal years.</lines>
+		</verse>
+		<verse name="c">
+		<lines>Hail! Thou ever-blessed morn!
+Hail, redemption's happy dawn!
+Sing through all Jerusalem,
+"Christ is born in Bethlehem."</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Lo, within a manger lies
+He who built the starry skies;
+He, who throned in height sublime,
+sits amid the cherubim! [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Say, ye holy shepherds, say,
+what your joyful news today;
+wherefore have ye left your sheep
+on the lonely mountain steep? [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>"As we watched at dead of night,
+lo, we saw a wondrous light;
+angels, singing 'Peace on earth'
+told us of the Savior's birth." [Refrain]</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Sacred Infant, all divine,
+what a tender love was Thine;
+thus to come from highest bliss
+down to such a world as this! [Refrain]</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Teach, O teach us, Holy Child,
+by Thy face so meek and mild,
+teach us to resemble Thee
+in Thy sweet humility! [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

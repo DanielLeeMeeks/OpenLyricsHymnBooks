@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:42+04:00">
+	<properties>
+		<titles>
+			<title>Here Is Love</title>
+		</titles>
+		<authors>
+			<author>William Rees (1855)</author>
+			<author>William Edwards (1915)</author>
+			<author>William Williams (1744)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3287884</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="212"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Here is love, vast as the ocean,
+loving-kindness as the flood,
+when the Prince of Life, our Ransom,
+shed for us His precious blood.
+Who His love will not remember?
+Who can cease to sing His praise?
+He can never be forgotten
+throughout heav'n's eternal days.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>On the mount of crucifixion
+fountains opened deep and wide;
+through the floodgates of God's mercy
+flowed a vast and gracious tide.
+Grace and love, like mighty rivers,
+poured incessant from above,
+and heav'n's peace and perfect justice
+kissed a guilty world in love.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>In Thy truth Thou dost direct me
+By Thy Spirit through Thy Word;
+And Thy grace my need is meeting
+as I trust in Thee, my Lord.
+Of Thy fullness Thou art pouring
+Thy great love and pow'r on me,
+Without measure, full and boundless,
+Drawing out my heart to Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

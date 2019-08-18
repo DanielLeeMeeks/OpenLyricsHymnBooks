@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:20+04:00">
+	<properties>
+		<titles>
+			<title>The Sands of Time Are Sinking</title>
+		</titles>
+		<authors>
+			<author>Anne R. Cousin</author>
+			<author>Samuel Rutherford, 1600-1661</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>364680</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="340"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The sands of time are sinking;
+the dawn of heaven breaks;
+the summer morn I've sighed for,
+the fair sweet morn awakes;
+dark, dark, hath been the midnight,
+but dayspring is at hand,
+and glory, glory dwelleth
+in Emmanuel's land.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The King there in His beauty
+without a veil is seen;
+it were a well-spent journey,
+though trials lay between:
+the Lamb with His fair army
+on Zion's mountain stands,
+and glory, glory dwelleth
+in Emmanuel's land.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O Christ, He is the Fountain,
+the deep sweet Well of love!
+The streams on earth I've tasted;
+more deep I'll drink above:
+there to an ocean fullness
+His mercy doth expand,
+and glory, glory dwelleth
+in Emmanuel's land.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The bride eyes not her garment,
+but her dear bridegroom's face;
+I will not gaze at glory,
+but on my King of grace;
+not at the crown He giveth,
+but on His piercèd hand;
+the Lamb is all the glory
+of Emmanuel's land.</lines>
+		</verse>
+	</lyrics>
+</song>

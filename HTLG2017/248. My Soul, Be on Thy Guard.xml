@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:53+04:00">
+	<properties>
+		<titles>
+			<title>My Soul, Be on Thy Guard</title>
+		</titles>
+		<authors>
+			<author>George Heath (1781)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>121847</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="248"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>My soul, be on thy guard;
+ten thousand foes arise;
+the hosts of sin are pressing hard
+to draw thee from the skies.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O watch, and fight, and pray;
+the battle ne'er give o'er;
+renew it boldly every day,
+and help divine implore.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ne'er think the vict'ry won,
+nor once at ease sit down;
+the arduous work will not be done
+till thou hast got the crown.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Fight on, my soul, till death
+shall bring thee to my God;
+He'll take thee, at thy parting breath,
+up to His rest above.</lines>
+		</verse>
+	</lyrics>
+</song>

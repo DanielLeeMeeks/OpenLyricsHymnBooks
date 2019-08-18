@@ -1,0 +1,63 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:47+04:00">
+	<properties>
+		<titles>
+			<title>And Can It Be</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>25280</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="229"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>And can it be that I should gain
+an int'rest in the Saviour's blood?
+Died He for me who caused His pain?
+For me, who Him to death pursued?
+Amazing love! how can it be
+that Thou, my God, shouldst die for me?
+Amazing love! how can it be
+that Thou, my God, shouldest die for me!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He left His Father's throne above,
+so free, so infinite His grace!
+Emptied Himself and came in love,
+and bled for Adam's helpless race!
+'tis mercy all, immense and free,
+for, O my God, it found out me.
+Amazing love! how can it be
+that Thou, my God, shouldest die for me!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Long my imprisoned spirit lay,
+fast bound in sin and nature's night.
+Thine eye diffused a quick'ning ray;
+I woke-- the dungeon flamed with light!
+My chains fell off, my heart was free;
+I rose, went forth, and followed Thee.
+Amazing love! how can it be
+that Thou, my God, shouldest die for me!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>No condemnation now I dread;
+Jesus and all in him is mine!
+Alive in Him, my living Head,
+and clothed in righteousness divine!
+Bold I approach th'eternal throne,
+and claim the crown through Christ my own!
+Amazing love! how can it be
+that Thou, my God, shouldest die for me!</lines>
+		</verse>
+	</lyrics>
+</song>

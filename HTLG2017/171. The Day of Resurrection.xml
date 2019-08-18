@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:31+04:00">
+	<properties>
+		<titles>
+			<title>The Day of Resurrection</title>
+		</titles>
+		<authors>
+			<author>John of Damascus, 8th cent.</author>
+			<author>John Mason Neale (1862, al.t)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2309598</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="171"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>The day of resurrection!
+Earth, tell it out abroad;
+the Passover of gladness,
+the Passover of God.
+From death to life eternal,
+from this world to the sky,
+our Christ hath brought us over,
+with hymns of victory.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Our hearts be pure from evil,
+that we may see aright
+the Lord in rays eternal
+of resurrection light;
+and, list'ning to His accents,
+may hear, so calm and plain,
+His own "All hail!" and, hearing,
+may raise the victor strain.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now let the heav'ens be joyful!
+Let earth the song begin!
+Let world resound in triumph,
+and all that is therein;
+let all things seen and unseen
+their notes in gladness blend;
+for Christ the Lord hath risen,
+our Jjoy that hath no end.</lines>
+		</verse>
+	</lyrics>
+</song>

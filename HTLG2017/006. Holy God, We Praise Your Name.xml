@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:42+04:00">
+	<properties>
+		<titles>
+			<title>Holy God, We Praise Your Name</title>
+		</titles>
+		<authors>
+			<author>Ignace Franz (c. 1774)</author>
+			<author>Clarence Walworth (1858, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="6"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Holy God, we praise Your name;
+Lord of all, we bow before You.
+Saints on earth your rule acclaim;
+all in heav'n above adore You.
+Infinite Your vast domain;
+everlasting is Your reign.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Hark, the glad celestial hymn
+angel choirs above are raising;
+cherubim and seraphim,
+in unceasing chorus praising,
+fill the heav'ns with sweet accord:
+“Holy, holy, holy Lord!”</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lo, the apostolic train
+joins Your sacred name to hallow;
+prophets swell the glad refrain,
+and the white-robed martyrs follow;
+and from morn to set of sun,
+through the church the song goes on.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Holy Father, Holy Son,
+Holy Spirit, three we name You,
+though in essence only one;
+undivided God, we claim You,
+and, adoring, bend the knee
+while we own the mystery.</lines>
+		</verse>
+	</lyrics>
+</song>

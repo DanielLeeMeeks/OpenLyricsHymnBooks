@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:15+04:00">
+	<properties>
+		<titles>
+			<title>If Thou but Trust in God to Guide Thee</title>
+		</titles>
+		<authors>
+			<author>Georg Neumark</author>
+			<author>Catherine Winkworth (1863, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>564215</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="323"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>If thou but trust in God to guide thee
+and hope in Him through all thy ways,
+He'll give thee strength, whate'er betide thee,
+and bear thee through the evil days;
+who trusts in God's unchanging love
+builds on the Rock that naught can move.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>What can these anxious cares avail thee,
+these never-ceasing moans and sighs?
+What can it help if thou bewail thee
+o'er each dark moment as it flies?
+Our cross and trials do but press
+the heavier for our bitterness.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Only be still, and wait His leisure
+in cheerful hope, with heart content
+to take whate'er thy Father's pleasure
+and all-discerning love have sent;
+nor doubt our inmost wants are known
+to Him who chose us for His own.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>All are alike before the Highest;
+'tis easy to our God, we know,
+to raise thee up though low thou livest,
+to make the rich man poor and low;
+true wonders still be Him are wrought
+who setteth up and bright to naught.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Sing, pray, and keep His ways unswerving;
+in all thy labor faithful be,
+and trust His Word; though undeserving,
+thou yet shalt find it true for thee.
+God never will forsook in need
+the soul that trusts in Him indeed.</lines>
+		</verse>
+	</lyrics>
+</song>

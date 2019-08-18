@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:07+04:00">
+	<properties>
+		<titles>
+			<title>Christ for the World We Sing</title>
+		</titles>
+		<authors>
+			<author>Samuel Wolcott (1868)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2647487</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Commission</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="295"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christ for the world we sing;
+the world to Christ we bring
+with loving zeal;
+the poor and them that mourn,
+the faint and overborne,
+sin-sick and sorrow-worn,
+for Christ doth heal.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Christ for the world we sing;
+the world to Christ we bring
+with fervent pray'r;
+the wayward and the lost,
+by restless passions tossed,
+redeemed at countless cost
+from dark despair.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Christ for the world we sing;
+the world to Christ we bring
+with one accord;
+with us the work to share,
+with us reproach to dare,
+with us the cross to bear,
+for Christ our Lord.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Christ for the world we sing;
+the world to Christ we bring
+with joyful song;
+the newborn souls whose days,
+reclaimed from error's ways,
+inspired with hope and praise,
+to Christ belong.</lines>
+		</verse>
+	</lyrics>
+</song>

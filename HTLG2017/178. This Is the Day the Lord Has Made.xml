@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:33+04:00">
+	<properties>
+		<titles>
+			<title>This Is the Day the Lord Has Made</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1719)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2408884</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="178"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 118:24-29</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>This is the day the Lord has made;
+He calls the hours His own;
+let heav'n rejoice, let earth be glad,
+and praise surround the throne.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Today he rose and left the dead,
+and Satan's empire fell;
+today the saints His triumphs spread,
+and all His wonders tell.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Hosanna to th'anointed King,
+to David's holy Son.
+help us, O LORD, descend and bring
+salvation from Your throne.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Blest be the Lord, who comes to us
+with messages of grace;
+who comes, in God His Father's name,
+to save our sinful race.</lines>
+		</verse>
+	</lyrics>
+</song>

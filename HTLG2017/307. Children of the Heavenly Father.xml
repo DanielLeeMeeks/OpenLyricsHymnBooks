@@ -1,0 +1,33 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:10+04:00">
+	<properties>
+		<titles>
+			<title>Children of the Heavenly Father</title>
+		</titles>
+		<authors>
+			<author>Caroline Sandell-Berg (1855)</author>
+			<author>Ernst Olsen (1925)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="307"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not scrap this song.</comment>
+			<comment>© 1925 Board of Publication Lutheran Church of America, ren. 1963, admin. Augsburg Fortress</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

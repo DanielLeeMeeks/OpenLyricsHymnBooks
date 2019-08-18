@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:58+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Still Lead On</title>
+		</titles>
+		<authors>
+			<author>Nicolaus L. von Zinzendorf (1721)</author>
+			<author>Jane Borthwick (1854)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="265"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, still lead on till our rest be won.
+And, although the way be cheerless,
+we will follow, calm and fearless;
+guide us by Your hand to our Fatherland.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>If the way be drear, if the foe be near,
+let not faithless fears o'ertake us,
+let not faith and hope forsake us;
+for, through many a woe, to our home we go.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>When we seek relief from a long-felt grief--
+when oppressed by new temptations,
+Lord, increase and perfect patience.
+Show us that bright shore where we weep no more.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus, still lead on till our rest be won;
+Heav'nly Leader, still direct us,
+still support, console, protect us,
+till we safely stand in our Fatherland.</lines>
+		</verse>
+	</lyrics>
+</song>

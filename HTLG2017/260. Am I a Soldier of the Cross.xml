@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:56+04:00">
+	<properties>
+		<titles>
+			<title>Am I a Soldier of the Cross</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1724)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>115145</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="260"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Am I a soldier of the cross,
+a foll'wer of the Lamb?
+And shall I fear to own His cause
+or blush to speak His Name?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Must I be carried to the skies
+on flow'ry beds of ease,
+while others fought to win the prize
+and sailed through bloody seas?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Are there no foes for me to face?
+Must I not stem the flood?
+Is this vile world a friend to grace
+to help me on to God?</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Sure I must fight, if I would reign;
+increase my courage, Lord;
+I'll bear the toil, endure the pain,
+supported by Thy Word.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thy saints in all this glorious war
+shall conquer, though they die;
+they see the triumph from afar
+by faith's discerning eye.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>When that illustrious day shall rise,
+and all Thine armies shine
+in robes of vict'ry through the skies,
+the glory shall be Thine.</lines>
+		</verse>
+	</lyrics>
+</song>

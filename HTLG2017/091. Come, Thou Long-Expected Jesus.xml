@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:07+04:00">
+	<properties>
+		<titles>
+			<title>Come, Thou Long-Expected Jesus</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1744)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>31999</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Advent</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="91"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Thou long-expected Jesus,
+born to set Thy people free;
+from our fears and sins release us,
+let us find our rest in Thee.
+Israel's strength and consolation,
+hope of all the earth Thou art;
+dear Desire of ev'ry nation,
+joy of ev'ry longing heart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Born Thy people to deliver,
+born a child and yet a King;
+born to reign in us forever,
+now Thy gracious kingdom bring.
+By thine own eternal Spirit
+rule in all our hearts alone;
+by Thine all-sufficient merit,
+raise us to Thy glorious throne.</lines>
+		</verse>
+	</lyrics>
+</song>

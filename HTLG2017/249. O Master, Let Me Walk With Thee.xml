@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:53+04:00">
+	<properties>
+		<titles>
+			<title>O Master, Let Me Walk With Thee</title>
+		</titles>
+		<authors>
+			<author>Washington Gladden (1879)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3703526</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="249"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O Master, let me walk with Thee
+in lowly paths of service free;
+tell me Thy secret; help me bear
+the strain of toil, the fret of care.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Help me the slow of heart to move
+by some clear, winning word of love;
+teach me the wayward feet to stay,
+and guide them in the homeward way.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Teach me Thy patience, still with Thee
+in closer, dearer company,
+in work that keeps faith sweet and strong,
+in trust that triumphs over wrong.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>In hope that sends a shining ray
+far down the future's broad'ning way;
+in peace that only Thou canst give,
+with Thee, O Master, let me live.</lines>
+		</verse>
+	</lyrics>
+</song>

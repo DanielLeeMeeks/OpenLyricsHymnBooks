@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:45+04:00">
+	<properties>
+		<titles>
+			<title>Amid The Thronging Worshipers</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="19"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 22:22-31</comment>
+			<comment>Suggested tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Amid the thronging worshipers
+Jehovah will I bless;
+before my brethren, gathered here
+His Name will I confess.
+Come, praise Him, ye that fear the LORD,
+ye children of His grace;
+with rev'rence sound His glories forth
+And bow before His face.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The burden of the sorrowful
+The LORD will not despise;
+He has not turned from those that mourn,
+He hearkens to their cries.
+His goodness makes me join the throng
+where saints His praise proclaim,
+and there will I fulfill my vows
+'mid those who fear His Name.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He feeds with good the humble soul
+and satisfies the meek,
+and they shall live and praise the LORD
+who for His mercy seek.
+The ends of all the earth take thought,
+the nations seek the LORD;
+they worship Him, the King of kings,
+in earth and heav'n adored.</lines>
+		</verse>
+	</lyrics>
+</song>

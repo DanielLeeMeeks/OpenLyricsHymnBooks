@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:21+04:00">
+	<properties>
+		<titles>
+			<title>Hosanna, Loud Hosanna</title>
+		</titles>
+		<authors>
+			<author>Jeannette Threlfall (1873)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Earthly Ministry</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="139"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Suggested tune</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hosanna, loud hosanna,
+the little children sang;
+through pillared court and temple
+the lovely anthem rang.
+To Jesus, who had blessed them,
+close folded to His breast,
+the children sang their praises,
+the simplest and the best.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>From Olivet they followed
+mid an exultant crowd,
+the victor palm branch waving,
+and chanting clear and loud.
+The Lord of men and angels
+rode on in lowly state
+nor scorned that little children
+should on His bidding wait.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Hosanna in the highest!"
+That ancient song we sing,
+for Christ is our Redeemer,
+the Lord of heav'n, our King.
+Oh, may we ever praise Him
+with heart and life and voice,
+and in His blissful presence
+eternally rejoice!</lines>
+		</verse>
+	</lyrics>
+</song>

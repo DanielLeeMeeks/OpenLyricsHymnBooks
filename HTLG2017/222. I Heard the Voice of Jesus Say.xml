@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:45+04:00">
+	<properties>
+		<titles>
+			<title>I Heard the Voice of Jesus Say</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1846)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>699960</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="222"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>I heard the voice of Jesus say,
+“Come unto Me and rest;
+lay down, thou weary one, lay down
+thy head upon My breast!”
+I came to Jesus as I was,
+so weary worn and sad;
+I found in Him a resting-place,
+and He has made me glad.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>I heard the voice of Jesus say,
+“Behold, I freely give
+the living water; thirsty one,
+stoop down, and drink, and live!”
+I came to Jesus, and I drank
+of that life-giving stream;
+my thirst was quenched, my soul revived,
+and now I live in Him.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>I heard the voice of Jesus say,
+“I am this dark world’s Light;
+look unto Me, thy morn shall rise,
+and all thy day be bright!”
+I looked to Jesus, and I found
+in Him my Star, my Sun;
+and in that Light of life I’ll walk,
+till all my journey's done.</lines>
+		</verse>
+	</lyrics>
+</song>

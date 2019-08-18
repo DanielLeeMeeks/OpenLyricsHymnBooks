@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:54+04:00">
+	<properties>
+		<titles>
+			<title>It Is Good to Sing Your Praises</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5191806</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="48"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 92</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>It is good to sing Your praises
+and to thank You, O Most High,
+showing forth Your loving-kindness
+when the morning lights the sky.
+It is good when night is falling
+of Your faithfulness to tell,
+while with sweet, melodious praises
+songs of adoration swell.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>You have filled my heart with gladness
+through the works Your hands have wrought;
+You have made my life victorious;
+great Your works and deep Your thought.
+You, O Lord, on high exalted,
+reign forevermore in might;
+all Your enemies shall perish,
+sin be banished from Your sight.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>But the good shall live before You,
+planted in Your dwelling place,
+fruitful trees and ever verdant,
+nourished by Your boundless grace.
+In His goodness to the righteous
+God His righteousness displays;
+God, my Rock, my Strength and Refuge,
+just and true are all Your ways.</lines>
+		</verse>
+	</lyrics>
+</song>

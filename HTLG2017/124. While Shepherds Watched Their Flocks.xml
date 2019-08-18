@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:17+04:00">
+	<properties>
+		<titles>
+			<title>While Shepherds Watched Their Flocks</title>
+		</titles>
+		<authors>
+			<author>Nahum Tate (1700)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>32008</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="124"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>While shepherds watched their flocks by night,
+all seated on the ground,
+an angel of the Lord came down,
+and glory shone around.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>"Fear not," said he, for mighty dread
+had seized their troubled mind;
+"Glad tidings of great joy I bring
+to you and all mankind.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"To you, in David's town, this day,
+is born of David's line
+a Savior, who is Christ the Lord;
+and this shall be the sign:</lines>
+		</verse>
+		<verse name="v4">
+			<lines>"The heav'nly Babe you there shall find
+to human view displayed,
+all meanly wrapped in swaddling clothes
+and in a manger laid."</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Thus spoke the seraph, and forthwith
+appeared a shining throng
+of angels, praising God, and thus
+addressed their joyful song:</lines>
+		</verse>
+		<verse name="v6">
+			<lines>"All glory be to God on high,
+and to the earth be peace;
+goodwill henceforth from heav'n to men
+begin and never cease."</lines>
+		</verse>
+	</lyrics>
+</song>

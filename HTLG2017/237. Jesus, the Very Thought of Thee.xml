@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:50+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, the Very Thought of Thee</title>
+		</titles>
+		<authors>
+			<author>Bernard of Clairvaux, 12th cent.</author>
+			<author>Edward Caswall (1849)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5764769</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="237"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, the very thought of Thee
+with sweetness fills my breast;
+but sweeter far Thy face to see
+and in Thy presence rest.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No voice can sing, no heart can frame,
+nor can the mem'ry find
+a sweeter sound than Thy blest name,
+O Savior of mankind.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O hope of ev'ry contrite heart,
+O joy of all the meek,
+to those who fall, how kind Thou art!
+How good to those who seek!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>But what to those who find? Ah, this
+no tongue or pen can show;
+the love of Jesus, what it is,
+none but His loved ones know.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Jesus, our only Joy be Thou,
+as Thou our Prize wilt be;
+Jesus, be Thou our Glory now
+and through eternity.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:49+04:00">
+	<properties>
+		<titles>
+			<title>All Creatures of Our God and King</title>
+		</titles>
+		<authors>
+			<author>William H. Draper (1925)</author>
+			<author>Francis of Assisi (1225)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3608102</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="31"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All creatures of our God and King,
+lift up your voice and with us sing
+Alleluia! Alleluia!
+Thou burning sun with golden beam,
+thou silver moon with softer gleam,
+O praise Him, O praise Him!
+Alleluia! Alleluia! Alleluia!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thou rushing wind that art so strong,
+ye clouds that sail in heav'n along,
+O praise Him! Alleluia!
+Thou rising morn, in praise rejoice,
+ye lights of ev'ning find a voice!
+O praise Him, O praise Him!
+Alleluia! Alleluia! Alleluia!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And all ye men of tender heart,
+forgiving others, take your part,
+O sing ye! Alleluia!
+Ye who long pain and sorrow bear,
+praise God and on Him cast your care!
+O praise Him, O praise Him!
+Alleluia! Alleluia! Alleluia!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Let all things their Creator bless
+and worship Him in humbleness,
+O praise Him! Alleluia!
+Praise, praise the Father, praise the Son,
+and praise the Spirit, Three in One:
+O praise Him, O praise Him!
+Alleluia! Alleluia! Alleluia!</lines>
+		</verse>
+	</lyrics>
+</song>

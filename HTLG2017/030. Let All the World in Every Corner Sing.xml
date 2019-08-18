@@ -1,0 +1,43 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:49+04:00">
+	<properties>
+		<titles>
+			<title>Let All the World in Every Corner Sing</title>
+		</titles>
+		<authors>
+			<author>George Herbert (1633)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2699071</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="30"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Let all the world in ev'ry corner sing,
+"My God and King!"
+The heav'ns are not too high,
+God's praise may thither fly;
+the earth is not too low,
+God's praises there may grow.
+Let all the world in ev'ry corner sing,
+"My God and King!"</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let all the world in ev'ry corner sing,
+"My God and King!"
+The church with psalms must shout:
+no door can keep them out.
+But, more than all, the heart
+must bear the longest part.
+Let all the world in ev'ery corner sing,
+"My God and King!"</lines>
+		</verse>
+	</lyrics>
+</song>

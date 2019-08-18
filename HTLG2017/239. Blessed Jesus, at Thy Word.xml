@@ -1,0 +1,56 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:50+04:00">
+	<properties>
+		<titles>
+			<title>Blessed Jesus, at Thy Word</title>
+		</titles>
+		<authors>
+			<author>Tobias Clausnitzer (1683)</author>
+			<author>Catherine Winkworth (1858)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>314094</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>God's Word</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="239"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Blessèd Jesus, at Thy Word
+we are gathered all to hear Thee;
+let our hearts and souls be stirred
+now to seek and love and fear Thee;
+by Thy teachings sweet and holy
+drawn from earth to love Thee solely.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>All our knowledge, sense, and sight
+lie in deepest darkness shrouded,
+till Thy Spirit breaks our night
+with the beams of truth unclouded;
+Thou alone to God canst win us;
+Thou must work all good within us.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Glorious Lord, Thyself impart!
+Light of Light from God proceeding,
+open Thou our ears and heart,
+help us by Thy Spirit’s pleading,
+hear the cry Thy people raises,
+hear and bless our pray'rs and praises.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Father, Son, and Holy Ghost,
+praise to Thee and adoration!
+Grant that we Thy Word may trust
+and obtain true consolation
+while we here below must wander,
+till we sing Thy praises yonder.</lines>
+		</verse>
+	</lyrics>
+</song>

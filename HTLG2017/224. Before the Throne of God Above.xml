@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:46+04:00">
+	<properties>
+		<titles>
+			<title>Before the Throne of God Above</title>
+		</titles>
+		<authors>
+			<author>Charitie Bancroft (1863)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2306412</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="224"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Before the throne of God above
+I have a strong, a perfect plea,
+a great High Priest, whose name is Love
+who ever lives and pleads for me.
+My name is graven on His hands,
+my name is written on His heart;
+I know that while in heav'n He stands
+no tongue can bid me thence depart.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>When Satan tempts me to despair
+and tells me of the guilt within,
+upward I look, and see Him there
+who made an end of all my sin.
+Because the sinless Savior died,
+my sinful soul is counted free,
+for God the just is satisfied
+to look on Him and pardon me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Behold Him there! the risen Lamb!
+my perfect, spotless righteousness,
+the great unchangeable I AM,
+the King of glory and of grace!
+One with Himself, I cannot die;
+my soul is purchased by His blood;
+my life is hid with Christ on high,
+with Christ my Savior and my God.</lines>
+		</verse>
+	</lyrics>
+</song>

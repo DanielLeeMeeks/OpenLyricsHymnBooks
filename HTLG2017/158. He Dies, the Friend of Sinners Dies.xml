@@ -1,0 +1,55 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:27+04:00">
+	<properties>
+		<titles>
+			<title>He Dies, the Friend of Sinners Dies</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1709)</author>
+			<author>Augustus Toplady (1776)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="158"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>He dies, the Friend of sinners dies!
+Lo! Salem's daughters weep around.
+A solemn darkness veils the skies;
+a sudden trembling shakes the ground.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Here's love and grief beyond degree:
+the Lord of glory dies for men;
+but lo, what sudden joys we see!
+Jesus, the dead, revives again.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The rising God forsakes the tomb!
+The tomb in vain forbids His rise:
+Cherubic legions guard Him home,
+And shout Him welcome to the skies.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Break off your tears, ye saints, and tell
+how high your great Deliv'rer reigns.
+Sing how He spoiled the hosts of hell,
+and led the monster, Death, in chains.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Say: "Live forever, wondrous King,
+born to redeem, and strong to save!"
+Then ask the monster: "Where's thy sting?
+And where's thy vict'ry, boasting grave?"</lines>
+		</verse>
+	</lyrics>
+</song>

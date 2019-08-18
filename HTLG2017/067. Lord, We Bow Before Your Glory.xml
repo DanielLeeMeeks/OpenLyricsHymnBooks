@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:00+04:00">
+	<properties>
+		<titles>
+			<title>Lord, We Bow Before Your Glory</title>
+		</titles>
+		<authors>
+			<author>Eric J. Alexander (2001)</author>
+		</authors>
+		<copyright>© 2001 Eric J. Alexander and Paul S. Jones</copyright>
+		<ccliNo>5114979</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="67"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Copyright owner has given permission for this hymn to be displayed</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Lord, we bow before Your glory
+manifested in Your Son.
+Radiant with Your perfect beauty,
+He is heav'n's Beloved One.
+Saving grace has given us vision,
+opened eyes that one were blind.
+He on whom brought derision
+now delights our heart and mind.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Such a Savior, now exalted,
+well deserves our heartfelt praise.
+Dying He has death defeated;
+ris'n He reigns for endless days.
+Now in heaven interceding,
+Jesus, Friend of sinners, prays
+for the weakest, daily pleading;
+all sufficient is His grace.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O that we might know You better,
+Jesus Christ, our living Lord.
+Let our love grow daily greater
+as we hear Your Holy Word.
+There You have revealed Your glory,
+there we marvel at Your grace.
+Feed our souls and make us like You
+till we see You face to face.</lines>
+		</verse>
+	</lyrics>
+</song>

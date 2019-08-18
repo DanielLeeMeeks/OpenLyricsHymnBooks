@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:02+04:00">
+	<properties>
+		<titles>
+			<title>Here, O My Lord, I See Thee Face to Face</title>
+		</titles>
+		<authors>
+			<author>Horatius Bonar (1855)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>136265</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Communion</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="281"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Here, O my Lord, I see Thee face to face;
+here would we touch and handle things unseen;
+here grasp with firmer hand eternal grace
+and all my weariness upon Thee lean.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Here would I feed upon the bread of God,
+here drink with Thee the royal wine of heav'n;
+here would we lay aside each earthly load,
+here taste afresh the calm of sin forgiv'n.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>This is the hour of banquet and of song;
+this is the heav'nly table spread for me;
+here let me feast, and feasting, still prolong
+the brief, bright hour of fellowship with Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Too soon we rise, the symbols disappear;
+the feast, though not the love, is past and done;
+gone are the bread and wine, but Thou art here,
+nearer than ever, still my Shield and Sun.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Feast after feast thus comes, and passes by;
+yet passing, points to the glad feast above;
+giving sweet foretaste of the festal joy,
+the Lamb's great bridal feast of bliss and love.</lines>
+		</verse>
+	</lyrics>
+</song>

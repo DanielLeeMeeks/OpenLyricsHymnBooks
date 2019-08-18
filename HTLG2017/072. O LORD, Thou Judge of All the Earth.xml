@@ -1,0 +1,70 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:01+04:00">
+	<properties>
+		<titles>
+			<title>O LORD, Thou Judge of All the Earth</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>12097</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="72"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 94</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O LORD, Thou Judge of all the earth,
+to whom all vengeance doth belong,
+arise and show Thy glory forth,
+requite the proud, condemn the wrong.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>How long, O LORD, in boastful pride
+shall wicked men triumphant stand?
+How long shall they afflict Thy saints
+and scorn Thy wrath, Thy dreadful hand?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Be wise, ye fools and brutish men;
+shall not He see who formed the eye?
+Shall not He hear who formed the ear,
+and judge, who reigneth God most high?</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The LORD will judge in righteousness,
+from Him all truth and knowledge flow;
+the foolish thoughts of wicked men,
+how vain they are the LORD doth know.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>That man is blest whom Thou, O LORD,
+with chastening hand dost teach Thy will,
+for in the day when sinners fall
+that man in peace abideth still.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>Unless the Lord had been my Help,
+my life had quickly passed away;
+but when my foot had almost slipped,
+O LORD, Thy mercy was my stay.</lines>
+		</verse>
+		<verse name="v7">
+			<lines>Amid the doubts that fill my mind
+Thy comforts, LORD, bring joy to me;
+can wickedness, though throned in might,
+have fellowship, O LORD, with Thee?</lines>
+		</verse>
+		<verse name="v8">
+			<lines>The wicked, in their might arrayed,
+against the righteous join their pow'r,
+but to the LORD I flee for help;
+He is my Refuge and my Tow'r.</lines>
+		</verse>
+	</lyrics>
+</song>

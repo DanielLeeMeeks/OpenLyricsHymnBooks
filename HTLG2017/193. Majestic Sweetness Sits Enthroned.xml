@@ -1,0 +1,51 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:37+04:00">
+	<properties>
+		<titles>
+			<title>Majestic Sweetness Sits Enthroned</title>
+		</titles>
+		<authors>
+			<author>Samuel Stennett (1787)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>27934</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="193"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Majestic sweetness sits enthroned
+upon the Savior's brow;
+His head with radiant glories crowned,
+His lips with grace o'erflow,
+His lips with grace o'erflow.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>No mortal can with Him compare,
+among the sons of men;
+fairer is He than all the fair
+who fill the heav'nly train,
+who fill the heav'nly train.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>He saw me plunged in deep distress,
+and flew to my relief;
+for me He bore the shameful cross,
+and carried all my grief,
+and carried all my grief.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>To Him I owe my life and breath,
+and all the joys I have;
+He makes me triumph over death,
+and saves me from the grave,
+and saves me from the grave.</lines>
+		</verse>
+	</lyrics>
+</song>

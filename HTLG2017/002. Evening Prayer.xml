@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:40+04:00">
+	<properties>
+		<titles>
+			<title>Evening Prayer</title>
+		</titles>
+		<authors>
+			<author>Thomas Ken (1674, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7001760</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="2"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>All praise to Thee, my God, this night,
+for all the blessings of the light.
+Keep me, O keep me, King of kings,
+beneath Thine own almighty wings.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Forgive me, Lord, for Thy dear Son,
+the ill that I this day have done,
+that with the world, myself, and Thee,
+I, ere I sleep, at peace may be.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>O may my soul on Thee repose,
+and may sweet sleep mine eyelids close;
+sleep, that may me more vig'rous make,
+to serve my God, when I awake.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Praise God, from whom all blessings flow;
+praise Him all creatures here below;
+praise Him above, ye heav'nly host,
+praise Father, Son, and Holy Ghost.</lines>
+		</verse>
+	</lyrics>
+</song>

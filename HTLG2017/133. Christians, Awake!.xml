@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:19+04:00">
+	<properties>
+		<titles>
+			<title>Christians, Awake!</title>
+		</titles>
+		<authors>
+			<author>John Byrom (1749)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4756211</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="133"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Christians, awake! Salute the happy morn
+whereon the Savior of the world was born;
+rise to adore the mystery of love,
+which hosts of angels chanted from above;
+with them the joyful tidings first begun,
+of God incarnate and the virgin's Son.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Then to the watchful shepherds it was told,
+who heard th'angelic herald's voice, "Behold,
+I bring good tidings of a Savior's birth
+to you and all the nations of the earth;
+this day hath God fulfilled His promised Word;
+this day is born a Savior, Christ the Lord."</lines>
+		</verse>
+		<verse name="v3">
+			<lines>This may we hope, th'angelic hosts among,
+to sing, redeemed a glad triumphal song.
+He that was born upon this joyful day
+around us all His glory shall display.
+Saved by His love, incessantly we sing
+eternal praise to heav'n's almighty King.</lines>
+		</verse>
+	</lyrics>
+</song>

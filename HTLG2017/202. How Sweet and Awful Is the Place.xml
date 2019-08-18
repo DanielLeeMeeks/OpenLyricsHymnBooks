@@ -1,0 +1,59 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:39+04:00">
+	<properties>
+		<titles>
+			<title>How Sweet and Awful Is the Place</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1707, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6156888</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="202"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How sweet and awful is the place
+with Christ within the doors,
+while everlasting love displays
+the choicest of her stores.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>While all our hearts and all our songs
+join to admire the feast,
+each of us cries, with thankful tongue,
+"Lord, why was I a guest?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>"Why was I made to hear Thy voice,
+and enter while there's room,
+when thousands make a wretched choice,
+and rather starve than come?"</lines>
+		</verse>
+		<verse name="v4">
+			<lines>'Twas the same love that spread the feast
+that sweetly drew us in;
+else we had still refused to taste,
+and perished in our sin.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Pity the nations, O our God,
+constrain the earth to come;
+send Thy victorious Word abroad,
+and bring the strangers home.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>We long to see Thy churches full,
+that all the chosen race
+may, with one voice and heart and soul,
+sing Thy redeeming grace.</lines>
+		</verse>
+	</lyrics>
+</song>

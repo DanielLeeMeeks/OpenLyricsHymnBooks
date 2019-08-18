@@ -1,0 +1,67 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:47+04:00">
+	<properties>
+		<titles>
+			<title>God Himself Is with Us</title>
+		</titles>
+		<authors>
+			<author>Gerhard Tersteegen (1729)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>6391540</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="25"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>God Himself is with us;
+let us now adore Him
+and with awe appear before Him!
+God is in His temple;
+all within keep silence,
+prostrate lie with deepest rev'rence.
+Him alone God we own,
+Him, our God and Savior;
+praise His name forever.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>God Himself is with us:
+hear the harps resounding!
+see the hosts the throne surrounding!
+"Holy, holy, holy!"
+Hear the hymn ascending,
+songs of saints and angels blending.
+Bow Your ear to us here:
+hear, O Christ, the praises
+that Your church now raises.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Light of light eternal,
+all things penetrating,
+for Your rays our soul is waiting.
+As the tender flowers,
+willingly unfolding,
+to the sun their faces holding:
+even so would we do,
+light from You obtaining,
+strength to serve You gaining.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Come, celestial Being,
+make our hearts Your dwelling,
+every carnal thought dispelling.
+By Your Holy Spirit
+sanctify us truly,
+teaching us to love You only.
+Where we go here below,
+let us bow before You
+and in truth adore You.</lines>
+		</verse>
+	</lyrics>
+</song>

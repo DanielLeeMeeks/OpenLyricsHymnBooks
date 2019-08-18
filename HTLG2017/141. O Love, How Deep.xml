@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:22+04:00">
+	<properties>
+		<titles>
+			<title>O Love, How Deep</title>
+		</titles>
+		<authors>
+			<author>Thomas à Kempis, 15th cent.</author>
+			<author>Benjamin Webb (1854, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>137178</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="141"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O love, how deep, how broad, how high,
+how passing thought and fantasy,
+that God, the Son of God, should take
+our mortal form for mortals’ sake!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>He sent no angel to our race,
+of higher or of lower place,
+but wore the robe of human frame,
+and He Himself to this world came.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>For us baptized, for us He bore
+His holy fast, and hungered sore;
+for us temptations sharp He knew,
+for us the tempter overthrew.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>For us to wicked men betrayed,
+scourged, mocked, in crown of thorns arrayed,
+He bore the shameful cross and death
+for us at length gave up His breath.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>For us He rose from death again,
+for us He went on high to reign,
+for us He sent His Spirit here
+to guide, to strengthen, and to cheer.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>All glory to our Lord and God
+for love so deep, so high, so broad —
+the Trinity whom we adore
+forever and forevermore.</lines>
+		</verse>
+	</lyrics>
+</song>

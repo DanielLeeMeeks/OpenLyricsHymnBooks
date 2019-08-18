@@ -1,0 +1,39 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:13+04:00">
+	<properties>
+		<titles>
+			<title>Away in a Manger</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>38583</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="111"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Away in a manger, no crib for a bed,
+the little Lord Jesus laid down His sweet head;
+the stars in the heavens looked down where He lay,
+the little Lord Jesus asleep on the hay.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The cattle are lowing, the Baby awakes,
+but little Lord Jesus, no crying He makes.
+I love Thee, Lord Jesus, look down from the sky
+and stay by my side until morning is nigh.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Be near me, Lord Jesus; I ask Thee to stay
+close by me forever and love me, I pray.
+Bless all the dear children in Thy tender care,
+and fit us for heaven, to live with Thee there.</lines>
+		</verse>
+	</lyrics>
+</song>

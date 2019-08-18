@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:06+04:00">
+	<properties>
+		<titles>
+			<title>A Charge to Keep I Have</title>
+		</titles>
+		<authors>
+			<author>Charles Wesley (1762, alt.)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2647360</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Commission</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="294"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A charge to keep I have,
+a God to glorify,
+a never-dying soul to save,
+and fit it for the sky.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>To serve the present age,
+my calling to fulfill,
+O may it all my pow'rs engage
+to do my Master's will!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Arm me with watchful care
+as in Thy sight to live,
+and now Thy servant, Lord, prepare
+a strict account to give!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Help me to watch and pray,
+and still on Thee rely,
+O let me not my trust betray,
+but press to realms on high.</lines>
+		</verse>
+	</lyrics>
+</song>

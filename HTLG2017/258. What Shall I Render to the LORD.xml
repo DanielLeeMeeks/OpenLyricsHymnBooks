@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:56+04:00">
+	<properties>
+		<titles>
+			<title>What Shall I Render to the LORD</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>5610246</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="258"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 116:12-19</comment>
+			<comment>Suggested tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>What shall I render to the LORD,
+what shall my offering be,
+for all the gracious benefits
+He has bestowed on me?</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Salvation's cup my soul will take
+while to the LORD I pray,
+and with His people I will meet,
+my thankful vows to pay.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Not lightly does the LORD permit
+His chosen saints to die;
+from death Thou hast delivered me,
+Thy servant, LORD, am I.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>The sacrifice of praise I bring
+while to the LORD I pray,
+and with His people I will meet,
+my thankful vows to pay.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Within His house, the house of pray'r,
+my soul shall bless the LORD,
+and praises to His holy Name
+let all His saints accord.</lines>
+		</verse>
+	</lyrics>
+</song>

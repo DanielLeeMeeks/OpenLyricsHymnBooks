@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:36+04:00">
+	<properties>
+		<titles>
+			<title>Come, Christians, Join to Sing</title>
+		</titles>
+		<authors>
+			<author>Christian H. Bateman (1843)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>83253</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="190"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Come, Christians, join to sing
+Alleluia! Amen!
+loud praise to Christ our King;
+Alleluia! Amen!
+Let all, with heart and voice,
+before His throne rejoice;
+praise is His gracious choice:
+Alleluia! Amen!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Come, lift your hearts on high;
+Alleluia! Amen!
+let praises fill the sky;
+Alleluia! Amen!
+He is our Guide and Friend;
+to us He'll condescend;
+His love shall never end:
+Alleluia! Amen!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Praise yet our Christ again;
+Alleluia! Amen!
+life shall not end the strain;
+Alleluia! Amen!
+On heaven's blissful shore
+His goodness we'll adore,
+singing forevermore,
+Alleluia! Amen!</lines>
+		</verse>
+	</lyrics>
+</song>

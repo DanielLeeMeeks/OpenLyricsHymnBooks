@@ -1,0 +1,44 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:39+04:00">
+	<properties>
+		<titles>
+			<title>Not All the Outward Forms on Earth</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (1706)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>The Holy Spirit</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="201"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Not all the outward forms on earth,
+nor rites that God has giv'n,
+nor will of man, nor blood, nor birth,
+can raise a soul to heav'n.
+The sov'reign will of God alone
+creates us heirs of grace
+born in the image of His Son,
+a new, peculiar race.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>The Spirit, like some heav'nly wind,
+blows on the sons of flesh,
+new models all the carnal mind,
+and forms the man afresh.
+Our quickened souls awake, and rise
+from the long sleep of death;
+on heav'nly things we fix our eyes,
+and praise employs our breath.</lines>
+		</verse>
+	</lyrics>
+</song>

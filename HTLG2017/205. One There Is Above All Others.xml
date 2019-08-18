@@ -1,0 +1,71 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:40+04:00">
+	<properties>
+		<titles>
+			<title>One There Is Above All Others</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2787220</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="205"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>One there is, above all others,
+well deserves the name of Friend;
+His is love beyond a brother's,
+costly, free, and knows no end;
+they who once His kindness prove,
+find it everlasting love!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Which of all our friends to save us,
+could or would have shed their blood?
+But our Jesus died to have us
+reconciled in Him to God;
+this was boundless love indeed!
+Jesus is a Friend in need.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Men, when raised to lofty stations,
+often know their friends no more;
+slight and scorn their poor relations
+though they valued them before.
+But our Savior always owns
+those whom He redeemed with groans.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>When He lived on earth abased,
+Friend of sinners was His name;
+now, above all glory raised,
+He rejoices in the same;
+still He calls them brethren, friends,
+and to all their wants attends.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Could we bear from one another
+what He daily bears from us?
+Yet this glorious Friend and Brother
+loves us though we treat Him thus;
+though for good we render ill,
+He accounts us brethren still.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>O for grace our hearts to soften!
+Teach us, Lord, at length to love;
+we, alas! forget too often
+what a Friend we have above;
+but when home our souls are brought,
+we will love Thee as we ought.</lines>
+		</verse>
+	</lyrics>
+</song>

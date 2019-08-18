@@ -1,0 +1,57 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:38+04:00">
+	<properties>
+		<titles>
+			<title>Behold the Glories of the Lamb</title>
+		</titles>
+		<authors>
+			<author>Isaac Watts (c. 1688)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Resurrection and Exaltation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="197"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Revelation 5:6-12</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Behold the glories of the Lamb
+amidst His Father's throne!
+amidst His Father's throne!
+Prepare new honors for His name,
+and songs before unknown,
+and songs before unknown.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Let elders worship at His feet,
+the church adore around,
+the church adore around,
+with vials full of odors sweet,
+and harps of sweeter sound,
+and harps of sweeter sound.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Now to the Lamb that once was slain
+be endless blessings paid;
+be endless blessings paid;
+salvation, glory, joy, remain
+forever on Thy head,
+forever on Thy head.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thou hast redeemed our souls with blood,
+hast set the pris'ners free,
+hast set the prisoners free,
+hast made us kings and priests to God,
+and we shall reign with Thee,
+and we shall reign with Thee.</lines>
+		</verse>
+	</lyrics>
+</song>

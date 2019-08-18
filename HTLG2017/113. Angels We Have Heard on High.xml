@@ -1,0 +1,49 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:13+04:00">
+	<properties>
+		<titles>
+			<title>Angels We Have Heard on High</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>7002104</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="113"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Angels we have heard on high,
+sweetly singing o'er the plains,
+and the mountains in reply
+echoing their joyous strains:</lines>
+		</verse>
+		<verse name="c">
+		<lines>Gloria, in excelsis Deo!
+Gloria, in excelsis Deo!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Shepherds, why this jubilee?
+Why your joyous strains prolong?
+What the gladsome tidings be
+which inspire your heav'nly song? [Refrain]</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Come to Bethlehem and see
+Him whose birth the angels sing;
+come, adore on bended knee
+Christ the Lord, the new-born King. [Refrain]</lines>
+		</verse>
+		<verse name="v4">
+			<lines>See within a manger laid
+Jesus, Lord of heaven and earth!
+Mary, Joseph, lend your aid,
+sing with us our Savior's birth. [Refrain]</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:06+04:00">
+	<properties>
+		<titles>
+			<title>How Blest Is He Whose Trespass</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Repentance and Faith</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="89"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 32</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>How blest is he whose trespass
+hath freely been forgiv'n,
+whose sin is wholly covered
+before the sight of heav'n.
+to whom the LORD in mercy
+imputeth not his sin,
+who hath a guileless spirit,
+whose heart is true within.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>While I kept guilty silence
+my strength was spent with grief:
+Thy hand was heavy on me,
+my soul found no relief;
+but when I owned my trespass,
+my sin hid not from Thee;
+when I confessed transgression,
+then Thou forgavest me.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>So let the godly seek Thee
+in times when Thou art near;
+no whelming floods shall reach them
+nor cause their hearts to fear.
+In Thee, O LORD, I hid me;
+Thou savest me from ill,
+and songs of Thy salvation
+my heart with rapture thrill.</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,47 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:51+04:00">
+	<properties>
+		<titles>
+			<title>Immortal, Invisible, God Only Wise</title>
+		</titles>
+		<authors>
+			<author>Walter Chalmers Smith (1867)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>124466</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="36"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Immortal, invisible, God only wise,
+in light inaccessible hid from our eyes,
+most blessed, most glorious, the Ancient of Days,
+Almighty, victorious, Thy great name we praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Unresting, unhasting, and silent as light,
+nor wanting, nor wasting, Thou rulest in might;
+Thy justice, like mountains, high soaring above
+Thy clouds, which are fountains of goodness and love.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>To all, life Thou givest, to both great and small,
+in all life Thou livest, the true life of all;
+we blossom and flourish as leaves on the tree,
+and wither and perish, but naught changeth Thee.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Great Father of glory, pure Father of light,
+Thine angels adore Thee, all veiling their sight;
+all praise we would render, O help us to see
+'tis only the splendor of light hideth Thee!</lines>
+		</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,64 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:27+04:00">
+	<properties>
+		<titles>
+			<title>Priest and Victim, Jesus Dies</title>
+		</titles>
+		<authors>
+			<author>Margaret Clarkson (1976)</author>
+		</authors>
+		<copyright>© 1967 Hope Publishing Co.</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Suffering and Death</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="160"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Priest and Victim, Jesus dies,
+gives Himself in sacrifice.
+Christ, the sinless Son of God,
+offers up for us His blood,
+gives Himself in sacrifice,
+Priest and Victim, Jesus dies!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Mighty Victor, see Him rise,
+bringing man to paradise;
+sin and death no more may claim
+those who trust His saving name;
+bringing man to paradise,
+mighty Victor, see Him rise!</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord of life, behold Him stand
+now for us at God's right hand.
+Still our human frame He wears,
+feels our woes and heeds our prayers;
+now for us at God's right hand,
+Lord of life, behold Him stand!</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Prince and Savior, Christ shall come,
+soon to take His ransomed home;
+His the kingdom, His the pow'r,
+His the glory in that hour,
+soon to take His ransomed home,
+Prince and Savior, Christ shall come!</lines>
+		</verse>
+		<verse name="v5">
+			<lines>King forever, He shall reign,
+Lord of death and sin and pain;
+pure and righteous, strong and free,
+He shall rule in equity;
+Lord of death and sin and pain,
+King forever, He shall reign!</lines>
+		</verse>
+	</lyrics>
+</song>

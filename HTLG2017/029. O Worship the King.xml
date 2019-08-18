@@ -1,0 +1,53 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:49+04:00">
+	<properties>
+		<titles>
+			<title>O Worship the King</title>
+		</titles>
+		<authors>
+			<author>Robert Grant (1833)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>1486</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="29"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>O worship the King, all- glorious above,
+and gratefully sing His pow'r and His love;
+our Shield and Defender, the Ancient of Days,
+pavilioned in splendor and girded with praise.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>O tell of His might, O sing of His grace,
+whose robe is the light, whose canopy space.
+His chariots of wrath the deep thunderclouds form,
+and dark is His path on the wings of the storm.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>The earth with its store of wonders untold,
+almighty, Thy pow'r hath founded of old;
+established it fast by a changeless decree,
+and round it hath cast, like a mantle, the sea.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Thy bountiful care, what tongue can recite?
+It breathes in the air, it shines in the light,
+it streams from the hills, it descends to the plain,
+and sweetly distils in the dew and the rain.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>Frail children of dust, and feeble as frail,
+in Thee do we trust, nor find Thee to fail;
+Thy mercies how tender! how firm to the end!
+Our Maker, Defender, Redeemer, and Friend.</lines>
+		</verse>
+	</lyrics>
+</song>

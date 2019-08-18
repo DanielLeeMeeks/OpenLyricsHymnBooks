@@ -1,0 +1,69 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:09+04:00">
+	<properties>
+		<titles>
+			<title>A Mighty Fortress Is Our God</title>
+		</titles>
+		<authors>
+			<author>Martin Luther (1529)</author>
+			<author>Frederick H. Hedge (1852)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>2184098</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Comfort, Death, and Glory</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="302"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Psalm 46</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A mighty fortress is our God,
+a bulwark never failing;
+our helper he, amid the flood
+of mortal ills prevailing.
+For still our ancient foe
+does seek to work us woe;
+his craft and pow'r are great,
+and armed with cruel hate,
+on earth is not his equal.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Did we in our own strength confide,
+our striving would be losing,
+were not the right Man on our side,
+the Man of God's own choosing.
+You ask who that may be?
+Christ Jesus, it is He;
+LORD Sabaoth His name,
+from age to age the same;
+and He must win the battle.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>And though this world, with devils filled,
+should threaten to undo us,
+we will not fear, for God has willed
+His truth to triumph through us.
+The prince of darkness grim,
+we tremble not for him;
+his rage we can endure,
+for lo! his doom is sure;
+one little word shall fell him.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>That Word above all earthly pow'rs
+no thanks to them abideth;
+the Spirit and the gifts are ours
+thro' Him who with us sideth.
+Let goods and kindred go,
+this mortal life also;
+the body they may kill:
+God's truth abideth still;
+His kingdom is forever.</lines>
+		</verse>
+	</lyrics>
+</song>

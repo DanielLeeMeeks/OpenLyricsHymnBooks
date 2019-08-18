@@ -1,0 +1,60 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T16:01+04:00">
+	<properties>
+		<titles>
+			<title>Approach, My Soul, the Mercy Seat</title>
+		</titles>
+		<authors>
+			<author>John Newton (1779)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>4875941</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Prayer</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="277"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternate tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Approach, my soul, the mercy seat,
+where Jesus answers pray'r;
+there humbly fall before His feet,
+for none can perish there.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Thy promise is my only plea,
+with this I venture nigh;
+Thou callest burdened souls to Thee,
+and such, O Lord, am I.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Bowed down beneath a load of sin,
+by Satan sorely pressed,
+by wars without, and fears within,
+I come to Thee for rest.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Be Thou my shield and hiding place,
+that, sheltered near Thy side,
+I may my fierce accuser face,
+and tell him, "Thou hast died."</lines>
+		</verse>
+		<verse name="v5">
+			<lines>O wondrous love, to bleed and die,
+to bear the cross and shame,
+that guilty sinners such as I,
+might plead Thy gracious name.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>"Poor tempest-tossèd soul, be still,
+my promised grace receive";
+'tis Jesus speaks; I must, I will,
+I can, I do believe.</lines>
+		</verse>
+	</lyrics>
+</song>

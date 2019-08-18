@@ -1,0 +1,30 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:52+04:00">
+	<properties>
+		<titles>
+			<title>I appeal to you therefore, brothers</title>
+		</titles>
+		<authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Submission and Profession</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="244"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not scrap this song.</comment>
+			<comment>Reading of Romans 12:1</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="c">
+		<lines>Could not scrap this song.
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="text"]"}
+  (Session info: chrome=76.0.3809.100)
+.</lines>
+		</verse>
+	</lyrics>
+</song>

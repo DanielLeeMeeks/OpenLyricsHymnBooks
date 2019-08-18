@@ -1,0 +1,42 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:12+04:00">
+	<properties>
+		<titles>
+			<title>Love Came Down at Christmass</title>
+		</titles>
+		<authors>
+			<author>Christina Rossetti (1855)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Jesus Christ: Incarnation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="110"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Love came down at Christmas,
+love all lovely, Love divine;
+Love was born at Christmas;
+star and angels gave the sign.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Worship we the Godhead,
+Love incarnate, Love divine;
+worship we our Jesus,
+but wherewith for sacred sign?</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Love shall be our token,
+love be yours and love be mine;
+love to God and others,
+love for plea and gift and sign.</lines>
+		</verse>
+	</lyrics>
+</song>

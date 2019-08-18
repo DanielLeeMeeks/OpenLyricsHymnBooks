@@ -1,0 +1,61 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T15:47+04:00">
+	<properties>
+		<titles>
+			<title>Jesus, Thy Blood and Righteousness</title>
+		</titles>
+		<authors>
+			<author>Nicolaus L. von Zinzendorf (1739)</author>
+			<author>John Wesley (1740)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo></ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Salvation</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="228"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Could not find CCLI number.</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jesus, Thy blood and righteousness
+my beauty are, my glorious dress;
+'midst flaming worlds, in these arrayed,
+with joy shall I lift up my head.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Bold shall I stand in that great day,
+for who aught to my charge shall lay?
+Fully absolved through these I am,
+from sin and fear, from guilt and shame.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Lord, I believe Thy precious blood,
+which, at the mercy seat of God,
+forever doth for sinners plead,
+for me, e'en for my soul, was shed.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Jesus, be endless praise to Thee,
+whose boundless mercy hath for me,
+for me a full atonement made,
+an everlasting ransom paid.</lines>
+		</verse>
+		<verse name="v5">
+			<lines>When from the dust of death I rise
+to claim my mansion in the skies,
+e'en then this shall be all my plea,
+Jesus hath lived, hath died, for me.</lines>
+		</verse>
+		<verse name="v6">
+			<lines>O let the dead now hear Thy voice;
+now bid Thy ransomed ones rejoice;
+their beauty this, their glorious dress,
+Jesus, Thy blood and righteousness.</lines>
+		</verse>
+	</lyrics>
+</song>

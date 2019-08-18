@@ -1,0 +1,54 @@
+<song xmlns="http://openlines.info/namespace/2009/song" version="0.8" createdIn="Hymnary.org Scrapper 0.0.1" modifiedIn="Hymnary.org Scrapper 0.0.1" modifiedDate="2019-08-18T14:55+04:00">
+	<properties>
+		<titles>
+			<title>Let the Whole Creation Cry</title>
+		</titles>
+		<authors>
+			<author>Stopford A. Brooke (1881)</author>
+		</authors>
+		<copyright>Public Domain</copyright>
+		<ccliNo>3727193</ccliNo>
+		<released></released>
+		<key></key>
+		<themes><theme>Revelation and Adoration</theme></themes>
+		<songbooks>
+			<songbook name="Hymns to the Living God" entry="52"/>
+		</songbooks>
+		<comments>
+			<comment>This hymnal has not been proofed - data may be incomplete or incorrect</comment>
+			<comment>Alternative tune</comment>
+		</comments>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Let the whole creation cry,
+"Glory to the Lord on high!"
+Heav'n and earth, awake and sing,
+"God is good and therefore King!"
+Praise Him, angel hosts above,
+ever bright and fair in love;
+sun and moon, lift up your voice,
+night and stars, in God rejoice!</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Warriors fighting for the Lord,
+prophets burning with His Word,
+those to whom the arts belong,
+add their voices to the song.
+Kings of knowledge and of law,
+to the glorious circle draw;
+all who work and all who wait,
+sing, "The Lord is good and great!"</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Men and women, young and old,
+raise the anthem manifold,
+and let children's happy hearts
+in this worship take their parts;
+from the north to southern pole
+let the mighty chorus roll:
+“Holy, holy, holy One,
+glory be to God alone!”</lines>
+		</verse>
+	</lyrics>
+</song>
